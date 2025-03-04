@@ -4,6 +4,9 @@ name: CI
 
 # 这个部分用来指定能够触发工作流执行的事件
 on:
+  # 定时任务
+  schedule:
+    - cron: '*/5 * * * *'
   # 当对分支master进行push操作的时候，这个工作流就被触发了
   push:
     branches: [ "master" ]
