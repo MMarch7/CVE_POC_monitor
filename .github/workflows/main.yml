@@ -6,35 +6,56 @@ name: CI
 on:
   # 定时任务
   schedule:
-    - cron: '5 * * * *'
+    - cron: '10 * * * *'
   # 当对分支master进行push操作的时候，这个工作流就被触发了
-  push:
-    branches: [ "main" ]
+  #push:
+    #branches: [ "main" ]
   # 当对分支master进行pull request操作的时候，同样也会触发这个工作流
-  pull_request:
-    branches: [ "main" ]
+  #pull_request:
+    #branches: [ "main" ]
 
   # 允许你手动在Github网页上执行该workflow
   workflow_dispatch:
 
+env:
+  TZ: Asia/Shanghai
+
 # 一个workflow可以由多个job组成，可以并行或者分离运行，在jobs里面来说明要交给Github action执行的任务
 jobs:
   # 这个jobs中的一个任务，名字叫做build（任务的名字是自己取的）
-  build:
+  CVE_monitor:
     # 用来指定这个任务在什么操作系统上面跑，此处运行在最新版本的ubuntu镜像上（服务器是Github免费提供的）
     runs-on: ubuntu-latest
 
     # 指出这个build任务的步骤
     steps:
       # 将你的job指向你的文件目录$GITHUB_WORKSPACE，用来运行你的脚本
-      - uses: actions/checkout@v3
+      - name: checkout
+        uses: actions/checkout@v3
 
-      # 步骤 运行单行命令 输出Hello, world!
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # 步骤 运行一组命令
-      - name: Run a multi-line script
+      - name: Setup Python3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6.12'
+      
+      - name: Install requirements
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          python3 -m pip install --upgrade pip
+          pip3 install -r ./requirements.txt
+
+      - name: Run py
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          google_sheet_token: ${{ secrets.GOOGLE_SHEET_TOKEN }}
+          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+          tg_token: ${{ secrets.TG_TOKEN }}
+        run: python3 ./main.py
+
+      - name: push clean data
+        run: |
+          REMOTE=https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git config user.name "${{ github.actor }}"
+          git add .
+          git commit -m "Add new comment"
+          git push ${REMOTE} master
