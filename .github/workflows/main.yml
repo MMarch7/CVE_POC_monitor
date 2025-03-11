@@ -58,4 +58,4 @@ jobs:
           git config user.name "${{ github.actor }}"
           git add .
           git commit -m "Add new comment"
-          git push ${REMOTE} master
+          git push ${REMOTE} main
