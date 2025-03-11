@@ -1,0 +1,26 @@
+clean_list:
+- snowctf
+- experience-xcloud.github.io
+- CVE-2025-1094-Exploit
+- ruoyi-Vue-tools
+- CVE-2024-49019-rayng
+- vulnerability
+- CorsAttack
+- JavaRce
+- CVE-2025-1307
+- Poc-Monitor_v1.0.1
+- CVE-2024-51144
+- CVE-2025-25763
+- NGCBot
+- slice_cpg_graph
+- sqlmap_gui
+- TestCVEFixesDatas
+- CVE-2024-49138-POC
+- ShiroVulRecurrent
+- ZeroDayVault
+- NucleiSaas
+- AutorizePro
+- web_security
+- CVE-2025-1306
+- simple-verify
+- data-cve-poc

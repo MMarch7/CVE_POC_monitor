@@ -1,0 +1,34 @@
+tools_list:
+  - https://api.github.com/repos/BeichenDream/Godzilla
+  - https://api.github.com/repos/rebeyond/Behinder
+  - https://api.github.com/repos/AntSwordProject/antSword
+  - https://api.github.com/repos/j1anFen/shiro_attack
+  - https://api.github.com/repos/yhy0/github-cve-monitor
+  - https://api.github.com/repos/gentilkiwi/mimikatz
+  - https://api.github.com/repos/ehang-io/nps
+  - https://api.github.com/repos/chaitin/xray
+  - https://api.github.com/repos/FunnyWolf/pystinger
+  - https://api.github.com/repos/L-codes/Neo-reGeorg
+  - https://api.github.com/repos/shadow1ng/fscan
+  - https://api.github.com/repos/SafeGroceryStore/MDUT
+  - https://api.github.com/repos/EdgeSecurityTeam/Vulnerability
+  - https://api.github.com/repos/pwnfuzz/POCs
+
+keyword_list:
+ - poc+OR+exp+OR+复现+"cve-2024"
+ - poc+OR+exp+OR+复现+"cve-2025"
+ - Weaver+OR+Seeyon+OR+Landray+OR+Yonyou+漏洞
+ - Kingdee+OR+Huatian+Power+OR+Wanhu+OR+Huidian+OR+Tongda+OR+Jiusi+漏洞
+ - 泛微+OR+致远+OR+蓝凌+OR+用友+OR+金蝶+漏洞
+ - 华天动力+OR+万户+OR+慧点+OR+通达+OR+九思+漏洞
+ - CVE-2025-
+
+user_list:
+ - yhy0
+ - su18
+ - BeichenDream
+ - phith0n
+ - zhzyker
+ - lijiejie
+ - projectdiscovery
+ - HavocFramework

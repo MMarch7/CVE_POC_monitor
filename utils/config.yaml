@@ -1,0 +1,10 @@
+all_config:
+    tgbot:
+      - enable: 1
+      - token: 12
+      - group_id: 12
+      - app_name: tgbot
+    wechat:
+      - enable: 0
+      - webhook: 123
+      - app_name: wechat
