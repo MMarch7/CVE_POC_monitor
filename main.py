@@ -11,7 +11,6 @@ import os
 import requests
 import re
 import utils.yaml_load
-import base_keywords
 import telebot
 from urllib.parse import quote
 import json
