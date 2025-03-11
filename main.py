@@ -4,7 +4,7 @@
 # @Author  : LXY
 # @File    : main.py
 # @Github: https://github.com/MMarch7
-from datetime import datetime
+import datetime
 import logging
 import os
 #import dingtalkchatbot.chatbot as cb
@@ -21,7 +21,7 @@ tg_chat_id = os.environ.get("tg_chat_id")
 tg_token = os.environ.get("tg_token")
 WEBHOOK_URL = f"https://script.google.com/macros/s/{google_sheet_token}/exec"
 
-current_date = datetime.today().strftime('%Y-%m-%d') 
+current_date = datetime.date.today().strftime('%Y-%m-%d') 
 
 tools_list,keywords,user_list = utils.yaml_load.load_tools_list()
 CleanKeywords = utils.yaml_load.load_clean_list()
@@ -86,7 +86,7 @@ def getKeywordNews(keyword):
             except Exception as e:
                 pass
     except Exception as e:
-        logging.error(e, "github链接不通")
+        logging.error("Error occurred: %s, github链接不通", e) 
     return today_keyword_info_tmp
     
 def send_google_sheet(sheet,keyword,name,url,description):
@@ -107,7 +107,6 @@ def sendmsg(pushdata):
     for data in pushdata:
         text+="名称:{}\n地址:{}\n详情:{}\n\n\n ".format(data.get("keyword_name"),data.get("keyword_url"),data.get("description"))
     if text:
-        base_keywords.google_sheet_push(pushdata)
         tg_push(text)
         logging.info("消息发送完成")
     else:
