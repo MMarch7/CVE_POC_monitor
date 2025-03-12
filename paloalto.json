@@ -215,13 +215,13 @@
         "published": "2025-03-12T16:00:00.000Z"
     },
     {
-        "title": "CVE-2025-0117 GlobalProtect App: Local Privilege Escalation (PE) Vulnerability (Severity: MEDIUM)",
-        "link": "https://security.paloaltonetworks.com/CVE-2025-0117",
+        "title": "CVE-2025-0116 PAN-OS: Firewall Denial of Service (DoS) Using a Specially Crafted LLDP Frame (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0116",
         "published": "2025-03-12T16:00:00.000Z"
     },
     {
-        "title": "CVE-2025-0116 PAN-OS: Firewall Denial of Service (DoS) Using a Specially Crafted LLDP Frame (Severity: MEDIUM)",
-        "link": "https://security.paloaltonetworks.com/CVE-2025-0116",
+        "title": "CVE-2025-0117 GlobalProtect App: Local Privilege Escalation (PE) Vulnerability (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0117",
         "published": "2025-03-12T16:00:00.000Z"
     }
 ]
