@@ -28,6 +28,28 @@ def load_clean_list():
         list = yaml.load(f,Loader=yaml.FullLoader)
         return list['clean_list']
     
-def flash_clean_list(clean_list):
-    with open("./utils/clean.yaml", "w",encoding="utf-8") as file:
-        yaml.dump({"clean_list": clean_list}, file, default_flow_style=False)
+def flash_clean_list(new_items):
+    # 读取现有数据
+    try:
+        with open("./utils/clean.yaml", "r", encoding="utf-8") as file:
+            existing_data = yaml.safe_load(file) or {}
+    except FileNotFoundError:
+        existing_data = {}
+
+    # 获取现有 clean_list（如果不存在则初始化空列表）
+    existing_clean_list = existing_data.get("clean_list", [])
+
+    # 追加新条目到现有列表（假设 new_items 是一个列表）
+    existing_clean_list.extend(new_items)
+
+    # 更新数据
+    existing_data["clean_list"] = existing_clean_list
+
+    # 写回文件（覆盖模式）
+    with open("./utils/clean.yaml", "w", encoding="utf-8") as file:
+        yaml.dump(existing_data, file, default_flow_style=False)
+
+def test():
+    flash_clean_list(["item3", "item4"])
+
+test()
