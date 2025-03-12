@@ -155,6 +155,7 @@ def main():
     init()
     cleanKeywords=set(CleanKeywords)
     pushdata=list()
+    getRSSNews()
     for keyword in keywords:
         templist=getKeywordNews(keyword)
         for tempdata in templist:
