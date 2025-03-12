@@ -1,5 +1,6 @@
 import yaml
 import logging
+import json
 
  #读取配置文件
 def load_config():
@@ -49,7 +50,12 @@ def flash_clean_list(new_items):
     with open("./utils/clean.yaml", "w", encoding="utf-8") as file:
         yaml.dump(existing_data, file, default_flow_style=False)
 
-def test():
-    flash_clean_list(["item3", "item4"])
+def json_data_load(file_path):
+    with open(file_path,encoding="UTF-8") as f:
+        json_data = json.load(f)
+    return json_data
 
-test()
+def json_data_save(file,entries):
+    with open(file, 'w', encoding='utf-8') as f:
+        json.dump(entries, f, ensure_ascii=False, indent=4)
+        

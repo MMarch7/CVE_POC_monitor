@@ -1,0 +1,77 @@
+[
+    {
+        "title": "The Best Security Is When We All Agree To Keep Everything Secret (Except The Secrets) - NAKIVO Backup & Replication (CVE-2024-48248)",
+        "link": "https://labs.watchtowr.com/the-best-security-is-when-we-all-agree-to-keep-everything-secret-except-the-secrets-nakivo-backup-replication-cve-2024-48248/",
+        "published": "Wed, 26 Feb 2025 11:00:15 GMT"
+    },
+    {
+        "title": "8 Million Requests Later, We Made The SolarWinds Supply Chain Attack Look Amateur",
+        "link": "https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/",
+        "published": "Tue, 04 Feb 2025 11:00:08 GMT"
+    },
+    {
+        "title": "Get FortiRekt, I Am The Super_Admin Now - Fortinet FortiOS Authentication Bypass CVE-2024-55591",
+        "link": "https://labs.watchtowr.com/get-fortirekt-i-am-the-super_admin-now-fortios-authentication-bypass-cve-2024-55591/",
+        "published": "Mon, 27 Jan 2025 18:01:24 GMT"
+    },
+    {
+        "title": "Exploitation Walkthrough and Techniques - Ivanti Connect Secure RCE (CVE-2025-0282)",
+        "link": "https://labs.watchtowr.com/exploitation-walkthrough-and-techniques-ivanti-connect-secure-rce-cve-2025-0282/",
+        "published": "Sun, 12 Jan 2025 08:45:32 GMT"
+    },
+    {
+        "title": "Do Secure-By-Design Pledges Come With Stickers? - Ivanti Connect Secure RCE (CVE-2025-0282)",
+        "link": "https://labs.watchtowr.com/do-secure-by-design-pledges-come-with-stickers-ivanti-connect-secure-rce-cve-2025-0282/",
+        "published": "Fri, 10 Jan 2025 01:30:07 GMT"
+    },
+    {
+        "title": "Backdooring Your Backdoors - Another $20 Domain, More Governments",
+        "link": "https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/",
+        "published": "Wed, 08 Jan 2025 11:00:37 GMT"
+    },
+    {
+        "title": "Cleo Harmony, VLTrader, and LexiCom - RCE via Arbitrary File Write (CVE-2024-50623)",
+        "link": "https://labs.watchtowr.com/cleo-cve-2024-50623/",
+        "published": "Wed, 11 Dec 2024 14:56:58 GMT"
+    },
+    {
+        "title": "Where There’s Smoke, There’s Fire - Mitel MiCollab CVE-2024-35286, CVE-2024-41713 And An 0day",
+        "link": "https://labs.watchtowr.com/where-theres-smoke-theres-fire-mitel-micollab-cve-2024-35286-cve-2024-41713-and-an-0day/",
+        "published": "Thu, 05 Dec 2024 11:00:50 GMT"
+    },
+    {
+        "title": "Pots and Pans, AKA an SSLVPN - Palo Alto PAN-OS CVE-2024-0012 and CVE-2024-9474",
+        "link": "https://labs.watchtowr.com/pots-and-pans-aka-an-sslvpn-palo-alto-pan-os-cve-2024-0012-and-cve-2024-9474/",
+        "published": "Tue, 19 Nov 2024 09:31:13 GMT"
+    },
+    {
+        "title": "Hop-Skip-FortiJump-FortiJump-Higher - Fortinet FortiManager CVE-2024-47575",
+        "link": "https://labs.watchtowr.com/hop-skip-fortijump-fortijumphigher-cve-2024-23113-cve-2024-47575/",
+        "published": "Thu, 14 Nov 2024 16:28:25 GMT"
+    },
+    {
+        "title": "Visionaries Have Democratised Remote Network Access - Citrix Virtual Apps and Desktops (CVE-2024-8068 and CVE-2024-8069)",
+        "link": "https://labs.watchtowr.com/visionaries-at-citrix-have-democratised-remote-network-access-citrix-virtual-apps-and-desktops-cve-unknown/",
+        "published": "Tue, 12 Nov 2024 13:15:30 GMT"
+    },
+    {
+        "title": "Fortinet FortiGate CVE-2024-23113 - A Super Complex Vulnerability In A Super Secure Appliance In 2024",
+        "link": "https://labs.watchtowr.com/fortinet-fortigate-cve-2024-23113-a-super-complex-vulnerability-in-a-super-secure-appliance-in-2024/",
+        "published": "Mon, 14 Oct 2024 16:19:09 GMT"
+    },
+    {
+        "title": "We Spent $20 To Achieve RCE And Accidentally Became The Admins Of .MOBI",
+        "link": "https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/",
+        "published": "Wed, 11 Sep 2024 09:58:14 GMT"
+    },
+    {
+        "title": "Veeam Backup & Response - RCE With Auth, But Mostly Without Auth (CVE-2024-40711)",
+        "link": "https://labs.watchtowr.com/veeam-backup-response-rce-with-auth-but-mostly-without-auth-cve-2024-40711-2/",
+        "published": "Mon, 09 Sep 2024 14:55:26 GMT"
+    },
+    {
+        "title": "Auth. Bypass In (Un)Limited Scenarios - Progress MOVEit Transfer (CVE-2024-5806)",
+        "link": "https://labs.watchtowr.com/auth-bypass-in-un-limited-scenarios-progress-moveit-transfer-cve-2024-5806/",
+        "published": "Tue, 25 Jun 2024 15:08:57 GMT"
+    }
+]

@@ -1,0 +1,35 @@
+{
+    "gitlab": {
+        "url": "https://about.gitlab.com/security-releases.xml",
+        "file": "gitlab.json"
+    },
+    "spring_security": {
+        "url": "https://spring.io/security.atom",
+        "file": "spring_security.json"
+    },
+    "fortinet": {
+        "url": "https://www.fortiguard.com/rss/ir.xml",
+        "file": "fortinet.json"
+    },
+    "ivanti": {
+        "url": "https://www.ivanti.com/blog/topics/security-advisory/rss",
+        "file": "ivanti.json"
+    },
+    "google": {
+        "url": "https://chromereleases.googleblog.com/feeds/posts/default?alt=rss",
+        "file": "google.json"
+    },
+    
+    "paloalto":{
+        "url": "https://security.paloaltonetworks.com/rss.xml",
+        "file": "paloalto.json"
+    },
+    "securityonline":{
+        "url": "https://securityonline.info/feed",
+        "file": "securityonline.json"
+    },
+    "watchtowr":{
+        "url": "https://labs.watchtowr.com/rss",
+        "file": "watchtowr.json"
+    }
+}

@@ -5,45 +5,39 @@
 # @File    : main.py
 # @Github: https://github.com/MMarch7
 import datetime
+import feedparser
 import logging
 import os
 #import dingtalkchatbot.chatbot as cb
 import requests
 import re
-import utils.yaml_load
-import telebot
+import utils.load
 from urllib.parse import quote
-import json
+import msg_push
 
 github_token = os.environ.get("github_token")
-google_sheet_token = os.environ.get("google_sheet_token")
-tg_chat_id = os.environ.get("tg_chat_id")
-tg_token = os.environ.get("tg_token")
-WEBHOOK_URL = f"https://script.google.com/macros/s/{google_sheet_token}/exec"
-
-current_date = datetime.date.today().strftime('%Y-%m-%d') 
-
-tools_list,keywords,user_list = utils.yaml_load.load_tools_list()
-CleanKeywords = utils.yaml_load.load_clean_list()
+tools_list,keywords,user_list = utils.load.load_tools_list()
+CleanKeywords = utils.load.load_clean_list()
 
 github_headers = {
     'Authorization': "token {}".format(github_token)
 }
-google_sheet_headers = {
-    'Content-Type': 'application/json'
-}
+
 
 def checkEnvData():
     if not github_token:
         logging.error("github_token 获取失败")
         exit(0)
-    elif not tg_token:
+    elif not msg_push.tg_token:  
         logging.error("TG_token获取失败")
         exit(0)
-    elif not google_sheet_token:
+    elif not msg_push.wechat_token:  
+        logging.error("wechat_token获取失败")
+        exit(0)
+    elif not msg_push.google_sheet_token:
         logging.error("google_sheet_token获取失败")
         exit(0)
-    elif not tg_chat_id:
+    elif not msg_push.tg_chat_id:
         logging.error("tg_chat_id获取失败")
         exit(0)
     else:
@@ -57,8 +51,74 @@ def init():
     logging.info("start send test msg")
     return
 
+def getRSSNews():
+    rss_config = utils.load.json_data_load("./RSSs/rss_config.json")
+    for key, config in rss_config.items():
+        url = config.get("url")
+        file_name = config.get("file")
+        if url and file_name:
+            parse_rss_feed(url,file_name)
 
+def parse_rss_feed(feed_url,file):
+    # 解析RSS feed
+    try:
+        response = requests.get(feed_url,timeout=20)
+    except requests.exceptions.SSLError as ssl_err:
+        logging.error(f"SSL 错误：无法连接 {feed_url}，跳过该条目。错误信息：{ssl_err}")
+        return  # 发生 SSL 错误时跳过当前循环
+    except requests.exceptions.RequestException as req_err:
+        logging.error(f"请求错误：{feed_url}，错误信息：{req_err}")
+        return  # 发生请求错误时跳过当前循环
+    except Exception as e:
+        logging.error(f"未知错误：{feed_url}，错误信息：{e}")
+        return  # 发生其他类型的错误时跳过
+    response.encoding = 'utf-8'
+    feed_content = response.text
+    # 解析RSS feed内容
+    feed = feedparser.parse(feed_content)
+    if feed.bozo == 1:
+        logging.info(file)
+        logging.info("解析RSS feed时发生错误:", feed.bozo_exception)
+        return
+    all_entries = utils.load.json_data_load(f"./RSSs/{file}")
+    existing_titles = {entry['title'] for entry in all_entries}
+    # 定义一个标志，标记是否输出了新增条目
+    new_entries_found = False
+    for entry in feed.entries:
+        if entry.title not in existing_titles:
+            # 输出新增条目
+            new_entries_found = True
+            all_content_have_cve = True
+            logging.info(f"标题: {entry.title}  链接: {entry.link}")
+            logging.info("-" * 40)
+            if file == "google.json" and 'content' in entry:
+                for content in entry.content:
+                    if 'cve' not in content['value'].lower():
+                        all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
+                        break 
+            if file == "vulncheck.json" or file == "securityonline.json":
+                if "cve" not in entry.title.lower():
+                    all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
+            if file == "paloalto.json":
+                if "medium" in entry.title.lower() or "low" in entry.title.lower():
+                    all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
+            all_entries.append({
+                    'title': entry.title,
+                    'link': entry.link,
+                    'published': entry.published
+                })
+            # 将新增条目添加到新条目列表
+            if all_content_have_cve:
+                msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
+                logging.info(f"企微推送：{entry.title}  "+entry.link)
+                msg_push.wechat_push(msg)
+    # 如果有新增条目，则更新文件
+    if new_entries_found:
+        utils.load.json_data_save(file,all_entries)
+    else:
+        logging.info(f"{file}未更新新漏洞")
 
+   
 def getKeywordNews(keyword):
     today_keyword_info_tmp=[]
     try:
@@ -77,7 +137,7 @@ def getKeywordNews(keyword):
                 pushed_at_tmp = json_str['items'][i]['pushed_at']
                 pushed_at = re.findall('\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
                 if pushed_at == str(today_date):
-                    send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
+                    msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
                     today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at,"description":description})
 
                     logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n推送时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,pushed_at,description))
@@ -89,42 +149,12 @@ def getKeywordNews(keyword):
         logging.error("Error occurred: %s, github链接不通", e) 
     return today_keyword_info_tmp
     
-def send_google_sheet(sheet,keyword,name,url,description):
-    data = {
-        "sheet_name":sheet,
-        "时间":current_date,
-        "关键词": keyword,
-        "项目名称": name,
-        "项目地址":url,
-        "项目描述":description
-    }
-    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
-    if "success" not in response.text:
-        logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
-def sendmsg(pushdata):
-    text=""
-    for data in pushdata:
-        text+="名称:{}\n地址:{}\n详情:{}\n\n\n ".format(data.get("keyword_name"),data.get("keyword_url"),data.get("description"))
-    if text:
-        tg_push(text)
-        logging.info("消息发送完成")
-    else:
-        logging.info("当前时段未发现新信息")
-
-def tg_push(text):
-    tb = telebot.TeleBot(tg_token)
-    max_length = 4000
-    for i in range(0, len(text), max_length):
-        chunk = text[i:i + max_length]
-        tb.send_message(tg_chat_id, chunk)
-    
 
 def main():
     init()
     cleanKeywords=set(CleanKeywords)
     pushdata=list()
-
     for keyword in keywords:
         templist=getKeywordNews(keyword)
         for tempdata in templist:
@@ -133,13 +163,10 @@ def main():
             else:
                 pushdata.append(tempdata)
                 cleanKeywords.add(tempdata.get("keyword_name"))
-    sendmsg(pushdata)
-    utils.yaml_load.flash_clean_list(list(cleanKeywords))
+    msg_push.keyword_msg(pushdata)
+    utils.load.flash_clean_list(list(cleanKeywords))
     return
 
-def test():
-    # getKeywordNews("漏洞")
-    init()
 
 if __name__ == '__main__':
     main()

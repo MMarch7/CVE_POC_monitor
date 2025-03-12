@@ -1,0 +1,67 @@
+[
+    {
+        "title": "CVE-2024-38821 - Critical - Authorization Bypass of Static Resources in WebFlux Applications",
+        "link": "https://spring.io/security/cve-2024-38821",
+        "published": "Tue, 22 Oct 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38819 - High - CVE-2024-38819: Path traversal vulnerability in functional web frameworks (2nd report)",
+        "link": "https://spring.io/security/cve-2024-38819",
+        "published": "Thu, 17 Oct 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38820 - Low - CVE-2024-38820: Spring Framework DataBinder Case Sensitive Match Exception",
+        "link": "https://spring.io/security/cve-2024-38820",
+        "published": "Thu, 17 Oct 2024 00:00:00 GMT"
+    },
+    {
+        "title": "cve-2024-38816 - High - CVE-2024-38816: Path traversal vulnerability in functional web frameworks",
+        "link": "https://spring.io/security/cve-2024-38816",
+        "published": "Thu, 12 Sep 2024 00:00:00 GMT"
+    },
+    {
+        "title": "cve-2024-38807 - Medium - CVE-2024-38807: Signature Forgery Vulnerability in Spring Boot's Loader",
+        "link": "https://spring.io/security/cve-2024-38807",
+        "published": "Fri, 23 Aug 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38810 - High - CVE-2024-38810: Missing Authorization When Using @AuthorizeReturnObject",
+        "link": "https://spring.io/security/cve-2024-38810",
+        "published": "Mon, 19 Aug 2024 00:00:00 GMT"
+    },
+    {
+        "title": "cve-2024-38808 - Medium - CVE-2024-38808: Spring Expression DoS Vulnerability",
+        "link": "https://spring.io/security/cve-2024-38808",
+        "published": "Wed, 14 Aug 2024 00:00:00 GMT"
+    },
+    {
+        "title": "cve-2024-38809 - Medium - CVE-2024-38809: Spring Framework DoS via conditional HTTP request",
+        "link": "https://spring.io/security/cve-2024-38809",
+        "published": "Wed, 14 Aug 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-37084 - Critical - CVE-2024-37084:  Remote code execution in Spring Cloud Data Flow",
+        "link": "https://spring.io/security/cve-2024-37084",
+        "published": "Wed, 24 Jul 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-22271 - Medium - CVE-2024-22271: Spring Cloud Function Web DOS Vulnerability",
+        "link": "https://spring.io/security/cve-2024-22271",
+        "published": "Wed, 19 Jun 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38828 - Medium - CVE-2024-38828: DoS via Spring MVC controller method with byte[] parameter",
+        "link": "https://spring.io/security/cve-2024-38828",
+        "published": "Fri, 15 Nov 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38827 - Medium - CVE-2024-38827: Spring Security Authorization Bypass for Case Sensitive Comparisons",
+        "link": "https://spring.io/security/cve-2024-38827",
+        "published": "Tue, 19 Nov 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2024-38829 - Low - CVE-2024-38829: Spring LDAP Spring LDAP sensitive data exposure for case-sensitive comparisons",
+        "link": "https://spring.io/security/cve-2024-38829",
+        "published": "Tue, 19 Nov 2024 00:00:00 GMT"
+    }
+]
