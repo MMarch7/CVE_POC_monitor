@@ -110,8 +110,8 @@ def parse_rss_feed(feed_url,file):
             # 将新增条目添加到新条目列表
             if all_content_have_cve:
                 msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
-                logging.info(f"企微推送：{entry.title}  "+entry.link)
-                msg_push.wechat_push(msg)
+                logging.info(f"推送到google sheet：{entry.title}  "+entry.link)
+                msg_push.send_google_sheet("Emergency Vulnerability","RSS",entry.title,entry.link,"")
     # 如果有新增条目，则更新文件
     if new_entries_found:
         utils.load.json_data_save(file,all_entries)
