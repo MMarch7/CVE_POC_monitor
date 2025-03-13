@@ -5378,5 +5378,10 @@
         "title": "Windows 11 Printing Problems: Microsoft Confirms Spontaneous Printing Bug",
         "link": "https://securityonline.info/windows-11-printing-problems-microsoft-confirms-spontaneous-printing-bug/",
         "published": "Thu, 13 Mar 2025 04:07:09 +0000"
+    },
+    {
+        "title": "Microsoft Patches 2-Year-Old Windows Kernel Flaw CVE-2025-24983 After Exploitation",
+        "link": "https://securityonline.info/microsoft-patches-2-year-old-windows-kernel-flaw-cve-2025-24983-after-exploitation/",
+        "published": "Thu, 13 Mar 2025 08:51:22 +0000"
     }
 ]
