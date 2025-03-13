@@ -39,7 +39,7 @@ def load_clean_list():
 def load_object_list():
     with open('./utils/known_object.yaml', 'r',  encoding='utf-8') as f:
         list = yaml.load(f,Loader=yaml.FullLoader)
-        return list['known_object']
+        return list['object']
     
 def flash_clean_list(new_items):
     # 读取现有数据
