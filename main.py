@@ -114,7 +114,7 @@ def parse_rss_feed(feed_url,file):
                 msg_push.send_google_sheet("Emergency Vulnerability","RSS",entry.title,entry.link,"")
     # 如果有新增条目，则更新文件
     if new_entries_found:
-        utils.load.json_data_save(file,all_entries)
+        utils.load.json_data_save(f"./RSSs/{file}",all_entries)
     else:
         logging.info(f"{file}未更新新漏洞")
 

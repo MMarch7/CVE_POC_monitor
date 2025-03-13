@@ -58,4 +58,3 @@ def json_data_load(file_path):
 def json_data_save(file,entries):
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(entries, f, ensure_ascii=False, indent=4)
-        
