@@ -50,6 +50,8 @@ jobs:
           tg_chat_id: ${{ secrets.TG_CHAT_ID }}
           tg_token: ${{ secrets.TG_TOKEN }}
           wechat_token: ${{ secrets.WECHAT_TOKEN }}
+          baidu_appid: ${{ secrets.BAIDU_APPID }}
+          baidu_appkey: ${{ secrets.BAIDU_APPKEY }}
         run: python3 ./main.py
 
       - name: push clean data

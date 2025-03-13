@@ -19,6 +19,7 @@ import csv
 github_token = os.environ.get("github_token")
 tools_list,keywords,user_list = utils.load.load_tools_list()
 CleanKeywords = utils.load.load_clean_list()
+known_object = utils.load.load_object_list()
 
 github_headers = {
     'Authorization': "token {}".format(github_token)
@@ -159,7 +160,7 @@ def getCVE_PoCs():
         templist=getKeywordNews(keyword)
         for tempdata in templist:
             pushdata.append(tempdata)
-            clean_add.add(tempdata.get("keyword_name"))
+            clean_add.append(tempdata.get("keyword_name"))
     msg_push.keyword_msg(pushdata)
     if clean_add:
         utils.load.flash_clean_list(clean_add)
