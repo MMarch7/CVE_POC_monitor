@@ -5343,5 +5343,30 @@
         "title": "NVIDIA Addresses Security Vulnerabilities in NVIDIA Riva with Software Update",
         "link": "https://securityonline.info/nvidia-addresses-security-vulnerabilities-in-nvidia-riva-with-software-update/",
         "published": "Wed, 12 Mar 2025 09:19:57 +0000"
+    },
+    {
+        "title": "GitLab Urgently Patches Critical Authentication Bypass Flaws – CVE-2025-25291 & CVE-2025-25292",
+        "link": "https://securityonline.info/gitlab-urgently-patches-critical-authentication-bypass-flaws-cve-2025-25291-cve-2025-25292/",
+        "published": "Thu, 13 Mar 2025 02:15:17 +0000"
+    },
+    {
+        "title": "FBI, CISA, and MS-ISAC Warn Organizations About Medusa Ransomware Attacks",
+        "link": "https://securityonline.info/fbi-cisa-and-ms-isac-warn-organizations-about-medusa-ransomware-attacks/",
+        "published": "Thu, 13 Mar 2025 02:09:15 +0000"
+    },
+    {
+        "title": "CVE-2024-54085: AMI SPx Vulnerability Scores Critical CVSS 10",
+        "link": "https://securityonline.info/cve-2024-54085-ami-spx-vulnerability-scores-critical-cvss-10/",
+        "published": "Thu, 13 Mar 2025 02:05:09 +0000"
+    },
+    {
+        "title": "AI-Powered Deception: Fake GitHub Repositories Spread SmartLoader and Lumma Stealer",
+        "link": "https://securityonline.info/ai-powered-deception-fake-github-repositories-spread-smartloader-and-lumma-stealer/",
+        "published": "Thu, 13 Mar 2025 02:02:40 +0000"
+    },
+    {
+        "title": "CVE-2025-27017: Apache NiFi Vulnerability Exposes MongoDB Credentials",
+        "link": "https://securityonline.info/cve-2025-27017-apache-nifi-vulnerability-exposes-mongodb-credentials/",
+        "published": "Thu, 13 Mar 2025 01:58:41 +0000"
     }
 ]
