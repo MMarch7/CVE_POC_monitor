@@ -91,3 +91,12 @@ clean_list:
 - CVE-2025-24813-PoC
 - CVE-2025-1639
 - CVE-2025-1639
+- CVE-2024-25092
+- xss_scanner_mix
+- murphysec
+- xss_scanner_mix
+- murphysec
+- xss_scanner_mix
+- murphysec
+- xss_scanner_mix
+- murphysec
