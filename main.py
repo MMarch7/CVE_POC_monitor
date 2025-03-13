@@ -14,6 +14,7 @@ import re
 import utils.load
 from urllib.parse import quote
 import msg_push
+import csv
 
 github_token = os.environ.get("github_token")
 tools_list,keywords,user_list = utils.load.load_tools_list()
@@ -150,13 +151,10 @@ def getKeywordNews(keyword):
         logging.error("Error occurred: %s, github链接不通", e) 
     return today_keyword_info_tmp
     
-
-
-def main():
-    init()
+def getCVE_PoCs():
+    #通过关键词检索PoC
     clean_add = []
     pushdata=list()
-    getRSSNews()
     for keyword in keywords:
         templist=getKeywordNews(keyword)
         for tempdata in templist:
@@ -165,6 +163,57 @@ def main():
     msg_push.keyword_msg(pushdata)
     if clean_add:
         utils.load.flash_clean_list(clean_add)
+
+def getCISANews():
+    with open('./utils/CISA.txt', 'r') as file:
+        txt_content = file.read().splitlines()
+    url = 'https://www.cisa.gov/sites/default/files/csv/known_exploited_vulnerabilities.csv'
+    # 读取 CSV 内容
+    try:
+        response = requests.get(url)
+    except Exception as e:
+        # 捕获其他可能的异常
+        logging.info(f"An unexpected error occurred: {e}")
+        return
+    response.raise_for_status()  # 检查请求是否成功
+    data = response.text  # 获取 CSV 文件内容
+    reader = csv.DictReader(data.splitlines())
+    msg = ""
+    new_cve_list = []
+    for row in reader:
+        cve = row['cveID']  # 假设 'cveID' 是 CSV 中的列名
+        if cve not in txt_content:
+            name = row['vulnerabilityName'] + "(" + cve + ")"
+            name_cn = utils.load.baidu_api(name)
+            shortDescription = row['shortDescription']
+            knownRansomwareCampaignUse = row['knownRansomwareCampaignUse']
+            shortDescription_cn = utils.load.baidu_api(shortDescription)
+            notes = row['notes']
+            info = f"名称：{name_cn}\r\n描述：{shortDescription_cn}\r\n是否被勒索利用：{knownRansomwareCampaignUse}\r\n链接：{notes}"
+            if not msg:
+                msg = "美国网络安全局漏洞推送：\r\n" + info
+            else:
+                msg += "\r\n\r\n" + info
+            new_cve_list.append(cve)
+    
+    if new_cve_list:
+        logging.info("企微推送CISA漏洞更新："  + ", ".join(new_cve_list))
+        msg_push.tg_push(msg)
+        with open("./utils/CISA.txt", 'a') as file:
+            for cve in new_cve_list:
+                file.write(f"{cve}\n")
+    else:
+        logging.info("CISA未更新漏洞")
+
+def main():
+    init()
+    #紧急漏洞RSS推送
+    getRSSNews()
+    #紧急漏洞CISA推送
+    getCISANews()
+    #CVE披露PoC获取
+    getCVE_PoCs()
+
     return
 
 

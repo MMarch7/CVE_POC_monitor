@@ -1,6 +1,13 @@
 import yaml
 import logging
 import json
+import requests
+from hashlib import md5
+import random
+import os
+
+baidu_appid = os.environ.get("baidu_appid")
+baidu_appkey = os.environ.get("baidu_appkey")
 
  #读取配置文件
 def load_config():
@@ -58,3 +65,32 @@ def json_data_load(file_path):
 def json_data_save(file,entries):
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(entries, f, ensure_ascii=False, indent=4)
+
+def baidu_api(query):
+
+    # For list of language codes, please refer to `https://api.fanyi.baidu.com/doc/21`
+    from_lang = 'zh'
+    to_lang =  'en'
+
+    endpoint = 'http://api.fanyi.baidu.com'
+    path = '/api/trans/vip/translate'
+    url = endpoint + path
+
+    # Generate salt and sign
+    def make_md5(s, encoding='utf-8'):
+        return md5(s.encode(encoding)).hexdigest()
+
+    salt = random.randint(32768, 65536)
+    sign = make_md5(baidu_appid + query + str(salt) + baidu_appkey)
+
+    # Build request
+    header = {'Content-Type': 'application/x-www-form-urlencoded'}
+    payload = {'appid': baidu_appid, 'q': query, 'from': to_lang, 'to': from_lang, 'salt': salt, 'sign': sign}
+
+    # Send request
+    r = requests.post(url, params=payload, headers=header)
+    result = r.json()
+    dst_string = result["trans_result"][0]["dst"]
+   
+    # Show response
+    return dst_string.rstrip()
