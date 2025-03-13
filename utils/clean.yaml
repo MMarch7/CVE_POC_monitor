@@ -89,3 +89,5 @@ clean_list:
 - CVE-2025-24813-PoC
 - FastjsonScan4Burp
 - CVE-2025-24813-PoC
+- CVE-2025-1639
+- CVE-2025-1639
