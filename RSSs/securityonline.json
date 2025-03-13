@@ -5293,5 +5293,55 @@
         "title": "North Korean Cyber Espionage Group Kimsuky Exploits University Website in Watering Hole Attack",
         "link": "https://securityonline.info/north-korean-cyber-espionage-group-kimsuky-exploits-university-website-in-watering-hole-attack/",
         "published": "Wed, 12 Mar 2025 01:07:17 +0000"
+    },
+    {
+        "title": "Elysium Ransomware: A New Variant of the Ghost Family Targeting Critical Infrastructure",
+        "link": "https://securityonline.info/elysium-ransomware-a-new-variant-of-the-ghost-family-targeting-critical-infrastructure/",
+        "published": "Thu, 13 Mar 2025 01:57:08 +0000"
+    },
+    {
+        "title": "CVE-2025-26319 (CVSS 9.8): Flowise Open-Source Platform Vulnerable to File Upload Exploit, No Patch",
+        "link": "https://securityonline.info/cve-2025-26319-cvss-9-8-flowise-open-source-platform-vulnerable-to-file-upload-exploit-no-patch/",
+        "published": "Thu, 13 Mar 2025 01:53:25 +0000"
+    },
+    {
+        "title": "Copilot Phishing: New Scam Targets Microsoft Users",
+        "link": "https://securityonline.info/copilot-phishing-new-scam-targets-microsoft-users/",
+        "published": "Thu, 13 Mar 2025 01:48:04 +0000"
+    },
+    {
+        "title": "CVE-2024-56336: Siemens Exposes 9.8-Rated Bootloader Flaw in SINAMICS S200 Drives",
+        "link": "https://securityonline.info/cve-2024-56336-siemens-exposes-9-8-rated-bootloader-flaw-in-sinamics-s200-drives/",
+        "published": "Thu, 13 Mar 2025 01:40:11 +0000"
+    },
+    {
+        "title": "Blind Eagle’s Rapid Adaptation: New Tactics Deployed Days After Patch",
+        "link": "https://securityonline.info/blind-eagles-rapid-adaptation-new-tactics-deployed-days-after-patch/",
+        "published": "Thu, 13 Mar 2025 01:36:00 +0000"
+    },
+    {
+        "title": "CVE-2025-1851: Tenda AC7 Routers at Risk of Root Compromise, PoC Released",
+        "link": "https://securityonline.info/cve-2025-1851-tenda-ac7-routers-at-risk-of-root-compromise-poc-released/",
+        "published": "Thu, 13 Mar 2025 01:32:39 +0000"
+    },
+    {
+        "title": "From Sellers to Reviewers: Exposing the Fake Review Network",
+        "link": "https://securityonline.info/from-sellers-to-reviewers-exposing-the-fake-review-network/",
+        "published": "Thu, 13 Mar 2025 01:27:44 +0000"
+    },
+    {
+        "title": "Typosquatting & Backdoors: Lazarus’ Latest npm Campaign",
+        "link": "https://securityonline.info/typosquatting-backdoors-lazarus-latest-npm-campaign/",
+        "published": "Wed, 12 Mar 2025 23:46:58 +0000"
+    },
+    {
+        "title": "Apache Camel Vulnerability (CVE-2025-27636) Exposes Applications to RCE, PoC Releases",
+        "link": "https://securityonline.info/apache-camel-vulnerability-cve-2025-27636-exposes-applications-to-rce-poc-releases/",
+        "published": "Wed, 12 Mar 2025 10:32:47 +0000"
+    },
+    {
+        "title": "NVIDIA Addresses Security Vulnerabilities in NVIDIA Riva with Software Update",
+        "link": "https://securityonline.info/nvidia-addresses-security-vulnerabilities-in-nvidia-riva-with-software-update/",
+        "published": "Wed, 12 Mar 2025 09:19:57 +0000"
     }
 ]

@@ -803,5 +803,10 @@
         "title": "GitLab Patch Release: 17.9.1, 17.8.4, 17.7.6",
         "link": "https://about.gitlab.com/releases/2025/02/27/patch-release-gitlab-17-9-1-released/",
         "published": "2025-02-27T00:00:00+00:00"
+    },
+    {
+        "title": "GitLab Critical Patch Release: 17.9.2, 17.8.5, 17.7.7",
+        "link": "https://about.gitlab.com/releases/2025/03/12/patch-release-gitlab-17-9-2-released/",
+        "published": "2025-03-12T00:00:00+00:00"
     }
 ]
