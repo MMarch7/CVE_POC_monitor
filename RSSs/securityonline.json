@@ -5368,5 +5368,10 @@
         "title": "CVE-2025-27017: Apache NiFi Vulnerability Exposes MongoDB Credentials",
         "link": "https://securityonline.info/cve-2025-27017-apache-nifi-vulnerability-exposes-mongodb-credentials/",
         "published": "Thu, 13 Mar 2025 01:58:41 +0000"
+    },
+    {
+        "title": "Cisco Issues High-Severity Security Alert for IOS XR Software (CVE-2025-20138)",
+        "link": "https://securityonline.info/cisco-issues-high-severity-security-alert-for-ios-xr-software-cve-2025-20138/",
+        "published": "Thu, 13 Mar 2025 03:16:19 +0000"
     }
 ]
