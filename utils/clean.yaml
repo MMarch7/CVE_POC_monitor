@@ -78,3 +78,14 @@ clean_list:
 - CVE-2021-40539
 - CVE-2021-40539
 - CVE-2021-40539
+- CVE-2024-38112
+- CVE-2025-24813-PoC
+- CVE-2025-24813-PoC
+- FastjsonScan4Burp
+- CVE-2025-24813-PoC
+- FastjsonScan4Burp
+- CVE-2025-24813-PoC
+- FastjsonScan4Burp
+- CVE-2025-24813-PoC
+- FastjsonScan4Burp
+- CVE-2025-24813-PoC
