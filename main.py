@@ -120,6 +120,7 @@ def parse_rss_feed(feed_url,file):
 
    
 def getKeywordNews(keyword):
+    cleanKeywords=set(CleanKeywords)
     today_keyword_info_tmp=[]
     try:
         # 抓取本年的
@@ -136,7 +137,7 @@ def getKeywordNews(keyword):
                 description = json_str['items'][i]['description']
                 pushed_at_tmp = json_str['items'][i]['pushed_at']
                 pushed_at = re.findall('\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
-                if pushed_at == str(today_date):
+                if pushed_at == str(today_date) and keyword_name not in cleanKeywords:
                     msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
                     today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at,"description":description})
 
@@ -153,19 +154,17 @@ def getKeywordNews(keyword):
 
 def main():
     init()
-    cleanKeywords=set(CleanKeywords)
+    clean_add = []
     pushdata=list()
     getRSSNews()
     for keyword in keywords:
         templist=getKeywordNews(keyword)
         for tempdata in templist:
-            if tempdata.get("keyword_name") in cleanKeywords:
-                pass
-            else:
-                pushdata.append(tempdata)
-                cleanKeywords.add(tempdata.get("keyword_name"))
+            pushdata.append(tempdata)
+            clean_add.add(tempdata.get("keyword_name"))
     msg_push.keyword_msg(pushdata)
-    utils.load.flash_clean_list(list(cleanKeywords))
+    if clean_add:
+        utils.load.flash_clean_list(clean_add)
     return
 
 
