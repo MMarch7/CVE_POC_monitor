@@ -318,7 +318,6 @@ def read_file(repo, branch, file_path):
     url = f"https://raw.githubusercontent.com/{repo}/{branch}/{file_path}"
 
     try:
-        print(url + "\r\n")
         response = requests.get(url, headers=github_headers, timeout=10)
         response.raise_for_status()
         if "/wp-content/plugins/" in response.text and "readme.txt" in response.text:
