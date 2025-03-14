@@ -17,7 +17,7 @@ import msg_push
 import csv
 
 github_token = os.environ.get("github_token")
-tools_list,keywords,user_list = utils.load.load_tools_list()
+repo_list,keywords,user_list = utils.load.load_tools_list()
 CleanKeywords = utils.load.load_clean_list()
 known_object = utils.load.load_object_list()
 github_sha = "./utils/sha.txt"
@@ -279,7 +279,69 @@ def getGithubVun():
         else:
             logging.info(f"Failed to retrieve commit details: {details_response.status_code}")
             
+# 获取最近一次提交的变更文件
+def get_latest_commit_files(repo):
+    url = f"https://api.github.com/repos/{repo}/commits"
+    try:
+        response = requests.get(url, headers=github_headers, timeout=10)
+        response.raise_for_status()
+        commits = response.json()
 
+        if not commits:
+            logging.warning(f"{repo} 没有找到提交记录")
+            return []
+
+        commit_sha = commits[0]["sha"]  # 最新 commit 的 SHA 值
+        with open(github_sha, 'r') as file:
+            lines = file.readlines()
+            # 如果a在文件中，则结束函数
+            if str(commit_sha) + '\n' in lines:
+                logging.info("没有新的commit被提交")
+                return
+        with open(github_sha, 'a') as file:
+            file.write(str(commit_sha) + '\n')
+        logging.info(f"{repo} 最新提交 SHA: {commit_sha}")
+
+        # 获取该 SHA 的详细变更
+        details_url = f"https://api.github.com/repos/{repo}/commits/{commit_sha}"
+        details_response = requests.get(details_url, headers=github_headers, timeout=10)
+        details_response.raise_for_status()
+        commit_data = details_response.json()
+        # 提取变更的文件列表
+        changed_files = [file["filename"] for file in commit_data.get("files", [])]
+        return changed_files
+    except requests.RequestException as e:
+        logging.error(f"获取 {repo} 最新提交失败: {e}")
+        return []
+
+def read_file(repo, branch, file_path):
+    url = f"https://raw.githubusercontent.com/{repo}/{branch}/{file_path}"
+
+    try:
+        print(url + "\r\n")
+        response = requests.get(url, headers=github_headers, timeout=10)
+        response.raise_for_status()
+        if "/wp-content/plugins/" in response.text and "readme.txt" in response.text:
+            logging.info(f"❌ {file_path}为版本对比插件")
+            return
+        msg_push.tg_push(f"{repo}项目新增PoC推送:\r\n名称：{file_path}\r\n地址：{url}")
+        msg_push.send_google_sheet("CVE",repo,file_path,url,"")
+        logging.info(f"✅ 获取文件内容成功: {file_path} ")
+    except requests.RequestException as e:
+        logging.error(f"❌ 获取文件内容失败: {file_path} -> {e}")
+
+def getRepoPoCs():
+    for repo in repo_list:
+        repo_name = repo["name"]
+        folder = repo["folder"]
+        branch = repo.get("branch", "main")
+        changed_files = get_latest_commit_files(repo_name)
+        new_files = [file for file in changed_files if file.startswith(folder)]
+        if new_files:
+            for file in new_files:
+                read_file(repo_name, branch, file)
+        else:
+            logging.info(f"✅ {repo_name} 的 {folder} 目录无新文件变更")
 
 def main():
     init()
@@ -303,8 +365,11 @@ def main():
     logging.info("-------------------Github CVE公开POC获取-------------------")
     logging.info("----------------------------------------------------------")
     getCVE_PoCs()
-    
-
+    #重点项目监控
+    logging.info("----------------------------------------------------------")
+    logging.info("---------------------Github 重点项目监控--------------------")
+    logging.info("----------------------------------------------------------")
+    getRepoPoCs()
     return
 
 
