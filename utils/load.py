@@ -29,7 +29,7 @@ def load_config():
 def load_tools_list():
     with open('./utils/monitor_list.yaml', 'r',  encoding='utf-8') as f:
         list = yaml.load(f,Loader=yaml.FullLoader)
-        return list['tools_list'], list['keyword_list'], list['user_list']
+        return list['repo_list'], list['keyword_list'], list['user_list']
     
 def load_clean_list():
     with open('./utils/clean.yaml', 'r',  encoding='utf-8') as f:
