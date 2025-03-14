@@ -109,3 +109,9 @@ clean_list:
 - cve-2025-24813_poc
 - POC-CVE-2025-24813
 - Y5_VulnHub
+- VulnDataAnalyzer
+- dante-cloud-ui
+- SubDroid
+- SOC335-CVE-2024-49138-Exploitation-Detected
+- dante-cloud
+- msgspec-python313-pre
