@@ -102,3 +102,4 @@ clean_list:
 - murphysec
 - CVE-2025-1661
 - CVE-2025-1661
+- 7-Zip-CVE-2025-0411-POC
