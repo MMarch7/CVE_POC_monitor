@@ -20,6 +20,7 @@ github_token = os.environ.get("github_token")
 tools_list,keywords,user_list = utils.load.load_tools_list()
 CleanKeywords = utils.load.load_clean_list()
 known_object = utils.load.load_object_list()
+github_sha = "./utils/sha.txt"
 
 github_headers = {
     'Authorization': "token {}".format(github_token)
@@ -113,7 +114,7 @@ def parse_rss_feed(feed_url,file):
             if all_content_have_cve:
                 msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
                 logging.info(f"推送到google sheet：{entry.title}  "+entry.link)
-                msg_push.send_google_sheet("Emergency Vulnerability","RSS",entry.title,entry.link,"")
+                msg_push.send_google_sheet_githubVul("Emergency Vulnerability","RSS",entry.title,"",entry.link,"")
     # 如果有新增条目，则更新文件
     if new_entries_found:
         utils.load.json_data_save(f"./RSSs/{file}",all_entries)
@@ -199,6 +200,7 @@ def getCISANews():
     
     if new_cve_list:
         logging.info("企微推送CISA漏洞更新："  + ", ".join(new_cve_list))
+        
         msg_push.tg_push(msg)
         with open("./utils/CISA.txt", 'a') as file:
             for cve in new_cve_list:
@@ -206,14 +208,102 @@ def getCISANews():
     else:
         logging.info("CISA未更新漏洞")
 
+def save_file_locally(url, filename):
+    try:
+        response = requests.get(url,headers=github_headers)
+    except Exception as e:
+        logging.info(f"An unexpected error occurred: {e}")
+    if response.status_code == 200:
+        data = response.json()
+        aliases = data.get('aliases', [])
+        aliases_str = ', '.join(aliases)
+        details = data.get('details', '')
+        severity = data.get('database_specific', '').get('severity', '')
+        for item in known_object:
+            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown"]:
+                if item == "jenkins":
+                    if "plugin" in details.lower() and "core" not in details.lower():
+                        break
+                url = f"https://github.com/advisories/{data.get('id', '')}"
+                detail = utils.load.baidu_api(details)
+                msg = f"编号：{aliases_str}\r\n组件：{item}\r\n信息：{detail}\r\n链接：{url}"
+                logging.info(f"企微推送：{aliases_str}  "+url)
+                msg_push.send_google_sheet_githubVul("Emergency Vulnerability","github",item,aliases_str,url,detail)
+                msg_push.tg_push(msg)
+                break
+    else:
+        logging.info(f"Failed to read {filename}: {response.status_code}")
+
+
+def getGithubVun():
+    url = f"https://api.github.com/repos/github/advisory-database/commits"
+    try:
+        response = requests.get(url,headers=github_headers)
+    except Exception as e:
+        logging.error(f"An unexpected error occurred: {e}") 
+    if response.status_code == 200:
+        latest_commit = response.json()[0]
+        commit_message = latest_commit['commit']['message']
+        commit_url = latest_commit['html_url']
+        commit_sha = latest_commit['sha']
+        if not os.path.exists(github_sha):
+            open(github_sha, 'w').close()
+        with open(github_sha, 'r') as file:
+            lines = file.readlines()
+            # 如果a在文件中，则结束函数
+            if str(commit_sha) + '\n' in lines:
+                logging.info("没有新的commit被提交")
+                return
+        with open(github_sha, 'a') as file:
+            file.write(str(commit_sha) + '\n')
+        logging.info(f"Latest commit message: {commit_message}")
+        logging.info(f"Commit URL: {commit_url}")
+        # 获取详细修改内容
+        commit_details_url = f"https://api.github.com/repos/github/advisory-database/commits/{commit_sha}"
+        details_response = requests.get(commit_details_url,headers=github_headers)
+        if details_response.status_code == 200:
+            commit_details = details_response.json()
+            files_changed = commit_details.get('files', [])
+            #logging.info("\nFiles changed:")
+            for file in files_changed:
+                filename = file['filename']
+                #additions = file['additions']
+                #deletions = file['deletions']
+                #changes = file['changes']
+                status = file['status']
+                if filename.endswith('.json') and status == "added":
+                    # 构建原始文件的 URL
+                    raw_url = f"https://raw.githubusercontent.com/github/advisory-database/{commit_sha}/{filename}"
+                    save_file_locally(raw_url, filename)
+                    logging.info(f"- {filename}: {status} ")
+        else:
+            logging.info(f"Failed to retrieve commit details: {details_response.status_code}")
+            
+
+
 def main():
     init()
     #紧急漏洞RSS推送
+    logging.info("----------------------------------------------------------")
+    logging.info("----------------------紧急漏洞RSS推送-----------------------")
+    logging.info("----------------------------------------------------------")
     getRSSNews()
     #紧急漏洞CISA推送
+    logging.info("----------------------------------------------------------")
+    logging.info("----------------------紧急漏洞CISA推送----------------------")
+    logging.info("----------------------------------------------------------")
     getCISANews()
+    #紧急漏洞Github推送
+    logging.info("----------------------------------------------------------")
+    logging.info("---------------------紧急漏洞Github推送---------------------")
+    logging.info("----------------------------------------------------------")
+    getGithubVun()
     #CVE披露PoC获取
+    logging.info("----------------------------------------------------------")
+    logging.info("-------------------Github CVE公开POC获取-------------------")
+    logging.info("----------------------------------------------------------")
     getCVE_PoCs()
+    
 
     return
 

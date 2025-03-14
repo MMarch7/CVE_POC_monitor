@@ -42,6 +42,7 @@ def load_object_list():
         return list['object']
     
 def flash_clean_list(new_items):
+    new_items = list(set(new_items))
     # 读取现有数据
     try:
         with open("./utils/clean.yaml", "r", encoding="utf-8") as file:

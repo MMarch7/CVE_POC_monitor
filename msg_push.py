@@ -28,6 +28,20 @@ def send_google_sheet(sheet,keyword,name,url,description):
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
+def send_google_sheet_githubVul(sheet,keyword,name,cve,url,description):
+    data = {
+        "sheet_name":sheet,
+        "时间":current_date,
+        "关键词": keyword,
+        "名称": name,
+        "编号":cve,
+        "地址":url,
+        "描述":description
+    }
+    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    if "success" not in response.text:
+        logging.error(f"推送google_sheet失败，报错如下：{response.text}")
+
 def keyword_msg(pushdata):
     text=""
     for data in pushdata:
