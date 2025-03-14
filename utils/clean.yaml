@@ -115,3 +115,4 @@ clean_list:
 - SOC335-CVE-2024-49138-Exploitation-Detected
 - dante-cloud
 - msgspec-python313-pre
+- VulnerabilityLibrary
