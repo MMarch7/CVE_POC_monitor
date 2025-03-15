@@ -116,3 +116,10 @@ clean_list:
 - dante-cloud
 - msgspec-python313-pre
 - VulnerabilityLibrary
+- CVE-2025-03
+- yawf
+- CVE-2024-51788
+- php-cgi-Injector
+- CVE-2024-27398
+- Zentao-Captcha-RCE
+- BinaryAbyss
