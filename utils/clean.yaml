@@ -123,3 +123,9 @@ clean_list:
 - CVE-2024-27398
 - Zentao-Captcha-RCE
 - BinaryAbyss
+- VulnWatchdog
+- CVE-2025-22604-Cacti-RCE
+- Dorset_SmartLock_Vulnerability
+- PoC-for-CVE-2024-7014-Exploit
+- xnmap
+- ysoserial_JDK1.5

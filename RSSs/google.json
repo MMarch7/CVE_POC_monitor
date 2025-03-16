@@ -128,5 +128,10 @@
         "title": "Chrome Dev for Desktop Update",
         "link": "http://chromereleases.googleblog.com/2025/02/chrome-dev-for-desktop-update_13.html",
         "published": "2025-02-13T06:43:00.001-08:00"
+    },
+    {
+        "title": "Dev Channel Update for ChromeOS / ChromeOS Flex",
+        "link": "http://chromereleases.googleblog.com/2025/03/dev-channel-update-for-chromeos.html",
+        "published": "2025-03-05T10:51:00.000-08:00"
     }
 ]
