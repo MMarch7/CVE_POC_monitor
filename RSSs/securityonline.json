@@ -5498,5 +5498,75 @@
         "title": "Booking.com Impersonated in Phishing Campaign Delivering Credential-Stealing Malware",
         "link": "https://securityonline.info/booking-com-impersonated-in-phishing-campaign-delivering-credential-stealing-malware/",
         "published": "Sun, 16 Mar 2025 01:45:37 +0000"
+    },
+    {
+        "title": "Tomcat Flaw CVE-2025-24813 Exploited in the Wild, PoC Released",
+        "link": "https://securityonline.info/tomcat-flaw-cve-2025-24813-exploited-in-the-wild-poc-released/",
+        "published": "Mon, 17 Mar 2025 01:59:32 +0000"
+    },
+    {
+        "title": "Laravel Framework Vulnerable to Reflected XSS Attacks (CVE-2024-13918 & CVE-2024-13919)",
+        "link": "https://securityonline.info/laravel-framework-vulnerable-to-reflected-xss-attacks-cve-2024-13918-cve-2024-13919/",
+        "published": "Mon, 17 Mar 2025 01:58:02 +0000"
+    },
+    {
+        "title": "CVE-2024-57040 (CVSS 9.8): TP-Link TL-WR845N Router Vulnerability Grants Hackers Easy Access",
+        "link": "https://securityonline.info/cve-2024-57040-cvss-9-8-tp-link-tl-wr845n-router-vulnerability-grants-hackers-easy-access/",
+        "published": "Mon, 17 Mar 2025 01:55:17 +0000"
+    },
+    {
+        "title": "Cryptominers Exploit Exposed Jupyter Notebooks in Novel Campaign",
+        "link": "https://securityonline.info/cryptominers-exploit-exposed-jupyter-notebooks-in-novel-campaign/",
+        "published": "Mon, 17 Mar 2025 01:53:33 +0000"
+    },
+    {
+        "title": "CVE-2025-22954 (CVSS 10): Koha Library Systems at High Risk, Patch Immediately",
+        "link": "https://securityonline.info/cve-2025-22954-cvss-10-koha-library-systems-at-high-risk-patch-immediately/",
+        "published": "Mon, 17 Mar 2025 01:51:17 +0000"
+    },
+    {
+        "title": "CVE-2025-27407 (CVSS 9.1): Critical GraphQL-Ruby Flaw Exposes Millions to RCE",
+        "link": "https://securityonline.info/cve-2025-27407-cvss-9-1-critical-graphql-ruby-flaw-exposes-millions-to-rce/",
+        "published": "Mon, 17 Mar 2025 01:47:54 +0000"
+    },
+    {
+        "title": "CVE-2025-1960 (CVSS 9.8): Schneider Electric Addresses Critical Flaw in WebHMI Component",
+        "link": "https://securityonline.info/cve-2025-1960-cvss-9-8-schneider-electric-addresses-critical-flaw-in-webhmi-component/",
+        "published": "Mon, 17 Mar 2025 01:45:45 +0000"
+    },
+    {
+        "title": "AWS SNS Abused for Data Exfiltration and Phishing, Elastic Report Reveals",
+        "link": "https://securityonline.info/aws-sns-abused-for-data-exfiltration-and-phishing-elastic-report-reveals/",
+        "published": "Mon, 17 Mar 2025 01:42:21 +0000"
+    },
+    {
+        "title": "Xbox AI Boost: Copilot for Gaming, Play Anywhere Hits 1,000 Game",
+        "link": "https://securityonline.info/xbox-ai-boost-copilot-for-gaming-play-anywhere-hits-1000-game/",
+        "published": "Mon, 17 Mar 2025 01:40:07 +0000"
+    },
+    {
+        "title": "Windows 11: AI Summaries in Notepad, Snipping Tool Enhanced",
+        "link": "https://securityonline.info/windows-11-ai-summaries-in-notepad-snipping-tool-enhanced/",
+        "published": "Mon, 17 Mar 2025 01:39:08 +0000"
+    },
+    {
+        "title": "Microsoft Edge for Android: Extension Support Finally Arrives",
+        "link": "https://securityonline.info/microsoft-edge-for-android-extension-support-finally-arrives/",
+        "published": "Mon, 17 Mar 2025 01:36:17 +0000"
+    },
+    {
+        "title": "Google Antitrust: Mozilla Warns of Browser Choice Collapse",
+        "link": "https://securityonline.info/google-antitrust-mozilla-warns-of-browser-choice-collapse/",
+        "published": "Mon, 17 Mar 2025 01:33:34 +0000"
+    },
+    {
+        "title": "Android Revolution: Gemini Replaces Assistant on All Devices",
+        "link": "https://securityonline.info/android-revolution-gemini-replaces-assistant-on-all-devices/",
+        "published": "Mon, 17 Mar 2025 01:30:42 +0000"
+    },
+    {
+        "title": "OctoV2 Android Banking Trojan Masquerades as Deepseek AI in Phishing Attack",
+        "link": "https://securityonline.info/octov2-android-banking-trojan-masquerades-as-deepseek-ai-in-phishing-attack/",
+        "published": "Mon, 17 Mar 2025 00:39:27 +0000"
     }
 ]

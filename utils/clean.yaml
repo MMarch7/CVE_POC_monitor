@@ -129,3 +129,15 @@ clean_list:
 - PoC-for-CVE-2024-7014-Exploit
 - xnmap
 - ysoserial_JDK1.5
+- BucketVulTools
+- CVE-2025-24813-Scanner
+- ruasec
+- Dachuang
+- ctf-games
+- A1
+- CVE-2025-26417
+- owasp-top10-demo
+- POC
+- test-changed-files
+- info_scan
+- CVE-2024-31317

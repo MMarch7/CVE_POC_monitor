@@ -73,5 +73,10 @@
         "title": "Auth. Bypass In (Un)Limited Scenarios - Progress MOVEit Transfer (CVE-2024-5806)",
         "link": "https://labs.watchtowr.com/auth-bypass-in-un-limited-scenarios-progress-moveit-transfer-cve-2024-5806/",
         "published": "Tue, 25 Jun 2024 15:08:57 GMT"
+    },
+    {
+        "title": "Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS",
+        "link": "https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/",
+        "published": "Mon, 17 Mar 2025 12:24:54 GMT"
     }
 ]
