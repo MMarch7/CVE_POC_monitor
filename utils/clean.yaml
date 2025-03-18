@@ -155,3 +155,8 @@ clean_list:
 - cve-2025-29384-poc
 - cve-2025024813
 - CVE-2024-52402
+- Checkmarx-CVE-2025-30066-Detection-Tool
+- web_scan
+- CVE-2025-27410
+- CVE-2025-24071-msfvenom
+- exp-hub
