@@ -483,5 +483,10 @@
         "title": "error based SQLI on device del feature",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-353",
         "published": "Tue, 11 Mar 2025 00:00:00 -0700"
+    },
+    {
+        "title": "[FG-IR-21-023] Multiple buffer overflows in FortiMail",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-21-023",
+        "published": "Wed, 07 Jul 2021 00:00:00 -0700"
     }
 ]

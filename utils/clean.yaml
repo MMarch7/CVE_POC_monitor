@@ -141,3 +141,17 @@ clean_list:
 - test-changed-files
 - info_scan
 - CVE-2024-31317
+- china-dictatorship
+- All-Defense-Tool
+- PrivHunterAI
+- WebFrameworkTools-5.1-main
+- malicious-devfile-registry
+- java-security-hub
+- CVE-2025-24813-Exploit
+- OssScan
+- VulnDataExtr
+- Poc-CVE-2024-57040
+- CVE-2024-56249
+- cve-2025-29384-poc
+- cve-2025024813
+- CVE-2024-52402
