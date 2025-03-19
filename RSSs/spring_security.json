@@ -63,5 +63,15 @@
         "title": "CVE-2024-38829 - Low - CVE-2024-38829: Spring LDAP Spring LDAP sensitive data exposure for case-sensitive comparisons",
         "link": "https://spring.io/security/cve-2024-38829",
         "published": "Tue, 19 Nov 2024 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22228 - High - CVE-2025-22228: Spring Security BCryptPasswordEncoder does not enforce maximum password length",
+        "link": "https://spring.io/security/cve-2025-22228",
+        "published": "Wed, 19 Mar 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22223 - Medium - CVE-2025-22223: Spring Security authorization bypass for method security annotations on parameterized types",
+        "link": "https://spring.io/security/cve-2025-22223",
+        "published": "Wed, 19 Mar 2025 00:00:00 GMT"
     }
 ]
