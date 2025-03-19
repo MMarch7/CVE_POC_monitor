@@ -5713,5 +5713,15 @@
         "title": "Critical Flaws Expose SICK DL100 Devices to Code Execution and Password Hacks",
         "link": "https://securityonline.info/critical-flaws-expose-sick-dl100-devices-to-code-execution-and-password-hacks/",
         "published": "Wed, 19 Mar 2025 00:35:11 +0000"
+    },
+    {
+        "title": "Hidden Threat: Zero-Day Windows Shortcut Exploited by Global APT Networks",
+        "link": "https://securityonline.info/hidden-threat-zero-day-windows-shortcut-exploited-by-global-apt-networks/",
+        "published": "Wed, 19 Mar 2025 02:20:09 +0000"
+    },
+    {
+        "title": "Million-Download Node.js Library xml-crypto Hit by Critical Security Flaws (CVE-2025-29774, CVE-2025-29775)",
+        "link": "https://securityonline.info/million-download-node-js-library-xml-crypto-hit-by-critical-security-flaws-cve-2025-29774-cve-2025-29775/",
+        "published": "Wed, 19 Mar 2025 02:15:34 +0000"
     }
 ]
