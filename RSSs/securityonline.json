@@ -5733,5 +5733,20 @@
         "title": "End of Windows 10: Microsoft Warns Users, Update or Pay",
         "link": "https://securityonline.info/end-of-windows-10-microsoft-warns-users-update-or-pay/",
         "published": "Wed, 19 Mar 2025 04:08:24 +0000"
+    },
+    {
+        "title": "CVE-2024-11131 (CVSS 9.8): Critical Vulnerability Found in Synology Camera Firmware",
+        "link": "https://securityonline.info/cve-2024-11131-cvss-9-8-critical-vulnerability-found-in-synology-camera-firmware/",
+        "published": "Wed, 19 Mar 2025 08:58:02 +0000"
+    },
+    {
+        "title": "CVE-2025-0755: MongoDB C Driver Vulnerability Could Lead to Buffer Overflow",
+        "link": "https://securityonline.info/cve-2025-0755-mongodb-c-driver-vulnerability-could-lead-to-buffer-overflow/",
+        "published": "Wed, 19 Mar 2025 08:49:50 +0000"
+    },
+    {
+        "title": "CERT-UA Alert: DarkCrystal RAT Deployed via Signal in Ukraine",
+        "link": "https://securityonline.info/cert-ua-alert-darkcrystal-rat-deployed-via-signal-in-ukraine/",
+        "published": "Wed, 19 Mar 2025 08:43:34 +0000"
     }
 ]
