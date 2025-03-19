@@ -160,3 +160,5 @@ clean_list:
 - CVE-2025-27410
 - CVE-2025-24071-msfvenom
 - exp-hub
+- Individual_learning
+- qc_poc

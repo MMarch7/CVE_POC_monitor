@@ -5668,5 +5668,50 @@
         "title": "SquareX Launches “Year of Browser Bugs” (YOBB) to Expose Critical Security Blind Spots",
         "link": "https://securityonline.info/squarex-launches-year-of-browser-bugs-yobb-to-expose-critical-security-blind-spots/",
         "published": "Tue, 18 Mar 2025 13:00:36 +0000"
+    },
+    {
+        "title": "Cybersecurity Alert: CISA Adds Fortinet and GitHub Action Vulnerabilities to Exploited List",
+        "link": "https://securityonline.info/cybersecurity-alert-cisa-adds-fortinet-and-github-action-vulnerabilities-to-exploited-list/",
+        "published": "Wed, 19 Mar 2025 02:07:34 +0000"
+    },
+    {
+        "title": "FIN7’s New Stealth Weapon: AnubisBackdoor Emerges in the Wild",
+        "link": "https://securityonline.info/fin7s-new-stealth-weapon-anubisbackdoor-emerges-in-the-wild/",
+        "published": "Wed, 19 Mar 2025 01:59:56 +0000"
+    },
+    {
+        "title": "CVE-2025-2000 (CVSS 9.8): Qiskit SDK Vulnerability Allows Arbitrary Code Execution",
+        "link": "https://securityonline.info/cve-2025-2000-cvss-9-8-qiskit-sdk-vulnerability-allows-arbitrary-code-execution/",
+        "published": "Wed, 19 Mar 2025 01:53:27 +0000"
+    },
+    {
+        "title": "Unusual Malware Samples Discovered, Including C++/CLI IIS Backdoor",
+        "link": "https://securityonline.info/unusual-malware-samples-discovered-including-c-cli-iis-backdoor/",
+        "published": "Wed, 19 Mar 2025 01:46:54 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities Found in Sungrow iSolarCloud App and WiNet Firmware",
+        "link": "https://securityonline.info/critical-vulnerabilities-found-in-sungrow-isolarcloud-app-and-winet-firmware/",
+        "published": "Wed, 19 Mar 2025 01:40:16 +0000"
+    },
+    {
+        "title": "INDOHAXSEC: Emerging Indonesian Hacktivist Collective Targets Southeast Asia",
+        "link": "https://securityonline.info/indohaxsec-emerging-indonesian-hacktivist-collective-targets-southeast-asia/",
+        "published": "Wed, 19 Mar 2025 01:35:28 +0000"
+    },
+    {
+        "title": "CVE-2025-2263 (CVSS 9.8): Stack Overflow Flaw Threatens Patient Data in PACS Systems, PoC Published",
+        "link": "https://securityonline.info/cve-2025-2263-cvss-9-8-stack-overflow-flaw-threatens-patient-data-in-pacs-systems-poc-published/",
+        "published": "Wed, 19 Mar 2025 01:32:34 +0000"
+    },
+    {
+        "title": "Google’s Android Terminal: More Linux Apps, Not a Linux Desktop",
+        "link": "https://securityonline.info/googles-android-terminal-more-linux-apps-not-a-linux-desktop/",
+        "published": "Wed, 19 Mar 2025 01:28:23 +0000"
+    },
+    {
+        "title": "Critical Flaws Expose SICK DL100 Devices to Code Execution and Password Hacks",
+        "link": "https://securityonline.info/critical-flaws-expose-sick-dl100-devices-to-code-execution-and-password-hacks/",
+        "published": "Wed, 19 Mar 2025 00:35:11 +0000"
     }
 ]
