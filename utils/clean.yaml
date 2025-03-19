@@ -166,3 +166,4 @@ clean_list:
 - CVE-2025-22954
 - CVE-2024-41817-poc
 - bandiview-7.05-vuln-PoC
+- Apache-Tomcat-Vulnerability-POC-CVE-2025-24813
