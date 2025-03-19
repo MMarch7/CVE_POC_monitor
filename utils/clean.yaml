@@ -163,3 +163,4 @@ clean_list:
 - Individual_learning
 - qc_poc
 - CyberSentinel-AI
+- CVE-2025-22954
