@@ -335,8 +335,8 @@ def getRepoPoCs():
         folder = repo["folder"]
         branch = repo.get("branch", "main")
         changed_files = get_latest_commit_files(repo_name)
-        new_files = [file for file in changed_files if file.startswith(folder)]
-        if new_files:
+        if changed_files:
+            new_files = [file for file in changed_files if file.startswith(folder)]
             for file in new_files:
                 read_file(repo_name, branch, file)
         else:
@@ -351,7 +351,7 @@ def main():
     getRSSNews()
     #紧急漏洞CISA推送
     logging.info("----------------------------------------------------------")
-    logging.info("----------------------紧急漏洞CISA推送----------------------")
+    logging.info("----------------------紧急漏洞CISA推送----------------------")    
     logging.info("----------------------------------------------------------")
     getCISANews()
     #紧急漏洞Github推送
