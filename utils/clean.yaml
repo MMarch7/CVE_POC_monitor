@@ -170,3 +170,5 @@ clean_list:
 - lab-cve-2025-24813
 - CVE-2025-0086
 - Poc-CVE-2024-32962-xml-crypto
+- CVE-2024-48591
+- CVE-2024-48590
