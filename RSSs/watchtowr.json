@@ -78,5 +78,10 @@
         "title": "Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS",
         "link": "https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/",
         "published": "Mon, 17 Mar 2025 12:24:54 GMT"
+    },
+    {
+        "title": "By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)",
+        "link": "https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/",
+        "published": "Thu, 20 Mar 2025 02:51:10 GMT"
     }
 ]

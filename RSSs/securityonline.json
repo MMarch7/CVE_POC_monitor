@@ -5798,5 +5798,15 @@
         "title": "Google Chrome Patches Critical ‘Use-After-Free’ Vulnerability in Lens (CVE-2025-2476)",
         "link": "https://securityonline.info/google-chrome-patches-critical-use-after-free-vulnerability-in-lens-cve-2025-2476/",
         "published": "Thu, 20 Mar 2025 00:29:55 +0000"
+    },
+    {
+        "title": "PoC Released: Windows Explorer CVE-2025-24071 Vulnerability Exposes NTLM Hashes",
+        "link": "https://securityonline.info/poc-released-windows-explorer-cve-2025-24071-vulnerability-exposes-ntlm-hashes/",
+        "published": "Thu, 20 Mar 2025 02:00:12 +0000"
+    },
+    {
+        "title": "CVE-2025-23120 (CVSS 9.9): Critical RCE Vulnerability Discovered in Veeam Backup & Replication",
+        "link": "https://securityonline.info/cve-2025-23120-cvss-9-9-critical-rce-vulnerability-discovered-in-veeam-backup-replication/",
+        "published": "Thu, 20 Mar 2025 01:58:18 +0000"
     }
 ]
