@@ -5808,5 +5808,45 @@
         "title": "CVE-2025-23120 (CVSS 9.9): Critical RCE Vulnerability Discovered in Veeam Backup & Replication",
         "link": "https://securityonline.info/cve-2025-23120-cvss-9-9-critical-rce-vulnerability-discovered-in-veeam-backup-replication/",
         "published": "Thu, 20 Mar 2025 01:58:18 +0000"
+    },
+    {
+        "title": "Spring Security Updates Address Authorization Bypass and Password Length Vulnerabilities",
+        "link": "https://securityonline.info/spring-security-updates-address-authorization-bypass-and-password-length-vulnerabilities/",
+        "published": "Fri, 21 Mar 2025 01:56:33 +0000"
+    },
+    {
+        "title": "Web Shell to Ransomware: New VMware Attack Vector Exposed by Sygnia",
+        "link": "https://securityonline.info/web-shell-to-ransomware-new-vmware-attack-vector-exposed-by-sygnia/",
+        "published": "Fri, 21 Mar 2025 01:54:02 +0000"
+    },
+    {
+        "title": "Critical WordPress Plugin Vulnerability Exposes Over 40,000 Websites to Code Execution Attacks",
+        "link": "https://securityonline.info/critical-wordpress-plugin-vulnerability-exposes-over-40000-websites-to-code-execution-attacks/",
+        "published": "Fri, 21 Mar 2025 01:49:34 +0000"
+    },
+    {
+        "title": "New “Arcane Stealer” Malware Targets Gamers Through YouTube Cheats",
+        "link": "https://securityonline.info/new-arcane-stealer-malware-targets-gamers-through-youtube-cheats/",
+        "published": "Fri, 21 Mar 2025 01:46:41 +0000"
+    },
+    {
+        "title": "Rust Beacon Deploys Cobalt Strike in South Korean Cyber Intrusion Campaign",
+        "link": "https://securityonline.info/rust-beacon-deploys-cobalt-strike-in-south-korean-cyber-intrusion-campaign/",
+        "published": "Fri, 21 Mar 2025 01:44:03 +0000"
+    },
+    {
+        "title": "IBM AIX Security Breach: CVE-2024-56346 (CVSS 10) & CVE-2024-56347 Explained",
+        "link": "https://securityonline.info/ibm-aix-security-breach-cve-2024-56346-cvss-10-cve-2024-56347-explained/",
+        "published": "Fri, 21 Mar 2025 01:42:48 +0000"
+    },
+    {
+        "title": "VenomRAT Malware Delivered via Virtual Hard Disk Images",
+        "link": "https://securityonline.info/venomrat-malware-delivered-via-virtual-hard-disk-images/",
+        "published": "Fri, 21 Mar 2025 01:38:36 +0000"
+    },
+    {
+        "title": "CVE-2024-23943 (CVSS 9.1): Critical Flaw Found in Industrial Communication Devices",
+        "link": "https://securityonline.info/cve-2024-23943-cvss-9-1-critical-flaw-found-in-industrial-communication-devices/",
+        "published": "Fri, 21 Mar 2025 00:00:49 +0000"
     }
 ]
