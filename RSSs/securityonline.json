@@ -5848,5 +5848,10 @@
         "title": "CVE-2024-23943 (CVSS 9.1): Critical Flaw Found in Industrial Communication Devices",
         "link": "https://securityonline.info/cve-2024-23943-cvss-9-1-critical-flaw-found-in-industrial-communication-devices/",
         "published": "Fri, 21 Mar 2025 00:00:49 +0000"
+    },
+    {
+        "title": "CVE-2024-10442: Synology Replication Service Vulnerability Scores Maximum CVSS Rating",
+        "link": "https://securityonline.info/cve-2024-10442-synology-replication-service-vulnerability-scores-maximum-cvss-rating/",
+        "published": "Fri, 21 Mar 2025 02:00:31 +0000"
     }
 ]
