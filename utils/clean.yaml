@@ -182,3 +182,4 @@ clean_list:
 - CVE-2025-24011-PoC
 - CVE-2024-9474
 - cve-monitory
+- CVE-2024-52375

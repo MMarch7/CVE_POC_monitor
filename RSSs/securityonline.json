@@ -5853,5 +5853,20 @@
         "title": "CVE-2024-10442: Synology Replication Service Vulnerability Scores Maximum CVSS Rating",
         "link": "https://securityonline.info/cve-2024-10442-synology-replication-service-vulnerability-scores-maximum-cvss-rating/",
         "published": "Fri, 21 Mar 2025 02:00:31 +0000"
+    },
+    {
+        "title": "RansomHub Deploys Custom Backdoor ‘Betruger’ in Targeted Ransomware Attacks",
+        "link": "https://securityonline.info/ransomhub-deploys-custom-backdoor-betruger-in-targeted-ransomware-attacks/",
+        "published": "Sat, 22 Mar 2025 01:45:19 +0000"
+    },
+    {
+        "title": "Critical Security Flaw in ArcGIS Enterprise Exposes Admin Accounts to Remote Takeover",
+        "link": "https://securityonline.info/critical-security-flaw-in-arcgis-enterprise-exposes-admin-accounts-to-remote-takeover/",
+        "published": "Sat, 22 Mar 2025 01:35:29 +0000"
+    },
+    {
+        "title": "Dragon RaaS: Pro-Russian Hacktivist Group Walks the Razor’s Edge Between Cybercrime and Propaganda",
+        "link": "https://securityonline.info/dragon-raas-pro-russian-hacktivist-group-walks-the-razors-edge-between-cybercrime-and-propaganda/",
+        "published": "Sat, 22 Mar 2025 01:24:40 +0000"
     }
 ]
