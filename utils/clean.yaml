@@ -184,3 +184,4 @@ clean_list:
 - cve-monitory
 - CVE-2024-52375
 - CVE-2025-1316
+- CVE-2024-13346
