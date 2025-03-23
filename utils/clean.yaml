@@ -187,3 +187,5 @@ clean_list:
 - CVE-2024-13346
 - CVE-2025-24813-POC
 - CVE-2024-23897
+- MyBallsItch
+- nextjs-CVE-2025-29927
