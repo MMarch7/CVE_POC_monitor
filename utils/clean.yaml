@@ -191,3 +191,4 @@ clean_list:
 - nextjs-CVE-2025-29927
 - nextjs-cve-2025-29927-poc
 - vulnerable-nextjs-14-CVE-2025-29927
+- CVE-2025-29927
