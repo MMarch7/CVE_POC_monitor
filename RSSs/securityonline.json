@@ -5873,5 +5873,25 @@
         "title": "Europol Cracks Down on €6.7M Hearing Aid Fraud Scheme Exploiting French Healthcare",
         "link": "https://securityonline.info/europol-cracks-down-on-e6-7m-hearing-aid-fraud-scheme-exploiting-french-healthcare/",
         "published": "Sat, 22 Mar 2025 01:58:21 +0000"
+    },
+    {
+        "title": "Operation Zero Offers Millions for Telegram Zero-Click Exploits",
+        "link": "https://securityonline.info/operation-zero-offers-millions-for-telegram-zero-click-exploits/",
+        "published": "Sun, 23 Mar 2025 01:00:40 +0000"
+    },
+    {
+        "title": "Fake Cloudflare Verification Prompts Deliver LummaStealer Trojan Through Infected WordPress Sites",
+        "link": "https://securityonline.info/fake-cloudflare-verification-prompts-deliver-lummastealer-trojan-through-infected-wordpress-sites/",
+        "published": "Sun, 23 Mar 2025 01:56:09 +0000"
+    },
+    {
+        "title": "CVE-2025-27888: Apache Druid Flaw Opens Door to SSRF and XSS Risks in Real-Time Analytics Platforms",
+        "link": "https://securityonline.info/cve-2025-27888-apache-druid-flaw-opens-door-to-ssrf-and-xss-risks-in-real-time-analytics-platforms/",
+        "published": "Sun, 23 Mar 2025 01:50:43 +0000"
+    },
+    {
+        "title": "CVE-2025-1758: Critical Buffer Overflow in Kemp LoadMaster Opens Door to Remote Code Execution",
+        "link": "https://securityonline.info/cve-2025-1758-critical-buffer-overflow-in-kemp-loadmaster-opens-door-to-remote-code-execution/",
+        "published": "Sun, 23 Mar 2025 01:30:28 +0000"
     }
 ]
