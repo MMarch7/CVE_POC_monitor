@@ -198,3 +198,5 @@ clean_list:
 - CVE-2025-22224
 - nextjs-vulnerable-app
 - nextjs-middleware-bypass-demo
+- CVE-2024-23692
+- CVE-2024-2387
