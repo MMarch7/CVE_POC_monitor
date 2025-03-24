@@ -200,3 +200,4 @@ clean_list:
 - nextjs-middleware-bypass-demo
 - CVE-2024-23692
 - CVE-2024-2387
+- next-CVE-2025-29927
