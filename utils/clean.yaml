@@ -196,3 +196,4 @@ clean_list:
 - CVE2_Jenkins_RCE
 - CVE-2024-2997
 - CVE-2025-22224
+- nextjs-vulnerable-app
