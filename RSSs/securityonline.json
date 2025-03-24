@@ -5893,5 +5893,55 @@
         "title": "CVE-2025-1758: Critical Buffer Overflow in Kemp LoadMaster Opens Door to Remote Code Execution",
         "link": "https://securityonline.info/cve-2025-1758-critical-buffer-overflow-in-kemp-loadmaster-opens-door-to-remote-code-execution/",
         "published": "Sun, 23 Mar 2025 01:30:28 +0000"
+    },
+    {
+        "title": "Urgent: Patch Your Next.js for Authorization Bypass (CVE-2025-29927)",
+        "link": "https://securityonline.info/urgent-patch-your-next-js-for-authorization-bypass-cve-2025-29927/",
+        "published": "Mon, 24 Mar 2025 01:50:42 +0000"
+    },
+    {
+        "title": "Inside Hunters International Group: How a Retailer Became the Latest Ransomware Victim",
+        "link": "https://securityonline.info/inside-hunters-international-group-how-a-retailer-became-the-latest-ransomware-victim/",
+        "published": "Mon, 24 Mar 2025 01:45:34 +0000"
+    },
+    {
+        "title": "Critical Vulnerability Discovered in Popular WordPress Security Plugin WP Ghost",
+        "link": "https://securityonline.info/critical-vulnerability-discovered-in-popular-wordpress-security-plugin-wp-ghost/",
+        "published": "Mon, 24 Mar 2025 01:45:16 +0000"
+    },
+    {
+        "title": "CVE-2025-29922: Critical Flaw in kcp Lets Attackers Manipulate Any Workspace",
+        "link": "https://securityonline.info/cve-2025-29922-critical-flaw-in-kcp-lets-attackers-manipulate-any-workspace/",
+        "published": "Mon, 24 Mar 2025 01:42:29 +0000"
+    },
+    {
+        "title": "Unmasking ALTDOS, DESORDEN, GHOSTR, and Omid16B: The Saga of a Cybercriminal",
+        "link": "https://securityonline.info/unmasking-altdos-desorden-ghostr-and-omid16b-the-saga-of-a-cybercriminal/",
+        "published": "Mon, 24 Mar 2025 01:40:49 +0000"
+    },
+    {
+        "title": "Don’t Click! Fake Chat Used in Meta Business Account Phishing",
+        "link": "https://securityonline.info/dont-click-fake-chat-used-in-meta-business-account-phishing/",
+        "published": "Mon, 24 Mar 2025 01:36:54 +0000"
+    },
+    {
+        "title": "Critical Remote Code Execution Vulnerability in vLLM via Mooncake Integration",
+        "link": "https://securityonline.info/critical-remote-code-execution-vulnerability-in-vllm-via-mooncake-integration/",
+        "published": "Mon, 24 Mar 2025 01:35:45 +0000"
+    },
+    {
+        "title": "AMOS Stealer Reloaded: Inside a Fully Undetected macOS Data Heist",
+        "link": "https://securityonline.info/amos-stealer-reloaded-inside-a-fully-undetected-macos-data-heist/",
+        "published": "Mon, 24 Mar 2025 01:35:33 +0000"
+    },
+    {
+        "title": "Nuxt Users Beware: CVE-2025-27415 Opens the Door to Cache Poisoning Attacks",
+        "link": "https://securityonline.info/nuxt-users-beware-cve-2025-27415-opens-the-door-to-cache-poisoning-attacks/",
+        "published": "Mon, 24 Mar 2025 01:30:45 +0000"
+    },
+    {
+        "title": "ABYSSWORKER: The EDR-Killing Driver Lurking in the Shadows",
+        "link": "https://securityonline.info/abyssworker-the-edr-killing-driver-lurking-in-the-shadows/",
+        "published": "Mon, 24 Mar 2025 01:10:43 +0000"
     }
 ]
