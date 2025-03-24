@@ -193,3 +193,6 @@ clean_list:
 - vulnerable-nextjs-14-CVE-2025-29927
 - CVE-2025-29927
 - CVE-2024-51793
+- CVE2_Jenkins_RCE
+- CVE-2024-2997
+- CVE-2025-22224
