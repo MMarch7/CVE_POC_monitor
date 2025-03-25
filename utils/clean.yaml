@@ -203,3 +203,4 @@ clean_list:
 - next-CVE-2025-29927
 - CVE-2024-31114
 - IngressNightmare-POCs
+- CVE-2025-29927-vuln-app
