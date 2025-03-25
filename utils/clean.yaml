@@ -208,3 +208,5 @@ clean_list:
 - CVE-2025-29306
 - cve-2025-29927
 - CVE-2025-29927-PoC
+- next.js-exploit
+- ghost-route
