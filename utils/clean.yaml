@@ -213,3 +213,6 @@ clean_list:
 - CVE-2025-29927-Testing
 - cve_2025-1734
 - CVE-2025-29927-test
+- CVE-2025-1974
+- next.js_cve-2025-29927
+- vme-escape
