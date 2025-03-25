@@ -202,3 +202,4 @@ clean_list:
 - CVE-2024-2387
 - next-CVE-2025-29927
 - CVE-2024-31114
+- IngressNightmare-POCs
