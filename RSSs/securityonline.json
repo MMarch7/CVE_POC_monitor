@@ -6078,5 +6078,55 @@
         "title": "CVE-2025-2783: Chrome Zero-Day Exploited in State-Sponsored Espionage Campaign",
         "link": "https://securityonline.info/cve-2025-2783-chrome-zero-day-exploited-in-state-sponsored-espionage-campaign/",
         "published": "Tue, 25 Mar 2025 22:38:28 +0000"
+    },
+    {
+        "title": "CVE-2025-30091: Critical RCE Flaw Found in MoxieManager",
+        "link": "https://securityonline.info/cve-2025-30091-critical-rce-flaw-found-in-moxiemanager/",
+        "published": "Wed, 26 Mar 2025 01:05:22 +0000"
+    },
+    {
+        "title": "VMware Tools for Windows Hit by CVE-2025-22230 Auth Bypass Flaw",
+        "link": "https://securityonline.info/vmware-tools-for-windows-hit-by-cve-2025-22230-auth-bypass-flaw/",
+        "published": "Wed, 26 Mar 2025 01:00:41 +0000"
+    },
+    {
+        "title": "Unmasking Kimsuky’s Latest Tactics: A Deep Dive into Malicious Scripts and Payloads",
+        "link": "https://securityonline.info/unmasking-kimsukys-latest-tactics-a-deep-dive-into-malicious-scripts-and-payloads/",
+        "published": "Wed, 26 Mar 2025 00:45:10 +0000"
+    },
+    {
+        "title": "Beware Brand Deals: “Clickflix” Malware Targets YouTube",
+        "link": "https://securityonline.info/beware-brand-deals-clickflix-malware-targets-youtube/",
+        "published": "Wed, 26 Mar 2025 00:40:34 +0000"
+    },
+    {
+        "title": "SectopRAT: A Deep Dive into a Stealthy .NET-Based Trojan",
+        "link": "https://securityonline.info/sectoprat-a-deep-dive-into-a-stealthy-net-based-trojan/",
+        "published": "Wed, 26 Mar 2025 00:30:03 +0000"
+    },
+    {
+        "title": "NetApp SnapCenter Users at Risk: CVSS 9.9 Privilege Escalation Alert",
+        "link": "https://securityonline.info/netapp-snapcenter-users-at-risk-cvss-9-9-privilege-escalation-alert/",
+        "published": "Wed, 26 Mar 2025 00:25:03 +0000"
+    },
+    {
+        "title": "New Android Malware Campaign Uses .NET MAUI to Evade Detection",
+        "link": "https://securityonline.info/new-android-malware-campaign-uses-net-maui-to-evade-detection/",
+        "published": "Wed, 26 Mar 2025 00:20:59 +0000"
+    },
+    {
+        "title": "Apache VCL Hit by SQL Injection (CVE-2024-53678) and XSS (CVE-2024-53679) Vulnerabilities",
+        "link": "https://securityonline.info/apache-vcl-hit-by-sql-injection-cve-2024-53678-and-xss-cve-2024-53679-vulnerabilities/",
+        "published": "Wed, 26 Mar 2025 00:15:19 +0000"
+    },
+    {
+        "title": "Cybercriminals Target Gamers with Browser-in-the-Browser Phishing Attacks",
+        "link": "https://securityonline.info/cybercriminals-target-gamers-with-browser-in-the-browser-phishing-attacks/",
+        "published": "Wed, 26 Mar 2025 00:10:37 +0000"
+    },
+    {
+        "title": "Microsoft Unleashes AI Agents to Supercharge Cybersecurity Defenses",
+        "link": "https://securityonline.info/microsoft-unleashes-ai-agents-to-supercharge-cybersecurity-defenses/",
+        "published": "Wed, 26 Mar 2025 00:00:12 +0000"
     }
 ]
