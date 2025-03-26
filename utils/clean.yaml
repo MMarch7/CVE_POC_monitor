@@ -226,3 +226,5 @@ clean_list:
 - IngressNightmare-RCE-POC
 - CVE-2025-30208
 - POC-CVE-2025-29927
+- CVE-2024-4956
+- CVE-2025-30216-PoC
