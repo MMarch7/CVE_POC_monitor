@@ -221,3 +221,4 @@ clean_list:
 - CVE-2024-12252
 - poc-cve-2025-29927
 - CVE-2024-50492
+- nginxnightmare

@@ -488,5 +488,15 @@
         "title": "[FG-IR-21-023] Multiple buffer overflows in FortiMail",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-21-023",
         "published": "Wed, 07 Jul 2021 00:00:00 -0700"
+    },
+    {
+        "title": "Stack buffer overflow in CLI command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-331",
+        "published": "Tue, 11 Mar 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection in CLI command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-124",
+        "published": "Tue, 11 Mar 2025 00:00:00 -0700"
     }
 ]

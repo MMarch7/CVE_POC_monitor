@@ -133,5 +133,15 @@
         "title": "Dev Channel Update for ChromeOS / ChromeOS Flex",
         "link": "http://chromereleases.googleblog.com/2025/03/dev-channel-update-for-chromeos.html",
         "published": "2025-03-05T10:51:00.000-08:00"
+    },
+    {
+        "title": "Long Term Support Channel Update for ChromeOS",
+        "link": "http://chromereleases.googleblog.com/2025/03/long-term-support-channel-update-for_25.html",
+        "published": "2025-03-25T20:34:00.000-07:00"
+    },
+    {
+        "title": "Stable Channel Update for Desktop",
+        "link": "http://chromereleases.googleblog.com/2025/03/stable-channel-update-for-desktop_25.html",
+        "published": "2025-03-25T14:04:00.000-07:00"
     }
 ]
