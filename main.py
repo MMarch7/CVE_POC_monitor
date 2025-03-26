@@ -84,21 +84,20 @@ def parse_rss_feed(feed_url,file):
         logging.info("解析RSS feed时发生错误:", feed.bozo_exception)
         return
     all_entries = utils.load.json_data_load(f"./RSSs/{file}")
-    existing_titles = {entry['title'] for entry in all_entries}
+    existing_titles = {entry['link'] for entry in all_entries}
     # 定义一个标志，标记是否输出了新增条目
     new_entries_found = False
     for entry in feed.entries:
-        if entry.title not in existing_titles:
+        if entry.link not in existing_titles:
             # 输出新增条目
             new_entries_found = True
             all_content_have_cve = True
             logging.info(f"标题: {entry.title}  链接: {entry.link}")
             logging.info("-" * 40)
-            if file == "google.json" and 'content' in entry:
-                for content in entry.content:
-                    if 'cve' not in content['value'].lower():
-                        all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
-                        break 
+            if file == "google.json":
+                if 'cve' not in str(entry.content).lower():
+                    all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
+                    break 
             if file == "vulncheck.json" or file == "securityonline.json":
                 if "cve" not in entry.title.lower():
                     all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
