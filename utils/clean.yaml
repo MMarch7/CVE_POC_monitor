@@ -240,3 +240,5 @@ clean_list:
 - CVE-2025-24071
 - ingressNightmare-CVE-2025-1974-exps
 - CVE-2025-29927_Scanner
+- CVE-2025-29927-exploit
+- CVE-2025-26264
