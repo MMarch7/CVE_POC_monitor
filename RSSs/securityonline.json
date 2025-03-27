@@ -6218,5 +6218,20 @@
         "title": "Raspberry Robin: From Copy Shop Worm to Russian GRU Cyber Tool",
         "link": "https://securityonline.info/raspberry-robin-from-copy-shop-worm-to-russian-gru-cyber-tool/",
         "published": "Thu, 27 Mar 2025 00:10:48 +0000"
+    },
+    {
+        "title": "CVE-2025-2825: Critical Vulnerability in CrushFTP Exposes Servers to Unauthenticated Access Risk",
+        "link": "https://securityonline.info/cve-2025-2825-critical-vulnerability-in-crushftp-exposes-servers-to-unauthenticated-access-risk/",
+        "published": "Thu, 27 Mar 2025 02:38:56 +0000"
+    },
+    {
+        "title": "Splunk Alert: RCE and Data Leak Vulnerabilities Threaten Platforms",
+        "link": "https://securityonline.info/splunk-alert-rce-and-data-leak-vulnerabilities-threaten-platforms/",
+        "published": "Thu, 27 Mar 2025 02:28:44 +0000"
+    },
+    {
+        "title": "Synapse Servers at Risk: Zero-Day DoS in the Wild",
+        "link": "https://securityonline.info/synapse-servers-at-risk-zero-day-dos-in-the-wild/",
+        "published": "Thu, 27 Mar 2025 01:59:35 +0000"
     }
 ]
