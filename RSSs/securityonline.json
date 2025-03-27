@@ -6158,5 +6158,65 @@
         "title": "GitLab Alert: Patch Now! XSS & Privilege Escalation Risks",
         "link": "https://securityonline.info/gitlab-alert-patch-now-xss-privilege-escalation-risks/",
         "published": "Wed, 26 Mar 2025 14:02:06 +0000"
+    },
+    {
+        "title": "CVE-2025-30232: Use-After-Free Vulnerability in Exim Exposes Systems to Privilege Escalation",
+        "link": "https://securityonline.info/cve-2025-30232-use-after-free-vulnerability-in-exim-exposes-systems-to-privilege-escalation/",
+        "published": "Thu, 27 Mar 2025 01:50:48 +0000"
+    },
+    {
+        "title": "CISA Flags Active Exploits in Sitecore CMS: CVE-2019-9874 and CVE-2019-9875, PoC Publishes",
+        "link": "https://securityonline.info/cisa-flags-active-exploits-in-sitecore-cms-cve-2019-9874-and-cve-2019-9875-poc-publishes/",
+        "published": "Thu, 27 Mar 2025 01:40:38 +0000"
+    },
+    {
+        "title": "Researcher Drops PoC for 9.8 CVSS Ingress-NGINX CVE-2025-1974 Flaw in Kubernetes",
+        "link": "https://securityonline.info/researcher-drops-poc-for-9-8-cvss-ingress-nginx-cve-2025-1974-flaw-in-kubernetes/",
+        "published": "Thu, 27 Mar 2025 01:10:35 +0000"
+    },
+    {
+        "title": "Triple Threat in Frappe Framework: SQL Injection, RCE, and Info Disclosure Fixed in Recent Patches",
+        "link": "https://securityonline.info/triple-threat-in-frappe-framework-sql-injection-rce-and-info-disclosure-fixed-in-recent-patches/",
+        "published": "Thu, 27 Mar 2025 01:05:52 +0000"
+    },
+    {
+        "title": "WordPress Plugin CVE-2025-2563 Scores 9.8, Threatens Thousands of Membership Sites",
+        "link": "https://securityonline.info/wordpress-plugin-cve-2025-2563-scores-9-8-threatens-thousands-of-membership-sites/",
+        "published": "Thu, 27 Mar 2025 00:50:21 +0000"
+    },
+    {
+        "title": "CryptoLib Vulnerability: Heap Overflow Threatens Space Communications",
+        "link": "https://securityonline.info/cryptolib-vulnerability-heap-overflow-threatens-space-communications/",
+        "published": "Thu, 27 Mar 2025 00:45:04 +0000"
+    },
+    {
+        "title": "ReaderUpdate Malware Evolves: macOS Loader Resurfaces with Go-Based Variants",
+        "link": "https://securityonline.info/readerupdate-malware-evolves-macos-loader-resurfaces-with-go-based-variants/",
+        "published": "Thu, 27 Mar 2025 00:40:38 +0000"
+    },
+    {
+        "title": "BlackLock Ransomware Disrupted: Resecurity’s Infiltration Exposes Operations",
+        "link": "https://securityonline.info/blacklock-ransomware-disrupted-resecuritys-infiltration-exposes-operations/",
+        "published": "Thu, 27 Mar 2025 00:35:23 +0000"
+    },
+    {
+        "title": "Mass Reboots and Exploit Attempts Plague DrayTek Routers Across the Globe",
+        "link": "https://securityonline.info/mass-reboots-and-exploit-attempts-plague-draytek-routers-across-the-globe/",
+        "published": "Thu, 27 Mar 2025 00:25:42 +0000"
+    },
+    {
+        "title": "CVE-2024-55963: Appsmith’s Default PostgreSQL Misconfiguration Leads to RCE, PoC Releases",
+        "link": "https://securityonline.info/cve-2024-55963-appsmiths-default-postgresql-misconfiguration-leads-to-rce-poc-releases/",
+        "published": "Thu, 27 Mar 2025 00:20:56 +0000"
+    },
+    {
+        "title": "LockBit 4.0: A Deep Dive into the Evolving Ransomware",
+        "link": "https://securityonline.info/lockbit-4-0-a-deep-dive-into-the-evolving-ransomware/",
+        "published": "Thu, 27 Mar 2025 00:15:58 +0000"
+    },
+    {
+        "title": "Raspberry Robin: From Copy Shop Worm to Russian GRU Cyber Tool",
+        "link": "https://securityonline.info/raspberry-robin-from-copy-shop-worm-to-russian-gru-cyber-tool/",
+        "published": "Thu, 27 Mar 2025 00:10:48 +0000"
     }
 ]
