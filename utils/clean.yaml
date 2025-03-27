@@ -246,3 +246,7 @@ clean_list:
 - CVE-2024-4367-POC-PDFJS
 - CVE-2024-56901
 - CVE-2024-56902
+- m2hcz-Next.js-security-flaw-CVE-2025-29927---PoC-exploit
+- CVE-2024-7479
+- CVE-2025-29927-Research
+- CVE-2025-30208-LFI
