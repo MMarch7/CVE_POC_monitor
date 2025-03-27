@@ -233,3 +233,5 @@ clean_list:
 - CVE-2025-30208-EXP
 - CVE-2025-1974-poc
 - Vite-CVE-2025-30208-Scanner
+- NextSecureScan
+- Automated-Next.js-Security-Scanner-for-CVE-2025-29927
