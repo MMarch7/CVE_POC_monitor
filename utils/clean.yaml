@@ -232,3 +232,4 @@ clean_list:
 - expliot-Next.js-Middleware-Bypass-Vulnerability-CVE-2025-29927
 - CVE-2025-30208-EXP
 - CVE-2025-1974-poc
+- Vite-CVE-2025-30208-Scanner

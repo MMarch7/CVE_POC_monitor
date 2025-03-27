@@ -6233,5 +6233,10 @@
         "title": "Synapse Servers at Risk: Zero-Day DoS in the Wild",
         "link": "https://securityonline.info/synapse-servers-at-risk-zero-day-dos-in-the-wild/",
         "published": "Thu, 27 Mar 2025 01:59:35 +0000"
+    },
+    {
+        "title": "Millions at Risk: PoC Exploit Releases for Vite Arbitrary File Read Flaw (CVE-2025-30208)",
+        "link": "https://securityonline.info/millions-at-risk-poc-exploit-releases-for-vite-arbitrary-file-read-flaw-cve-2025-30208/",
+        "published": "Thu, 27 Mar 2025 03:19:07 +0000"
     }
 ]
