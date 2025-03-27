@@ -6253,5 +6253,10 @@
         "title": "CVE-2025-2848: Synology Mail Server Vulnerability Allows Remote Configuration Tampering",
         "link": "https://securityonline.info/cve-2025-2848-synology-mail-server-vulnerability-allows-remote-configuration-tampering/",
         "published": "Thu, 27 Mar 2025 07:58:33 +0000"
+    },
+    {
+        "title": "CVE-2025-2857: New Firefox Sandbox Escape Emerges Following Active Exploitation of CVE-2025-2783",
+        "link": "https://securityonline.info/cve-2025-2857-new-firefox-sandbox-escape-emerges-following-active-exploitation-of-cve-2025-2783/",
+        "published": "Thu, 27 Mar 2025 15:38:35 +0000"
     }
 ]
