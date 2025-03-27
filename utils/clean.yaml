@@ -236,3 +236,4 @@ clean_list:
 - NextSecureScan
 - Automated-Next.js-Security-Scanner-for-CVE-2025-29927
 - CVE-2025-30208-PoC
+- CVE-2025-50000
