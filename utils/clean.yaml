@@ -260,3 +260,6 @@ clean_list:
 - 0xMiddleware
 - CVE-2025-30349
 - Jenkins-CVE-2024-23897-Exploit-Demo
+- CVE-2025-29015
+- CVE-2025-29018
+- CVE-2025-29017
