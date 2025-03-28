@@ -254,3 +254,4 @@ clean_list:
 - CVE-2025-29927-scanner
 - CVE-2025-24071_PoC
 - CVE-2025-29927_demo
+- rtf-ctf-cve-2025-21298
