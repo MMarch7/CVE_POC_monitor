@@ -269,3 +269,4 @@ clean_list:
 - NextSploit
 - CVE-2025-30208-ViteVulnScanner
 - poc
+- CVE-2025-26909
