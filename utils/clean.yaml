@@ -257,3 +257,6 @@ clean_list:
 - rtf-ctf-cve-2025-21298
 - CVE-2025-3282025
 - CVE-2025-3272025
+- 0xMiddleware
+- CVE-2025-30349
+- Jenkins-CVE-2024-23897-Exploit-Demo
