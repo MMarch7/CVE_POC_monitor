@@ -498,5 +498,10 @@
         "title": "OS command injection in CLI command",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-124",
         "published": "Tue, 11 Mar 2025 00:00:00 -0700"
+    },
+    {
+        "title": "[FG-IR-20-105] Unauthenticated user can determine software-version information",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-20-105",
+        "published": "Tue, 03 Nov 2020 00:00:00 -0800"
     }
 ]

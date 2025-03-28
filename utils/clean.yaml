@@ -266,3 +266,4 @@ clean_list:
 - CVE-2025-29927_env
 - CVE-2025-30208-Vite
 - CVE-2025-30772
+- NextSploit
