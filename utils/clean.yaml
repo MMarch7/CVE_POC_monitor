@@ -270,3 +270,4 @@ clean_list:
 - CVE-2025-30208-ViteVulnScanner
 - poc
 - CVE-2025-26909
+- cve-2025-29927-demo
