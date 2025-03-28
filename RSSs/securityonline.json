@@ -6258,5 +6258,50 @@
         "title": "CVE-2025-2857: New Firefox Sandbox Escape Emerges Following Active Exploitation of CVE-2025-2783",
         "link": "https://securityonline.info/cve-2025-2857-new-firefox-sandbox-escape-emerges-following-active-exploitation-of-cve-2025-2783/",
         "published": "Thu, 27 Mar 2025 15:38:35 +0000"
+    },
+    {
+        "title": "Critical Vulnerability Discovered in Apache Pinot: Authentication Bypass Exposes Systems to Severe Risk",
+        "link": "https://securityonline.info/critical-vulnerability-discovered-in-apache-pinot-authentication-bypass-exposes-systems-to-severe-risk/",
+        "published": "Fri, 28 Mar 2025 01:51:04 +0000"
+    },
+    {
+        "title": "Securing the Web: Chrome’s Push for a More Robust PKI",
+        "link": "https://securityonline.info/securing-the-web-chromes-push-for-a-more-robust-pki/",
+        "published": "Fri, 28 Mar 2025 01:41:31 +0000"
+    },
+    {
+        "title": "CVE-2025-30353: Directus Vulnerability Exposes Sensitive Data in Webhook Trigger Flows",
+        "link": "https://securityonline.info/cve-2025-30353-directus-vulnerability-exposes-sensitive-data-in-webhook-trigger-flows/",
+        "published": "Fri, 28 Mar 2025 00:58:59 +0000"
+    },
+    {
+        "title": "Malware on npm “Patches” Local Packages with Reverse Shell",
+        "link": "https://securityonline.info/malware-on-npm-patches-local-packages-with-reverse-shell/",
+        "published": "Fri, 28 Mar 2025 00:35:51 +0000"
+    },
+    {
+        "title": "SnakeKeylogger: Stealthy Malware Targets Credentials in Sophisticated Attacks",
+        "link": "https://securityonline.info/snakekeylogger-stealthy-malware-targets-credentials-in-sophisticated-attacks/",
+        "published": "Fri, 28 Mar 2025 00:35:12 +0000"
+    },
+    {
+        "title": "Ghostscript Nightmare: Critical Severity Vulnerabilities Put Users at Risk",
+        "link": "https://securityonline.info/ghostscript-nightmare-critical-severity-vulnerabilities-put-users-at-risk/",
+        "published": "Fri, 28 Mar 2025 00:30:47 +0000"
+    },
+    {
+        "title": "Classiscam Scams Surge in Central Asia, Leveraging Telegram Bots",
+        "link": "https://securityonline.info/classiscam-scams-surge-in-central-asia-leveraging-telegram-bots/",
+        "published": "Fri, 28 Mar 2025 00:20:34 +0000"
+    },
+    {
+        "title": "CHOCO TEI WATCHER mini Devices Found Vulnerable to Critical Remote Exploits, CISA Warns",
+        "link": "https://securityonline.info/choco-tei-watcher-mini-devices-found-vulnerable-to-critical-remote-exploits-cisa-warns/",
+        "published": "Fri, 28 Mar 2025 00:10:44 +0000"
+    },
+    {
+        "title": "Pakistan-Linked APT Exploits Youth Laptop Scheme in Cyberattack Targeting India",
+        "link": "https://securityonline.info/pakistan-linked-apt-exploits-youth-laptop-scheme-in-cyberattack-targeting-india/",
+        "published": "Fri, 28 Mar 2025 00:00:57 +0000"
     }
 ]
