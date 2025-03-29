@@ -274,3 +274,4 @@ clean_list:
 - CVE-2025-29927-Exploit
 - cve-2024
 - CVE-2024-25180
+- CVE-2025-2563
