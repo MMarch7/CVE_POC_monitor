@@ -272,3 +272,4 @@ clean_list:
 - CVE-2025-26909
 - cve-2025-29927-demo
 - CVE-2025-29927-Exploit
+- cve-2024
