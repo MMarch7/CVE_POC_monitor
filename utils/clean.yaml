@@ -283,3 +283,4 @@ clean_list:
 - IngressNightmare-PoC
 - axios-ssrf
 - CVE-2025-29927-NextJs-Lab
+- CVE-2025-0087
