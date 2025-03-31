@@ -6353,5 +6353,60 @@
         "title": "PJobRAT’s Evolution: New Campaign Steals Data from Android",
         "link": "https://securityonline.info/pjobrats-evolution-new-campaign-steals-data-from-android/",
         "published": "Sun, 30 Mar 2025 00:15:32 +0000"
+    },
+    {
+        "title": "Fake Zoom, Real Ransom: Nine-Day Malware Intrusion Ends with BlackSuit Ransomware Blast",
+        "link": "https://securityonline.info/fake-zoom-real-ransom-nine-day-malware-intrusion-ends-with-blacksuit-ransomware-blast/",
+        "published": "Mon, 31 Mar 2025 02:00:35 +0000"
+    },
+    {
+        "title": "CrushFTP Hacked: Exploit CVE-2025-2825 with PoC and Nuclei Template",
+        "link": "https://securityonline.info/crushftp-hacked-exploit-cve-2025-2825-with-poc-and-nuclei-template/",
+        "published": "Mon, 31 Mar 2025 01:00:30 +0000"
+    },
+    {
+        "title": "CVE-2025-22398: Dell Unity Hit by 9.8 CVSS Root-Level Command Injection Flaw",
+        "link": "https://securityonline.info/cve-2025-22398-dell-unity-hit-by-9-8-cvss-root-level-command-injection-flaw/",
+        "published": "Mon, 31 Mar 2025 00:50:42 +0000"
+    },
+    {
+        "title": "Gamaredon Exploits Troop Movement Lures to Spread Remcos via DLL Sideloading",
+        "link": "https://securityonline.info/gamaredon-exploits-troop-movement-lures-to-spread-remcos-via-dll-sideloading/",
+        "published": "Mon, 31 Mar 2025 00:45:38 +0000"
+    },
+    {
+        "title": "SHELBY Malware Abuses GitHub for Control and Data Theft",
+        "link": "https://securityonline.info/shelby-malware-abuses-github-for-control-and-data-theft/",
+        "published": "Mon, 31 Mar 2025 00:40:16 +0000"
+    },
+    {
+        "title": "Mitel Addresses High Severity XSS Vulnerability in MiContact Center Business",
+        "link": "https://securityonline.info/mitel-addresses-high-severity-xss-vulnerability-in-micontact-center-business/",
+        "published": "Mon, 31 Mar 2025 00:35:04 +0000"
+    },
+    {
+        "title": "Warning: Discord’s API Exploited for Malicious Takeover",
+        "link": "https://securityonline.info/warning-discords-api-exploited-for-malicious-takeover/",
+        "published": "Mon, 31 Mar 2025 00:30:23 +0000"
+    },
+    {
+        "title": "Ubuntu Security Alert: Three Ways to Bypass User Namespace Restrictions",
+        "link": "https://securityonline.info/ubuntu-security-alert-three-ways-to-bypass-user-namespace-restrictions/",
+        "published": "Mon, 31 Mar 2025 00:20:44 +0000"
+    },
+    {
+        "title": "Russian Intelligence Impersonates CIA in Phishing Attacks",
+        "link": "https://securityonline.info/russian-intelligence-impersonates-cia-in-phishing-attacks/",
+        "published": "Mon, 31 Mar 2025 00:13:14 +0000"
+    },
+    {
+        "title": "Python-Powered Triton RAT Exfiltrates Data via Telegram and Evades Analysis",
+        "link": "https://securityonline.info/python-powered-triton-rat-exfiltrates-data-via-telegram-and-evades-analysis/",
+        "published": "Mon, 31 Mar 2025 00:10:51 +0000"
+    },
+    {
+        "title": "GPU-Powered Evasion: Unpacking the Sophisticated CoffeeLoader Malware",
+        "link": "https://securityonline.info/gpu-powered-evasion-unpacking-the-sophisticated-coffeeloader-malware/",
+        "published": "Mon, 31 Mar 2025 00:05:04 +0000"
     }
 ]
