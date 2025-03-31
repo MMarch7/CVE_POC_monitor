@@ -120,6 +120,29 @@ def parse_rss_feed(feed_url,file):
     else:
         logging.info(f"{file}未更新新漏洞")
 
+def get_github_raw_links(github_url):
+    # 解析地址，提取 owner 和 repo
+    parts = github_url.strip('/').split('/')
+    owner, repo = parts[-2], parts[-1]
+    
+    api_url = f"https://api.github.com/repos/{owner}/{repo}/contents/"
+    raw_links = []
+    
+    try:
+        response = requests.get(api_url, headers=github_headers, params={'ref': 'main'})
+        if response.status_code != 200:
+            logging.error(f"提取Raw地址请求失败，状态码：{response.status_code}")
+
+            return None  # 请求失败或无权限
+        
+        for item in response.json():
+            if item['type'] == 'file' and item['name'].endswith(('.py', '.yaml', '.yml')):
+                raw_links.append(item['download_url'])
+        
+        return raw_links if raw_links else None  # 有文件返回列表，无则返回None
+    except Exception as e:
+        logging.error(f"提取Raw地址请求失败，错误信息：{e}")
+        return None  # 网络错误或其他异常
    
 def getKeywordNews(keyword):
     cleanKeywords=set(CleanKeywords)
@@ -141,6 +164,9 @@ def getKeywordNews(keyword):
                 pushed_at = re.findall('\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
                 if pushed_at == str(today_date) and keyword_name not in cleanKeywords:
                     msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
+                    if "CVE" in keyword:
+                        raw_links = get_github_raw_links(keyword_url)
+                        msg_push.send_google_raw("raw",keyword_url,raw_links)
                     today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at,"description":description})
 
                     logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n推送时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,pushed_at,description))

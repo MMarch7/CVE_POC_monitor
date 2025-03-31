@@ -13,10 +13,12 @@ WEBHOOK_URL = f"https://script.google.com/macros/s/{google_sheet_token}/exec"
 google_sheet_headers = {
     'Content-Type': 'application/json'
 }
-current_date = datetime.date.today().strftime('%Y-%m-%d') 
+
+current_date = datetime.date.today().strftime('%Y-%m-%d  %H:%M') 
 
 def send_google_sheet(sheet,keyword,name,url,description):
     data = {
+        "action": "insert",
         "sheet_name":sheet,
         "时间":current_date,
         "关键词": keyword,
@@ -28,8 +30,33 @@ def send_google_sheet(sheet,keyword,name,url,description):
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
+def send_google_raw(sheet,link,Raw):
+    data = {
+        "action": "insert",
+        "sheet_name":sheet,
+        "Link": link,
+        "Raw": Raw
+    }
+    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    if "success" not in response.text:
+        logging.error(f"推送google_sheet失败，报错如下：{response.text}")
+
+def update_google_sheet(sheetName,searchField,searchValue,targetField,newValue):
+    data = {
+        "action": "update",
+        "sheetName":sheetName,
+        "searchField":searchField,
+        "searchValue": searchValue,
+        "targetField": targetField,
+        "newValue":newValue
+    }
+    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    if "success" not in response.text:
+        logging.error(f"推送google_sheet失败，报错如下：{response.text}")
+
 def send_google_sheet_githubVul(sheet,keyword,name,cve,url,description):
     data = {
+        "action": "insert",
         "sheet_name":sheet,
         "时间":current_date,
         "关键词": keyword,
