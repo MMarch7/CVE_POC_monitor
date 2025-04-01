@@ -6478,5 +6478,15 @@
         "title": "CVE-2025-27095: Token Theft Flaw in JumpServer Exposes Kubernetes Clusters to Unauthorized Access",
         "link": "https://securityonline.info/cve-2025-27095-token-theft-flaw-in-jumpserver-exposes-kubernetes-clusters-to-unauthorized-access/",
         "published": "Tue, 01 Apr 2025 02:54:53 +0000"
+    },
+    {
+        "title": "Nadella: Microsoft’s Own AI Models to Fill Gaps",
+        "link": "https://securityonline.info/nadella-microsofts-own-ai-models-to-fill-gaps/",
+        "published": "Tue, 01 Apr 2025 04:30:57 +0000"
+    },
+    {
+        "title": "Pro vs. Free: Gemini 2.5’s Tiered AI Power",
+        "link": "https://securityonline.info/pro-vs-free-gemini-2-5s-tiered-ai-power/",
+        "published": "Tue, 01 Apr 2025 04:04:58 +0000"
     }
 ]
