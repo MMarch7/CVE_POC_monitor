@@ -83,5 +83,10 @@
         "title": "By Executive Order, We Are Banning Blacklists - Domain-Level RCE in Veeam Backup & Replication (CVE-2025-23120)",
         "link": "https://labs.watchtowr.com/by-executive-order-we-are-banning-blacklists-domain-level-rce-in-veeam-backup-replication-cve-2025-23120/",
         "published": "Thu, 20 Mar 2025 02:51:10 GMT"
+    },
+    {
+        "title": "XSS To RCE By Abusing Custom File Handlers - Kentico Xperience CMS (CVE-2025-2748)",
+        "link": "https://labs.watchtowr.com/xss-to-rce-by-abusing-custom-file-handlers-kentico-xperience-cms-cve-2025-2748/",
+        "published": "Tue, 01 Apr 2025 09:58:33 GMT"
     }
 ]
