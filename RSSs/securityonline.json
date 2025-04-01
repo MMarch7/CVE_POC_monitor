@@ -6473,5 +6473,10 @@
         "title": "Android Under Attack: Crocodilus Trojan Captures OTPs from Google Authenticator",
         "link": "https://securityonline.info/android-under-attack-crocodilus-trojan-captures-otps-from-google-authenticator/",
         "published": "Tue, 01 Apr 2025 00:01:30 +0000"
+    },
+    {
+        "title": "CVE-2025-27095: Token Theft Flaw in JumpServer Exposes Kubernetes Clusters to Unauthorized Access",
+        "link": "https://securityonline.info/cve-2025-27095-token-theft-flaw-in-jumpserver-exposes-kubernetes-clusters-to-unauthorized-access/",
+        "published": "Tue, 01 Apr 2025 02:54:53 +0000"
     }
 ]
