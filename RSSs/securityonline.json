@@ -6418,5 +6418,60 @@
         "title": "Massive X (Twitter) Data Leak Exposes Over 200 Million User Records",
         "link": "https://securityonline.info/massive-x-twitter-data-leak-exposes-over-200-million-user-records/",
         "published": "Mon, 31 Mar 2025 03:21:54 +0000"
+    },
+    {
+        "title": "Apple Backports Fixes for Three Actively Exploited Zero-Days Targeting Older Devices",
+        "link": "https://securityonline.info/apple-backports-fixes-for-three-actively-exploited-zero-days-targeting-older-devices/",
+        "published": "Tue, 01 Apr 2025 01:58:05 +0000"
+    },
+    {
+        "title": "CISA Warns of Active Exploitation of Cisco Smart Licensing Utility Flaw",
+        "link": "https://securityonline.info/cisa-warns-of-active-exploitation-of-cisco-smart-licensing-utility-flaw/",
+        "published": "Tue, 01 Apr 2025 01:39:12 +0000"
+    },
+    {
+        "title": "Earth Alux APT Group: Unveiling Its Espionage Toolkit",
+        "link": "https://securityonline.info/earth-alux-apt-group-unveiling-its-espionage-toolkit/",
+        "published": "Tue, 01 Apr 2025 01:05:32 +0000"
+    },
+    {
+        "title": "Browser Cache Smuggling 2.0: How Attackers Weaponize the Web to Deliver Stealthy Malware",
+        "link": "https://securityonline.info/browser-cache-smuggling-2-0-how-attackers-weaponize-the-web-to-deliver-stealthy-malware/",
+        "published": "Tue, 01 Apr 2025 00:55:58 +0000"
+    },
+    {
+        "title": "Morphing Meerkat’s Phishing Tactics: Abusing DNS MX Records",
+        "link": "https://securityonline.info/morphing-meerkats-phishing-tactics-abusing-dns-mx-records/",
+        "published": "Tue, 01 Apr 2025 00:45:37 +0000"
+    },
+    {
+        "title": "CVE-2025-1449 (CVSS 9.1): Vulnerability in Verve Asset Manager Allows Admin Shell Access",
+        "link": "https://securityonline.info/cve-2025-1449-cvss-9-1-vulnerability-in-verve-asset-manager-allows-admin-shell-access/",
+        "published": "Tue, 01 Apr 2025 00:35:32 +0000"
+    },
+    {
+        "title": "KoiLoader Reloaded: New Variant Uses LNK Abuse, Script Chains, and PowerShell to Deliver Stealer Payload",
+        "link": "https://securityonline.info/koiloader-reloaded-new-variant-uses-lnk-abuse-script-chains-and-powershell-to-deliver-stealer-payload/",
+        "published": "Tue, 01 Apr 2025 00:25:10 +0000"
+    },
+    {
+        "title": "KNIME Business Hub Hit by Critical Bugs, Including Hard-Coded Password and XSS Flaws",
+        "link": "https://securityonline.info/knime-business-hub-hit-by-critical-bugs-including-hard-coded-password-and-xss-flaws/",
+        "published": "Tue, 01 Apr 2025 00:20:17 +0000"
+    },
+    {
+        "title": "Konni RAT Resurfaces: North Korean Espionage Malware Evolves with Stealth and Persistence",
+        "link": "https://securityonline.info/konni-rat-resurfaces-north-korean-espionage-malware-evolves-with-stealth-and-persistence/",
+        "published": "Tue, 01 Apr 2025 00:16:10 +0000"
+    },
+    {
+        "title": "Bulletproof Hosting Fuels Russia-Linked Intrusion Sets’ Global Cyber Campaign",
+        "link": "https://securityonline.info/bulletproof-hosting-fuels-russia-linked-intrusion-sets-global-cyber-campaign/",
+        "published": "Tue, 01 Apr 2025 00:11:34 +0000"
+    },
+    {
+        "title": "Android Under Attack: Crocodilus Trojan Captures OTPs from Google Authenticator",
+        "link": "https://securityonline.info/android-under-attack-crocodilus-trojan-captures-otps-from-google-authenticator/",
+        "published": "Tue, 01 Apr 2025 00:01:30 +0000"
     }
 ]
