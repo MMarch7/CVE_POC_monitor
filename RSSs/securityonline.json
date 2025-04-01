@@ -6503,5 +6503,10 @@
         "title": "VMware Addresses Local Privilege Escalation Vulnerability (CVE-2025-22231)",
         "link": "https://securityonline.info/vmware-addresses-local-privilege-escalation-vulnerability-cve-2025-22231/",
         "published": "Tue, 01 Apr 2025 13:47:35 +0000"
+    },
+    {
+        "title": "Google Patches ImageRunner: Fixing Critical Cloud Run Container Access Flaw",
+        "link": "https://securityonline.info/google-patches-imagerunner-fixing-critical-cloud-run-container-access-flaw/",
+        "published": "Tue, 01 Apr 2025 14:50:51 +0000"
     }
 ]
