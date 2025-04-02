@@ -306,3 +306,6 @@ clean_list:
 - CVE-2025-412025
 - CVE-2025-412026
 - Next.Js-middleware-bypass-vulnerability-CVE-2025-29927
+- CVE-2025-26056
+- CVE-2025-26054
+- CVE-2025-26055
