@@ -50,28 +50,27 @@ def run_llm_inference(raws):
         base_url = llm_url,
         api_key = llm_api_key
     )
-    http = []
+    
     with open('./utils/prompt.txt', 'r', encoding='utf-8') as f:
         for line in f:  # 逐行处理，不一次性加载
             prompt = line.strip()  # 去掉首尾空白符
-    for raw in raws:
-        content = requests.get(raw, headers=github_headers).text
-        chat_completion = client.chat.completions.create(
-            messages=[
-                {
-                    "role": "user",
-                    "content": prompt+content
-                }
-            ],
-            model = 'deepseek-r1'
-        )
-        text = chat_completion.choices[0].message.content
-        if "No http request" in text:
-            continue
-        else:
-            http.append(text)
-    return http
-
+    
+    content = requests.get(raws, headers=github_headers).text
+    chat_completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt+content
+            }
+        ],
+        model = 'deepseek-r1'
+    )
+    text = chat_completion.choices[0].message.content
+    if "No http request" in text:
+        return "No http request"
+    else:
+        return text
+    
 def main():
     init()
     table_content = msg_push.get_google_sheet("raw")
