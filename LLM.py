@@ -54,7 +54,6 @@ def run_llm_inference(raws):
     with open('./utils/prompt.txt', 'r', encoding='utf-8') as f:
         for line in f:  # 逐行处理，不一次性加载
             prompt = line.strip()  # 去掉首尾空白符
-    
     content = requests.get(raws, headers=github_headers).text
     chat_completion = client.chat.completions.create(
         messages=[
@@ -79,7 +78,10 @@ def main():
     raws_list = df[df["HTTP"].isin([""]) | df["HTTP"].isna()]["Raw"].tolist()
     for raws in raws_list:
         logging.info(f"开始推送数据包，地址：{raws}")
-        packets = run_llm_inference(raws)
+        if "http" in raws:
+            packets = run_llm_inference(raws)
+        else:
+            continue
         if packets:
             msg_push.update_google_sheet("raw", "Raw", raws, "HTTP", packets)
             logging.info(f"推送成功，地址：{raws}，数据包：{packets}")
