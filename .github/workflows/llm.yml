@@ -1,1 +1,43 @@
+# name属性用来指定这个工作流的名字
 
+name: LLM
+
+on:
+  # 定时任务
+  schedule:
+    - cron: '10 0 */2 * *'
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+jobs:
+  LLM_Inference:
+    runs-on: ubuntu-latest
+
+    # 指出这个build任务的步骤
+    steps:
+      # 将你的job指向你的文件目录$GITHUB_WORKSPACE，用来运行你的脚本
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python3
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.13.2'
+      - name: Install requirements
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install -r ./requirements.txt
+      - name: Run
+        env:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          google_sheet_token: ${{ secrets.GOOGLE_SHEET_TOKEN }}
+          tg_chat_id: ${{ secrets.TG_CHAT_ID }}
+          tg_token: ${{ secrets.TG_TOKEN }}
+          wechat_token: ${{ secrets.WECHAT_TOKEN }}
+          baidu_appid: ${{ secrets.BAIDU_APPID }}
+          baidu_appkey: ${{ secrets.BAIDU_APPKEY }}
+          llm_url: ${{ secrets.LLM_URL }}
+          llm_api_key: ${{ secrets.LLM_API_KEY }}
+        run: python3 ./LLM.py
+    

@@ -133,16 +133,16 @@ def get_github_raw_links(github_url):
         if response.status_code != 200:
             logging.error(f"提取Raw地址请求失败，状态码：{response.status_code}")
 
-            return None  # 请求失败或无权限
+            return "响应码错误"  # 请求失败或无权限
         
         for item in response.json():
             if item['type'] == 'file' and item['name'].endswith(('.py', '.yaml', '.yml')):
                 raw_links.append(item['download_url'])
         
-        return raw_links if raw_links else None  # 有文件返回列表，无则返回None
+        return raw_links if raw_links else "项目中无脚本文件"  # 有文件返回列表，无则返回None
     except Exception as e:
         logging.error(f"提取Raw地址请求失败，错误信息：{e}")
-        return None  # 网络错误或其他异常
+        return "网络错误异常"  # 网络错误或其他异常
    
 def getKeywordNews(keyword):
     cleanKeywords=set(CleanKeywords)

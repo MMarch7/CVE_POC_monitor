@@ -2,3 +2,5 @@ requests
 pyTelegramBotAPI
 pyyaml
 feedparser
+openai
+pandas

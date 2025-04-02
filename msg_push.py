@@ -30,6 +30,19 @@ def send_google_sheet(sheet,keyword,name,url,description):
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
+def get_google_sheet(sheet):
+    response = requests.get(WEBHOOK_URL,headers=google_sheet_headers,params={"sheet":sheet})
+    # 解析JSON
+    parsed_data = json.loads(response.text)
+    # 提取字段
+    status_code = parsed_data["code"]      # 状态码（200）
+    table_content = parsed_data["data"]    # 表的全部内容（二维列表）
+    if status_code != 200:
+        logging.error(f"获取google_sheet失败，报错如下：{response.text}")
+        exit(0)
+    else:
+        return table_content
+
 def send_google_raw(sheet,link,Raw):
     data = {
         "action": "insert",
