@@ -46,6 +46,7 @@ def get_google_sheet(sheet):
 def send_google_raw(sheet,link,Raw):
     data = {
         "action": "insert",
+        "时间":current_date,
         "sheet_name":sheet,
         "Link": link,
         "Raw": Raw

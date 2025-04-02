@@ -26,5 +26,9 @@
    - 字段必须完整（无内容时留空字符串或空字典）。
    - 如果有输出的请求体中有json，xml，html等格式，请用缩进和换行增加可读性。
    - 如果有http请求，那么输出只包含数据包，不包含任何其他内容，包括但不限于```，“”等
+   -输出数据包样例
+   GET /unauth/%252e%252e/php/ztp_gate.php/PAN_help/x.css HTTP/1.1
+   Host: {target_host}
+   User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
 
 以下是一个输入内容，请提取其中的关键请求包并按照数据包的格式输出：
