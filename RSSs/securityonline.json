@@ -6508,5 +6508,65 @@
         "title": "Google Patches ImageRunner: Fixing Critical Cloud Run Container Access Flaw",
         "link": "https://securityonline.info/google-patches-imagerunner-fixing-critical-cloud-run-container-access-flaw/",
         "published": "Tue, 01 Apr 2025 14:50:51 +0000"
+    },
+    {
+        "title": "CISA Flags Apache Tomcat CVE-2025-24813 as Actively Exploited with 9.8 CVSS",
+        "link": "https://securityonline.info/cisa-flags-apache-tomcat-cve-2025-24813-as-actively-exploited-with-9-8-cvss/",
+        "published": "Wed, 02 Apr 2025 02:00:30 +0000"
+    },
+    {
+        "title": "Chrome 135: 14 Security Fixes, High-Severity CVE-2025-3066 Flaw Patched",
+        "link": "https://securityonline.info/chrome-135-14-security-fixes-high-severity-cve-2025-3066-flaw-patched/",
+        "published": "Wed, 02 Apr 2025 01:41:39 +0000"
+    },
+    {
+        "title": "VyOS and Debian Systems Vulnerable to Man-in-the-Middle Attacks (CVE-2025-30095)",
+        "link": "https://securityonline.info/vyos-and-debian-systems-vulnerable-to-man-in-the-middle-attacks-cve-2025-30095/",
+        "published": "Wed, 02 Apr 2025 01:05:49 +0000"
+    },
+    {
+        "title": "MongoDB Patches: DoS & Bypass Risks Addressed",
+        "link": "https://securityonline.info/mongodb-patches-dos-bypass-risks-addressed/",
+        "published": "Wed, 02 Apr 2025 00:56:24 +0000"
+    },
+    {
+        "title": "CVE-2025-30223 (CVSS 9.3): Critical XSS Vulnerability Discovered in Beego Framework",
+        "link": "https://securityonline.info/cve-2025-30223-cvss-9-3-critical-xss-vulnerability-discovered-in-beego-framework/",
+        "published": "Wed, 02 Apr 2025 00:55:11 +0000"
+    },
+    {
+        "title": "Gootloader Returns with Fake Legal Document Lure via Google Ads",
+        "link": "https://securityonline.info/gootloader-returns-with-fake-legal-document-lure-via-google-ads/",
+        "published": "Wed, 02 Apr 2025 00:45:33 +0000"
+    },
+    {
+        "title": "HijackLoader Evolves: New Modules Bring Stealth, Persistence, and Advanced VM Evasion",
+        "link": "https://securityonline.info/hijackloader-evolves-new-modules-bring-stealth-persistence-and-advanced-vm-evasion/",
+        "published": "Wed, 02 Apr 2025 00:35:53 +0000"
+    },
+    {
+        "title": "8 Zero-Day Vulnerabilities Uncovered in Netgear WNR854T Router",
+        "link": "https://securityonline.info/8-zero-day-vulnerabilities-uncovered-in-netgear-wnr854t-router/",
+        "published": "Wed, 02 Apr 2025 00:30:39 +0000"
+    },
+    {
+        "title": "PostgreSQL Servers Hacked: 1,500+ Cloud Systems Mining Crypto via CPU_HU",
+        "link": "https://securityonline.info/postgresql-servers-hacked-1500-cloud-systems-mining-crypto-via-cpu_hu/",
+        "published": "Wed, 02 Apr 2025 00:25:11 +0000"
+    },
+    {
+        "title": "CVE-2025-30065 (CVSS 10): Critical Vulnerability Discovered in Apache Parquet Java",
+        "link": "https://securityonline.info/cve-2025-30065-cvss-10-critical-vulnerability-discovered-in-apache-parquet-java/",
+        "published": "Wed, 02 Apr 2025 00:15:43 +0000"
+    },
+    {
+        "title": "SmokeLoader Malware Deployed in Stealthy Campaign Targeting Major Banks",
+        "link": "https://securityonline.info/smokeloader-malware-deployed-in-stealthy-campaign-targeting-major-banks/",
+        "published": "Wed, 02 Apr 2025 00:12:02 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities Threaten IBM App Connect Enterprise",
+        "link": "https://securityonline.info/critical-vulnerabilities-threaten-ibm-app-connect-enterprise/",
+        "published": "Wed, 02 Apr 2025 00:05:37 +0000"
     }
 ]
