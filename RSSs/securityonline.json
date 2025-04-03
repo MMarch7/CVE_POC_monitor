@@ -6593,5 +6593,55 @@
         "title": "CVE-2025-0676: High-Severity Vulnerability Threatens Moxa Network Devices",
         "link": "https://securityonline.info/cve-2025-0676-high-severity-vulnerability-threatens-moxa-network-devices/",
         "published": "Wed, 02 Apr 2025 10:10:03 +0000"
+    },
+    {
+        "title": "CVE-2025-31137: React Router Vulnerability Exposes Web Apps to Cache Poisoning and WAF Bypass Attacks",
+        "link": "https://securityonline.info/cve-2025-31137-react-router-vulnerability-exposes-web-apps-to-cache-poisoning-and-waf-bypass-attacks/",
+        "published": "Thu, 03 Apr 2025 01:52:39 +0000"
+    },
+    {
+        "title": "CVE-2025-0415 (CVSSv4 9.2): Critical Vulnerability Discovered in Moxa Network Devices",
+        "link": "https://securityonline.info/cve-2025-0415-cvssv4-9-2-critical-vulnerability-discovered-in-moxa-network-devices/",
+        "published": "Thu, 03 Apr 2025 01:11:36 +0000"
+    },
+    {
+        "title": "Multiple Vulnerabilities in Zabbix Open the Door to XSS, DoS, and SQL Injection",
+        "link": "https://securityonline.info/multiple-vulnerabilities-in-zabbix-open-the-door-to-xss-dos-and-sql-injection/",
+        "published": "Thu, 03 Apr 2025 01:00:53 +0000"
+    },
+    {
+        "title": "Outlaw Linux Malware: Persistent Threat Leveraging Simplicity",
+        "link": "https://securityonline.info/outlaw-linux-malware-persistent-threat-leveraging-simplicity/",
+        "published": "Thu, 03 Apr 2025 00:50:31 +0000"
+    },
+    {
+        "title": "DLL Sideloading Exposed: TookPS Hides with TeamViewer",
+        "link": "https://securityonline.info/dll-sideloading-exposed-tookps-hides-with-teamviewer/",
+        "published": "Thu, 03 Apr 2025 00:45:51 +0000"
+    },
+    {
+        "title": "Rancher Users: Update Now to Fix Admin Takeover Bug (CVE-2025-23391)",
+        "link": "https://securityonline.info/rancher-users-update-now-to-fix-admin-takeover-bug-cve-2025-23391/",
+        "published": "Thu, 03 Apr 2025 00:32:53 +0000"
+    },
+    {
+        "title": "DPRK IT Workers: A Global Threat Expanding in Scope and Scale",
+        "link": "https://securityonline.info/dprk-it-workers-a-global-threat-expanding-in-scope-and-scale/",
+        "published": "Thu, 03 Apr 2025 00:20:53 +0000"
+    },
+    {
+        "title": "High-Severity Vulnerabilities in Bruno API Client Expose Users to Potential RCE",
+        "link": "https://securityonline.info/high-severity-vulnerabilities-in-bruno-api-client-expose-users-to-potential-rce/",
+        "published": "Thu, 03 Apr 2025 00:15:15 +0000"
+    },
+    {
+        "title": "The Rise of Quishing: QR Codes as a Gateway to Phishing Attacks",
+        "link": "https://securityonline.info/the-rise-of-quishing-qr-codes-as-a-gateway-to-phishing-attacks/",
+        "published": "Thu, 03 Apr 2025 00:10:25 +0000"
+    },
+    {
+        "title": "Qilin Ransomware Attack Exploits MSP Vulnerability to Target Downstream Customers",
+        "link": "https://securityonline.info/qilin-ransomware-attack-exploits-msp-vulnerability-to-target-downstream-customers/",
+        "published": "Thu, 03 Apr 2025 00:05:10 +0000"
     }
 ]
