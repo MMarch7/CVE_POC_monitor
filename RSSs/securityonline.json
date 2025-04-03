@@ -6668,5 +6668,10 @@
         "title": "Amazon Eyes TikTok: Acquisition Race Heats Up",
         "link": "https://securityonline.info/amazon-eyes-tiktok-acquisition-race-heats-up/",
         "published": "Thu, 03 Apr 2025 05:32:10 +0000"
+    },
+    {
+        "title": "CVE-2025-31334: WinRAR Flaw Enables Mark-of-the-Web Bypass and Arbitrary Code Execution",
+        "link": "https://securityonline.info/cve-2025-31334-winrar-flaw-enables-mark-of-the-web-bypass-and-arbitrary-code-execution/",
+        "published": "Thu, 03 Apr 2025 07:13:22 +0000"
     }
 ]
