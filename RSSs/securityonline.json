@@ -6643,5 +6643,15 @@
         "title": "Qilin Ransomware Attack Exploits MSP Vulnerability to Target Downstream Customers",
         "link": "https://securityonline.info/qilin-ransomware-attack-exploits-msp-vulnerability-to-target-downstream-customers/",
         "published": "Thu, 03 Apr 2025 00:05:10 +0000"
+    },
+    {
+        "title": "Verizon Call Filter App Vulnerability Exposed Call Records of Millions",
+        "link": "https://securityonline.info/verizon-call-filter-app-vulnerability-exposed-call-records-of-millions/",
+        "published": "Thu, 03 Apr 2025 02:27:55 +0000"
+    },
+    {
+        "title": "Multiple Jenkins Plugin and Core Vulnerabilities Expose Sensitive Data and Execution Paths",
+        "link": "https://securityonline.info/multiple-jenkins-plugin-and-core-vulnerabilities-expose-sensitive-data-and-execution-paths/",
+        "published": "Thu, 03 Apr 2025 02:03:46 +0000"
     }
 ]
