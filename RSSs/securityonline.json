@@ -6673,5 +6673,10 @@
         "title": "CVE-2025-31334: WinRAR Flaw Enables Mark-of-the-Web Bypass and Arbitrary Code Execution",
         "link": "https://securityonline.info/cve-2025-31334-winrar-flaw-enables-mark-of-the-web-bypass-and-arbitrary-code-execution/",
         "published": "Thu, 03 Apr 2025 07:13:22 +0000"
+    },
+    {
+        "title": "CVE-2025-22457: UNC5221 Exploits Ivanti Zero-Day Flaw to Deploy TRAILBLAZE and BRUSHFIRE Malware",
+        "link": "https://securityonline.info/cve-2025-22457-unc5221-exploits-ivanti-zero-day-flaw-to-deploy-trailblaze-and-brushfire-malware/",
+        "published": "Thu, 03 Apr 2025 14:42:47 +0000"
     }
 ]
