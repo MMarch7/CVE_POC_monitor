@@ -319,3 +319,5 @@ clean_list:
 - cve-2025-22223-demo-1.0.0
 - CVE2005_Spring2025
 - CVE-2025-30911
+- crushftp-CVE-2025-2825
+- CVE-2025-30065
