@@ -6678,5 +6678,40 @@
         "title": "CVE-2025-22457: UNC5221 Exploits Ivanti Zero-Day Flaw to Deploy TRAILBLAZE and BRUSHFIRE Malware",
         "link": "https://securityonline.info/cve-2025-22457-unc5221-exploits-ivanti-zero-day-flaw-to-deploy-trailblaze-and-brushfire-malware/",
         "published": "Thu, 03 Apr 2025 14:42:47 +0000"
+    },
+    {
+        "title": "CVE-2025-2704: Critical Bug in OpenVPN Can Trigger Server Crashes",
+        "link": "https://securityonline.info/cve-2025-2704-critical-bug-in-openvpn-can-trigger-server-crashes/",
+        "published": "Fri, 04 Apr 2025 00:45:02 +0000"
+    },
+    {
+        "title": "Apache Traffic Server Hit by Request Smuggling Vulnerability (CVE-2024-53868)",
+        "link": "https://securityonline.info/apache-traffic-server-hit-by-request-smuggling-vulnerability-cve-2024-53868/",
+        "published": "Fri, 04 Apr 2025 00:36:26 +0000"
+    },
+    {
+        "title": "RolandSkimmer: New Wave of Credit Card Skimming Attacks",
+        "link": "https://securityonline.info/rolandskimmer-new-wave-of-credit-card-skimming-attacks/",
+        "published": "Fri, 04 Apr 2025 00:35:00 +0000"
+    },
+    {
+        "title": "Operation HollowQuill Unveiled: Weaponized Documents Infiltrate Russia’s Defense Sector",
+        "link": "https://securityonline.info/operation-hollowquill-unveiled-weaponized-documents-infiltrate-russias-defense-sector/",
+        "published": "Fri, 04 Apr 2025 00:25:49 +0000"
+    },
+    {
+        "title": "Carding Automation: Malicious PyPI Package Threatens Stores",
+        "link": "https://securityonline.info/carding-automation-malicious-pypi-package-threatens-stores/",
+        "published": "Fri, 04 Apr 2025 00:17:21 +0000"
+    },
+    {
+        "title": "Beware the Bait: BeaverTail and Tropidoor Malware Lurk in Recruitment Emails",
+        "link": "https://securityonline.info/beware-the-bait-beavertail-and-tropidoor-malware-lurk-in-recruitment-emails/",
+        "published": "Fri, 04 Apr 2025 00:13:53 +0000"
+    },
+    {
+        "title": "Cisco Addresses High Severity Vulnerabilities in Enterprise Chat and Email, and Meraki MX/Z Series Devices",
+        "link": "https://securityonline.info/cisco-addresses-high-severity-vulnerabilities-in-enterprise-chat-and-email-and-meraki-mx-z-series-devices/",
+        "published": "Fri, 04 Apr 2025 00:05:11 +0000"
     }
 ]
