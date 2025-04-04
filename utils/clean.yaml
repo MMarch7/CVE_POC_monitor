@@ -323,3 +323,4 @@ clean_list:
 - CVE-2025-30065
 - NextJS_CVE-2025-29927
 - CVE-2025-666666
+- Anydesk-Exploit-CVE-2025-12654-RCE-Builder
