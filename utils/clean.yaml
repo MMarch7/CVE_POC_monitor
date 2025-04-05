@@ -325,3 +325,4 @@ clean_list:
 - CVE-2025-666666
 - Anydesk-Exploit-CVE-2025-12654-RCE-Builder
 - Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection
+- CVE-2025-32118
