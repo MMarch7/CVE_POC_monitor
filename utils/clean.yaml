@@ -327,3 +327,7 @@ clean_list:
 - Cmd-Exploit-Cve-2025-Rce-AboRady-Fud-Injection
 - CVE-2025-32118
 - Vite-CVE-2025-30208-EXP
+- Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK
+- CVE-2025-30065-PoC
+- Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce
+- Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud
