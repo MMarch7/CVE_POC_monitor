@@ -336,3 +336,4 @@ clean_list:
 - CVE-2025-2783
 - nextjs-cve-2025-29927
 - craft-cms-RCE-CVE-2024-56145
+- CVE-2024-0582
