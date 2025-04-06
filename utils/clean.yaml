@@ -334,3 +334,4 @@ clean_list:
 - ediop3PHP
 - CVE-2024-4367
 - CVE-2025-2783
+- nextjs-cve-2025-29927
