@@ -343,3 +343,4 @@ clean_list:
 - CVE-2025-2825-Exploit
 - AWS-SAM-CLI-Vulnerabilities
 - CVE-2025-31486-PoC
+- NextJS-Exploit-
