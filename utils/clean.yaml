@@ -341,3 +341,4 @@ clean_list:
 - CVE_2024_42007
 - CVE-2025-30567-PoC
 - CVE-2025-2825-Exploit
+- AWS-SAM-CLI-Vulnerabilities
