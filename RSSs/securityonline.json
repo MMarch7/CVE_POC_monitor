@@ -6758,5 +6758,50 @@
         "title": "AI-Powered ‘Buy for Me’ Feature Turns Amazon App Into Personal Shopping Assistant",
         "link": "https://securityonline.info/ai-powered-buy-for-me-feature-turns-amazon-app-into-personal-shopping-assistant/",
         "published": "Sun, 06 Apr 2025 00:00:21 +0000"
+    },
+    {
+        "title": "Linux Kernel Vulnerability Exposes Local Systems to Privilege Escalation, PoC Published",
+        "link": "https://securityonline.info/linux-kernel-vulnerability-exposes-local-systems-to-privilege-escalation-poc-published/",
+        "published": "Mon, 07 Apr 2025 00:50:42 +0000"
+    },
+    {
+        "title": "Lazarus Group Expands Malicious Campaign on npm, Targets Developers with New Malware",
+        "link": "https://securityonline.info/lazarus-group-expands-malicious-campaign-on-npm-targets-developers-with-new-malware/",
+        "published": "Mon, 07 Apr 2025 00:40:02 +0000"
+    },
+    {
+        "title": "MinIO Urgently Patches High-Severity Incomplete Signature Validation Vulnerability",
+        "link": "https://securityonline.info/minio-urgently-patches-high-severity-incomplete-signature-validation-vulnerability/",
+        "published": "Mon, 07 Apr 2025 00:35:42 +0000"
+    },
+    {
+        "title": "Bitdefender GravityZone Console Hit by Critical PHP Deserialization Vulnerability",
+        "link": "https://securityonline.info/bitdefender-gravityzone-console-hit-by-critical-php-deserialization-vulnerability/",
+        "published": "Mon, 07 Apr 2025 00:28:18 +0000"
+    },
+    {
+        "title": "pgAdmin 4 Vulnerabilities Expose Databases to Remote Code Execution and XSS",
+        "link": "https://securityonline.info/pgadmin-4-vulnerabilities-expose-databases-to-remote-code-execution-and-xss/",
+        "published": "Mon, 07 Apr 2025 00:25:47 +0000"
+    },
+    {
+        "title": "CVE-2025-31115: XZ Utils Hit Again with High-Severity Multithreaded Decoder Bug",
+        "link": "https://securityonline.info/cve-2025-31115-xz-utils-hit-again-with-high-severity-multithreaded-decoder-bug/",
+        "published": "Mon, 07 Apr 2025 00:24:01 +0000"
+    },
+    {
+        "title": "New Evasive Campaign Uses Fake CAPTCHAs to Deliver LegionLoader",
+        "link": "https://securityonline.info/new-evasive-campaign-uses-fake-captchas-to-deliver-legionloader/",
+        "published": "Mon, 07 Apr 2025 00:17:32 +0000"
+    },
+    {
+        "title": "PoisonSeed Campaign: Uncovering a Web of Cryptocurrency and Email Provider Attacks",
+        "link": "https://securityonline.info/poisonseed-campaign-uncovering-a-web-of-cryptocurrency-and-email-provider-attacks/",
+        "published": "Mon, 07 Apr 2025 00:15:07 +0000"
+    },
+    {
+        "title": "Unpatched Dell PowerProtect Systems Vulnerable to Remote Compromise",
+        "link": "https://securityonline.info/unpatched-dell-powerprotect-systems-vulnerable-to-remote-compromise/",
+        "published": "Mon, 07 Apr 2025 00:10:13 +0000"
     }
 ]
