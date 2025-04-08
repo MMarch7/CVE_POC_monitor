@@ -6843,5 +6843,60 @@
         "title": "MediaTek’s April 2025 Security Bulletin: Critical WLAN Vulnerability Exposes Chipsets",
         "link": "https://securityonline.info/mediateks-april-2025-security-bulletin-critical-wlan-vulnerability-exposes-chipsets/",
         "published": "Mon, 07 Apr 2025 06:46:48 +0000"
+    },
+    {
+        "title": "TVT DVRs Under Siege: Massive Exploitation Attempts Expose Critical Flaw",
+        "link": "https://securityonline.info/tvt-dvrs-under-siege-massive-exploitation-attempts-expose-critical-flaw/",
+        "published": "Tue, 08 Apr 2025 01:50:29 +0000"
+    },
+    {
+        "title": "Top 5 VPN Vulnerabilities in 2025",
+        "link": "https://securityonline.info/top-5-vpn-vulnerabilities-in-2025/",
+        "published": "Tue, 08 Apr 2025 01:00:43 +0000"
+    },
+    {
+        "title": "WhatsApp for Windows Spoofing Vulnerability: Execute Code Risk (CVE-2025-30401)",
+        "link": "https://securityonline.info/whatsapp-for-windows-spoofing-vulnerability-execute-code-risk-cve-2025-30401/",
+        "published": "Tue, 08 Apr 2025 00:46:29 +0000"
+    },
+    {
+        "title": "CVE-2025-27520: Critical BentoML Flaw Allows Full Remote Code Execution, Exploit Available",
+        "link": "https://securityonline.info/cve-2025-27520-critical-bentoml-flaw-allows-full-remote-code-execution-exploit-available/",
+        "published": "Tue, 08 Apr 2025 00:40:42 +0000"
+    },
+    {
+        "title": "CVE-2024-11859: ToddyCat Group Hides Malware in ESET’s Scanner to Bypass Security",
+        "link": "https://securityonline.info/cve-2024-11859-toddycat-group-hides-malware-in-esets-scanner-to-bypass-security/",
+        "published": "Tue, 08 Apr 2025 00:39:58 +0000"
+    },
+    {
+        "title": "Smishing Triad Expands Fraud Campaign, Targets Toll Payment Services",
+        "link": "https://securityonline.info/smishing-triad-expands-fraud-campaign-targets-toll-payment-services/",
+        "published": "Tue, 08 Apr 2025 00:35:15 +0000"
+    },
+    {
+        "title": "Pexip Issues Urgent Security Update to Address Critical Vulnerabilities",
+        "link": "https://securityonline.info/pexip-issues-urgent-security-update-to-address-critical-vulnerabilities/",
+        "published": "Tue, 08 Apr 2025 00:33:20 +0000"
+    },
+    {
+        "title": "PoC Released for CVE-2025-3155: Yelp Flaw Can Expose SSH Keys on Ubuntu Systems",
+        "link": "https://securityonline.info/poc-released-for-cve-2025-3155-yelp-flaw-can-expose-ssh-keys-on-ubuntu-systems/",
+        "published": "Tue, 08 Apr 2025 00:24:49 +0000"
+    },
+    {
+        "title": "Sec-Gemini v1: Google’s AI Beats Rivals in Threat Analysis",
+        "link": "https://securityonline.info/sec-gemini-v1-googles-ai-beats-rivals-in-threat-analysis/",
+        "published": "Tue, 08 Apr 2025 00:18:51 +0000"
+    },
+    {
+        "title": "OpenAI Prepares to Watermark GPT-4o-Generated Images with ImageGen",
+        "link": "https://securityonline.info/openai-prepares-to-watermark-gpt-4o-generated-images-with-imagegen/",
+        "published": "Tue, 08 Apr 2025 00:12:03 +0000"
+    },
+    {
+        "title": "X (Twitter) to Sell Inactive Usernames!",
+        "link": "https://securityonline.info/x-twitter-to-sell-inactive-usernames/",
+        "published": "Tue, 08 Apr 2025 00:00:20 +0000"
     }
 ]
