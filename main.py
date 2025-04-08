@@ -248,7 +248,7 @@ def save_file_locally(url, filename):
         details = data.get('details', '')
         severity = data.get('database_specific', '').get('severity', '')
         for item in known_object:
-            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown"]:
+            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown","MEDIUM"]:
                 if item == "jenkins":
                     if "plugin" in details.lower() and "core" not in details.lower():
                         break
