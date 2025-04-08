@@ -73,5 +73,10 @@
         "title": "CVE-2025-22223 - Medium - CVE-2025-22223: Spring Security authorization bypass for method security annotations on parameterized types",
         "link": "https://spring.io/security/cve-2025-22223",
         "published": "Wed, 19 Mar 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22232 - Medium - CVE-2025-22232: Spring Cloud Config Server May Not Use Vault Token Sent By Clients",
+        "link": "https://spring.io/security/cve-2025-22232",
+        "published": "Mon, 07 Apr 2025 00:00:00 GMT"
     }
 ]
