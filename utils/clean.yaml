@@ -347,3 +347,5 @@ clean_list:
 - blackbox.ai.security.analysis
 - CVE-2025-31651
 - middleware-auth-bypass
+- CVE-2025-2807
+- ivantiunlocker
