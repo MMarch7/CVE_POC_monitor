@@ -349,3 +349,5 @@ clean_list:
 - middleware-auth-bypass
 - CVE-2025-2807
 - ivantiunlocker
+- CVE-2024-55210
+- CVE-2025-22457-PoC
