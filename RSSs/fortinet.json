@@ -503,5 +503,55 @@
         "title": "[FG-IR-20-105] Unauthenticated user can determine software-version information",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-20-105",
         "published": "Tue, 03 Nov 2020 00:00:00 -0800"
+    },
+    {
+        "title": "Directory Traversal",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-474",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "EMS can send javascript code to client through messages",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-344",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Incorrect user management in widgets dashboard",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-184",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "LDAP Clear-text credentials retrievable with IP modification",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-111",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Log Pollution via login page",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-453",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "No certificate name verification for fgfm connection",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-046",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection on diagnose feature (GUI)",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-397",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection on gen-ca-cert command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-392",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Unverified password change via set_password endpoint",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-435",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Use of uninitialized resource in SSLVPN websocket",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-165",
+        "published": "Tue, 08 Apr 2025 00:00:00 -0700"
     }
 ]

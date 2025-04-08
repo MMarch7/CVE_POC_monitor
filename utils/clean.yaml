@@ -351,3 +351,4 @@ clean_list:
 - ivantiunlocker
 - CVE-2024-55210
 - CVE-2025-22457-PoC
+- CVE-2025-27840-WIP

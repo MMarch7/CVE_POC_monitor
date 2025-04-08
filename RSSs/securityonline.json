@@ -6928,5 +6928,10 @@
         "title": "SAP April 2025 Patch Day: Critical Code Injection Risks",
         "link": "https://securityonline.info/sap-april-2025-patch-day-critical-code-injection-risks/",
         "published": "Tue, 08 Apr 2025 08:06:48 +0000"
+    },
+    {
+        "title": "Siemens Industrial Edge: Critical Authentication Flaw (CVE-2024-54092)",
+        "link": "https://securityonline.info/siemens-industrial-edge-critical-authentication-flaw-cve-2024-54092/",
+        "published": "Tue, 08 Apr 2025 14:24:31 +0000"
     }
 ]
