@@ -113,6 +113,7 @@ def parse_rss_feed(feed_url,file):
             if all_content_have_cve:
                 msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
                 logging.info(f"推送到google sheet：{entry.title}  "+entry.link)
+                msg_push.wechat_push(msg)
                 msg_push.send_google_sheet_githubVul("Emergency Vulnerability","RSS",entry.title,"",entry.link,"")
     # 如果有新增条目，则更新文件
     if new_entries_found:
@@ -227,7 +228,7 @@ def getCISANews():
     
     if new_cve_list:
         logging.info("企微推送CISA漏洞更新："  + ", ".join(new_cve_list))
-        
+        msg_push.wechat_push(msg)
         msg_push.tg_push(msg)
         with open("./utils/CISA.txt", 'a') as file:
             for cve in new_cve_list:
@@ -255,6 +256,7 @@ def save_file_locally(url, filename):
                 detail = utils.load.baidu_api(details)
                 msg = f"编号：{aliases_str}\r\n组件：{item}\r\n信息：{detail}\r\n链接：{url}"
                 logging.info(f"企微推送：{aliases_str}  "+url)
+                msg_push.wechat_push(msg)
                 msg_push.send_google_sheet_githubVul("Emergency Vulnerability","github",item,aliases_str,url,detail)
                 msg_push.tg_push(msg)
                 break
