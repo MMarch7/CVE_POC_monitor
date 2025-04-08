@@ -345,3 +345,4 @@ clean_list:
 - CVE-2025-31486-PoC
 - NextJS-Exploit-
 - blackbox.ai.security.analysis
+- CVE-2025-31651
