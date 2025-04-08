@@ -139,7 +139,9 @@ def get_github_raw_links(github_url):
             if item['type'] == 'file' and item['name'].endswith(('.py', '.yaml', '.yml')):
                 raw_links.append(item['download_url'])
         
-        return raw_links if raw_links else "项目中无脚本文件"  # 有文件返回列表，无则返回None
+        if isinstance(raw_links, list):
+            return '\n'.join(raw_links) if raw_links else "无脚本文件"
+        return str(raw_links)
     except Exception as e:
         logging.error(f"提取Raw地址请求失败，错误信息：{e}")
         return "网络错误异常"  # 网络错误或其他异常

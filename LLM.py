@@ -79,7 +79,12 @@ def main():
     for raws in raws_list:
         logging.info(f"开始推送数据包，地址：{raws}")
         if "http" in raws:
-            packets = run_llm_inference(raws).strip()
+            if "\n" in raws:
+                raw_list = raws.split("\n")
+                packets = [run_llm_inference(raw.strip()) for raw in raw_list]
+                packets = "\n".join(packets)
+            else:
+                packets = run_llm_inference(raws).strip()
         else:
             continue
         if packets:
