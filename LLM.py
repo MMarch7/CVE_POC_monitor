@@ -55,16 +55,17 @@ def run_llm_inference(raws):
         for line in f:  # 逐行处理，不一次性加载
             prompt = line.strip()  # 去掉首尾空白符
     content = requests.get(raws, headers=github_headers).text
-    chat_completion = client.chat.completions.create(
-        messages=[
-            {
-                "role": "user",
-                "content": prompt+content
-            }
-        ],
-        model = 'deepseek-r1'
-    )
     try:
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": prompt+content
+                }
+            ],
+            model = 'deepseek-r1'
+        )
+    
         text = chat_completion.choices[0].message.content
     except Exception as e:
         if e.code == 20059:
