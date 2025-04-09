@@ -7008,5 +7008,10 @@
         "title": "Critical Vulnerabilities: CISA Alerts to Windows CLFS and Gladinet CentreStack Threats",
         "link": "https://securityonline.info/critical-vulnerabilities-cisa-alerts-to-windows-clfs-and-gladinet-centrestack-threats/",
         "published": "Wed, 09 Apr 2025 02:02:33 +0000"
+    },
+    {
+        "title": "Kibana Code Injection Vulnerability: Prototype Pollution Threat (CVE-2024-12556)",
+        "link": "https://securityonline.info/kibana-code-injection-vulnerability-prototype-pollution-threat-cve-2024-12556/",
+        "published": "Wed, 09 Apr 2025 00:52:27 +0000"
     }
 ]
