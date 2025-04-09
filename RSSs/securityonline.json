@@ -6943,5 +6943,70 @@
         "title": "Fortinet: Critical Unverified Password Change Flaw in FortiSwitch",
         "link": "https://securityonline.info/fortinet-critical-unverified-password-change-flaw-in-fortiswitch/",
         "published": "Tue, 08 Apr 2025 15:56:58 +0000"
+    },
+    {
+        "title": "Windows CLFS Zero-Day Exploited to Deploy Ransomware",
+        "link": "https://securityonline.info/windows-clfs-zero-day-exploited-to-deploy-ransomware/",
+        "published": "Wed, 09 Apr 2025 01:34:21 +0000"
+    },
+    {
+        "title": "Siemens Security Alert: Critical Vulnerabilities in SENTRON 7KT PAC1260 Data Manager",
+        "link": "https://securityonline.info/siemens-security-alert-critical-vulnerabilities-in-sentron-7kt-pac1260-data-manager/",
+        "published": "Wed, 09 Apr 2025 01:00:50 +0000"
+    },
+    {
+        "title": "Kibana Code Injection Vulnerability: Prototype Pollution Threat (CVE-2024-12556)",
+        "link": "https://securityonline.info/kibana-code-injection-vulnerability-prototype-pollution-threat-cve-2024-12556/",
+        "published": "Wed, 09 Apr 2025 00:52:27 +0000"
+    },
+    {
+        "title": "Neptune RAT: Advanced Malware Targets Windows with Destructive Capabilities",
+        "link": "https://securityonline.info/neptune-rat-advanced-malware-targets-windows-with-destructive-capabilities/",
+        "published": "Wed, 09 Apr 2025 00:44:24 +0000"
+    },
+    {
+        "title": "Chrome Update Fixes High-Severity “Use After Free” Vulnerability",
+        "link": "https://securityonline.info/chrome-update-fixes-high-severity-use-after-free-vulnerability/",
+        "published": "Wed, 09 Apr 2025 00:42:31 +0000"
+    },
+    {
+        "title": "Rogue RDP: Abusing RDP for File Theft and Espionage",
+        "link": "https://securityonline.info/rogue-rdp-abusing-rdp-for-file-theft-and-espionage/",
+        "published": "Wed, 09 Apr 2025 00:40:18 +0000"
+    },
+    {
+        "title": "Microsoft April 2025 Patch Tuesday: Critical Security Updates and Zero-Day Exploits",
+        "link": "https://securityonline.info/microsoft-april-2025-patch-tuesday-critical-security-updates-and-zero-day-exploits/",
+        "published": "Wed, 09 Apr 2025 00:36:00 +0000"
+    },
+    {
+        "title": "Inaba Denki Sangyo Wi-Fi AP Units Affected by Critical Vulnerabilities",
+        "link": "https://securityonline.info/inaba-denki-sangyo-wi-fi-ap-units-affected-by-critical-vulnerabilities/",
+        "published": "Wed, 09 Apr 2025 00:30:03 +0000"
+    },
+    {
+        "title": "Vidar Stealer Hides in Legitimate BGInfo Tool",
+        "link": "https://securityonline.info/vidar-stealer-hides-in-legitimate-bginfo-tool/",
+        "published": "Wed, 09 Apr 2025 00:25:43 +0000"
+    },
+    {
+        "title": "SourceForge Used to Distribute ClipBanker Trojan and Cryptocurrency Miner",
+        "link": "https://securityonline.info/sourceforge-used-to-distribute-clipbanker-trojan-and-cryptocurrency-miner/",
+        "published": "Wed, 09 Apr 2025 00:24:47 +0000"
+    },
+    {
+        "title": "Grandoreiro Trojan Resurges in Phishing Attacks",
+        "link": "https://securityonline.info/grandoreiro-trojan-resurges-in-phishing-attacks/",
+        "published": "Wed, 09 Apr 2025 00:20:15 +0000"
+    },
+    {
+        "title": "Apache mod_auth_openidc Vulnerability Exposes Protected Content",
+        "link": "https://securityonline.info/apache-mod_auth_openidc-vulnerability-exposes-protected-content/",
+        "published": "Wed, 09 Apr 2025 00:10:44 +0000"
+    },
+    {
+        "title": "Malicious VSCode Extensions Caught Mining Crypto with XMRig",
+        "link": "https://securityonline.info/malicious-vscode-extensions-caught-mining-crypto-with-xmrig/",
+        "published": "Wed, 09 Apr 2025 00:05:58 +0000"
     }
 ]
