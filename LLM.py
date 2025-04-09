@@ -64,7 +64,11 @@ def run_llm_inference(raws):
         ],
         model = 'deepseek-r1'
     )
-    text = chat_completion.choices[0].message.content
+    try:
+        text = chat_completion.choices[0].message.content
+    except Exception as e:
+        if e.code == 20059:
+            return "[错误] 输入过长"
     if "No http request" in text:
         return "No http request"
     else:
