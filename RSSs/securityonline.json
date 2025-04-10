@@ -7108,5 +7108,25 @@
         "title": "CISA Warns of Actively Exploited Linux Kernel Vulnerabilities (CVE-2024-53197, CVE-2024-53150)",
         "link": "https://securityonline.info/cisa-warns-of-actively-exploited-linux-kernel-vulnerabilities-cve-2024-53197-cve-2024-53150/",
         "published": "Thu, 10 Apr 2025 02:16:24 +0000"
+    },
+    {
+        "title": "KB5055523 Update Creates Unnecessary inetpub Folder in Windows 11 24H2",
+        "link": "https://securityonline.info/kb5055523-update-creates-unnecessary-inetpub-folder-in-windows-11-24h2/",
+        "published": "Thu, 10 Apr 2025 10:31:19 +0000"
+    },
+    {
+        "title": "Google Gemini to Support Anthropic’s Model Context Protocol (MCP)",
+        "link": "https://securityonline.info/google-gemini-to-support-anthropics-model-context-protocol-mcp/",
+        "published": "Thu, 10 Apr 2025 10:26:15 +0000"
+    },
+    {
+        "title": "Google Firebase Studio Launches as AI-Powered IDE Rival to Cursor AI",
+        "link": "https://securityonline.info/google-firebase-studio-launches-as-ai-powered-ide-rival-to-cursor-ai/",
+        "published": "Thu, 10 Apr 2025 10:22:34 +0000"
+    },
+    {
+        "title": "KB5002700 Update Causing Office 2016 Crashes on Windows 10/11",
+        "link": "https://securityonline.info/kb5002700-update-causing-office-2016-crashes-on-windows-10-11/",
+        "published": "Thu, 10 Apr 2025 10:18:42 +0000"
     }
 ]
