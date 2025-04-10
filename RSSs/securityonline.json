@@ -7098,5 +7098,15 @@
         "title": "SureTriggers Vulnerability Exposes 100,000+ WordPress Sites to Admin Takeover",
         "link": "https://securityonline.info/suretriggers-vulnerability-exposes-100000-wordpress-sites-to-admin-takeover/",
         "published": "Thu, 10 Apr 2025 01:48:50 +0000"
+    },
+    {
+        "title": "SonicWall Patches Multi Vulnerabilities in NetExtender VPN Client",
+        "link": "https://securityonline.info/sonicwall-patches-multi-vulnerabilities-in-netextender-vpn-client/",
+        "published": "Thu, 10 Apr 2025 03:03:31 +0000"
+    },
+    {
+        "title": "CISA Warns of Actively Exploited Linux Kernel Vulnerabilities (CVE-2024-53197, CVE-2024-53150)",
+        "link": "https://securityonline.info/cisa-warns-of-actively-exploited-linux-kernel-vulnerabilities-cve-2024-53197-cve-2024-53150/",
+        "published": "Thu, 10 Apr 2025 02:16:24 +0000"
     }
 ]
