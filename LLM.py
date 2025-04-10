@@ -69,7 +69,11 @@ def run_llm_inference(raws):
         text = chat_completion.choices[0].message.content
     except Exception as e:
         if e.code == 20059:
-            return "[错误] 输入过长"
+            text = "[错误] 输入过长"
+            return text
+        else:
+            text = e.message
+            return text
     if "No http request" in text:
         return "No http request"
     else:

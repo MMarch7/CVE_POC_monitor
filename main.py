@@ -130,7 +130,7 @@ def get_github_raw_links(github_url):
     raw_links = []
     
     try:
-        response = requests.get(api_url, headers=github_headers, params={'ref': 'main'})
+        response = requests.get(api_url, headers=github_headers)
         if response.status_code != 200:
             logging.error(f"提取Raw地址请求失败，状态码：{response.status_code}")
 
@@ -350,6 +350,9 @@ def read_file(repo, branch, file_path):
         response = requests.get(url, headers=github_headers, timeout=10)
         response.raise_for_status()
         if "/wp-content/plugins/" in response.text and "readme.txt" in response.text:
+            logging.info(f"❌ {file_path}为版本对比插件")
+            return
+        if "wp-content/themes" in response.text and "style.css" in response.text:
             logging.info(f"❌ {file_path}为版本对比插件")
             return
         msg_push.tg_push(f"{repo}项目新增PoC推送:\r\n名称：{file_path}\r\n地址：{url}")
