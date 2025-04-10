@@ -355,3 +355,4 @@ clean_list:
 - CVE-2024-53027-WIP
 - CVE-2025-22457
 - ViteVulScan
+- CVE-2025-1974-go
