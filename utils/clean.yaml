@@ -357,3 +357,4 @@ clean_list:
 - ViteVulScan
 - CVE-2025-1974-go
 - swa2025041008u4r2mo0osbrrlxm2rx8cve
+- CVE-2025-31033
