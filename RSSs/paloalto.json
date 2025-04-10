@@ -223,5 +223,60 @@
         "title": "CVE-2025-0117 GlobalProtect App: Local Privilege Escalation (PE) Vulnerability (Severity: MEDIUM)",
         "link": "https://security.paloaltonetworks.com/CVE-2025-0117",
         "published": "2025-03-12T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0120 GlobalProtect App: Local Privilege Escalation (PE) Vulnerability (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0120",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0008 Chromium and Prisma Access Browser: Monthly Vulnerability Update (April 2025) (Severity: HIGH)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0008",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0124 PAN-OS: Authenticated File Deletion Vulnerability on the Management Web Interface (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0124",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0125 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0125",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0126 PAN-OS: Session Fixation Vulnerability in GlobalProtect SAML Login (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0126",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0127 PAN-OS: Authenticated Admin Command Injection Vulnerability in PAN-OS VM-Series (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0127",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0128 PAN-OS: Firewall Denial of Service (DoS) Using a Specially Crafted Packet (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0128",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0122 Prisma SD-WAN: Denial of Service (DoS) Vulnerability Through Burst of Crafted Packets (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0122",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0123 PAN-OS: Information Disclosure Vulnerability in HTTP/2 Packet Captures (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0123",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0121 Cortex XDR Agent: Local Windows User Can Crash the Agent (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0121",
+        "published": "2025-04-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0119 Cortex XDR Broker VM: Authenticated Command Injection Vulnerability in Broker VM (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0119",
+        "published": "2025-04-09T16:00:00.000Z"
     }
 ]

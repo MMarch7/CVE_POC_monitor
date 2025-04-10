@@ -7013,5 +7013,80 @@
         "title": "Kibana Code Injection Vulnerability: Prototype Pollution Threat (CVE-2024-12556)",
         "link": "https://securityonline.info/kibana-code-injection-vulnerability-prototype-pollution-threat-cve-2024-12556/",
         "published": "Wed, 09 Apr 2025 00:52:27 +0000"
+    },
+    {
+        "title": "Dell Addresses Security Vulnerabilities in PowerScale OneFS",
+        "link": "https://securityonline.info/dell-addresses-security-vulnerabilities-in-powerscale-onefs/",
+        "published": "Thu, 10 Apr 2025 01:00:56 +0000"
+    },
+    {
+        "title": "Scattered Spider Evolving: New Tactics and Spectre RAT",
+        "link": "https://securityonline.info/scattered-spider-evolving-new-tactics-and-spectre-rat/",
+        "published": "Thu, 10 Apr 2025 00:55:20 +0000"
+    },
+    {
+        "title": "NATS Server Vulnerability: Missing Access Controls in JetStream API",
+        "link": "https://securityonline.info/nats-server-vulnerability-missing-access-controls-in-jetstream-api/",
+        "published": "Thu, 10 Apr 2025 00:46:16 +0000"
+    },
+    {
+        "title": "Critical SSRF Vulnerability Patched in LNbits Lightning Wallet Server",
+        "link": "https://securityonline.info/critical-ssrf-vulnerability-patched-in-lnbits-lightning-wallet-server/",
+        "published": "Thu, 10 Apr 2025 00:40:04 +0000"
+    },
+    {
+        "title": "Spyware Alert: BADBAZAAR and MOONSHINE Target Civil Society and Ethnic Groups",
+        "link": "https://securityonline.info/spyware-alert-badbazaar-and-moonshine-target-civil-society-and-ethnic-groups/",
+        "published": "Thu, 10 Apr 2025 00:34:43 +0000"
+    },
+    {
+        "title": "High-Severity XXE Vulnerability Found in NAKIVO Backup & Replication",
+        "link": "https://securityonline.info/high-severity-xxe-vulnerability-found-in-nakivo-backup-replication/",
+        "published": "Thu, 10 Apr 2025 00:21:42 +0000"
+    },
+    {
+        "title": "“Pick Your Poison” Phishing Attack: Credentials or Malware?",
+        "link": "https://securityonline.info/pick-your-poison-phishing-attack-credentials-or-malware/",
+        "published": "Thu, 10 Apr 2025 00:18:08 +0000"
+    },
+    {
+        "title": "Evolving Cybercrime: Inside the Russian-Speaking Underground",
+        "link": "https://securityonline.info/evolving-cybercrime-inside-the-russian-speaking-underground/",
+        "published": "Thu, 10 Apr 2025 00:11:27 +0000"
+    },
+    {
+        "title": "Tool Poisoning Attacks: Critical Vulnerability Discovered in Model Context Protocol (MCP)",
+        "link": "https://securityonline.info/tool-poisoning-attacks-critical-vulnerability-discovered-in-model-context-protocol-mcp/",
+        "published": "Thu, 10 Apr 2025 00:05:27 +0000"
+    },
+    {
+        "title": "Google Launches Unified Security Powered by Gemini AI, Enhances Enterprise Protection",
+        "link": "https://securityonline.info/google-launches-unified-security-powered-by-gemini-ai-enhances-enterprise-protection/",
+        "published": "Wed, 09 Apr 2025 16:06:59 +0000"
+    },
+    {
+        "title": "Google Launches Cloud WAN for Secure, High-Performance Enterprise Networking",
+        "link": "https://securityonline.info/google-launches-cloud-wan-for-secure-high-performance-enterprise-networking/",
+        "published": "Wed, 09 Apr 2025 16:01:34 +0000"
+    },
+    {
+        "title": "Google Introduces Agent2Agent Protocol for Cross-Platform AI Agent Interoperability",
+        "link": "https://securityonline.info/google-introduces-agent2agent-protocol-for-cross-platform-ai-agent-interoperability/",
+        "published": "Wed, 09 Apr 2025 15:56:17 +0000"
+    },
+    {
+        "title": "Google’s Vertex AI Introduces Lyria Text-to-Music and Enhanced Generative AI Tools",
+        "link": "https://securityonline.info/googles-vertex-ai-introduces-lyria-text-to-music-and-enhanced-generative-ai-tools/",
+        "published": "Wed, 09 Apr 2025 15:50:34 +0000"
+    },
+    {
+        "title": "Google Workspace Introduces Workspace Flows and AI Enhancements",
+        "link": "https://securityonline.info/google-workspace-introduces-workspace-flows-and-ai-enhancements/",
+        "published": "Wed, 09 Apr 2025 15:44:17 +0000"
+    },
+    {
+        "title": "Google Launches Gemini 2.5 Flash for Fast, Cost-Effective AI on Vertex AI",
+        "link": "https://securityonline.info/google-launches-gemini-2-5-flash-for-fast-cost-effective-ai-on-vertex-ai/",
+        "published": "Wed, 09 Apr 2025 15:38:56 +0000"
     }
 ]
