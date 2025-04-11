@@ -369,3 +369,5 @@ clean_list:
 - CVE-2025-XXXXX
 - CVE-2024-34102
 - CVE-2025-31486
+- CVE-2025-32641
+- ShatteredFTP
