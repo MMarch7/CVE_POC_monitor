@@ -365,3 +365,5 @@ clean_list:
 - CVEs-2024-API
 - Poc_for_CVE-2025-24813
 - CVE-2024-21513
+- GeoServer-Tools-CVE-2024-36401
+- CVE-2025-XXXXX
