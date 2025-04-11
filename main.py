@@ -320,13 +320,18 @@ def get_latest_commit_files(repo,branch):
         processed_shas = load_processed_shas()
         # 分页获取新提交
         page = 1
+        max_pages = 2  # 新增：最多获取2页
         per_page = 100
         new_shas = []
         # 获取最新提交（指定分支）
-        while True:
+        while page <= max_pages:  # 修改循环条件
             commits_url = f"https://api.github.com/repos/{repo}/commits?per_page={per_page}&sha={branch}&page={page}"
             response = requests.get(commits_url, headers=github_headers, timeout=10)
-            response.raise_for_status()
+            try:
+                response.raise_for_status()
+            except requests.HTTPError as e:
+                logging.error(f"获取提交列表失败: URL={commits_url}, 错误: {str(e)}")
+                return []
             commits = response.json()
             if not commits:
                 break
