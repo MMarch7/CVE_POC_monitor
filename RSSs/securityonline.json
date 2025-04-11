@@ -7213,5 +7213,15 @@
         "title": "ChatGPT Introduces “Memory” Feature for Personalized Interactions",
         "link": "https://securityonline.info/chatgpt-introduces-memory-feature-for-personalized-interactions/",
         "published": "Fri, 11 Apr 2025 07:29:07 +0000"
+    },
+    {
+        "title": "Critical Vulnerability Exposes Langflow Servers to Full Compromise",
+        "link": "https://securityonline.info/critical-vulnerability-exposes-langflow-servers-to-full-compromise/",
+        "published": "Fri, 11 Apr 2025 10:08:03 +0000"
+    },
+    {
+        "title": "InstaWP Connect Plugin Exposes WordPress Sites to Critical File Inclusion Vulnerability",
+        "link": "https://securityonline.info/instawp-connect-plugin-exposes-wordpress-sites-to-critical-file-inclusion-vulnerability/",
+        "published": "Fri, 11 Apr 2025 09:50:39 +0000"
     }
 ]

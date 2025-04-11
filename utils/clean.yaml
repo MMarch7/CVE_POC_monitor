@@ -368,3 +368,4 @@ clean_list:
 - GeoServer-Tools-CVE-2024-36401
 - CVE-2025-XXXXX
 - CVE-2024-34102
+- CVE-2025-31486
