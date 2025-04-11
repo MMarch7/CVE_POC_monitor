@@ -22,6 +22,12 @@ CleanKeywords = utils.load.load_clean_list()
 known_object = utils.load.load_object_list()
 github_sha = "./utils/sha.txt"
 
+def load_processed_shas():
+    if not os.path.exists(github_sha):
+        return set()
+    with open(github_sha, 'r') as f:
+        return {line.strip() for line in f if line.strip()}
+
 github_headers = {
     'Authorization': "token {}".format(github_token)
 }
@@ -309,36 +315,51 @@ def getGithubVun():
             logging.info(f"Failed to retrieve commit details: {details_response.status_code}")
             
 # 获取最近一次提交的变更文件
-def get_latest_commit_files(repo):
-    url = f"https://api.github.com/repos/{repo}/commits"
+def get_latest_commit_files(repo,branch):
     try:
-        response = requests.get(url, headers=github_headers, timeout=10)
-        response.raise_for_status()
-        commits = response.json()
-
-        if not commits:
-            logging.warning(f"{repo} 没有找到提交记录")
+        processed_shas = load_processed_shas()
+        # 分页获取新提交
+        page = 1
+        per_page = 100
+        new_shas = []
+        # 获取最新提交（指定分支）
+        while True:
+            commits_url = f"https://api.github.com/repos/{repo}/commits?per_page={per_page}&sha={branch}&page={page}"
+            response = requests.get(commits_url, headers=github_headers, timeout=10)
+            response.raise_for_status()
+            commits = response.json()
+            if not commits:
+                break
+            for commit in commits:
+                sha = commit["sha"]
+                if sha in processed_shas:
+                    # 遇到已处理 SHA，停止遍历
+                    break
+                new_shas.append(sha)
+            # 如果当前页有已处理 SHA，停止翻页
+            if any(sha in processed_shas for sha in new_shas):
+                break
+            page += 1
+        if not new_shas:
+            logging.info(f"{repo} 无新提交")
             return []
-
-        commit_sha = commits[0]["sha"]  # 最新 commit 的 SHA 值
-        with open(github_sha, 'r') as file:
-            lines = file.readlines()
-            # 如果a在文件中，则结束函数
-            if str(commit_sha) + '\n' in lines:
-                logging.info("没有新的commit被提交")
-                return
-        with open(github_sha, 'a') as file:
-            file.write(str(commit_sha) + '\n')
-        logging.info(f"{repo} 最新提交 SHA: {commit_sha}")
-
-        # 获取该 SHA 的详细变更
-        details_url = f"https://api.github.com/repos/{repo}/commits/{commit_sha}"
-        details_response = requests.get(details_url, headers=github_headers, timeout=10)
-        details_response.raise_for_status()
-        commit_data = details_response.json()
-        # 提取变更的文件列表
-        changed_files = [file["filename"] for file in commit_data.get("files", [])]
-        return changed_files
+        # 收集所有变更文件
+        all_files = []
+        for sha in new_shas:
+            details_url = f"https://api.github.com/repos/{repo}/commits/{sha}"
+            details_response = requests.get(details_url, headers=github_headers, timeout=15)
+            details_response.raise_for_status()
+            commit_data = details_response.json()
+            files = [file["filename"] 
+                     for file in commit_data.get("files", [])
+                     if file.get("status") == "added" ] # 仅保留新增文件]
+            all_files.extend(files)
+        # 批量记录 SHA
+        with open(github_sha, 'a') as f:
+            for sha in new_shas:
+                f.write(f"{sha}\n")
+        logging.info(f"{repo} 最新提交 SHA: {new_shas}")
+        return all_files
     except requests.RequestException as e:
         logging.error(f"获取 {repo} 最新提交失败: {e}")
         return []
@@ -364,11 +385,17 @@ def read_file(repo, branch, file_path):
 def getRepoPoCs():
     for repo in repo_list:
         repo_name = repo["name"]
-        folder = repo["folder"]
+        folder = repo["folder"].rstrip('/') + '/'  # 规范目录格式
         branch = repo.get("branch", "main")
-        changed_files = get_latest_commit_files(repo_name)
-        if changed_files:
-            new_files = [file for file in changed_files if file.startswith(folder)]
+        changed_files = get_latest_commit_files(repo_name, branch)
+        if changed_files is None:
+            logging.error(f"❌ 获取 {repo_name} 的变更文件失败，已跳过")
+            continue  # 错误已记录，跳过处理
+        new_files = list({file for file in changed_files if file.startswith(folder)})
+        if new_files:
+            logging.info(f"📦 {repo_name} 发现 {len(new_files)} 个新文件:")
+            for idx, file in enumerate(new_files, 1):
+                logging.info(f"  {idx}. {file}")
             for file in new_files:
                 read_file(repo_name, branch, file)
         else:
