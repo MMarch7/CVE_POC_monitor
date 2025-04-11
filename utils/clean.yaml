@@ -371,3 +371,6 @@ clean_list:
 - CVE-2025-31486
 - CVE-2025-32641
 - ShatteredFTP
+- OZForensics_exploit
+- exp-cmd-add-admin-vpn-CVE-2024-55591
+- CVE-2025-32206
