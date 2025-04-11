@@ -7183,5 +7183,25 @@
         "title": "Critical Vulnerability (CVE-2025-31498) Patched in c-ares DNS Library",
         "link": "https://securityonline.info/critical-vulnerability-cve-2025-31498-patched-in-c-ares-dns-library/",
         "published": "Fri, 11 Apr 2025 00:06:25 +0000"
+    },
+    {
+        "title": "Jenkins Docker Images Vulnerable to SSH Host Key Reuse",
+        "link": "https://securityonline.info/jenkins-docker-images-vulnerable-to-ssh-host-key-reuse/",
+        "published": "Fri, 11 Apr 2025 03:05:49 +0000"
+    },
+    {
+        "title": "RemoteMonologue: New DCOM Attack Bypasses LSASS Protection",
+        "link": "https://securityonline.info/remotemonologue-new-dcom-attack-bypasses-lsass-protection/",
+        "published": "Fri, 11 Apr 2025 02:55:58 +0000"
+    },
+    {
+        "title": "Microsoft Releases Emergency Fix for Office 2016 Update Crashes",
+        "link": "https://securityonline.info/microsoft-releases-emergency-fix-for-office-2016-update-crashes/",
+        "published": "Fri, 11 Apr 2025 02:11:58 +0000"
+    },
+    {
+        "title": "Windows 11 Updates Now Show Estimated Installation Time",
+        "link": "https://securityonline.info/windows-11-updates-now-show-estimated-installation-time/",
+        "published": "Fri, 11 Apr 2025 02:06:31 +0000"
     }
 ]
