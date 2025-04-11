@@ -7148,5 +7148,40 @@
         "title": "Anthropic Launches Claude Max Subscription with Higher Usage Tiers",
         "link": "https://securityonline.info/anthropic-launches-claude-max-subscription-with-higher-usage-tiers/",
         "published": "Thu, 10 Apr 2025 10:40:05 +0000"
+    },
+    {
+        "title": "Joomla Security Alert: Critical SQL Injection & MFA Bypass Vulnerabilities Uncovered",
+        "link": "https://securityonline.info/joomla-security-alert-critical-sql-injection-mfa-bypass-vulnerabilities-uncovered/",
+        "published": "Fri, 11 Apr 2025 00:50:21 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities in Spotfire Products Allow Code Execution (CVE-2025-3114, CVE-2025-3115)",
+        "link": "https://securityonline.info/critical-vulnerabilities-in-spotfire-products-allow-code-execution-cve-2025-3114-cve-2025-3115/",
+        "published": "Fri, 11 Apr 2025 00:40:10 +0000"
+    },
+    {
+        "title": "Microsoft Enhances Exchange and SharePoint Security with AMSI Integration",
+        "link": "https://securityonline.info/microsoft-enhances-exchange-and-sharepoint-security-with-amsi-integration/",
+        "published": "Fri, 11 Apr 2025 00:35:47 +0000"
+    },
+    {
+        "title": "Sapphire Werewolf’s Amethyst Stealer Targets Energy Companies",
+        "link": "https://securityonline.info/sapphire-werewolfs-amethyst-stealer-targets-energy-companies/",
+        "published": "Fri, 11 Apr 2025 00:30:05 +0000"
+    },
+    {
+        "title": "Arista EOS: Critical Vulnerability Exposes Cleartext Transmission (CVE-2024-12378)",
+        "link": "https://securityonline.info/arista-eos-critical-vulnerability-exposes-cleartext-transmission-cve-2024-12378/",
+        "published": "Fri, 11 Apr 2025 00:20:34 +0000"
+    },
+    {
+        "title": "SideCopy APT Group Evolves Tactics, Targets Critical Indian Infrastructure",
+        "link": "https://securityonline.info/sidecopy-apt-group-evolves-tactics-targets-critical-indian-infrastructure/",
+        "published": "Fri, 11 Apr 2025 00:12:28 +0000"
+    },
+    {
+        "title": "Critical Vulnerability (CVE-2025-31498) Patched in c-ares DNS Library",
+        "link": "https://securityonline.info/critical-vulnerability-cve-2025-31498-patched-in-c-ares-dns-library/",
+        "published": "Fri, 11 Apr 2025 00:06:25 +0000"
     }
 ]
