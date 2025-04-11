@@ -254,7 +254,7 @@ def save_file_locally(url, filename):
         details = data.get('details', '')
         severity = data.get('database_specific', '').get('severity', '')
         for item in known_object:
-            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown","MEDIUM"]:
+            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown","MODERATE"]:
                 if item == "jenkins":
                     if "plugin" in details.lower() and "core" not in details.lower():
                         break
@@ -352,9 +352,13 @@ def get_latest_commit_files(repo,branch):
         all_files = []
         for sha in new_shas:
             details_url = f"https://api.github.com/repos/{repo}/commits/{sha}"
-            details_response = requests.get(details_url, headers=github_headers, timeout=15)
-            details_response.raise_for_status()
-            commit_data = details_response.json()
+            try:
+                details_response = requests.get(details_url, headers=github_headers, timeout=15)
+                details_response.raise_for_status()
+                commit_data = details_response.json()
+            except requests.RequestException as e:
+                logging.error(f"解析失败: {details_url} - {str(e)}")
+                continue
             files = [file["filename"] 
                      for file in commit_data.get("files", [])
                      if file.get("status") == "added" ] # 仅保留新增文件]
