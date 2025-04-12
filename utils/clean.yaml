@@ -375,3 +375,5 @@ clean_list:
 - exp-cmd-add-admin-vpn-CVE-2024-55591
 - CVE-2025-32206
 - CVE-2025-28346
+- nextjs-CVE-2025-29927-hunter
+- CVE-2024-36991-modified
