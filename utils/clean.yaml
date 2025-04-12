@@ -378,3 +378,4 @@ clean_list:
 - nextjs-CVE-2025-29927-hunter
 - CVE-2024-36991-modified
 - vanda-CVE-2025-3102
+- cve-pdf-host
