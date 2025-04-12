@@ -379,3 +379,4 @@ clean_list:
 - CVE-2024-36991-modified
 - vanda-CVE-2025-3102
 - cve-pdf-host
+- Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC
