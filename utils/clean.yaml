@@ -374,3 +374,4 @@ clean_list:
 - OZForensics_exploit
 - exp-cmd-add-admin-vpn-CVE-2024-55591
 - CVE-2025-32206
+- CVE-2025-28346
