@@ -7238,5 +7238,25 @@
         "title": "AkiraBot: AI-Powered Spam Bot Floods Websites with Personalized Messages",
         "link": "https://securityonline.info/akirabot-ai-powered-spam-bot-floods-websites-with-personalized-messages/",
         "published": "Sat, 12 Apr 2025 00:16:32 +0000"
+    },
+    {
+        "title": "CVE-2025-32896: Apache SeaTunnel Flaw Enables Unauthenticated File Read & RCE",
+        "link": "https://securityonline.info/cve-2025-32896-apache-seatunnel-flaw-enables-unauthenticated-file-read-rce/",
+        "published": "Sun, 13 Apr 2025 01:49:09 +0000"
+    },
+    {
+        "title": "SVG Phishing Surge: How Image Files Are Being Weaponized to Steal Credentials",
+        "link": "https://securityonline.info/svg-phishing-surge-how-image-files-are-being-weaponized-to-steal-credentials/",
+        "published": "Sun, 13 Apr 2025 00:40:01 +0000"
+    },
+    {
+        "title": "CVE-2024-0132: Incomplete NVIDIA Toolkit Patch Enables Container Escape and DoS Attacks",
+        "link": "https://securityonline.info/cve-2024-0132-incomplete-nvidia-toolkit-patch-enables-container-escape-and-dos-attacks/",
+        "published": "Sun, 13 Apr 2025 00:27:12 +0000"
+    },
+    {
+        "title": "ViperSoftX Malware: Arabic-Speaking Attackers Exploit PowerShell in New Cyberattack Campaign",
+        "link": "https://securityonline.info/vipersoftx-malware-arabic-speaking-attackers-exploit-powershell-in-new-cyberattack-campaign/",
+        "published": "Sun, 13 Apr 2025 00:04:26 +0000"
     }
 ]

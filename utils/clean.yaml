@@ -380,3 +380,4 @@ clean_list:
 - vanda-CVE-2025-3102
 - cve-pdf-host
 - Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC
+- PoC-CVE-2025-26529
