@@ -7268,5 +7268,65 @@
         "title": "Critical Vulnerabilities & Major Cyberattacks: April 7-13 Recap",
         "link": "https://securityonline.info/critical-vulnerabilities-major-cyberattacks-april-7-13-recap/",
         "published": "Sun, 13 Apr 2025 22:28:18 +0000"
+    },
+    {
+        "title": "CVE-2025-32428: Jupyter Remote Desktop Proxy Exposes TigerVNC to Network Access",
+        "link": "https://securityonline.info/cve-2025-32428-jupyter-remote-desktop-proxy-exposes-tigervnc-to-network-access/",
+        "published": "Mon, 14 Apr 2025 01:55:08 +0000"
+    },
+    {
+        "title": "Tor Browser and the Dark Web: A Beginner’s Guide to Anonymity and Security",
+        "link": "https://securityonline.info/tor-browser-and-the-dark-web-a-beginners-guide-to-anonymity-and-security/",
+        "published": "Mon, 14 Apr 2025 00:55:52 +0000"
+    },
+    {
+        "title": "CVE-2025-27840: How a Tiny ESP32 Chip Could Crack Open Bitcoin Wallets Worldwide",
+        "link": "https://securityonline.info/cve-2025-27840-how-a-tiny-esp32-chip-could-crack-open-bitcoin-wallets-worldwide/",
+        "published": "Mon, 14 Apr 2025 00:46:49 +0000"
+    },
+    {
+        "title": "Nationwide Smishing Scam Targets Toll Road Users, Stealing Payment Data",
+        "link": "https://securityonline.info/nationwide-smishing-scam-targets-toll-road-users-stealing-payment-data/",
+        "published": "Mon, 14 Apr 2025 00:40:13 +0000"
+    },
+    {
+        "title": "npm Malware Targets Atomic and Exodus Wallets to Steal Crypto Funds",
+        "link": "https://securityonline.info/npm-malware-targets-atomic-and-exodus-wallets-to-steal-crypto-funds/",
+        "published": "Mon, 14 Apr 2025 00:30:50 +0000"
+    },
+    {
+        "title": "TROX Stealer: Urgency-Themed MaaS Malware Targets Consumer Data",
+        "link": "https://securityonline.info/trox-stealer-urgency-themed-maas-malware-targets-consumer-data/",
+        "published": "Mon, 14 Apr 2025 00:28:56 +0000"
+    },
+    {
+        "title": "Smishing Triad: eCrime Group Targets 121+ Countries with Advanced Smishing",
+        "link": "https://securityonline.info/smishing-triad-ecrime-group-targets-121-countries-with-advanced-smishing/",
+        "published": "Mon, 14 Apr 2025 00:18:45 +0000"
+    },
+    {
+        "title": "Malicious NPM Packages Target PayPal Users to Steal Sensitive Data",
+        "link": "https://securityonline.info/malicious-npm-packages-target-paypal-users-to-steal-sensitive-data/",
+        "published": "Mon, 14 Apr 2025 00:16:26 +0000"
+    },
+    {
+        "title": "Urgent: Yii 2 Vulnerability CVE-2024-58136 Under Active Exploit",
+        "link": "https://securityonline.info/cve-2024-58136-yii-2-flaw-exposes-applications-to-remote-code-execution/",
+        "published": "Mon, 14 Apr 2025 00:10:04 +0000"
+    },
+    {
+        "title": "GOFFEE APT: New PowerModul Implant and Tactics Target Russian Organizations",
+        "link": "https://securityonline.info/goffee-apt-new-powermodul-implant-and-tactics-target-russian-organizations/",
+        "published": "Mon, 14 Apr 2025 00:05:09 +0000"
+    },
+    {
+        "title": "Houthi Influence Campaign: Deceptive Tactics on Facebook Target Israel and Gulf States",
+        "link": "https://securityonline.info/houthi-influence-campaign-deceptive-tactics-on-facebook-target-israel-and-gulf-states/",
+        "published": "Mon, 14 Apr 2025 00:02:52 +0000"
+    },
+    {
+        "title": "CVE-2024-56406: Heap Overflow Vulnerability in Perl Threatens Denial of Service and Potential Code Execution",
+        "link": "https://securityonline.info/cve-2024-56406-heap-overflow-vulnerability-in-perl-threatens-denial-of-service-and-potential-code-execution/",
+        "published": "Sun, 13 Apr 2025 23:27:22 +0000"
     }
 ]
