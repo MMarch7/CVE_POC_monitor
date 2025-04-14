@@ -7328,5 +7328,15 @@
         "title": "CVE-2024-56406: Heap Overflow Vulnerability in Perl Threatens Denial of Service and Potential Code Execution",
         "link": "https://securityonline.info/cve-2024-56406-heap-overflow-vulnerability-in-perl-threatens-denial-of-service-and-potential-code-execution/",
         "published": "Sun, 13 Apr 2025 23:27:22 +0000"
+    },
+    {
+        "title": "SSL Certificate Validity Reduced to 47 Days After Apple Proposal",
+        "link": "https://securityonline.info/ssl-certificate-validity-reduced-to-47-days-after-apple-proposal/",
+        "published": "Mon, 14 Apr 2025 04:12:19 +0000"
+    },
+    {
+        "title": "OpenAI to Require ID Verification for Advanced AI Models",
+        "link": "https://securityonline.info/openai-to-require-id-verification-for-advanced-ai-models/",
+        "published": "Mon, 14 Apr 2025 03:40:06 +0000"
     }
 ]
