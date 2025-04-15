@@ -396,3 +396,4 @@ clean_list:
 - CVE-2025-32579
 - exploit-CVE-2025-29927
 - Exploit-CVE-2025-24799
+- CVE-2025-29722
