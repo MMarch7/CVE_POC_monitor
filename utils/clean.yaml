@@ -399,3 +399,4 @@ clean_list:
 - CVE-2025-29722
 - poc_CVE-2025-24016
 - CVE-2024-52550
+- mitre-cve-database
