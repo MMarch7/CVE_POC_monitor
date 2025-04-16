@@ -401,3 +401,5 @@ clean_list:
 - CVE-2024-52550
 - mitre-cve-database
 - cve_2024_23651
+- CVE-2024-28000
+- CVE-2024-36842-Backdooring-Oncord-Android-Sterio-
