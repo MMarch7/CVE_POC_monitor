@@ -7558,5 +7558,15 @@
         "title": "SquareX to Uncover Data Splicing Attacks at BSides San Francisco, A Major DLP Flaw that Compromises Data Security of Millions",
         "link": "https://securityonline.info/squarex-to-uncover-data-splicing-attacks-at-bsides-san-francisco-a-major-dlp-flaw-that-compromises-data-security-of-millions/",
         "published": "Wed, 16 Apr 2025 13:00:12 +0000"
+    },
+    {
+        "title": "CVE-2025-24054: Actively Exploited NTLM Hash Disclosure Vulnerability",
+        "link": "https://securityonline.info/cve-2025-24054-actively-exploited-ntlm-hash-disclosure-vulnerability/",
+        "published": "Wed, 16 Apr 2025 14:09:44 +0000"
+    },
+    {
+        "title": "CISA Extends CVE Program Funding to Prevent Critical Service Disruption",
+        "link": "https://securityonline.info/cisa-extends-cve-program-funding-to-prevent-critical-service-disruption/",
+        "published": "Wed, 16 Apr 2025 13:56:50 +0000"
     }
 ]
