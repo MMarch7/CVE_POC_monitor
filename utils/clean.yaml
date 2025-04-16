@@ -404,3 +404,6 @@ clean_list:
 - CVE-2024-28000
 - CVE-2024-36842-Backdooring-Oncord-Android-Sterio-
 - CVE-2025-29927-NextJs-Middleware-Simulation
+- CVE-2024-3094
+- CVE-2025-30967
+- CVE-2024-57394
