@@ -400,3 +400,4 @@ clean_list:
 - poc_CVE-2025-24016
 - CVE-2024-52550
 - mitre-cve-database
+- cve_2024_23651
