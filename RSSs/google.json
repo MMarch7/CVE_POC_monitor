@@ -153,5 +153,15 @@
         "title": "Stable Channel Update for Desktop",
         "link": "http://chromereleases.googleblog.com/2025/04/stable-channel-update-for-desktop_8.html",
         "published": "2025-04-08T10:45:00.000-07:00"
+    },
+    {
+        "title": "Stable Channel Update for ChromeOS / ChromeOS Flex",
+        "link": "http://chromereleases.googleblog.com/2025/04/stable-channel-update-for-chromeos_17.html",
+        "published": "2025-04-17T15:01:00.000-07:00"
+    },
+    {
+        "title": "Long Term Support Channel Update for ChromeOS",
+        "link": "http://chromereleases.googleblog.com/2025/04/long-term-support-channel-update-for.html",
+        "published": "2025-04-17T14:59:00.000-07:00"
     }
 ]
