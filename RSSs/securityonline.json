@@ -7678,5 +7678,10 @@
         "title": "CISA Warns of Credential Risks Tied to Oracle Cloud Breach",
         "link": "https://securityonline.info/cisa-warns-of-credential-risks-tied-to-oracle-cloud-breach/",
         "published": "Thu, 17 Apr 2025 07:27:44 +0000"
+    },
+    {
+        "title": "RomethemeKit Elementor Plugin Flaw Enables RCE: CVE-2025-30911",
+        "link": "https://securityonline.info/romethemekit-elementor-plugin-flaw-enables-rce-cve-2025-30911/",
+        "published": "Thu, 17 Apr 2025 09:36:21 +0000"
     }
 ]
