@@ -7573,5 +7573,60 @@
         "title": "Urgent Apple Security Patch: Zero-Day Exploits Target iPhones",
         "link": "https://securityonline.info/urgent-apple-security-patch-zero-day-exploits-target-iphones/",
         "published": "Wed, 16 Apr 2025 22:39:08 +0000"
+    },
+    {
+        "title": "Erlang/OTP CVE-2025-32433 (CVSS 10): Critical SSH Flaw Allows Unauthenticated RCE",
+        "link": "https://securityonline.info/erlang-otp-cve-2025-32433-cvss-10-critical-ssh-flaw-allows-unauthenticated-rce/",
+        "published": "Thu, 17 Apr 2025 00:55:38 +0000"
+    },
+    {
+        "title": "Node.js Misused in Malvertising Campaigns to Deliver Stealthy Malware",
+        "link": "https://securityonline.info/node-js-misused-in-malvertising-campaigns-to-deliver-stealthy-malware/",
+        "published": "Thu, 17 Apr 2025 00:50:06 +0000"
+    },
+    {
+        "title": "Onfido Users Targeted in Google Ad Malvertising Campaign",
+        "link": "https://securityonline.info/onfido-users-targeted-in-google-ad-malvertising-campaign/",
+        "published": "Thu, 17 Apr 2025 00:43:10 +0000"
+    },
+    {
+        "title": "Novel Attack Uses Teams Phishing and Zero-Day TypeLib Hijacking",
+        "link": "https://securityonline.info/novel-attack-uses-teams-phishing-and-zero-day-typelib-hijacking/",
+        "published": "Thu, 17 Apr 2025 00:38:53 +0000"
+    },
+    {
+        "title": "Cyberattacks Surge Against Energy Sector Amid Geopolitical Tensions",
+        "link": "https://securityonline.info/cyberattacks-surge-against-energy-sector-amid-geopolitical-tensions/",
+        "published": "Thu, 17 Apr 2025 00:30:35 +0000"
+    },
+    {
+        "title": "Cisco Patches CVE-2025-20236: Unauthenticated RCE Flaw in Webex App via Malicious Meeting Links",
+        "link": "https://securityonline.info/cisco-patches-cve-2025-20236-unauthenticated-rce-flaw-in-webex-app-via-malicious-meeting-links/",
+        "published": "Thu, 17 Apr 2025 00:27:07 +0000"
+    },
+    {
+        "title": "APT29 Targets European Diplomats with Wine-Themed Phishing",
+        "link": "https://securityonline.info/apt29-targets-european-diplomats-with-wine-themed-phishing/",
+        "published": "Thu, 17 Apr 2025 00:26:49 +0000"
+    },
+    {
+        "title": "CISA Alert: Actively Exploited SonicWall SMA100 Vulnerability",
+        "link": "https://securityonline.info/cisa-alert-actively-exploited-sonicwall-sma100-vulnerability/",
+        "published": "Thu, 17 Apr 2025 00:22:16 +0000"
+    },
+    {
+        "title": "Unprotected APIs Expose Data of 33,000 Employees",
+        "link": "https://securityonline.info/unprotected-apis-expose-data-of-33000-employees/",
+        "published": "Thu, 17 Apr 2025 00:17:53 +0000"
+    },
+    {
+        "title": "LummaStealer: The Evolution of a Sophisticated MaaS",
+        "link": "https://securityonline.info/lummastealer-the-evolution-of-a-sophisticated-maas/",
+        "published": "Thu, 17 Apr 2025 00:10:57 +0000"
+    },
+    {
+        "title": "CrazyHunter Ransomware Targets Taiwan’s Critical Infrastructure",
+        "link": "https://securityonline.info/crazyhunter-ransomware-targets-taiwans-critical-infrastructure/",
+        "published": "Thu, 17 Apr 2025 00:03:06 +0000"
     }
 ]
