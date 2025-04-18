@@ -426,3 +426,4 @@ clean_list:
 - CVE-2025-24054_PoC
 - CVE-2024-4577-Exploit
 - CVE-2025-24813-vulhub
+- CVE-2024-53924
