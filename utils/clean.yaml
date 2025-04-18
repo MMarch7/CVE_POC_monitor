@@ -423,3 +423,6 @@ clean_list:
 - CVE-2025-32433.py
 - CVE-2025-32433-detection
 - swa2025041810k1o3gndkac43x7qju26cve
+- CVE-2025-24054_PoC
+- CVE-2024-4577-Exploit
+- CVE-2025-24813-vulhub
