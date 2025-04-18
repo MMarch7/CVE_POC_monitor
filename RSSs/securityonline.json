@@ -7683,5 +7683,50 @@
         "title": "RomethemeKit Elementor Plugin Flaw Enables RCE: CVE-2025-30911",
         "link": "https://securityonline.info/romethemekit-elementor-plugin-flaw-enables-rce-cve-2025-30911/",
         "published": "Thu, 17 Apr 2025 09:36:21 +0000"
+    },
+    {
+        "title": "CVE-2024-53141: Linux Kernel Flaw Enables Privilege Escalation, PoC Releases",
+        "link": "https://securityonline.info/cve-2024-53141-linux-kernel-flaw-enables-privilege-escalation-poc-releases/",
+        "published": "Fri, 18 Apr 2025 00:52:44 +0000"
+    },
+    {
+        "title": "Hitachi Vantara Patches Critical Resource Injection Flaw in Pentaho",
+        "link": "https://securityonline.info/hitachi-vantara-patches-critical-resource-injection-flaw-in-pentaho/",
+        "published": "Fri, 18 Apr 2025 00:40:26 +0000"
+    },
+    {
+        "title": "IronHusky APT Resurfaces with Evolved MysterySnail RAT",
+        "link": "https://securityonline.info/ironhusky-apt-resurfaces-with-evolved-mysterysnail-rat/",
+        "published": "Fri, 18 Apr 2025 00:35:07 +0000"
+    },
+    {
+        "title": "Siemens Fixes 66 SQL Injection Flaws in TeleControl Server Basic",
+        "link": "https://securityonline.info/siemens-fixes-66-sql-injection-flaws-in-telecontrol-server-basic/",
+        "published": "Fri, 18 Apr 2025 00:31:13 +0000"
+    },
+    {
+        "title": "Sophisticated Phishing Campaign Uses Multi-Layered Tactics to Deliver Malware",
+        "link": "https://securityonline.info/sophisticated-phishing-campaign-uses-multi-layered-tactics-to-deliver-malware/",
+        "published": "Fri, 18 Apr 2025 00:26:39 +0000"
+    },
+    {
+        "title": "Gamaredon’s PteroLNK Malware: Stealthy Espionage Tactics Uncovered",
+        "link": "https://securityonline.info/gamaredons-pterolnk-malware-stealthy-espionage-tactics-uncovered/",
+        "published": "Fri, 18 Apr 2025 00:22:36 +0000"
+    },
+    {
+        "title": "Gorilla Android Malware: Evolving Threat with Espionage Capabilities",
+        "link": "https://securityonline.info/gorilla-android-malware-evolving-threat-with-espionage-capabilities/",
+        "published": "Fri, 18 Apr 2025 00:16:21 +0000"
+    },
+    {
+        "title": "Interlock Ransomware Uses Evolving Tactics to Evade Detection",
+        "link": "https://securityonline.info/interlock-ransomware-uses-evolving-tactics-to-evade-detection/",
+        "published": "Fri, 18 Apr 2025 00:10:16 +0000"
+    },
+    {
+        "title": "Server-Side Phishing Campaign Evades Detection, Targets Employee Portals",
+        "link": "https://securityonline.info/server-side-phishing-campaign-evades-detection-targets-employee-portals/",
+        "published": "Fri, 18 Apr 2025 00:03:14 +0000"
     }
 ]
