@@ -427,3 +427,5 @@ clean_list:
 - CVE-2024-4577-Exploit
 - CVE-2025-24813-vulhub
 - CVE-2024-53924
+- CostOfCVE
+- CVE-2025-21756
