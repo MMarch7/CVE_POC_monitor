@@ -438,3 +438,4 @@ clean_list:
 - CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC
 - CVE-2024-46713
 - erl_mouse
+- cve-2025-32433
