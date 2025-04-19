@@ -434,3 +434,4 @@ clean_list:
 - POC_CVE-2025-32433
 - CVE-2024-42327_Zabbix_SQLi
 - Node.js-CVE-2024-39943
+- CVE-2025-28121
