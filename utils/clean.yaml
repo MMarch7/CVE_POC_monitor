@@ -446,3 +446,4 @@ clean_list:
 - CVE-2024-12641_12642_12645
 - ssh_erlangotp_rce
 - LibHeif---CVE-2025-XXXXX
+- CVE-2025-30208-template
