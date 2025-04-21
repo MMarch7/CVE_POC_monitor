@@ -450,3 +450,4 @@ clean_list:
 - apple-positional-audio-codec-invalid-header
 - CVE-2024-38063-Research-Tool
 - CVE-2025-32433-Remote-Shell
+- Next.js-Middleware-Bypass-CVE-2025-29927-
