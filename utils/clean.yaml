@@ -452,3 +452,5 @@ clean_list:
 - CVE-2025-32433-Remote-Shell
 - Next.js-Middleware-Bypass-CVE-2025-29927-
 - CVE-2024-43768
+- DCS932L-Emulation-CVE-2024-37606-Attack
+- CVE-2024-40445_CVE-2024-40446
