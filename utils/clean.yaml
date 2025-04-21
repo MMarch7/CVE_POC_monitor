@@ -447,3 +447,5 @@ clean_list:
 - ssh_erlangotp_rce
 - LibHeif---CVE-2025-XXXXX
 - CVE-2025-30208-template
+- apple-positional-audio-codec-invalid-header
+- CVE-2024-38063-Research-Tool
