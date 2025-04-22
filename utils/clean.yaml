@@ -458,3 +458,4 @@ clean_list:
 - swa20250422031chj2zy8d3cvekhdprezlu
 - TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-
 - TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation
+- CVE-2025-43919-POC
