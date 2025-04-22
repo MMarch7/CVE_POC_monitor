@@ -456,3 +456,4 @@ clean_list:
 - CVE-2024-40445_CVE-2024-40446
 - CVE-2025-31161
 - swa20250422031chj2zy8d3cvekhdprezlu
+- TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-
