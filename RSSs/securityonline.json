@@ -7878,5 +7878,65 @@
         "title": "Linux Kernel 6.13 Reaches End-of-Life After Short 3-Month Support",
         "link": "https://securityonline.info/linux-kernel-6-13-reaches-end-of-life-after-short-3-month-support/",
         "published": "Mon, 21 Apr 2025 06:38:57 +0000"
+    },
+    {
+        "title": "CVE-2025-21204: SYSTEM-Level Privilege Escalation in Windows Update Stack Exposed, PoC Released",
+        "link": "https://securityonline.info/cve-2025-21204-system-level-privilege-escalation-in-windows-update-stack-exposed-poc-released/",
+        "published": "Tue, 22 Apr 2025 00:50:10 +0000"
+    },
+    {
+        "title": "Google Spoofed in Sophisticated DKIM Replay Attack Exploiting Email Trust Mechanisms",
+        "link": "https://securityonline.info/google-spoofed-in-sophisticated-dkim-replay-attack-exploiting-email-trust-mechanisms/",
+        "published": "Tue, 22 Apr 2025 00:43:12 +0000"
+    },
+    {
+        "title": "CVE-2025-33028: WinZip Flaw Exposes Users to Silent Code Execution via MotW Bypass, No Patch",
+        "link": "https://securityonline.info/cve-2025-33028-winzip-flaw-exposes-users-to-silent-code-execution-via-motw-bypass-no-patch/",
+        "published": "Tue, 22 Apr 2025 00:40:39 +0000"
+    },
+    {
+        "title": "FOG Ransomware Campaign Targets Multiple Sectors with Phishing and Payload Obfuscation",
+        "link": "https://securityonline.info/fog-ransomware-campaign-targets-multiple-sectors-with-phishing-and-payload-obfuscation/",
+        "published": "Tue, 22 Apr 2025 00:37:16 +0000"
+    },
+    {
+        "title": "Legitimate Windows Tool Abused: mavinject.exe Used for Stealthy DLL Injection by Threat Actors",
+        "link": "https://securityonline.info/legitimate-windows-tool-abused-mavinject-exe-used-for-stealthy-dll-injection-by-threat-actors/",
+        "published": "Tue, 22 Apr 2025 00:33:19 +0000"
+    },
+    {
+        "title": "SuperCard X: Android Malware Steals Cards via NFC Relay Attacks",
+        "link": "https://securityonline.info/supercard-x-android-malware-steals-cards-via-nfc-relay-attacks/",
+        "published": "Tue, 22 Apr 2025 00:22:55 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-1976 Vulnerability in Brocade Fabric OS Actively Exploited",
+        "link": "https://securityonline.info/critical-cve-2025-1976-vulnerability-in-brocade-fabric-os-actively-exploited/",
+        "published": "Tue, 22 Apr 2025 00:16:40 +0000"
+    },
+    {
+        "title": "Malicious npm Packages Backdoor Telegram Bot Developers",
+        "link": "https://securityonline.info/malicious-npm-packages-backdoor-telegram-bot-developers/",
+        "published": "Tue, 22 Apr 2025 00:12:46 +0000"
+    },
+    {
+        "title": "RustoBot Botnet Exploits Router Flaws in Sophisticated Attacks",
+        "link": "https://securityonline.info/rustobot-botnet-exploits-router-flaws-in-sophisticated-attacks/",
+        "published": "Tue, 22 Apr 2025 00:07:09 +0000"
+    },
+    {
+        "title": "SVG Files Weaponized: Phishing Attacks Embed HTML Code",
+        "link": "https://securityonline.info/svg-files-weaponized-phishing-attacks-embed-html-code/",
+        "published": "Tue, 22 Apr 2025 00:06:41 +0000"
+    },
+    {
+        "title": "Magecart Attack Uncovered: Obfuscated JavaScript Steals Credit Card Data",
+        "link": "https://securityonline.info/magecart-attack-uncovered-obfuscated-javascript-steals-credit-card-data/",
+        "published": "Tue, 22 Apr 2025 00:05:34 +0000"
+    },
+    {
+        "title": "Over 50k WordPress Sites at Takeover Risk Via Vulnerable Plugin",
+        "link": "https://securityonline.info/over-50k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/",
+        "published": "Mon, 21 Apr 2025 23:37:47 +0000"
     }
 ]
