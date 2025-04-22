@@ -459,3 +459,4 @@ clean_list:
 - TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-
 - TRAI-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation
 - CVE-2025-43919-POC
+- AI-CVE-2024-38063-0-DAY
