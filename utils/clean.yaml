@@ -469,3 +469,5 @@ clean_list:
 - swa2025042305cvewolkwfl5mdrbrcsz6bw
 - CVE-2025-24963
 - CVE-2025-32965-xrpl.js-Supply-Chain-Attack-PoC
+- -vulnerability-in-Remix-React-Router-CVE-2025-31137-
+- CVE-2025-32965-xrpl-js-poc
