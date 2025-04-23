@@ -8023,5 +8023,10 @@
         "title": "Critical RCE Vulnerability in Erlang/OTP SSH Server Impacts Multiple Cisco Products",
         "link": "https://securityonline.info/critical-rce-vulnerability-in-erlang-otp-ssh-server-impacts-multiple-cisco-products/",
         "published": "Wed, 23 Apr 2025 02:20:05 +0000"
+    },
+    {
+        "title": "SSL.com Discloses Mis-issuance of Digital Certificates Due to DCV Flaw",
+        "link": "https://securityonline.info/ssl-com-discloses-mis-issuance-of-digital-certificates-due-to-dcv-flaw/",
+        "published": "Wed, 23 Apr 2025 03:24:47 +0000"
     }
 ]
