@@ -7998,5 +7998,30 @@
         "title": "Deepfakes and Deception: The Rise of Synthetic Identities in Remote Work",
         "link": "https://securityonline.info/deepfakes-and-deception-the-rise-of-synthetic-identities-in-remote-work/",
         "published": "Wed, 23 Apr 2025 00:05:46 +0000"
+    },
+    {
+        "title": "Windows 11 Now Runs on iPad in EU via UTM Virtual Machine",
+        "link": "https://securityonline.info/windows-11-now-runs-on-ipad-in-eu-via-utm-virtual-machine/",
+        "published": "Wed, 23 Apr 2025 02:59:29 +0000"
+    },
+    {
+        "title": "Google Pays Samsung to Preinstall Gemini, Raising Antitrust Concerns",
+        "link": "https://securityonline.info/google-pays-samsung-to-preinstall-gemini-raising-antitrust-concerns/",
+        "published": "Wed, 23 Apr 2025 02:49:14 +0000"
+    },
+    {
+        "title": "Telegram Refuses France’s Demand for Backdoor Access to User Data",
+        "link": "https://securityonline.info/telegram-refuses-frances-demand-for-backdoor-access-to-user-data/",
+        "published": "Wed, 23 Apr 2025 02:44:49 +0000"
+    },
+    {
+        "title": "OpenAI Expresses Interest in Acquiring Chrome Amidst Google Antitrust Scrutiny",
+        "link": "https://securityonline.info/openai-expresses-interest-in-acquiring-chrome-amidst-google-antitrust-scrutiny/",
+        "published": "Wed, 23 Apr 2025 02:34:14 +0000"
+    },
+    {
+        "title": "Critical RCE Vulnerability in Erlang/OTP SSH Server Impacts Multiple Cisco Products",
+        "link": "https://securityonline.info/critical-rce-vulnerability-in-erlang-otp-ssh-server-impacts-multiple-cisco-products/",
+        "published": "Wed, 23 Apr 2025 02:20:05 +0000"
     }
 ]
