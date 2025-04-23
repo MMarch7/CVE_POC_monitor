@@ -465,3 +465,4 @@ clean_list:
 - CVE-2024-38828
 - CVE-2025-24054-PoC
 - swa2025042303i0cved5k6vmcclquwupbuq
+- CVE-2025-3248-Langflow-validate-code-API-
