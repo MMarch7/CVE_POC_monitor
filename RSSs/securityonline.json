@@ -7953,5 +7953,50 @@
         "title": "Criminal IP to Showcase Advanced Threat Intelligence at RSAC™ 2025",
         "link": "https://securityonline.info/criminal-ip-to-showcase-advanced-threat-intelligence-at-rsac-2025/",
         "published": "Tue, 22 Apr 2025 14:00:09 +0000"
+    },
+    {
+        "title": "IBM HMC Vulnerable to Privilege Escalation Attacks",
+        "link": "https://securityonline.info/ibm-hmc-vulnerable-to-privilege-escalation-attacks/",
+        "published": "Wed, 23 Apr 2025 00:50:30 +0000"
+    },
+    {
+        "title": "Stored XSS Flaw in TP-Link WR841N Routers Could Expose Admin Credentials (CVE-2025-25427)",
+        "link": "https://securityonline.info/stored-xss-flaw-in-tp-link-wr841n-routers-could-expose-admin-credentials-cve-2025-25427/",
+        "published": "Wed, 23 Apr 2025 00:46:35 +0000"
+    },
+    {
+        "title": "Two Critical RCE Flaws Expose Yi IOT Smart Cameras to Full Device Takeover",
+        "link": "https://securityonline.info/two-critical-rce-flaws-expose-yi-iot-smart-cameras-to-full-device-takeover/",
+        "published": "Wed, 23 Apr 2025 00:40:29 +0000"
+    },
+    {
+        "title": "Unveiling a Multi-Stage Malware Attack: Cloudflare Abuse and AsyncRAT Delivery",
+        "link": "https://securityonline.info/unveiling-a-multi-stage-malware-attack-cloudflare-abuse-and-asyncrat-delivery/",
+        "published": "Wed, 23 Apr 2025 00:35:41 +0000"
+    },
+    {
+        "title": "Zyxel Patches High-Severity Security Flaws in USG FLEX H Firewalls",
+        "link": "https://securityonline.info/zyxel-patches-high-severity-security-flaws-in-usg-flex-h-firewalls/",
+        "published": "Wed, 23 Apr 2025 00:25:42 +0000"
+    },
+    {
+        "title": "Malicious Packages Stealing Crypto Credentials: A Warning for Developers",
+        "link": "https://securityonline.info/malicious-packages-stealing-crypto-credentials-a-warning-for-developers/",
+        "published": "Wed, 23 Apr 2025 00:19:26 +0000"
+    },
+    {
+        "title": "Lumma Stealer: Unpacking Its Evasive Tactics and Complex Infection Chains",
+        "link": "https://securityonline.info/lumma-stealer-unpacking-its-evasive-tactics-and-complex-infection-chains/",
+        "published": "Wed, 23 Apr 2025 00:10:33 +0000"
+    },
+    {
+        "title": "“ConfusedComposer”: GCP Composer Vulnerability Allows Privilege Escalation",
+        "link": "https://securityonline.info/confusedcomposer-gcp-composer-vulnerability-allows-privilege-escalation/",
+        "published": "Wed, 23 Apr 2025 00:06:37 +0000"
+    },
+    {
+        "title": "Deepfakes and Deception: The Rise of Synthetic Identities in Remote Work",
+        "link": "https://securityonline.info/deepfakes-and-deception-the-rise-of-synthetic-identities-in-remote-work/",
+        "published": "Wed, 23 Apr 2025 00:05:46 +0000"
     }
 ]
