@@ -83,5 +83,10 @@
         "title": "CVE-2025-22234 - Medium - CVE-2025-22234: Spring Security BCryptPasswordEncoder maximum password length breaks timing attack mitigation",
         "link": "https://spring.io/security/cve-2025-22234",
         "published": "Tue, 22 Apr 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22235 - Medium - CVE-2025-22235: Spring Boot EndpointRequest.to() creates wrong matcher if actuator endpoint is not exposed",
+        "link": "https://spring.io/security/cve-2025-22235",
+        "published": "Thu, 24 Apr 2025 00:00:00 GMT"
     }
 ]
