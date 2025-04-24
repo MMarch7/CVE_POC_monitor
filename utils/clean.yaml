@@ -475,3 +475,4 @@ clean_list:
 - CVE-2025-3776
 - CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS
 - CVE-2025-30406
+- Nuclei_CVE-2025-31161_CVE-2025-2825

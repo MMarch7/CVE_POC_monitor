@@ -93,5 +93,10 @@
         "title": "Is The Sofistication In The Room With Us? - X-Forwarded-For and Ivanti Connect Secure (CVE-2025-22457)",
         "link": "https://labs.watchtowr.com/is-the-sofistication-in-the-room-with-us-x-forwarded-for-and-ivanti-connect-secure-cve-2025-22457/",
         "published": "Fri, 04 Apr 2025 13:45:53 GMT"
+    },
+    {
+        "title": "Fire In The Hole, We’re Breaching The Vault - Commvault Remote Code Execution (CVE-2025-34028)",
+        "link": "https://labs.watchtowr.com/fire-in-the-hole-were-breaching-the-vault-commvault-remote-code-execution-cve-2025-34028/",
+        "published": "Thu, 24 Apr 2025 10:01:56 GMT"
     }
 ]
