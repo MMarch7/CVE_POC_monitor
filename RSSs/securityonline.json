@@ -8033,5 +8033,70 @@
         "title": "Google Reverses Third-Party Cookie Phaseout, Privacy Sandbox Relegated to Support Role",
         "link": "https://securityonline.info/google-reverses-third-party-cookie-phaseout-privacy-sandbox-relegated-to-support-role/",
         "published": "Wed, 23 Apr 2025 08:30:00 +0000"
+    },
+    {
+        "title": "Redis Vulnerability Exposes Servers to Denial-of-Service Attacks",
+        "link": "https://securityonline.info/redis-vulnerability-exposes-servers-to-denial-of-service-attacks/",
+        "published": "Thu, 24 Apr 2025 01:59:00 +0000"
+    },
+    {
+        "title": "GitLab Releases Security Update to Patch XSS and Account Takeover Flaws",
+        "link": "https://securityonline.info/gitlab-releases-security-update-to-patch-xss-and-account-takeover-flaws/",
+        "published": "Thu, 24 Apr 2025 01:46:07 +0000"
+    },
+    {
+        "title": "High-Severity SonicWall SSLVPN Vulnerability Allows Firewall Crashing",
+        "link": "https://securityonline.info/high-severity-sonicwall-sslvpn-vulnerability-allows-firewall-crashing/",
+        "published": "Thu, 24 Apr 2025 01:35:06 +0000"
+    },
+    {
+        "title": "CVE-2025-32965: Backdoor in xrpl.js SDK Puts Crypto Wallets at Risk",
+        "link": "https://securityonline.info/cve-2025-32965-backdoor-in-xrpl-js-sdk-puts-crypto-wallets-at-risk/",
+        "published": "Thu, 24 Apr 2025 00:53:22 +0000"
+    },
+    {
+        "title": "CVE-2025-34028: Critical RCE Flaw in Commvault Command Center Scores CVSS 10",
+        "link": "https://securityonline.info/cve-2025-34028-critical-rce-flaw-in-commvault-command-center-scores-cvss-10/",
+        "published": "Thu, 24 Apr 2025 00:40:41 +0000"
+    },
+    {
+        "title": "Ghost Tap: NFC Fraud Surge Linked to Chinese Cybercriminal Groups",
+        "link": "https://securityonline.info/ghost-tap-nfc-fraud-surge-linked-to-chinese-cybercriminal-groups/",
+        "published": "Thu, 24 Apr 2025 00:36:23 +0000"
+    },
+    {
+        "title": "CVE-2024-6235: NetScaler Console Flaw Enables Admin Access, PoC Publishes",
+        "link": "https://securityonline.info/cve-2024-6235-netscaler-console-flaw-enables-admin-access-poc-publishes/",
+        "published": "Thu, 24 Apr 2025 00:30:25 +0000"
+    },
+    {
+        "title": "Russian Hackers Abuse Microsoft 365 OAuth in Sophisticated Phishing Attacks",
+        "link": "https://securityonline.info/russian-hackers-abuse-microsoft-365-oauth-in-sophisticated-phishing-attacks/",
+        "published": "Thu, 24 Apr 2025 00:26:50 +0000"
+    },
+    {
+        "title": "NVIDIA NeMo Framework: High-Risk Vulnerabilities Allow Remote Code Execution",
+        "link": "https://securityonline.info/nvidia-nemo-framework-high-risk-vulnerabilities-allow-remote-code-execution/",
+        "published": "Thu, 24 Apr 2025 00:22:10 +0000"
+    },
+    {
+        "title": "Verizon DBIR 2025: Vulnerability Exploitation Surges, Third-Party Breaches Double",
+        "link": "https://securityonline.info/verizon-dbir-2025-vulnerability-exploitation-surges-third-party-breaches-double/",
+        "published": "Thu, 24 Apr 2025 00:13:27 +0000"
+    },
+    {
+        "title": "Grafana Patches CVE-2025-3260 and More in Critical Security Update",
+        "link": "https://securityonline.info/grafana-patches-cve-2025-3260-and-more-in-critical-security-update/",
+        "published": "Thu, 24 Apr 2025 00:08:14 +0000"
+    },
+    {
+        "title": "FormBook Malware Spreads via Sophisticated Phishing Attack",
+        "link": "https://securityonline.info/formbook-malware-spreads-via-sophisticated-phishing-attack/",
+        "published": "Thu, 24 Apr 2025 00:05:21 +0000"
+    },
+    {
+        "title": "WormLocker Ransomware Reemerges with Updated Variants",
+        "link": "https://securityonline.info/wormlocker-ransomware-reemerges-with-updated-variants/",
+        "published": "Thu, 24 Apr 2025 00:00:57 +0000"
     }
 ]

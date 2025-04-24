@@ -472,3 +472,4 @@ clean_list:
 - -vulnerability-in-Remix-React-Router-CVE-2025-31137-
 - CVE-2025-32965-xrpl-js-poc
 - vulnerability-in-Remix-React-Router-CVE-2025-31137-
+- CVE-2025-3776
