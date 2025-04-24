@@ -479,3 +479,4 @@ clean_list:
 - CVE-2025-30208-Series
 - CVE-2024-7120-Exploit-by-Dark-07x
 - lab_CVE-2025-32433
+- CVE-2024-42471-PoC
