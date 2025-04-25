@@ -482,3 +482,4 @@ clean_list:
 - CVE-2024-42471-PoC
 - Reset-inetpub
 - CVE-2025-29306-PoC-FoxCMS-RCE
+- CVE-2024-51179
