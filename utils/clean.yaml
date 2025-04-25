@@ -485,3 +485,5 @@ clean_list:
 - CVE-2024-51179
 - CVE-2024-24919-Incident-Report.md
 - CVE-2025-3102_v2
+- CVE-2025-0927
+- CVE-2024-31317-PoC-Deployer
