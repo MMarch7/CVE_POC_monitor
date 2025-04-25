@@ -487,3 +487,4 @@ clean_list:
 - CVE-2025-3102_v2
 - CVE-2025-0927
 - CVE-2024-31317-PoC-Deployer
+- CVE-2025-31324
