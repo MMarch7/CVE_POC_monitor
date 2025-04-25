@@ -8103,5 +8103,60 @@
         "title": "CISA Clarifies CVE Program’s Stability Amid Funding Concerns",
         "link": "https://securityonline.info/cisa-clarifies-cve-programs-stability-amid-funding-concerns/",
         "published": "Thu, 24 Apr 2025 15:10:19 +0000"
+    },
+    {
+        "title": "OpenAI Increases ChatGPT Plus Quotas, Doubling Limits for o3 and o4-mini Models",
+        "link": "https://securityonline.info/openai-increases-chatgpt-plus-quotas-doubling-limits-for-o3-and-o4-mini-models/",
+        "published": "Fri, 25 Apr 2025 01:52:59 +0000"
+    },
+    {
+        "title": "Microsoft’s Patch for Symlink Exploit Introduces New Windows Update DoS Flaw",
+        "link": "https://securityonline.info/microsofts-patch-for-symlink-exploit-introduces-new-windows-update-dos-flaw/",
+        "published": "Fri, 25 Apr 2025 01:48:59 +0000"
+    },
+    {
+        "title": "Perplexity Eyes Chrome as DOJ Pressures Google Over Antitrust",
+        "link": "https://securityonline.info/perplexity-eyes-chrome-as-doj-pressures-google-over-antitrust/",
+        "published": "Fri, 25 Apr 2025 01:40:43 +0000"
+    },
+    {
+        "title": "EU Fines Apple and Meta €700 Million for Digital Markets Act Violations",
+        "link": "https://securityonline.info/eu-fines-apple-and-meta-e700-million-for-digital-markets-act-violations/",
+        "published": "Fri, 25 Apr 2025 01:36:51 +0000"
+    },
+    {
+        "title": "Russian IP Networks Fuel North Korea’s Global Cybercrime and Espionage Campaigns",
+        "link": "https://securityonline.info/russian-ip-networks-fuel-north-koreas-global-cybercrime-and-espionage-campaigns/",
+        "published": "Fri, 25 Apr 2025 00:36:40 +0000"
+    },
+    {
+        "title": "CVE-2024-2787: Apple Archive Flaw Enables Arbitrary File Write and Gatekeeper Bypass, PoC Releases",
+        "link": "https://securityonline.info/cve-2024-2787-apple-archive-flaw-enables-arbitrary-file-write-and-gatekeeper-bypass-poc-releases/",
+        "published": "Fri, 25 Apr 2025 00:32:43 +0000"
+    },
+    {
+        "title": "Power Parasites: Scam Campaign Targets Global Energy Brands",
+        "link": "https://securityonline.info/power-parasites-scam-campaign-targets-global-energy-brands/",
+        "published": "Fri, 25 Apr 2025 00:29:59 +0000"
+    },
+    {
+        "title": "WooCommerce Phishing Attack: Fake Vulnerability Exploits Store Owners",
+        "link": "https://securityonline.info/woocommerce-phishing-attack-fake-vulnerability-exploits-store-owners/",
+        "published": "Fri, 25 Apr 2025 00:23:18 +0000"
+    },
+    {
+        "title": "Lumma Stealer: Advanced Obfuscation and Evasion Techniques Analysis",
+        "link": "https://securityonline.info/lumma-stealer-advanced-obfuscation-and-evasion-techniques-analysis/",
+        "published": "Fri, 25 Apr 2025 00:16:52 +0000"
+    },
+    {
+        "title": "Kimsuky’s PebbleDash Campaign: PowerShell Attacks & RDP Bypass Tactics",
+        "link": "https://securityonline.info/kimsukys-pebbledash-campaign-powershell-attacks-rdp-bypass-tactics/",
+        "published": "Fri, 25 Apr 2025 00:12:54 +0000"
+    },
+    {
+        "title": "ToyMaker’s Playbook: Cisco Talos Exposes IAB Tactics Leading to Cactus Ransomware",
+        "link": "https://securityonline.info/toymakers-playbook-cisco-talos-exposes-iab-tactics-leading-to-cactus-ransomware/",
+        "published": "Fri, 25 Apr 2025 00:05:04 +0000"
     }
 ]
