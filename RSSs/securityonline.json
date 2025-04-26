@@ -8208,5 +8208,20 @@
         "title": "CVE-2025-32432 (CVSS 10): Craft CMS Hit by Critical RCE Flaw Exploited in the Wild",
         "link": "https://securityonline.info/cve-2025-32432-cvss-10-craft-cms-hit-by-critical-rce-flaw-exploited-in-the-wild/",
         "published": "Fri, 25 Apr 2025 15:44:08 +0000"
+    },
+    {
+        "title": "ConnectWise Patches Critical ViewState RCE Vulnerability in ScreenConnect",
+        "link": "https://securityonline.info/connectwise-patches-critical-viewstate-rce-vulnerability-in-screenconnect/",
+        "published": "Sat, 26 Apr 2025 00:20:41 +0000"
+    },
+    {
+        "title": "DslogdRAT Malware Targets Ivanti Connect Secure via CVE-2025-0282 Zero-Day Exploit",
+        "link": "https://securityonline.info/dslogdrat-malware-targets-ivanti-connect-secure-via-cve-2025-0282-zero-day-exploit/",
+        "published": "Sat, 26 Apr 2025 00:16:04 +0000"
+    },
+    {
+        "title": "NVIDIA Releases Security Update to Address GPU Driver Vulnerabilities",
+        "link": "https://securityonline.info/nvidia-releases-security-update-to-address-gpu-driver-vulnerabilities/",
+        "published": "Sat, 26 Apr 2025 00:05:59 +0000"
     }
 ]
