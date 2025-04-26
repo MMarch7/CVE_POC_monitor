@@ -489,3 +489,4 @@ clean_list:
 - CVE-2024-31317-PoC-Deployer
 - CVE-2025-31324
 - Erlang-OTP-CVE-2025-32433
+- CVE-2024-3400-Canary
