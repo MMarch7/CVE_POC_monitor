@@ -500,3 +500,4 @@ clean_list:
 - DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-
 - Vulnerable-Lab-NextJS-CVE-2025-29927
 - Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865
+- CVE-2024-31449
