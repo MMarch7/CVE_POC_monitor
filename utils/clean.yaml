@@ -492,3 +492,5 @@ clean_list:
 - CVE-2024-3400-Canary
 - ExploitCVE2025
 - swa2025042612dpyvs6i7cvex8rfzy4kde7
+- CVE-2025-32432
+- CVE-2024-27808.github.io

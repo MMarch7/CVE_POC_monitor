@@ -8223,5 +8223,20 @@
         "title": "NVIDIA Releases Security Update to Address GPU Driver Vulnerabilities",
         "link": "https://securityonline.info/nvidia-releases-security-update-to-address-gpu-driver-vulnerabilities/",
         "published": "Sat, 26 Apr 2025 00:05:59 +0000"
+    },
+    {
+        "title": "Darcula-Suite: AI Revolutionizes Phishing-as-a-Service Operations",
+        "link": "https://securityonline.info/darcula-suite-ai-revolutionizes-phishing-as-a-service-operations/",
+        "published": "Sun, 27 Apr 2025 00:50:17 +0000"
+    },
+    {
+        "title": "Lazarus Group’s “Operation SyncHole” Targets South Korean Industries",
+        "link": "https://securityonline.info/lazarus-groups-operation-synchole-targets-south-korean-industries/",
+        "published": "Sun, 27 Apr 2025 00:31:47 +0000"
+    },
+    {
+        "title": "CVE-2025-43859: Request Smuggling Vulnerability in Python’s h11 HTTP Library",
+        "link": "https://securityonline.info/cve-2025-43859-request-smuggling-vulnerability-in-pythons-h11-http-library/",
+        "published": "Sun, 27 Apr 2025 00:06:35 +0000"
     }
 ]
