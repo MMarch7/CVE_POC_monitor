@@ -501,3 +501,5 @@ clean_list:
 - Vulnerable-Lab-NextJS-CVE-2025-29927
 - Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865
 - CVE-2024-31449
+- CVE-2024-36587
+- PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload
