@@ -496,3 +496,4 @@ clean_list:
 - CVE-2024-27808.github.io
 - CVE-2025-46657
 - swa2025042703s4igvxoimt7jqfi3cvetvv
+- CVE-2025-3248-langflow-RCE
