@@ -498,3 +498,5 @@ clean_list:
 - swa2025042703s4igvxoimt7jqfi3cvetvv
 - CVE-2025-3248-langflow-RCE
 - DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-
+- Vulnerable-Lab-NextJS-CVE-2025-29927
+- Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865
