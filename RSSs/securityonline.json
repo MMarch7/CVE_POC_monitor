@@ -8238,5 +8238,55 @@
         "title": "CVE-2025-43859: Request Smuggling Vulnerability in Python’s h11 HTTP Library",
         "link": "https://securityonline.info/cve-2025-43859-request-smuggling-vulnerability-in-pythons-h11-http-library/",
         "published": "Sun, 27 Apr 2025 00:06:35 +0000"
+    },
+    {
+        "title": "Craft CMS Zero-Day CVE-2025-32432 Exploited with Metasploit Module Now Public",
+        "link": "https://securityonline.info/craft-cms-zero-day-cve-2025-32432-exploited-with-metasploit-module-now-public/",
+        "published": "Mon, 28 Apr 2025 00:55:46 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Vulnerabilities in Planet Technology Products",
+        "link": "https://securityonline.info/cisa-warns-of-critical-vulnerabilities-in-planet-technology-products/",
+        "published": "Mon, 28 Apr 2025 00:50:50 +0000"
+    },
+    {
+        "title": "Critical Flaw Exposes Linux Security Blind Spot: io_uring Bypasses Detection",
+        "link": "https://securityonline.info/critical-flaw-exposes-linux-security-blind-spot-io_uring-bypasses-detection/",
+        "published": "Mon, 28 Apr 2025 00:45:39 +0000"
+    },
+    {
+        "title": "React Router Vulnerabilities CVE-2025-43864 and CVE-2025-43865 Expose Web Applications to Attack",
+        "link": "https://securityonline.info/react-router-vulnerabilities-cve-2025-43864-and-cve-2025-43865-expose-web-applications-to-attack/",
+        "published": "Mon, 28 Apr 2025 00:40:10 +0000"
+    },
+    {
+        "title": "SocGholish and RansomHub: Sophisticated Attack Campaign Targeting Corporate Networks",
+        "link": "https://securityonline.info/socgholish-and-ransomhub-sophisticated-attack-campaign-targeting-corporate-networks/",
+        "published": "Mon, 28 Apr 2025 00:36:24 +0000"
+    },
+    {
+        "title": "DeviceCodePhishing: How a New Attack Bypasses FIDO and MFA Protections",
+        "link": "https://securityonline.info/devicecodephishing-how-a-new-attack-bypasses-fido-and-mfa-protections/",
+        "published": "Mon, 28 Apr 2025 00:30:43 +0000"
+    },
+    {
+        "title": "CVE-2025-23016: Critical FastCGI Heap Overflow Threatens Embedded Devices, PoC Releases",
+        "link": "https://securityonline.info/cve-2025-23016-critical-fastcgi-heap-overflow-threatens-embedded-devices-poc-releases/",
+        "published": "Mon, 28 Apr 2025 00:26:27 +0000"
+    },
+    {
+        "title": "North Korean APT ‘Contagious Interview’ Launches Fake Crypto Companies to Spread Malware Trio",
+        "link": "https://securityonline.info/north-korean-apt-contagious-interview-launches-fake-crypto-companies-to-spread-malware-trio/",
+        "published": "Mon, 28 Apr 2025 00:22:02 +0000"
+    },
+    {
+        "title": "Multiple Vulnerabilities in NETSCOUT nGeniusONE Threaten Infrastructure Visibility Platforms",
+        "link": "https://securityonline.info/multiple-vulnerabilities-in-netscout-ngeniusone-threaten-infrastructure-visibility-platforms/",
+        "published": "Mon, 28 Apr 2025 00:15:46 +0000"
+    },
+    {
+        "title": "SessionShark: New Phishing Kit Bypasses Office 365 MFA",
+        "link": "https://securityonline.info/sessionshark-new-phishing-kit-bypasses-office-365-mfa/",
+        "published": "Mon, 28 Apr 2025 00:05:03 +0000"
     }
 ]
