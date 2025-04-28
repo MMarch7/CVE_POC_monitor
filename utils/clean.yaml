@@ -504,3 +504,4 @@ clean_list:
 - CVE-2024-36587
 - PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload
 - CVE-2025-31324-NUCLEI
+- CVE-2025-29775
