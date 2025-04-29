@@ -8323,5 +8323,65 @@
         "title": "Court Dismisses Criminal Charges Against VPN Executive, Affirms No-Log Policy",
         "link": "https://securityonline.info/court-dismisses-criminal-charges-against-vpn-executive-affirms-no-log-policy/",
         "published": "Mon, 28 Apr 2025 13:05:05 +0000"
+    },
+    {
+        "title": "0-Click NTLM Authentication Bypass Hits Microsoft Telnet Server, PoC Releases, No Patch",
+        "link": "https://securityonline.info/0-click-ntlm-authentication-bypass-hits-microsoft-telnet-server-poc-releases-no-patch/",
+        "published": "Tue, 29 Apr 2025 01:56:00 +0000"
+    },
+    {
+        "title": "Apache Tomcat Security Update Fixes DoS and Rewrite Rule Bypass Flaws",
+        "link": "https://securityonline.info/apache-tomcat-security-update-fixes-dos-and-rewrite-rule-bypass-flaws/",
+        "published": "Tue, 29 Apr 2025 01:38:23 +0000"
+    },
+    {
+        "title": "CVE-2025-21756: How a Tiny Linux Kernel Bug Led to a Full Root Exploit, PoC Releases",
+        "link": "https://securityonline.info/cve-2025-21756-how-a-tiny-linux-kernel-bug-led-to-a-full-root-exploit-poc-releases/",
+        "published": "Tue, 29 Apr 2025 00:50:13 +0000"
+    },
+    {
+        "title": "Weaponized Uyghur Language Software: Citizen Lab Uncovers Targeted Malware Campaign",
+        "link": "https://securityonline.info/weaponized-uyghur-language-software-citizen-lab-uncovers-targeted-malware-campaign/",
+        "published": "Tue, 29 Apr 2025 00:43:00 +0000"
+    },
+    {
+        "title": "Fog Ransomware Group Exposed: Inside the Tools, Tactics, and Victims of a Stealthy Threat",
+        "link": "https://securityonline.info/fog-ransomware-group-exposed-inside-the-tools-tactics-and-victims-of-a-stealthy-threat/",
+        "published": "Tue, 29 Apr 2025 00:40:32 +0000"
+    },
+    {
+        "title": "Quantum Issues Critical Patch for StorNext GUI RCE Vulnerabilities (CVE-2025-46616, CVE-2025-46617)",
+        "link": "https://securityonline.info/quantum-issues-critical-patch-for-stornext-gui-rce-vulnerabilities-cve-2025-46616-cve-2025-46617/",
+        "published": "Tue, 29 Apr 2025 00:33:11 +0000"
+    },
+    {
+        "title": "CVE-2025-3200: Wiesemann & Theis Com-Server Devices Exposed by Deprecated TLS Protocols",
+        "link": "https://securityonline.info/cve-2025-3200-wiesemann-theis-com-server-devices-exposed-by-deprecated-tls-protocols/",
+        "published": "Tue, 29 Apr 2025 00:32:56 +0000"
+    },
+    {
+        "title": "Fake GIF and Reverse Proxy Used in Sophisticated Card Skimming Attack on Magento",
+        "link": "https://securityonline.info/fake-gif-and-reverse-proxy-used-in-sophisticated-card-skimming-attack-on-magento/",
+        "published": "Tue, 29 Apr 2025 00:25:12 +0000"
+    },
+    {
+        "title": "Triada Trojan Evolves: Pre-Installed Android Malware Now Embedded in Device Firmware",
+        "link": "https://securityonline.info/triada-trojan-evolves-pre-installed-android-malware-now-embedded-in-device-firmware/",
+        "published": "Tue, 29 Apr 2025 00:20:37 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities in Quick Agent Software Expose Ricoh MFPs to Remote Attacks",
+        "link": "https://securityonline.info/critical-vulnerabilities-in-quick-agent-software-expose-ricoh-mfps-to-remote-attacks/",
+        "published": "Tue, 29 Apr 2025 00:13:41 +0000"
+    },
+    {
+        "title": "Earth Kurma APT Targets Southeast Asia with Stealthy Cyberespionage",
+        "link": "https://securityonline.info/earth-kurma-apt-targets-southeast-asia-with-stealthy-cyberespionage/",
+        "published": "Tue, 29 Apr 2025 00:10:03 +0000"
+    },
+    {
+        "title": "Discord Used as C2 for Stealthy Python-Based RAT",
+        "link": "https://securityonline.info/discord-used-as-c2-for-stealthy-python-based-rat/",
+        "published": "Tue, 29 Apr 2025 00:03:08 +0000"
     }
 ]
