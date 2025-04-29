@@ -514,3 +514,4 @@ clean_list:
 - Gombruc
 - CVE-2025-26014
 - letsdefend-cve2024-3400-case-study
+- CVE-2024-44313
