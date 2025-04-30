@@ -521,3 +521,4 @@ clean_list:
 - TomcatKiller-CVE-2025-31650
 - CVE-2025-32433_PoC
 - cve-2024-31317
+- Burp_CVE-2025-31324
