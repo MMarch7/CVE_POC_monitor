@@ -8518,5 +8518,10 @@
         "title": "Unpatched Windows LNK Vulnerability Allows Attacker to Capture NTLM Hash",
         "link": "https://securityonline.info/unpatched-windows-lnk-vulnerability-allows-attacker-to-capture-ntlm-hash/",
         "published": "Wed, 30 Apr 2025 00:50:03 +0000"
+    },
+    {
+        "title": "Commvault Updates Security Advisory After Nation-State Threat Actor Activity in Azure",
+        "link": "https://securityonline.info/commvault-updates-security-advisory-after-nation-state-threat-actor-activity-in-azure/",
+        "published": "Wed, 30 Apr 2025 13:32:13 +0000"
     }
 ]
