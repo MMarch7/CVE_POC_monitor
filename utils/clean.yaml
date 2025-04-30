@@ -519,3 +519,5 @@ clean_list:
 - watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028
 - cve-2025-29775
 - TomcatKiller-CVE-2025-31650
+- CVE-2025-32433_PoC
+- cve-2024-31317
