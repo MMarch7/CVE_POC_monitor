@@ -518,3 +518,4 @@ clean_list:
 - AirBorne-PoC
 - watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028
 - cve-2025-29775
+- TomcatKiller-CVE-2025-31650
