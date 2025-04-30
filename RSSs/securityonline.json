@@ -8433,5 +8433,60 @@
         "title": "AirBorne Exploits: Zero-Click Wormable RCE Hits Apple & IoT Devices",
         "link": "https://securityonline.info/airborne-exploits-zero-click-wormable-rce-hits-apple-iot-devices/",
         "published": "Tue, 29 Apr 2025 15:46:31 +0000"
+    },
+    {
+        "title": "CISA Adds SAP NetWeaver Zero-Day CVE-2025-31324 to KEV Database",
+        "link": "https://securityonline.info/cisa-adds-sap-netweaver-zero-day-cve-2025-31324-to-kev-database/",
+        "published": "Wed, 30 Apr 2025 02:01:18 +0000"
+    },
+    {
+        "title": "Chrome Update Fixes High-Severity Security Flaw (CVE-2025-4096)",
+        "link": "https://securityonline.info/chrome-update-fixes-high-severity-security-flaw-cve-2025-4096/",
+        "published": "Wed, 30 Apr 2025 01:43:16 +0000"
+    },
+    {
+        "title": "Unpatched Windows LNK Vulnerability Enables Remote Execution via UNC Path, PoC Releases",
+        "link": "https://securityonline.info/unpatched-windows-lnk-vulnerability-enables-remote-execution-via-unc-path-poc-releases/",
+        "published": "Wed, 30 Apr 2025 00:50:03 +0000"
+    },
+    {
+        "title": "High-Severity DoS Vulnerability Found in PowerDNS DNSdist (CVE-2025-30194)",
+        "link": "https://securityonline.info/high-severity-dos-vulnerability-found-in-powerdns-dnsdist-cve-2025-30194/",
+        "published": "Wed, 30 Apr 2025 00:40:11 +0000"
+    },
+    {
+        "title": "Proofpoint Exposes TA2900: French-Speaking BEC Actor Exploits Rental Payment System",
+        "link": "https://securityonline.info/proofpoint-exposes-ta2900-french-speaking-bec-actor-exploits-rental-payment-system/",
+        "published": "Wed, 30 Apr 2025 00:38:59 +0000"
+    },
+    {
+        "title": "Infoblox Exposes $5.7B Investment Scam Surge Fueled by RDGAs and DNS Abuse",
+        "link": "https://securityonline.info/infoblox-exposes-5-7b-investment-scam-surge-fueled-by-rdgas-and-dns-abuse/",
+        "published": "Wed, 30 Apr 2025 00:35:18 +0000"
+    },
+    {
+        "title": "WordPress Malware Alert: Fake Anti-Malware Plugin Grants Admin Access and Executes Remote Code",
+        "link": "https://securityonline.info/wordpress-malware-alert-fake-anti-malware-plugin-grants-admin-access-and-executes-remote-code/",
+        "published": "Wed, 30 Apr 2025 00:25:21 +0000"
+    },
+    {
+        "title": "Rancher Releases Patch for CVE-2024-22031 Privilege Escalation Vulnerability",
+        "link": "https://securityonline.info/rancher-releases-patch-for-cve-2024-22031-privilege-escalation-vulnerability/",
+        "published": "Wed, 30 Apr 2025 00:20:59 +0000"
+    },
+    {
+        "title": "JPMorgan Chase CISO Warns of SaaS Security Crisis and Supply Chain Risk",
+        "link": "https://securityonline.info/jpmorgan-chase-ciso-warns-of-saas-security-crisis-and-supply-chain-risk/",
+        "published": "Wed, 30 Apr 2025 00:15:27 +0000"
+    },
+    {
+        "title": "Cybersecurity Vendors Under Siege: A Deep Dive into Real-World Attacks",
+        "link": "https://securityonline.info/cybersecurity-vendors-under-siege-a-deep-dive-into-real-world-attacks/",
+        "published": "Wed, 30 Apr 2025 00:10:14 +0000"
+    },
+    {
+        "title": "Hannibal Stealer Malware Targets Crypto Wallets, VPNs, and Browser Data",
+        "link": "https://securityonline.info/hannibal-stealer-malware-targets-crypto-wallets-vpns-and-browser-data/",
+        "published": "Wed, 30 Apr 2025 00:03:27 +0000"
     }
 ]

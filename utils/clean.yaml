@@ -515,3 +515,6 @@ clean_list:
 - CVE-2025-26014
 - letsdefend-cve2024-3400-case-study
 - CVE-2024-44313
+- AirBorne-PoC
+- watchTowr-vs-Commvault-PreAuth-RCE-CVE-2025-34028
+- cve-2025-29775
