@@ -98,5 +98,10 @@
         "title": "Fire In The Hole, We’re Breaching The Vault - Commvault Remote Code Execution (CVE-2025-34028)",
         "link": "https://labs.watchtowr.com/fire-in-the-hole-were-breaching-the-vault-commvault-remote-code-execution-cve-2025-34028/",
         "published": "Thu, 24 Apr 2025 10:01:56 GMT"
+    },
+    {
+        "title": "SonicBoom, From Stolen Tokens to Remote Shells - SonicWall SMA (CVE-2023-44221, CVE-2024-38475)",
+        "link": "https://labs.watchtowr.com/sonicboom-from-stolen-tokens-to-remote-shells-sonicwall-sma100-cve-2023-44221-cve-2024-38475/",
+        "published": "Thu, 01 May 2025 22:31:04 GMT"
     }
 ]
