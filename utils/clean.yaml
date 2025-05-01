@@ -525,3 +525,4 @@ clean_list:
 - CVE-2024-36401_Geoserver_RCE_POC
 - CVE-2025-31650
 - CVE-2025-31324-File-Upload
+- CVE-2025-20029-simulation
