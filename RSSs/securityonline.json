@@ -8523,5 +8523,55 @@
         "title": "Commvault Updates Security Advisory After Nation-State Threat Actor Activity in Azure",
         "link": "https://securityonline.info/commvault-updates-security-advisory-after-nation-state-threat-actor-activity-in-azure/",
         "published": "Wed, 30 Apr 2025 13:32:13 +0000"
+    },
+    {
+        "title": "SonicWall Confirms Active Exploitation of SMA 100 Vulnerabilities – Urges Immediate Patching",
+        "link": "https://securityonline.info/sonicwall-confirms-active-exploitation-of-sma-100-vulnerabilities-urges-immediate-patching/",
+        "published": "Thu, 01 May 2025 02:10:01 +0000"
+    },
+    {
+        "title": "CVE-2024-10442 (CVSS 10): Zero-Click RCE in Synology DiskStation, PoC Publishes",
+        "link": "https://securityonline.info/cve-2024-10442-cvss-10-zero-click-rce-in-synology-diskstation-poc-publishes/",
+        "published": "Thu, 01 May 2025 00:55:19 +0000"
+    },
+    {
+        "title": "CVE-2025-29906: Finit’s Bundled Getty Flaw Allows Authentication Bypass on Linux Systems",
+        "link": "https://securityonline.info/cve-2025-29906-finits-bundled-getty-flaw-allows-authentication-bypass-on-linux-systems/",
+        "published": "Thu, 01 May 2025 00:50:39 +0000"
+    },
+    {
+        "title": "APT28 Cyber Espionage Campaign Targets French Institutions Since 2021",
+        "link": "https://securityonline.info/apt28-cyber-espionage-campaign-targets-french-institutions-since-2021/",
+        "published": "Thu, 01 May 2025 00:40:50 +0000"
+    },
+    {
+        "title": "CVE-2025-32444 (CVSS 10): Critical RCE Flaw in vLLM’s Mooncake Integration Exposes AI Infrastructure",
+        "link": "https://securityonline.info/cve-2025-32444-cvss-10-critical-rce-flaw-in-vllms-mooncake-integration-exposes-ai-infrastructure/",
+        "published": "Thu, 01 May 2025 00:35:37 +0000"
+    },
+    {
+        "title": "CAPTCHA to Command: Trustwave Uncovers Stealthy NodeJS Backdoor Campaign",
+        "link": "https://securityonline.info/captcha-to-command-trustwave-uncovers-stealthy-nodejs-backdoor-campaign/",
+        "published": "Thu, 01 May 2025 00:30:20 +0000"
+    },
+    {
+        "title": "Gremlin Stealer Malware Targets Browsers, Crypto Wallets, and VPNs in Telegram-Based Campaign",
+        "link": "https://securityonline.info/gremlin-stealer-malware-targets-browsers-crypto-wallets-and-vpns-in-telegram-based-campaign/",
+        "published": "Thu, 01 May 2025 00:23:09 +0000"
+    },
+    {
+        "title": "Outlaw Botnet Exploits Weak SSH to Hijack Linux Systems for Crypto Mining",
+        "link": "https://securityonline.info/outlaw-botnet-exploits-weak-ssh-to-hijack-linux-systems-for-crypto-mining/",
+        "published": "Thu, 01 May 2025 00:15:17 +0000"
+    },
+    {
+        "title": "Sophisticated Attacks Employ Cobalt Strike, DLL Sideloading, and Evolving Tactics",
+        "link": "https://securityonline.info/sophisticated-attacks-employ-cobalt-strike-dll-sideloading-and-evolving-tactics/",
+        "published": "Thu, 01 May 2025 00:10:10 +0000"
+    },
+    {
+        "title": "Earth Kasha Refines Spear-Phishing Tactics in Espionage Campaign Targeting Taiwan and Japan",
+        "link": "https://securityonline.info/earth-kasha-refines-spear-phishing-tactics-in-espionage-campaign-targeting-taiwan-and-japan/",
+        "published": "Thu, 01 May 2025 00:03:42 +0000"
     }
 ]
