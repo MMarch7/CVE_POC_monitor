@@ -532,3 +532,4 @@ clean_list:
 - Erlang-OTP-SSH-CVE-2025-32433
 - Phantom-Registy-Exploit-Cve2025-20682-Runtime-Fud-Lnk
 - CVE-2025-1304
+- Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment
