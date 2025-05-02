@@ -528,3 +528,5 @@ clean_list:
 - CVE-2025-20029-simulation
 - CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection
 - Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool
+- CVE-2024-23113
+- Erlang-OTP-SSH-CVE-2025-32433
