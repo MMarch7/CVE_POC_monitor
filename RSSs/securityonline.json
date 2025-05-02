@@ -8593,5 +8593,40 @@
         "title": "Amazon Launches Nova Premier AI Model with 1 Million Token Context",
         "link": "https://securityonline.info/amazon-launches-nova-premier-ai-model-with-1-million-token-context/",
         "published": "Thu, 01 May 2025 10:06:19 +0000"
+    },
+    {
+        "title": "Critical UAF Vulnerability Discovered in Ladybird Browser Engine (CVE-2025-47154)",
+        "link": "https://securityonline.info/critical-uaf-vulnerability-discovered-in-ladybird-browser-engine-cve-2025-47154/",
+        "published": "Fri, 02 May 2025 00:43:09 +0000"
+    },
+    {
+        "title": "CVE-2025-46619: LFI Vulnerability Affects Multiple Versions of Couchbase Server for Windows",
+        "link": "https://securityonline.info/cve-2025-46619-lfi-vulnerability-affects-multiple-versions-of-couchbase-server-for-windows/",
+        "published": "Fri, 02 May 2025 00:33:35 +0000"
+    },
+    {
+        "title": "SonicWall Issues Patch for SSRF Vulnerability in SMA1000 Appliances",
+        "link": "https://securityonline.info/sonicwall-issues-patch-for-ssrf-vulnerability-in-sma1000-appliances/",
+        "published": "Fri, 02 May 2025 00:25:17 +0000"
+    },
+    {
+        "title": "Malicious Python Packages Exploited Gmail as Covert Command-and-Control Channels",
+        "link": "https://securityonline.info/malicious-python-packages-exploited-gmail-as-covert-command-and-control-channels/",
+        "published": "Fri, 02 May 2025 00:20:40 +0000"
+    },
+    {
+        "title": "Intrinsec Links Eye Pyramid C2 to Ransomware Networks in New Infrastructure Mapping Report",
+        "link": "https://securityonline.info/intrinsec-links-eye-pyramid-c2-to-ransomware-networks-in-new-infrastructure-mapping-report/",
+        "published": "Fri, 02 May 2025 00:14:54 +0000"
+    },
+    {
+        "title": "Bitdefender Exposes Sophisticated Subscription-Based Mystery Box Scams",
+        "link": "https://securityonline.info/bitdefender-exposes-sophisticated-subscription-based-mystery-box-scams/",
+        "published": "Fri, 02 May 2025 00:10:57 +0000"
+    },
+    {
+        "title": "NVIDIA Fixes High-Severity Vulnerability in TensorRT-LLM",
+        "link": "https://securityonline.info/nvidia-fixes-high-severity-vulnerability-in-tensorrt-llm/",
+        "published": "Fri, 02 May 2025 00:05:02 +0000"
     }
 ]

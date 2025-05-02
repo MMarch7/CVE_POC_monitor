@@ -527,3 +527,4 @@ clean_list:
 - CVE-2025-31324-File-Upload
 - CVE-2025-20029-simulation
 - CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection
+- Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool
