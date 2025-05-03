@@ -534,3 +534,4 @@ clean_list:
 - CVE-2025-1304
 - Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment
 - cve-2024-44308
+- CVE-2025-29927_scanner
