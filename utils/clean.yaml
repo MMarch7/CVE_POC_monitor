@@ -536,3 +536,4 @@ clean_list:
 - cve-2024-44308
 - CVE-2025-29927_scanner
 - CVE-2025-47226
+- CVE-2025-Analysis
