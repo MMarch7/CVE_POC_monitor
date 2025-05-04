@@ -538,3 +538,4 @@ clean_list:
 - CVE-2025-47226
 - CVE-2025-Analysis
 - CVE-2024-52302
+- cve-2024-36401-poc
