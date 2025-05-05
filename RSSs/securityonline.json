@@ -8788,5 +8788,15 @@
         "title": "BeyondTrust PRA Vulnerability (CVE-2025-0217) Enables Session Hijacking via Authentication Bypass",
         "link": "https://securityonline.info/beyondtrust-pra-vulnerability-cve-2025-0217-enables-session-hijacking-via-authentication-bypass/",
         "published": "Mon, 05 May 2025 22:18:31 +0000"
+    },
+    {
+        "title": "Android Security Bulletin May 2025: Multi Vulnerabilities Including Actively Exploited CVE-2025-27363",
+        "link": "https://securityonline.info/android-security-bulletin-may-2025-multi-vulnerabilities-including-actively-exploited-cve-2025-27363/",
+        "published": "Mon, 05 May 2025 22:57:07 +0000"
+    },
+    {
+        "title": "Langflow Under Attack: CISA Warns of Active Exploitation of CVE-2025-3248",
+        "link": "https://securityonline.info/langflow-under-attack-cisa-warns-of-active-exploitation-of-cve-2025-3248/",
+        "published": "Mon, 05 May 2025 22:40:59 +0000"
     }
 ]
