@@ -8698,5 +8698,60 @@
         "title": "AiTM Attacks Bypass MFA Despite Widespread Adoption",
         "link": "https://securityonline.info/aitm-attacks-bypass-mfa-despite-widespread-adoption/",
         "published": "Sun, 04 May 2025 00:02:04 +0000"
+    },
+    {
+        "title": "CVE-2025-46762: Apache Parquet Java Flaw Allows Potential RCE via Avro Schema",
+        "link": "https://securityonline.info/cve-2025-46762-apache-parquet-java-flaw-allows-potential-rce-via-avro-schema/",
+        "published": "Mon, 05 May 2025 00:48:37 +0000"
+    },
+    {
+        "title": "Venom Spider Evolves: Arctic Wolf Exposes More_eggs Campaign Targeting HR",
+        "link": "https://securityonline.info/venom-spider-evolves-arctic-wolf-exposes-more_eggs-campaign-targeting-hr/",
+        "published": "Mon, 05 May 2025 00:46:08 +0000"
+    },
+    {
+        "title": "Critical SQL Injection Vulnerability Found in ADOdb PHP Library – CVE-2025-46337 (CVSS 10.0)",
+        "link": "https://securityonline.info/critical-sql-injection-vulnerability-found-in-adodb-php-library-cve-2025-46337-cvss-10-0/",
+        "published": "Mon, 05 May 2025 00:43:39 +0000"
+    },
+    {
+        "title": "Bridewell Uncovers ‘Operation Deceptive Prospect’ Targeting UK Organizations via Feedback Portals",
+        "link": "https://securityonline.info/bridewell-uncovers-operation-deceptive-prospect-targeting-uk-organizations-via-feedback-portals/",
+        "published": "Mon, 05 May 2025 00:40:16 +0000"
+    },
+    {
+        "title": "StealC V2: ThreatLabz Unveils the Evolution of a Stealthy Info-Stealer and Malware Loader",
+        "link": "https://securityonline.info/stealc-v2-threatlabz-unveils-the-evolution-of-a-stealthy-info-stealer-and-malware-loader/",
+        "published": "Mon, 05 May 2025 00:35:49 +0000"
+    },
+    {
+        "title": "SonicWall Exploit Chain Exposes Admin Hijack Risk via CVE-2023-44221 and CVE-2024-38475",
+        "link": "https://securityonline.info/sonicwall-exploit-chain-exposes-admin-hijack-risk-via-cve-2023-44221-and-cve-2024-38475/",
+        "published": "Mon, 05 May 2025 00:28:03 +0000"
+    },
+    {
+        "title": "APT36 Targets India with Pahalgam Attack-Themed Phishing",
+        "link": "https://securityonline.info/apt36-targets-india-with-pahalgam-attack-themed-phishing/",
+        "published": "Mon, 05 May 2025 00:27:05 +0000"
+    },
+    {
+        "title": "Golden Chickens Unveils TerraStealerV2 and TerraLogger Malware",
+        "link": "https://securityonline.info/golden-chickens-unveils-terrastealerv2-and-terralogger-malware/",
+        "published": "Mon, 05 May 2025 00:18:13 +0000"
+    },
+    {
+        "title": "CVE-2025-31191: Microsoft Exposes macOS Vulnerability Allowing App Sandbox Escape",
+        "link": "https://securityonline.info/cve-2025-31191-microsoft-exposes-macos-vulnerability-allowing-app-sandbox-escape/",
+        "published": "Mon, 05 May 2025 00:13:19 +0000"
+    },
+    {
+        "title": "SocGholish Reloaded: Darktrace Uncovers Ransomware-Primed Loader Campaign",
+        "link": "https://securityonline.info/socgholish-reloaded-darktrace-uncovers-ransomware-primed-loader-campaign/",
+        "published": "Mon, 05 May 2025 00:10:31 +0000"
+    },
+    {
+        "title": "Iranian APT Group Breaches Middle Eastern Critical Infrastructure in Stealth Campaign",
+        "link": "https://securityonline.info/iranian-apt-group-breaches-middle-eastern-critical-infrastructure-in-stealth-campaign/",
+        "published": "Mon, 05 May 2025 00:03:29 +0000"
     }
 ]
