@@ -547,3 +547,4 @@ clean_list:
 - WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956
 - CVE-202428187
 - CVE-2025-3604
+- CVE-2025-46731
