@@ -8798,5 +8798,45 @@
         "title": "Langflow Under Attack: CISA Warns of Active Exploitation of CVE-2025-3248",
         "link": "https://securityonline.info/langflow-under-attack-cisa-warns-of-active-exploitation-of-cve-2025-3248/",
         "published": "Mon, 05 May 2025 22:40:59 +0000"
+    },
+    {
+        "title": "Unauthenticated DoS Vulnerability Crashes Windows Deployment Services, No Patch",
+        "link": "https://securityonline.info/unauthenticated-dos-vulnerability-crashes-windows-deployment-services-no-patch/",
+        "published": "Tue, 06 May 2025 00:40:39 +0000"
+    },
+    {
+        "title": "CVE-2025-2905 (CVSS 9.1): Critical XXE Vulnerability Found in WSO2 API Manager",
+        "link": "https://securityonline.info/cve-2025-2905-cvss-9-1-critical-xxe-vulnerability-found-in-wso2-api-manager/",
+        "published": "Tue, 06 May 2025 00:37:47 +0000"
+    },
+    {
+        "title": "CVE-2025-2605 (CVSS 9.9): Critical Vulnerability Found in Honeywell MB-Secure Alarm Panels",
+        "link": "https://securityonline.info/cve-2025-2605-cvss-9-9-critical-vulnerability-found-in-honeywell-mb-secure-alarm-panels/",
+        "published": "Tue, 06 May 2025 00:33:43 +0000"
+    },
+    {
+        "title": "Darcula Exposed: Inside a Global Phishing-as-a-Service Empire Powered by the Magic Cat Toolkit",
+        "link": "https://securityonline.info/darcula-exposed-inside-a-global-phishing-as-a-service-empire-powered-by-the-magic-cat-toolkit/",
+        "published": "Tue, 06 May 2025 00:22:27 +0000"
+    },
+    {
+        "title": "Digigram PYKO-OUT AoIP Devices Exposed to Attacks Due to Missing Default Password",
+        "link": "https://securityonline.info/digigram-pyko-out-aoip-devices-exposed-to-attacks-due-to-missing-default-password/",
+        "published": "Tue, 06 May 2025 00:18:27 +0000"
+    },
+    {
+        "title": "Massive E-commerce Supply Chain Attack Uncovered: Hundreds of Stores at Risk",
+        "link": "https://securityonline.info/massive-e-commerce-supply-chain-attack-uncovered-hundreds-of-stores-at-risk/",
+        "published": "Tue, 06 May 2025 00:13:38 +0000"
+    },
+    {
+        "title": "DragonForce Ransomware Cartel Hits UK Retailers with Custom Payloads and Global Extortion Campaign",
+        "link": "https://securityonline.info/dragonforce-ransomware-cartel-hits-uk-retailers-with-custom-payloads-and-global-extortion-campaign/",
+        "published": "Tue, 06 May 2025 00:10:23 +0000"
+    },
+    {
+        "title": "Critical IBM Cognos Analytics Vulnerabilities Demand Urgent Patching",
+        "link": "https://securityonline.info/critical-ibm-cognos-analytics-vulnerabilities-demand-urgent-patching/",
+        "published": "Tue, 06 May 2025 00:03:59 +0000"
     }
 ]
