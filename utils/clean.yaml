@@ -556,3 +556,4 @@ clean_list:
 - CVE-2025-47423
 - CVE-2025-27007-OttoKit-exploit
 - -CVE-2025-31324
+- CVE-2024-39722
