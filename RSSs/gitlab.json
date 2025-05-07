@@ -828,5 +828,10 @@
         "title": "GitLab Patch Release: 17.11.1, 17.10.5, 17.9.7",
         "link": "https://about.gitlab.com/releases/2025/04/23/patch-release-gitlab-17-11-1-released/",
         "published": "2025-04-23T00:00:00+00:00"
+    },
+    {
+        "title": "GitLab Patch Release: 17.11.2, 17.10.6, 17.9.8",
+        "link": "https://about.gitlab.com/releases/2025/05/07/patch-release-gitlab-17-11-2-released/",
+        "published": "2025-05-07T00:00:00+00:00"
     }
 ]
