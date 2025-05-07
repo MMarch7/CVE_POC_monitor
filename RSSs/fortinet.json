@@ -558,5 +558,10 @@
         "title": "OS command injection",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-061",
         "published": "Tue, 14 Jan 2025 00:00:00 -0800"
+    },
+    {
+        "title": "Readonly user could execute sensitive operations",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-054",
+        "published": "Tue, 14 May 2024 00:00:00 -0700"
     }
 ]
