@@ -8858,5 +8858,60 @@
         "title": "OpenAI to Retain Non-Profit Structure, Focus on Societal Impact",
         "link": "https://securityonline.info/openai-to-retain-non-profit-structure-focus-on-societal-impact/",
         "published": "Tue, 06 May 2025 08:08:26 +0000"
+    },
+    {
+        "title": "CVE-2025-25014 (CVSS 9.1): Prototype Pollution in Kibana Opens Door to Code Execution",
+        "link": "https://securityonline.info/cve-2025-25014-cvss-9-1-prototype-pollution-in-kibana-opens-door-to-code-execution/",
+        "published": "Wed, 07 May 2025 00:50:01 +0000"
+    },
+    {
+        "title": "Botnet Exploits Old GeoVision IoT Devices via CVE-2024-6047 & CVE-2024-11120",
+        "link": "https://securityonline.info/botnet-exploits-old-geovision-iot-devices-via-cve-2024-6047-cve-2024-11120/",
+        "published": "Wed, 07 May 2025 00:46:08 +0000"
+    },
+    {
+        "title": "CVE-2025-46728: cpp-httplib Vulnerability Exposes Servers to Denial of Service",
+        "link": "https://securityonline.info/cve-2025-46728-cpp-httplib-vulnerability-exposes-servers-to-denial-of-service/",
+        "published": "Wed, 07 May 2025 00:40:12 +0000"
+    },
+    {
+        "title": "CVE-2025-47241: Critical Whitelist Bypass in Browser Use Exposes Internal Services",
+        "link": "https://securityonline.info/cve-2025-47241-critical-whitelist-bypass-in-browser-use-exposes-internal-services/",
+        "published": "Wed, 07 May 2025 00:35:33 +0000"
+    },
+    {
+        "title": "CoGUI Phishing Kit: Advanced Evasion Tactics Target Japan",
+        "link": "https://securityonline.info/cogui-phishing-kit-advanced-evasion-tactics-target-japan/",
+        "published": "Wed, 07 May 2025 00:27:50 +0000"
+    },
+    {
+        "title": "CVE-2025-24977: Critical RCE Flaw in OpenCTI Platform Exposes Infrastructure to Root-Level Attacks",
+        "link": "https://securityonline.info/cve-2025-24977-critical-rce-flaw-in-opencti-platform-exposes-infrastructure-to-root-level-attacks/",
+        "published": "Wed, 07 May 2025 00:24:58 +0000"
+    },
+    {
+        "title": "Scattered Spider (UNC3944) Resurfaces with Ties to DragonForce and RansomHub in Retail Attacks",
+        "link": "https://securityonline.info/scattered-spider-unc3944-resurfaces-with-ties-to-dragonforce-and-ransomhub-in-retail-attacks/",
+        "published": "Wed, 07 May 2025 00:22:02 +0000"
+    },
+    {
+        "title": "Gunra Ransomware: New Threat Analysis Reveals Evasion Tactics",
+        "link": "https://securityonline.info/gunra-ransomware-new-threat-analysis-reveals-evasion-tactics/",
+        "published": "Wed, 07 May 2025 00:20:29 +0000"
+    },
+    {
+        "title": "Critical AWS Amplify Studio Flaw Allows Code Execution – Update Now!",
+        "link": "https://securityonline.info/critical-aws-amplify-studio-flaw-allows-code-execution-update-now/",
+        "published": "Wed, 07 May 2025 00:15:48 +0000"
+    },
+    {
+        "title": "Panda Shop Smishing Syndicate: China-Backed Cybercrime-as-a-Service Hits Millions Globally",
+        "link": "https://securityonline.info/panda-shop-smishing-syndicate-china-backed-cybercrime-as-a-service-hits-millions-globally/",
+        "published": "Wed, 07 May 2025 00:10:59 +0000"
+    },
+    {
+        "title": "Critical Open Source Library ‘easyjson’ Linked to Russian VK Group",
+        "link": "https://securityonline.info/critical-open-source-library-easyjson-linked-to-russian-vk-group/",
+        "published": "Wed, 07 May 2025 00:02:16 +0000"
     }
 ]

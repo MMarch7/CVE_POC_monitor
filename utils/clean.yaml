@@ -552,3 +552,4 @@ clean_list:
 - Commvault-CVE-2025-34028
 - swa2025050607ok9xfdunxgjp8p9x3cve1d
 - CVE-2025-45250
+- CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC
