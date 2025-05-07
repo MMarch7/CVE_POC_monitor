@@ -553,5 +553,10 @@
         "title": "Use of uninitialized resource in SSLVPN websocket",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-165",
         "published": "Tue, 08 Apr 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-061",
+        "published": "Tue, 14 Jan 2025 00:00:00 -0800"
     }
 ]
