@@ -563,3 +563,5 @@ clean_list:
 - CVE-2025-25014
 - CVE-2025-28073
 - CVE-2025-2011
+- zygote-injection-toolkit
+- CVE-2025-28074
