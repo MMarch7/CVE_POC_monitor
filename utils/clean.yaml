@@ -555,3 +555,4 @@ clean_list:
 - CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC
 - CVE-2025-47423
 - CVE-2025-27007-OttoKit-exploit
+- -CVE-2025-31324
