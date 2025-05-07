@@ -562,3 +562,4 @@ clean_list:
 - sap_netweaver_cve-2025-31324-
 - CVE-2025-25014
 - CVE-2025-28073
+- CVE-2025-2011
