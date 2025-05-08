@@ -565,3 +565,6 @@ clean_list:
 - CVE-2025-2011
 - zygote-injection-toolkit
 - CVE-2025-28074
+- nuclei-template-cve-2025-31324-check
+- x-middleware-exploit
+- CVE-2024-57376

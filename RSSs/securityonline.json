@@ -8933,5 +8933,65 @@
         "title": "Polish Police Bust DDoS-for-Hire Network in Europol Operation",
         "link": "https://securityonline.info/polish-police-bust-ddos-for-hire-network-in-europol-operation/",
         "published": "Wed, 07 May 2025 15:06:42 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-20188 (CVSS 10) Flaw in Cisco IOS XE WLCs Allows Remote Root Access",
+        "link": "https://securityonline.info/critical-cve-2025-20188-cvss-10-flaw-in-cisco-ios-xe-wlcs-allows-remote-root-access/",
+        "published": "Thu, 08 May 2025 01:48:06 +0000"
+    },
+    {
+        "title": "Multi Vulnerabilities Found in SonicWall SMA 100 Series Prompt Urgent Security Update",
+        "link": "https://securityonline.info/multi-vulnerabilities-found-in-sonicwall-sma-100-series-prompt-urgent-security-update/",
+        "published": "Thu, 08 May 2025 01:40:37 +0000"
+    },
+    {
+        "title": "CVE-2025-23123 (CVSS 10): Critical UniFi Protect Cameras Flaw Demands Immediate Updates",
+        "link": "https://securityonline.info/cve-2025-23123-cvss-10-critical-unifi-protect-cameras-flaw-demands-immediate-updates/",
+        "published": "Thu, 08 May 2025 00:50:50 +0000"
+    },
+    {
+        "title": "Google Uncovers LOSTKEYS Malware Used by Russian COLDRIVER for Cyber Espionage",
+        "link": "https://securityonline.info/google-uncovers-lostkeys-malware-used-by-russian-coldriver-for-cyber-espionage/",
+        "published": "Thu, 08 May 2025 00:45:57 +0000"
+    },
+    {
+        "title": "Iranian Cyber Espionage Uses Fake Modeling Agency for Targeted Attacks",
+        "link": "https://securityonline.info/iranian-cyber-espionage-uses-fake-modeling-agency-for-targeted-attacks/",
+        "published": "Thu, 08 May 2025 00:40:52 +0000"
+    },
+    {
+        "title": "Inferno Drainer Steals Millions in Evolving Crypto Attacks",
+        "link": "https://securityonline.info/inferno-drainer-steals-millions-in-evolving-crypto-attacks/",
+        "published": "Thu, 08 May 2025 00:34:13 +0000"
+    },
+    {
+        "title": "Agenda Ransomware Evolves with NETXLOADER and SmokeLoader in Global Campaigns",
+        "link": "https://securityonline.info/agenda-ransomware-evolves-with-netxloader-and-smokeloader-in-global-campaigns/",
+        "published": "Thu, 08 May 2025 00:30:44 +0000"
+    },
+    {
+        "title": "APT36 Suspected in India Gov Spoofing Phishing with ClickFix Tactics",
+        "link": "https://securityonline.info/apt36-suspected-in-india-gov-spoofing-phishing-with-clickfix-tactics/",
+        "published": "Thu, 08 May 2025 00:26:25 +0000"
+    },
+    {
+        "title": "CVE-2025-27533: Apache ActiveMQ Memory Allocation Bug Could Lead to Denial of Service",
+        "link": "https://securityonline.info/cve-2025-27533-apache-activemq-memory-allocation-bug-could-lead-to-denial-of-service/",
+        "published": "Thu, 08 May 2025 00:20:07 +0000"
+    },
+    {
+        "title": "Aikido Uncovers Malicious Code in Popular npm Package rand-user-agent",
+        "link": "https://securityonline.info/aikido-uncovers-malicious-code-in-popular-npm-package-rand-user-agent/",
+        "published": "Thu, 08 May 2025 00:13:33 +0000"
+    },
+    {
+        "title": "Lampion Malware Returns with ClickFix Tactics to Target Portuguese Sectors",
+        "link": "https://securityonline.info/lampion-malware-returns-with-clickfix-tactics-to-target-portuguese-sectors/",
+        "published": "Thu, 08 May 2025 00:10:25 +0000"
+    },
+    {
+        "title": "Critical Privilege Escalation Flaw in IGEL OS Exposes Systems to Root Access Risks",
+        "link": "https://securityonline.info/critical-privilege-escalation-flaw-in-igel-os-exposes-systems-to-root-access-risks/",
+        "published": "Thu, 08 May 2025 00:03:38 +0000"
     }
 ]
