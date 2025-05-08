@@ -569,3 +569,4 @@ clean_list:
 - x-middleware-exploit
 - CVE-2024-57376
 - CVE-2024-39719
+- CVE-2024-6648
