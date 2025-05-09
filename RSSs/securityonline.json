@@ -9003,5 +9003,50 @@
         "title": "LinkedIn Enhances Job Search with New AI-Powered Features",
         "link": "https://securityonline.info/linkedin-enhances-job-search-with-new-ai-powered-features/",
         "published": "Thu, 08 May 2025 06:59:50 +0000"
+    },
+    {
+        "title": "Cisco SD-WAN Vulnerabilities: PoC Exists for XSS and Filter Bypass",
+        "link": "https://securityonline.info/cisco-sd-wan-vulnerabilities-poc-exists-for-xss-and-filter-bypass/",
+        "published": "Fri, 09 May 2025 00:50:25 +0000"
+    },
+    {
+        "title": "FBI Warns: End-of-Life Routers Hijacked to Power Cybercriminal Proxy Networks",
+        "link": "https://securityonline.info/fbi-warns-end-of-life-routers-hijacked-to-power-cybercriminal-proxy-networks/",
+        "published": "Fri, 09 May 2025 00:40:40 +0000"
+    },
+    {
+        "title": "RedisRaider Worm Exploits Misconfigured Redis for Cryptojacking",
+        "link": "https://securityonline.info/redisraider-worm-exploits-misconfigured-redis-for-cryptojacking/",
+        "published": "Fri, 09 May 2025 00:35:45 +0000"
+    },
+    {
+        "title": "Radware Cloud WAF Vulnerable to Filter Bypass via Crafted Requests",
+        "link": "https://securityonline.info/radware-cloud-waf-vulnerable-to-filter-bypass-via-crafted-requests/",
+        "published": "Fri, 09 May 2025 00:33:31 +0000"
+    },
+    {
+        "title": "Sophisticated IIS Malware Targets South Korean Web Servers",
+        "link": "https://securityonline.info/sophisticated-iis-malware-targets-south-korean-web-servers/",
+        "published": "Fri, 09 May 2025 00:20:49 +0000"
+    },
+    {
+        "title": "New Phishing Tactic: Attackers Abuse Blob URIs to Bypass Email Security",
+        "link": "https://securityonline.info/new-phishing-tactic-attackers-abuse-blob-uris-to-bypass-email-security/",
+        "published": "Fri, 09 May 2025 00:16:14 +0000"
+    },
+    {
+        "title": "DOGE Big Balls Ransomware: New Tools and Tactics Uncovered",
+        "link": "https://securityonline.info/doge-big-balls-ransomware-new-tools-and-tactics-uncovered/",
+        "published": "Fri, 09 May 2025 00:13:37 +0000"
+    },
+    {
+        "title": "Oriental Gudgeon: Sophisticated Phishing Campaign Targets Japanese Companies",
+        "link": "https://securityonline.info/oriental-gudgeon-sophisticated-phishing-campaign-targets-japanese-companies/",
+        "published": "Fri, 09 May 2025 00:10:11 +0000"
+    },
+    {
+        "title": "DieNet Hacktivist Group Exploits DDoS-as-a-Service in Rapid Attacks",
+        "link": "https://securityonline.info/dienet-hacktivist-group-exploits-ddos-as-a-service-in-rapid-attacks/",
+        "published": "Fri, 09 May 2025 00:01:29 +0000"
     }
 ]
