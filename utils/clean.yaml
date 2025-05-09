@@ -573,3 +573,4 @@ clean_list:
 - CVE-2025-29448
 - OpenSSH_CVE2024_Checking
 - CVE-2024-13513
+- CVE-2025-27533-Exploit-for-Apache-ActiveMQ
