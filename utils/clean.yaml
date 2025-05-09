@@ -577,3 +577,4 @@ clean_list:
 - CVE-2025-34028-PoC-Commvault-RCE
 - dirtyZero
 - CVE-2024-38475
+- Poleposph
