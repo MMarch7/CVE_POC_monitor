@@ -575,3 +575,4 @@ clean_list:
 - CVE-2024-13513
 - CVE-2025-27533-Exploit-for-Apache-ActiveMQ
 - CVE-2025-34028-PoC-Commvault-RCE
+- dirtyZero
