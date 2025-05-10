@@ -583,3 +583,4 @@ clean_list:
 - CVE-2024-28752
 - vulnerable-next_js_cve-2025-29927
 - CVE-2025-29306_poc
+- CVE-2025-20188
