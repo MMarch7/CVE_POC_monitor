@@ -580,3 +580,5 @@ clean_list:
 - Poleposph
 - swa2025051006ztd04hvfbighlv7q0cve4c
 - CVE-2025-21307
+- CVE-2024-28752
+- vulnerable-next_js_cve-2025-29927
