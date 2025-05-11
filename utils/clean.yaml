@@ -590,3 +590,4 @@ clean_list:
 - airborn-IOS-CVE-2025-24252
 - CVE-2025-47810
 - iOS-CVE-2025-24203-Paths
+- CVE-2025-31644
