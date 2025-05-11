@@ -9103,5 +9103,20 @@
         "title": "Chrome Crashing on Windows, Android, and macOS; iOS Unaffected",
         "link": "https://securityonline.info/chrome-crashing-on-windows-android-and-macos-ios-unaffected/",
         "published": "Sat, 10 May 2025 02:12:09 +0000"
+    },
+    {
+        "title": "Backdoor by Design: Malicious npm Packages Hijack Cursor IDE on macOS",
+        "link": "https://securityonline.info/backdoor-by-design-malicious-npm-packages-hijack-cursor-ide-on-macos/",
+        "published": "Sun, 11 May 2025 00:21:17 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities Uncovered in Mitel SIP Phones: Command Injection and File Upload Risks",
+        "link": "https://securityonline.info/critical-vulnerabilities-uncovered-in-mitel-sip-phones-command-injection-and-file-upload-risks/",
+        "published": "Sun, 11 May 2025 00:13:48 +0000"
+    },
+    {
+        "title": "From Web Shell to Full Control: APT-Style Exploits Surge Against SAP NetWeaver",
+        "link": "https://securityonline.info/from-web-shell-to-full-control-apt-style-exploits-surge-against-sap-netweaver/",
+        "published": "Sun, 11 May 2025 00:08:11 +0000"
     }
 ]
