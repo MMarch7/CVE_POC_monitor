@@ -592,3 +592,5 @@ clean_list:
 - iOS-CVE-2025-24203-Paths
 - CVE-2025-31644
 - CVE-2024-4577_PowerShell
+- webpack-cve-2024-43788
+- CP-XR-DE21-S--4G-Router-Vulnerabilities
