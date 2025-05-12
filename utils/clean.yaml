@@ -595,3 +595,4 @@ clean_list:
 - webpack-cve-2024-43788
 - CP-XR-DE21-S--4G-Router-Vulnerabilities
 - CVE-2025-2812
+- CVE-2024-10220-demo
