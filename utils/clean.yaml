@@ -591,3 +591,4 @@ clean_list:
 - CVE-2025-47810
 - iOS-CVE-2025-24203-Paths
 - CVE-2025-31644
+- CVE-2024-4577_PowerShell
