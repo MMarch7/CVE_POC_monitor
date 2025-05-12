@@ -9118,5 +9118,60 @@
         "title": "From Web Shell to Full Control: APT-Style Exploits Surge Against SAP NetWeaver",
         "link": "https://securityonline.info/from-web-shell-to-full-control-apt-style-exploits-surge-against-sap-netweaver/",
         "published": "Sun, 11 May 2025 00:08:11 +0000"
+    },
+    {
+        "title": "PoC Released: CVE-2024-26809 Exploits nftables Double-Free to Achieve Root Shell",
+        "link": "https://securityonline.info/poc-released-cve-2024-26809-exploits-nftables-double-free-to-achieve-root-shell/",
+        "published": "Mon, 12 May 2025 00:50:56 +0000"
+    },
+    {
+        "title": "Critical Security Flaws Found in ASUS DriverHub: Update Immediately",
+        "link": "https://securityonline.info/critical-security-flaws-found-in-asus-driverhub-update-immediately/",
+        "published": "Mon, 12 May 2025 00:46:49 +0000"
+    },
+    {
+        "title": "Defendnot: New Tool Directly Disables Windows Defender",
+        "link": "https://securityonline.info/defendnot-new-tool-directly-disables-windows-defender/",
+        "published": "Mon, 12 May 2025 00:40:46 +0000"
+    },
+    {
+        "title": "VS Code in the Browser at Risk: code-server Security Alert",
+        "link": "https://securityonline.info/vs-code-in-the-browser-at-risk-code-server-security-alert/",
+        "published": "Mon, 12 May 2025 00:38:47 +0000"
+    },
+    {
+        "title": "WaterPlum’s OtterCookie Malware Upgrades to v4 with Credential Theft and Sandbox Detection Features",
+        "link": "https://securityonline.info/waterplums-ottercookie-malware-upgrades-to-v4-with-credential-theft-and-sandbox-detection-features/",
+        "published": "Mon, 12 May 2025 00:33:54 +0000"
+    },
+    {
+        "title": "Malicious npm Packages Target BullX Crypto Traders via Telegram-Backdoored Payloads",
+        "link": "https://securityonline.info/malicious-npm-packages-target-bullx-crypto-traders-via-telegram-backdoored-payloads/",
+        "published": "Mon, 12 May 2025 00:29:04 +0000"
+    },
+    {
+        "title": "FreeDrain: Silent Crypto Theft on Google? Massive Phishing Network Exposed",
+        "link": "https://securityonline.info/freedrain-silent-crypto-theft-on-google-massive-phishing-network-exposed/",
+        "published": "Mon, 12 May 2025 00:24:37 +0000"
+    },
+    {
+        "title": "Stack Overflow Alert! XML Flaw in libexpat Threatens Widespread Software",
+        "link": "https://securityonline.info/stack-overflow-alert-xml-flaw-in-libexpat-threatens-widespread-software/",
+        "published": "Mon, 12 May 2025 00:20:50 +0000"
+    },
+    {
+        "title": "Sneaky Email Attack Targets Spain, Italy, Portugal with RATty Trojan",
+        "link": "https://securityonline.info/sneaky-email-attack-targets-spain-italy-portugal-with-ratty-trojan/",
+        "published": "Mon, 12 May 2025 00:14:40 +0000"
+    },
+    {
+        "title": "Fake Crypto Platforms on Facebook Steal Your Data! Beware Celebrity Endorsements",
+        "link": "https://securityonline.info/fake-crypto-platforms-on-facebook-steal-your-data-beware-celebrity-endorsements/",
+        "published": "Mon, 12 May 2025 00:09:52 +0000"
+    },
+    {
+        "title": "Legitimate Remote Tools Weaponized in Sophisticated Spam Campaign",
+        "link": "https://securityonline.info/legitimate-remote-tools-weaponized-in-sophisticated-spam-campaign/",
+        "published": "Mon, 12 May 2025 00:03:19 +0000"
     }
 ]
