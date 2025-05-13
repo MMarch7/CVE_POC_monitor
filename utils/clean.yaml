@@ -598,3 +598,4 @@ clean_list:
 - CVE-2024-10220-demo
 - CVE-2024-55511
 - CVE-2025-24203-iOS-Exploit-in-Swift
+- eBPF_cve_2024_23651
