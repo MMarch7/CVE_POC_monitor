@@ -9253,5 +9253,10 @@
         "title": "Stealth in Pixels: .NET Malware Hides Payloads in Bitmap Resources",
         "link": "https://securityonline.info/stealth-in-pixels-net-malware-hides-payloads-in-bitmap-resources/",
         "published": "Tue, 13 May 2025 00:05:44 +0000"
+    },
+    {
+        "title": "PoC Released: CVE-2025-31258 Sandbox Escape in macOS via RemoteViewServices",
+        "link": "https://securityonline.info/poc-released-cve-2025-31258-sandbox-escape-in-macos-via-remoteviewservices/",
+        "published": "Tue, 13 May 2025 02:37:17 +0000"
     }
 ]
