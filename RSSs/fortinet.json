@@ -563,5 +563,65 @@
         "title": "Readonly user could execute sensitive operations",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-054",
         "published": "Tue, 14 May 2024 00:00:00 -0700"
+    },
+    {
+        "title": "Buffer over-read in FGFM",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-381",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Code Execution due to Node.JS Environment Variable",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-025",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Denial of Service in Security Fabric Root",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-388",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Index of FCT installation directory publicly accessible",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-548",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insertion of sensitive information into system log",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-380",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Local privilege escalation in XPC services",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-016",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-167",
+        "published": "Tue, 10 Oct 2023 00:00:00 -0700"
+    },
+    {
+        "title": "OpenSSH Terrapin attack (CVE-2023-48795)",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-490",
+        "published": "Tue, 09 Jan 2024 00:00:00 -0800"
+    },
+    {
+        "title": "Path traversal in upload message",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-552",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Stack-based buffer overflow vulnerability in API",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-254",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "TACACS+ authentication bypass",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-472",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Unauthorized modification of global threat feeds",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-023",
+        "published": "Tue, 13 May 2025 00:00:00 -0700"
     }
 ]
