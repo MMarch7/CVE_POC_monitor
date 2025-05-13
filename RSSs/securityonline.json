@@ -9288,5 +9288,10 @@
         "title": "Fortinet CVE-2025-32756 Exploited in the Wild: Critical RCE Flaw Hits FortiVoice and More",
         "link": "https://securityonline.info/fortinet-cve-2025-32756-exploited-in-the-wild-critical-rce-flaw-hits-fortivoice-and-more/",
         "published": "Tue, 13 May 2025 15:45:03 +0000"
+    },
+    {
+        "title": "Ivanti EPMM Flaws Exploited in the Wild: Chained RCE and Auth Bypass Threaten Mobile Device Management",
+        "link": "https://securityonline.info/ivanti-epmm-flaws-exploited-in-the-wild-chained-rce-and-auth-bypass-threaten-mobile-device-management/",
+        "published": "Tue, 13 May 2025 16:37:28 +0000"
     }
 ]
