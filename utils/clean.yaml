@@ -600,3 +600,4 @@ clean_list:
 - CVE-2025-24203-iOS-Exploit-in-Swift
 - eBPF_cve_2024_23651
 - nosurf-cve-2025-46721
+- '12345'
