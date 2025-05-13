@@ -9198,5 +9198,60 @@
         "title": "Türkiye-Linked Hackers Exploit Output Messenger Zero-Day (CVE-2025-27920) in Espionage Campaign",
         "link": "https://securityonline.info/turkiye-linked-hackers-exploit-output-messenger-zero-day-cve-2025-27920-in-espionage-campaign/",
         "published": "Mon, 12 May 2025 16:34:49 +0000"
+    },
+    {
+        "title": "Multiple CVEs in GNU Screen: Local Root Exploit and TTY Hijacking Discovered",
+        "link": "https://securityonline.info/multiple-cves-in-gnu-screen-local-root-exploit-and-tty-hijacking-discovered/",
+        "published": "Tue, 13 May 2025 00:45:58 +0000"
+    },
+    {
+        "title": "CVE-2025-1087: Critical Template Injection in Insomnia API Client Enables Remote Code Execution",
+        "link": "https://securityonline.info/cve-2025-1087-critical-template-injection-in-insomnia-api-client-enables-remote-code-execution/",
+        "published": "Tue, 13 May 2025 00:42:44 +0000"
+    },
+    {
+        "title": "North Korean APT37’s “ToyBox Story”: Stealthy Attacks Unveiled",
+        "link": "https://securityonline.info/north-korean-apt37s-toybox-story-stealthy-attacks-unveiled/",
+        "published": "Tue, 13 May 2025 00:40:49 +0000"
+    },
+    {
+        "title": "AI Tools Turn Trojan: Fake Video Platforms Drop Noodlophile Stealer and XWorm Payloads",
+        "link": "https://securityonline.info/ai-tools-turn-trojan-fake-video-platforms-drop-noodlophile-stealer-and-xworm-payloads/",
+        "published": "Tue, 13 May 2025 00:33:27 +0000"
+    },
+    {
+        "title": "How to Stop Threats that Bypass Multi-Factor Authentication",
+        "link": "https://securityonline.info/how-to-stop-threats-that-bypass-multi-factor-authentication/",
+        "published": "Tue, 13 May 2025 00:26:03 +0000"
+    },
+    {
+        "title": "PoC Released: CVE-2025-31644 Exploit Grants Root Access on F5 BIG-IP via Appliance Mode Command Injection",
+        "link": "https://securityonline.info/poc-released-cve-2025-31644-exploit-grants-root-access-on-f5-big-ip-via-appliance-mode-command-injection/",
+        "published": "Tue, 13 May 2025 00:25:01 +0000"
+    },
+    {
+        "title": "PupkinStealer: Tiny Malware, Big Theft via Telegram Bot Exposed",
+        "link": "https://securityonline.info/pupkinstealer-tiny-malware-big-theft-via-telegram-bot-exposed/",
+        "published": "Tue, 13 May 2025 00:20:41 +0000"
+    },
+    {
+        "title": "CAPTCHA Trap: Fake Verification Unleashes Lumma Stealer on Unsuspecting Users",
+        "link": "https://securityonline.info/captcha-trap-fake-verification-unleashes-lumma-stealer-on-unsuspecting-users/",
+        "published": "Tue, 13 May 2025 00:14:32 +0000"
+    },
+    {
+        "title": "API Security in 2025: Top Best Practices Every Security Team Must Know",
+        "link": "https://securityonline.info/api-security-in-2025-top-best-practices-every-security-team-must-know/",
+        "published": "Tue, 13 May 2025 00:11:21 +0000"
+    },
+    {
+        "title": "Shadowy IoT Army: Decades-Old Proxy Botnet Exposed and Crippled",
+        "link": "https://securityonline.info/shadowy-iot-army-decades-old-proxy-botnet-exposed-and-crippled/",
+        "published": "Tue, 13 May 2025 00:10:07 +0000"
+    },
+    {
+        "title": "Stealth in Pixels: .NET Malware Hides Payloads in Bitmap Resources",
+        "link": "https://securityonline.info/stealth-in-pixels-net-malware-hides-payloads-in-bitmap-resources/",
+        "published": "Tue, 13 May 2025 00:05:44 +0000"
     }
 ]
