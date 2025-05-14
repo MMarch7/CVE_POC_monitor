@@ -288,5 +288,60 @@
         "title": "CVE-2024-3596 PAN-OS: CHAP and PAP When Used with RADIUS Authentication Lead to Privilege Escalation (Severity: MEDIUM)",
         "link": "https://security.paloaltonetworks.com/CVE-2024-3596",
         "published": "2025-04-30T17:45:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0009 Chromium: Monthly Vulnerability Update (May 2025) (Severity: HIGH)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0009",
+        "published": "2025-05-14T17:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0132 Cortex XDR Broker VM: Unauthenticated User Can Disable Internal Services (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0132",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0130 PAN-OS: Firewall Denial-of-Service (DoS) in the Web-Proxy Feature via a Burst of Maliciously Crafted Packets (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0130",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0138 Prisma Cloud Compute Edition: Insufficient Session Expiration Vulnerability in the Web Interface (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0138",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0131 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0131",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0010 Informational Bulletin: No Impact of the Marvin Attack on PAN-OS (Severity: INFORMATIONAL)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0010",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0135 GlobalProtect App on macOS: Non Admin User Can Disable the GlobalProtect App (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0135",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0133 PAN-OS: Reflected Cross-Site Scripting (XSS) Vulnerability in GlobalProtect Gateway and Portal (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0133",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0136 PAN-OS: Unencrypted Data Transfer when using AES-128-CCM on Intel-based hardware devices (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0136",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0137 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0137",
+        "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0134 Cortex XDR Broker VM: Authenticated Code Injection Vulnerability in Broker VM (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0134",
+        "published": "2025-05-14T16:00:00.000Z"
     }
 ]
