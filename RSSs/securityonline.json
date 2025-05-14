@@ -9298,5 +9298,70 @@
         "title": "Microsoft May 2025 Patch Tuesday Fixes 83 Vulnerabilities, Including 5 Exploited in the Wild",
         "link": "https://securityonline.info/microsoft-may-2025-patch-tuesday-fixes-83-vulnerabilities-including-5-exploited-in-the-wild/",
         "published": "Tue, 13 May 2025 17:35:47 +0000"
+    },
+    {
+        "title": "CVSS 10.0 Flaws in Siemens OZW Web Servers Enable Unauthenticated RCE and Admin Access",
+        "link": "https://securityonline.info/cvss-10-0-flaws-in-siemens-ozw-web-servers-enable-unauthenticated-rce-and-admin-access/",
+        "published": "Wed, 14 May 2025 01:00:17 +0000"
+    },
+    {
+        "title": "Ivanti Neurons for ITSM Hit by CVSS 9.8 Authentication Bypass Flaw Enabling Full Admin Access",
+        "link": "https://securityonline.info/ivanti-neurons-for-itsm-hit-by-cvss-9-8-authentication-bypass-flaw-enabling-full-admin-access/",
+        "published": "Wed, 14 May 2025 00:55:07 +0000"
+    },
+    {
+        "title": "Varnish Vulnerability Exposes Cache to HTTP Request Smuggling",
+        "link": "https://securityonline.info/varnish-vulnerability-exposes-cache-to-http-request-smuggling/",
+        "published": "Wed, 14 May 2025 00:50:09 +0000"
+    },
+    {
+        "title": "Zoom Patches High-Severity Flaw (CVE-2025-30663) in Workplace Apps",
+        "link": "https://securityonline.info/zoom-patches-high-severity-flaw-cve-2025-30663-in-workplace-apps/",
+        "published": "Wed, 14 May 2025 00:49:58 +0000"
+    },
+    {
+        "title": "Critical Misconfiguration in Bitnami Pgpool Enables Unauthenticated PostgreSQL Access (CVE-2025-22248)",
+        "link": "https://securityonline.info/critical-misconfiguration-in-bitnami-pgpool-enables-unauthenticated-postgresql-access-cve-2025-22248/",
+        "published": "Wed, 14 May 2025 00:46:33 +0000"
+    },
+    {
+        "title": "TA406 Cyber Campaign: North Korea’s Focus on Ukraine Intelligence",
+        "link": "https://securityonline.info/ta406-cyber-campaign-north-koreas-focus-on-ukraine-intelligence/",
+        "published": "Wed, 14 May 2025 00:42:17 +0000"
+    },
+    {
+        "title": "Siemens RUGGEDCOM Flaws Scored CVSS 9.9: Command Injection Bugs Threaten Industrial Networks",
+        "link": "https://securityonline.info/siemens-ruggedcom-flaws-scored-cvss-9-9-command-injection-bugs-threaten-industrial-networks/",
+        "published": "Wed, 14 May 2025 00:38:36 +0000"
+    },
+    {
+        "title": "Chihuahua Stealer Unleashed: Obfuscated PowerShell and AES-GCM Encryption Fuel This Advanced Data Theft Campaign",
+        "link": "https://securityonline.info/chihuahua-stealer-unleashed-obfuscated-powershell-and-aes-gcm-encryption-fuel-this-advanced-data-theft-campaign/",
+        "published": "Wed, 14 May 2025 00:23:17 +0000"
+    },
+    {
+        "title": "Earth Ammit Strikes Drone Supply Chains: VENOM and TIDRONE Campaigns Expose East Asia’s Critical Infrastructure",
+        "link": "https://securityonline.info/earth-ammit-strikes-drone-supply-chains-venom-and-tidrone-campaigns-expose-east-asias-critical-infrastructure/",
+        "published": "Wed, 14 May 2025 00:20:43 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-4632 Flaw in Samsung MagicINFO Puts Global Signage Networks at Risk",
+        "link": "https://securityonline.info/critical-cve-2025-4632-flaw-in-samsung-magicinfo-puts-global-signage-networks-at-risk/",
+        "published": "Wed, 14 May 2025 00:17:28 +0000"
+    },
+    {
+        "title": "Swan Vector Espionage Targets Japan & Taiwan with Advanced Malware",
+        "link": "https://securityonline.info/swan-vector-espionage-targets-japan-taiwan-with-advanced-malware/",
+        "published": "Wed, 14 May 2025 00:13:08 +0000"
+    },
+    {
+        "title": "82,000+ WordPress Sites at Risk: TheGem Theme Vulnerabilities Allow Full Site Takeover",
+        "link": "https://securityonline.info/82000-wordpress-sites-at-risk-thegem-theme-vulnerabilities-allow-full-site-takeover/",
+        "published": "Wed, 14 May 2025 00:10:51 +0000"
+    },
+    {
+        "title": "Horabot Malware Targets Latin America with Sophisticated Phishing",
+        "link": "https://securityonline.info/horabot-malware-targets-latin-america-with-sophisticated-phishing/",
+        "published": "Wed, 14 May 2025 00:02:32 +0000"
     }
 ]
