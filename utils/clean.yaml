@@ -603,3 +603,4 @@ clean_list:
 - '12345'
 - CVE-2025-29824
 - CVE-2025-27636-Pratctical-Lab
+- CVE-2025-24132-Scanner
