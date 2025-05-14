@@ -602,3 +602,4 @@ clean_list:
 - nosurf-cve-2025-46721
 - '12345'
 - CVE-2025-29824
+- CVE-2025-27636-Pratctical-Lab
