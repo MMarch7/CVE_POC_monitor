@@ -605,3 +605,4 @@ clean_list:
 - CVE-2025-27636-Pratctical-Lab
 - CVE-2025-24132-Scanner
 - CVE-2025-31258-PoC
+- CVE-2025-4094
