@@ -88,5 +88,10 @@
         "title": "CVE-2025-22235 - Medium - CVE-2025-22235: Spring Boot EndpointRequest.to() creates wrong matcher if actuator endpoint is not exposed",
         "link": "https://spring.io/security/cve-2025-22235",
         "published": "Thu, 24 Apr 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22233 - Low - CVE-2025-22233: Spring Framework DataBinder Case Sensitive Match Exception (2nd update)",
+        "link": "https://spring.io/security/cve-2025-22233",
+        "published": "Thu, 15 May 2025 00:00:00 GMT"
     }
 ]
