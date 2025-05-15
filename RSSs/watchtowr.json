@@ -108,5 +108,10 @@
         "title": "SysOwned, Your Friendly Support Ticket - SysAid On-Premise Pre-Auth RCE Chain (CVE-2025-2775 And Friends)",
         "link": "https://labs.watchtowr.com/sysowned-your-friendly-rce-support-ticket/",
         "published": "Wed, 07 May 2025 09:38:35 GMT"
+    },
+    {
+        "title": "Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)",
+        "link": "https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/",
+        "published": "Thu, 15 May 2025 14:51:12 GMT"
     }
 ]
