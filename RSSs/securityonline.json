@@ -9388,5 +9388,65 @@
         "title": "INE Security Alert: Continuous CVE Practice Closes Critical Gap Between Vulnerability Alerts and Effective Defense",
         "link": "https://securityonline.info/ine-security-alert-continuous-cve-practice-closes-critical-gap-between-vulnerability-alerts-and-effective-defense/",
         "published": "Wed, 14 May 2025 10:00:26 +0000"
+    },
+    {
+        "title": "URGENT Chrome Update: High-Risk CVE-2025-4664 Flaw Actively Exploited In The Wild – Patch Immediately!",
+        "link": "https://securityonline.info/urgent-chrome-update-high-risk-cve-2025-4664-flaw-actively-exploited-in-the-wild-patch-immediately/",
+        "published": "Thu, 15 May 2025 01:22:48 +0000"
+    },
+    {
+        "title": "Node.js Alerts: High-Severity Flaw (CVE-2025-23166) Risks Remote System Crashes! Update Immediately!",
+        "link": "https://securityonline.info/node-js-alerts-high-severity-flaw-cve-2025-23166-risks-remote-system-crashes-update-immediately/",
+        "published": "Thu, 15 May 2025 00:58:38 +0000"
+    },
+    {
+        "title": "BitLocker Encryption Bypassed in Minutes via Bitpixie (CVE-2023-21563) – PoC Reveals High-Risk Attack Path",
+        "link": "https://securityonline.info/bitlocker-encryption-bypassed-in-minutes-via-bitpixie-cve-2023-21563-poc-reveals-high-risk-attack-path/",
+        "published": "Thu, 15 May 2025 00:35:15 +0000"
+    },
+    {
+        "title": "DarkCloud Stealer Returns: AutoIt-Powered Malware Strikes with New Stealth Tactics",
+        "link": "https://securityonline.info/darkcloud-stealer-returns-autoit-powered-malware-strikes-with-new-stealth-tactics/",
+        "published": "Thu, 15 May 2025 00:33:05 +0000"
+    },
+    {
+        "title": "Three Vulnerabilities Expose Apache IoTDB to Attacks",
+        "link": "https://securityonline.info/three-vulnerabilities-expose-apache-iotdb-to-attacks/",
+        "published": "Thu, 15 May 2025 00:30:57 +0000"
+    },
+    {
+        "title": "Fortinet Patches Critical TACACS+ Authentication Bypass (CVE-2025-22252) in FortiOS and FortiProxy",
+        "link": "https://securityonline.info/fortinet-patches-critical-tacacs-authentication-bypass-cve-2025-22252-in-fortios-and-fortiproxy/",
+        "published": "Thu, 15 May 2025 00:29:16 +0000"
+    },
+    {
+        "title": "Interlock Ransomware Hits U.S. Defense Contractor AMTEC in Espionage-Driven Data Breach",
+        "link": "https://securityonline.info/interlock-ransomware-hits-u-s-defense-contractor-amtec-in-espionage-driven-data-breach/",
+        "published": "Thu, 15 May 2025 00:23:49 +0000"
+    },
+    {
+        "title": "Branch Privilege Injection (CVE-2024-45332): New Spectre-Class Attack Bypasses Intel Mitigations with Live PoC",
+        "link": "https://securityonline.info/branch-privilege-injection-cve-2024-45332-new-spectre-class-attack-bypasses-intel-mitigations-with-live-poc/",
+        "published": "Thu, 15 May 2025 00:16:24 +0000"
+    },
+    {
+        "title": "Obfuscated Malware Delivered via Google Calendar Invites and Unicode PUAs",
+        "link": "https://securityonline.info/obfuscated-malware-delivered-via-google-calendar-invites-and-unicode-puas/",
+        "published": "Thu, 15 May 2025 00:14:58 +0000"
+    },
+    {
+        "title": "Critical Authentication Bypass in OpenPubkey and OPKSSH Exposes Systems to Remote Access Risks",
+        "link": "https://securityonline.info/critical-authentication-bypass-in-openpubkey-and-opkssh-exposes-systems-to-remote-access-risks/",
+        "published": "Thu, 15 May 2025 00:09:29 +0000"
+    },
+    {
+        "title": "Xerox Patches Dozens of Vulnerabilities in FreeFlow Print Server with April 2025 Security Update",
+        "link": "https://securityonline.info/xerox-patches-dozens-of-vulnerabilities-in-freeflow-print-server-with-april-2025-security-update/",
+        "published": "Thu, 15 May 2025 00:05:40 +0000"
+    },
+    {
+        "title": "PyPI Malware Alert: Malicious ‘solana-token’ Package Targets Solana Developers",
+        "link": "https://securityonline.info/pypi-malware-alert-malicious-solana-token-package-targets-solana-developers/",
+        "published": "Thu, 15 May 2025 00:01:18 +0000"
     }
 ]
