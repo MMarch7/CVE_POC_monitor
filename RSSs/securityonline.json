@@ -9448,5 +9448,10 @@
         "title": "PyPI Malware Alert: Malicious ‘solana-token’ Package Targets Solana Developers",
         "link": "https://securityonline.info/pypi-malware-alert-malicious-solana-token-package-targets-solana-developers/",
         "published": "Thu, 15 May 2025 00:01:18 +0000"
+    },
+    {
+        "title": "High-Risk Flaws in a-blog cms: CVE-2025-36560 Scores Critical 9.2 on CVSS Scale",
+        "link": "https://securityonline.info/high-risk-flaws-in-a-blog-cms-cve-2025-36560-scores-critical-9-2-on-cvss-scale/",
+        "published": "Thu, 15 May 2025 08:52:02 +0000"
     }
 ]
