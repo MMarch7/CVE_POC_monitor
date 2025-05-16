@@ -9498,5 +9498,10 @@
         "title": "Patch Now: SonicWall SMA1000 Flaw (CVE-2025-40595) Enables Stealth SSRF Attacks",
         "link": "https://securityonline.info/patch-now-sonicwall-sma1000-flaw-cve-2025-40595-enables-stealth-ssrf-attacks/",
         "published": "Fri, 16 May 2025 00:00:59 +0000"
+    },
+    {
+        "title": "iOS Kernel Vulnerability Exposed in Public PoC – Potential Jailbreak and Privilege Escalation Risk",
+        "link": "https://securityonline.info/ios-kernel-vulnerability-exposed-in-public-poc-potential-jailbreak-and-privilege-escalation-risk/",
+        "published": "Fri, 16 May 2025 02:15:15 +0000"
     }
 ]
