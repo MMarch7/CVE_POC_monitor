@@ -9453,5 +9453,50 @@
         "title": "High-Risk Flaws in a-blog cms: CVE-2025-36560 Scores Critical 9.2 on CVSS Scale",
         "link": "https://securityonline.info/high-risk-flaws-in-a-blog-cms-cve-2025-36560-scores-critical-9-2-on-cvss-scale/",
         "published": "Thu, 15 May 2025 08:52:02 +0000"
+    },
+    {
+        "title": "CISA Flags Actively Exploited Vulnerabilities in Chrome, SAP, and DrayTek Routers",
+        "link": "https://securityonline.info/cisa-flags-actively-exploited-vulnerabilities-in-chrome-sap-and-draytek-routers/",
+        "published": "Fri, 16 May 2025 01:52:16 +0000"
+    },
+    {
+        "title": "Popular Selenium Library WebDriverManager Hit by Critical XXE Bug (CVE-2025-4641, CVSS 9.3)",
+        "link": "https://securityonline.info/popular-selenium-library-webdrivermanager-hit-by-critical-xxe-bug-cve-2025-4641-cvss-9-3/",
+        "published": "Fri, 16 May 2025 00:40:03 +0000"
+    },
+    {
+        "title": "TransferLoader Malware Unmasked: IPFS-Enabled Loader Deploys Ransomware and Backdoors with Obfuscation Precision",
+        "link": "https://securityonline.info/transferloader-malware-unmasked-ipfs-enabled-loader-deploys-ransomware-and-backdoors-with-obfuscation-precision/",
+        "published": "Fri, 16 May 2025 00:33:00 +0000"
+    },
+    {
+        "title": "Pgpool-II Hit by Critical CVE-2025-46801: CVSS 9.8 Risk Lets Attackers Bypass Authentication",
+        "link": "https://securityonline.info/pgpool-ii-hit-by-critical-cve-2025-46801-cvss-9-8-risk-lets-attackers-bypass-authentication/",
+        "published": "Fri, 16 May 2025 00:30:25 +0000"
+    },
+    {
+        "title": "Jenkins Plugin Flaws Expose Critical Risks: CVE-2025-47889 Hits 9.8 CVSS with Auth Bypass",
+        "link": "https://securityonline.info/jenkins-plugin-flaws-expose-critical-risks-cve-2025-47889-hits-9-8-cvss-with-impersonation-auth-bypass/",
+        "published": "Fri, 16 May 2025 00:24:56 +0000"
+    },
+    {
+        "title": "Inside North Korea’s Cyber Mafia: How Hidden IT Workers Fuel Global Espionage and Crypto Theft",
+        "link": "https://securityonline.info/inside-north-koreas-cyber-mafia-how-hidden-it-workers-fuel-global-espionage-and-crypto-theft/",
+        "published": "Fri, 16 May 2025 00:16:30 +0000"
+    },
+    {
+        "title": "Critical NAS Risk: I-O DATA Flaw with 9.8 CVSS Allows Remote Command Execution",
+        "link": "https://securityonline.info/critical-nas-risk-i-o-data-flaw-with-9-8-cvss-allows-remote-command-execution/",
+        "published": "Fri, 16 May 2025 00:13:33 +0000"
+    },
+    {
+        "title": "Operation RoundPress: Sednit Weaponizes XSS to Breach Global Webmail Servers",
+        "link": "https://securityonline.info/operation-roundpress-sednit-weaponizes-xss-to-breach-global-webmail-servers/",
+        "published": "Fri, 16 May 2025 00:09:41 +0000"
+    },
+    {
+        "title": "Patch Now: SonicWall SMA1000 Flaw (CVE-2025-40595) Enables Stealth SSRF Attacks",
+        "link": "https://securityonline.info/patch-now-sonicwall-sma1000-flaw-cve-2025-40595-enables-stealth-ssrf-attacks/",
+        "published": "Fri, 16 May 2025 00:00:59 +0000"
     }
 ]
