@@ -615,3 +615,4 @@ clean_list:
 - CVE-2025-47646
 - CVE-2025-32583
 - CVE-2025-4822
+- reproduce-cve-2024-2887
