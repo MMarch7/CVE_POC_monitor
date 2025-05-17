@@ -9523,5 +9523,20 @@
         "title": "CVE-2025-47539: Critical Privilege Escalation Flaw Hits 10K+ WordPress Eventin Sites",
         "link": "https://securityonline.info/cve-2025-47539-critical-privilege-escalation-flaw-hits-10k-wordpress-eventin-sites/",
         "published": "Fri, 16 May 2025 08:01:46 +0000"
+    },
+    {
+        "title": "Crypto Crash: Alabama Man Sentenced for Hijacking SEC’s X Account",
+        "link": "https://securityonline.info/crypto-crash-alabama-man-sentenced-for-hijacking-secs-x-account/",
+        "published": "Sat, 17 May 2025 01:36:06 +0000"
+    },
+    {
+        "title": "9.8 CVSS Score: Rockwell Automation Impacted by High-Severity log4net Vulnerability",
+        "link": "https://securityonline.info/9-8-cvss-score-rockwell-automation-impacted-by-high-severity-log4net-vulnerability/",
+        "published": "Sat, 17 May 2025 00:11:29 +0000"
+    },
+    {
+        "title": "Stealthy Remcos RAT Campaign Uses PowerShell to Evade Antivirus Detection",
+        "link": "https://securityonline.info/stealthy-remcos-rat-campaign-uses-powershell-to-evade-antivirus-detection/",
+        "published": "Sat, 17 May 2025 00:06:02 +0000"
     }
 ]
