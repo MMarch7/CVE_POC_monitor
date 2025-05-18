@@ -616,3 +616,7 @@ clean_list:
 - CVE-2025-32583
 - CVE-2025-4822
 - reproduce-cve-2024-2887
+- CVE-2025-4664
+- wp-ulike-cve-2025-32259-poc
+- POC-CVE-2024-44258-Py
+- CVE-2025-4921
