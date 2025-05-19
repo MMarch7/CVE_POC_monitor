@@ -9543,5 +9543,60 @@
         "title": "Critical CVSS 9.4 Flaw in OpenText OBM Exposes Enterprises to Privilege Escalation Risk",
         "link": "https://securityonline.info/critical-cvss-9-4-flaw-in-opentext-obm-exposes-enterprises-to-privilege-escalation-risk/",
         "published": "Sun, 18 May 2025 00:16:58 +0000"
+    },
+    {
+        "title": "PoC Released: iOS Kernel Flaw Allows File System Modification Without Jailbreak",
+        "link": "https://securityonline.info/poc-released-ios-kernel-flaw-allows-file-system-modification/",
+        "published": "Mon, 19 May 2025 00:50:23 +0000"
+    },
+    {
+        "title": "Critical Risk (CVSS 9.1): Auth0-PHP SDK Flaw Threatens 16M+ Downloads",
+        "link": "https://securityonline.info/critical-risk-cvss-9-1-auth0-php-sdk-flaw-threatens-16m-downloads/",
+        "published": "Mon, 19 May 2025 00:43:19 +0000"
+    },
+    {
+        "title": "High DoS Risk: Tornado’s Default Parser Exposes Apps (CVE-2025-47287)",
+        "link": "https://securityonline.info/high-dos-risk-tornados-default-parser-exposes-apps-cve-2025-47287/",
+        "published": "Mon, 19 May 2025 00:38:24 +0000"
+    },
+    {
+        "title": "Skitnet Analysis: Nim, Rust, and DNS Abuse in Advanced Malware Campaign",
+        "link": "https://securityonline.info/skitnet-analysis-nim-rust-and-dns-abuse-in-advanced-malware-campaign/",
+        "published": "Mon, 19 May 2025 00:35:16 +0000"
+    },
+    {
+        "title": "XSS Vulnerability Discovered in Label Studio: Update Now!",
+        "link": "https://securityonline.info/ss-vulnerability-discovered-in-label-studio-update-now/",
+        "published": "Mon, 19 May 2025 00:32:46 +0000"
+    },
+    {
+        "title": "Kuwait Under Attack: 230+ Domains Used in Sophisticated Phishing Operation",
+        "link": "https://securityonline.info/kuwait-under-attack-230-domains-used-in-sophisticated-phishing-operation/",
+        "published": "Mon, 19 May 2025 00:30:49 +0000"
+    },
+    {
+        "title": "glibc Vulnerability Puts Millions of Linux Systems at Risk of Code Execution",
+        "link": "https://securityonline.info/glibc-vulnerability-cve-2025-4802-puts-millions-of-linux-systems-at-risk-of-code-execution/",
+        "published": "Mon, 19 May 2025 00:22:47 +0000"
+    },
+    {
+        "title": "Race Condition in Windows Remote Desktop Gateway Enables RCE – PoC Demonstrates Exploitability",
+        "link": "https://securityonline.info/cve-2025-21297-race-condition-in-windows-remote-desktop-gateway-enables-rce-poc-demonstrates-exploitability/",
+        "published": "Mon, 19 May 2025 00:18:26 +0000"
+    },
+    {
+        "title": "Trojanized KeePass Used to Deploy Cobalt Strike and Steal Credentials",
+        "link": "https://securityonline.info/trojanized-keepass-used-to-deploy-cobalt-strike-and-steal-credentials/",
+        "published": "Mon, 19 May 2025 00:13:51 +0000"
+    },
+    {
+        "title": "RVTools Supply Chain Attack: Bumblebee Malware Delivered via Trusted VMware Utility",
+        "link": "https://securityonline.info/rvtools-supply-chain-attack-bumblebee-malware-delivered-via-trusted-vmware-utility/",
+        "published": "Mon, 19 May 2025 00:08:17 +0000"
+    },
+    {
+        "title": "High-Risk Flaw in Python Web Framework Reflex Could Lead to Account Takeover",
+        "link": "https://securityonline.info/high-risk-flaw-in-python-web-framework-reflex-could-lead-to-account-takeover/",
+        "published": "Mon, 19 May 2025 00:02:48 +0000"
     }
 ]
