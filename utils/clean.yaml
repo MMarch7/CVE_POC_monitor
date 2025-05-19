@@ -626,3 +626,5 @@ clean_list:
 - Dirty_Stream-Android-POC
 - CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control
 - CVE-2025-29813-PE
+- CVE-2025-31200-iOS-AudioConverter-RCE
+- exploit-cve-2025-1974
