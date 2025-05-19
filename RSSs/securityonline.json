@@ -9598,5 +9598,10 @@
         "title": "High-Risk Flaw in Python Web Framework Reflex Could Lead to Account Takeover",
         "link": "https://securityonline.info/high-risk-flaw-in-python-web-framework-reflex-could-lead-to-account-takeover/",
         "published": "Mon, 19 May 2025 00:02:48 +0000"
+    },
+    {
+        "title": "Pwn2Own: Firefox Hacked with JavaScript Zero-Days – Details on the Exploits",
+        "link": "https://securityonline.info/pwn2own-firefox-hacked-with-javascript-zero-days-details-on-the-exploits/",
+        "published": "Mon, 19 May 2025 03:58:16 +0000"
     }
 ]
