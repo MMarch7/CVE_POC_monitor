@@ -625,3 +625,4 @@ clean_list:
 - CVE-2025-2135
 - Dirty_Stream-Android-POC
 - CVE-2025-29711-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Incorrect-Access-Control
+- CVE-2025-29813-PE
