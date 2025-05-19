@@ -93,5 +93,10 @@
         "title": "CVE-2025-22233 - Low - CVE-2025-22233: Spring Framework DataBinder Case Sensitive Match Exception (2nd update)",
         "link": "https://spring.io/security/cve-2025-22233",
         "published": "Thu, 15 May 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41232 - Medium - CVE-2025-41232: Spring Security authorization bypass for method security annotations on private methods",
+        "link": "https://spring.io/security/cve-2025-41232",
+        "published": "Mon, 19 May 2025 00:00:00 GMT"
     }
 ]
