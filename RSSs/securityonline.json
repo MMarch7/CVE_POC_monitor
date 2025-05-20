@@ -9718,5 +9718,10 @@
         "title": "VMware Cloud Foundation Vulnerable to Unauthorized Access and Data Exposure",
         "link": "https://securityonline.info/vmware-cloud-foundation-vulnerable-to-unauthorized-access-and-data-exposure/",
         "published": "Tue, 20 May 2025 10:27:15 +0000"
+    },
+    {
+        "title": "Broadcom Fixes RCE, DoS, XSS in VMware ESXi, vCenter, Workstation",
+        "link": "https://securityonline.info/broadcom-fixes-rce-dos-xss-in-vmware-esxi-vcenter-workstation/",
+        "published": "Tue, 20 May 2025 12:29:05 +0000"
     }
 ]
