@@ -9663,5 +9663,20 @@
         "title": "DBatLoader Analysis: Evasive Malware Uses DLL Side-Loading and Anti-Detection Tactics",
         "link": "https://securityonline.info/dbatloader-analysis-evasive-malware-uses-dll-side-loading-and-anti-detection-tactics/",
         "published": "Tue, 20 May 2025 00:02:07 +0000"
+    },
+    {
+        "title": "High DoS Risk: Multer Flaws Threaten Millions of Node.js Apps",
+        "link": "https://securityonline.info/high-dos-risk-multer-flaws-threaten-millions-of-node-js-apps/",
+        "published": "Tue, 20 May 2025 02:51:31 +0000"
+    },
+    {
+        "title": "Critical Risk (CVSS 9.9): samlify Flaw Exposes SSO in Widely Used Library",
+        "link": "https://securityonline.info/critical-risk-cvss-9-9-samlify-flaw-exposes-sso-in-widely-used-library/",
+        "published": "Tue, 20 May 2025 02:39:51 +0000"
+    },
+    {
+        "title": "SAP NetWeaver RCE: Zero-Day Allows File Uploads, Qilin Ransomware Connection",
+        "link": "https://securityonline.info/sap-netweaver-rce-zero-day-allows-file-uploads-qilin-ransomware-connection/",
+        "published": "Tue, 20 May 2025 02:25:51 +0000"
     }
 ]
