@@ -630,3 +630,4 @@ clean_list:
 - exploit-cve-2025-1974
 - CVE-2024-53677
 - CVE-2025-4322-Exploit
+- CVE-2025-4918-RCE
