@@ -9623,5 +9623,45 @@
         "title": "Warning: Windows Update Triggering BitLocker Recovery",
         "link": "https://securityonline.info/warning-windows-update-triggering-bitlocker-recovery/",
         "published": "Mon, 19 May 2025 09:46:20 +0000"
+    },
+    {
+        "title": "Is Your Chatbot Spying On You? Dangerous Plugin Found in Koishi Framework",
+        "link": "https://securityonline.info/is-your-chatbot-spying-on-you-dangerous-plugin-found-in-koishi-framework/",
+        "published": "Tue, 20 May 2025 01:57:49 +0000"
+    },
+    {
+        "title": "High Risk (CVSS 9.8): Motors Theme Flaw Exposes 22,000+ WordPress Sites to Full Takeover",
+        "link": "https://securityonline.info/high-risk-cvss-9-8-motors-theme-flaw-exposes-22000-wordpress-sites-to-full-takeover/",
+        "published": "Tue, 20 May 2025 01:48:28 +0000"
+    },
+    {
+        "title": "Spring Framework Flaw Allows Unauthorized Access via Security Bypass",
+        "link": "https://securityonline.info/spring-framework-flaw-allows-unauthorized-access-via-security-bypass/",
+        "published": "Tue, 20 May 2025 01:39:59 +0000"
+    },
+    {
+        "title": "High-Risk RAGFlow Flaw: Account Takeover Possible (No Patch, PoC Available)",
+        "link": "https://securityonline.info/high-risk-ragflow-flaw-account-takeover-possible-no-patch-poc-available/",
+        "published": "Tue, 20 May 2025 00:25:48 +0000"
+    },
+    {
+        "title": "Can Your Firewall Be Hacked? Severe Flaws Found in pfSense",
+        "link": "https://securityonline.info/can-your-firewall-be-hacked-severe-flaws-found-in-pfsense/",
+        "published": "Tue, 20 May 2025 00:20:44 +0000"
+    },
+    {
+        "title": "More_Eggs Malware Deep Dive: Abusing ieuinit.exe and Polymorphic JavaScript",
+        "link": "https://securityonline.info/more_eggs-malware-deep-dive-abusing-ieuinit-exe-and-polymorphic-javascript/",
+        "published": "Tue, 20 May 2025 00:12:18 +0000"
+    },
+    {
+        "title": "Leaky WordPress: Private Post Titles at Risk for 1 Billion Sites",
+        "link": "https://securityonline.info/leaky-wordpress-private-post-titles-at-risk-for-1-billion-sites/",
+        "published": "Tue, 20 May 2025 00:09:05 +0000"
+    },
+    {
+        "title": "DBatLoader Analysis: Evasive Malware Uses DLL Side-Loading and Anti-Detection Tactics",
+        "link": "https://securityonline.info/dbatloader-analysis-evasive-malware-uses-dll-side-loading-and-anti-detection-tactics/",
+        "published": "Tue, 20 May 2025 00:02:07 +0000"
     }
 ]
