@@ -628,3 +628,5 @@ clean_list:
 - CVE-2025-29813-PE
 - CVE-2025-31200-iOS-AudioConverter-RCE
 - exploit-cve-2025-1974
+- CVE-2024-53677
+- CVE-2025-4322-Exploit
