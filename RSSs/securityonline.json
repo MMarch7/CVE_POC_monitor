@@ -9723,5 +9723,70 @@
         "title": "Broadcom Fixes RCE, DoS, XSS in VMware ESXi, vCenter, Workstation",
         "link": "https://securityonline.info/broadcom-fixes-rce-dos-xss-in-vmware-esxi-vcenter-workstation/",
         "published": "Tue, 20 May 2025 12:29:05 +0000"
+    },
+    {
+        "title": "Critical Remote Code Execution Flaw Hits Lexmark Printers",
+        "link": "https://securityonline.info/critical-remote-code-execution-flaw-hits-lexmark-printers/",
+        "published": "Wed, 21 May 2025 00:50:45 +0000"
+    },
+    {
+        "title": "Critical CVSS 9.8 RCE Flaw in vLLM Exposes AI Hosts to Remote Attacks",
+        "link": "https://securityonline.info/critical-cvss-9-8-rce-flaw-in-vllm-exposes-ai-hosts-to-remote-attacks/",
+        "published": "Wed, 21 May 2025 00:43:40 +0000"
+    },
+    {
+        "title": "Critical containerd Vulnerability: Malicious Images Can Hijack Host Filesystem",
+        "link": "https://securityonline.info/critical-containerd-vulnerability-malicious-images-can-hijack-host-filesystem/",
+        "published": "Wed, 21 May 2025 00:40:17 +0000"
+    },
+    {
+        "title": "CISA Alerts: Vertiv Products Vulnerable to RCE, Auth Bypass (CVSS 9.8)",
+        "link": "https://securityonline.info/cisa-alerts-vertiv-products-vulnerable-to-rce-auth-bypass-cvss-9-8/",
+        "published": "Wed, 21 May 2025 00:37:59 +0000"
+    },
+    {
+        "title": "Hazy Hawk: Stealthy Threat Actor Hijacks High-Profile Subdomains",
+        "link": "https://securityonline.info/hazy-hawk-stealthy-threat-actor-hijacks-high-profile-subdomains/",
+        "published": "Wed, 21 May 2025 00:33:34 +0000"
+    },
+    {
+        "title": "PoC Available: TP-Link Archer AX50 Flaw Allows Remote Root Access",
+        "link": "https://securityonline.info/poc-available-tp-link-archer-ax50-flaw-allows-remote-root-access/",
+        "published": "Wed, 21 May 2025 00:29:27 +0000"
+    },
+    {
+        "title": "High-Severity Privilege Escalation Threat Hits Atlassian Jira Data Center",
+        "link": "https://securityonline.info/high-severity-privilege-escalation-threat-hits-atlassian-jira-data-center/",
+        "published": "Wed, 21 May 2025 00:25:33 +0000"
+    },
+    {
+        "title": "High Risk: PowerDNS DNSdist Flaw Allows Unauthenticated DoS Attacks",
+        "link": "https://securityonline.info/high-risk-powerdns-dnsdist-flaw-allows-unauthenticated-dos-attacks/",
+        "published": "Wed, 21 May 2025 00:23:44 +0000"
+    },
+    {
+        "title": "AI Scam Alert: Fake Kling AI Sites Deploy Infostealer, Hide Executables",
+        "link": "https://securityonline.info/ai-scam-alert-fake-kling-ai-sites-deploy-infostealer-hide-executables/",
+        "published": "Wed, 21 May 2025 00:19:14 +0000"
+    },
+    {
+        "title": "Is Your Unix Automation Secure? Critical Broadcom Flaw Poses High Risk",
+        "link": "https://securityonline.info/is-your-unix-automation-secure-critical-broadcom-flaw-poses-high-risk/",
+        "published": "Wed, 21 May 2025 00:14:28 +0000"
+    },
+    {
+        "title": "Microsoft Resolves Windows 10/11 Secure Boot Conflict with Linux UEFI",
+        "link": "https://securityonline.info/microsoft-resolves-windows-10-11-secure-boot-conflict-with-linux-uefi/",
+        "published": "Wed, 21 May 2025 00:11:20 +0000"
+    },
+    {
+        "title": "Critical OpenPGP.js Flaw Allows Message Signature Spoofing",
+        "link": "https://securityonline.info/critical-openpgp-js-flaw-allows-message-signature-spoofing/",
+        "published": "Wed, 21 May 2025 00:09:21 +0000"
+    },
+    {
+        "title": "North Korea-Linked Saja Network Infiltrates Tech Firms with Fake Developers",
+        "link": "https://securityonline.info/north-korea-linked-saja-network-infiltrates-tech-firms-with-fake-developers/",
+        "published": "Wed, 21 May 2025 00:05:49 +0000"
     }
 ]
