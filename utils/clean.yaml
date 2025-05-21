@@ -636,3 +636,6 @@ clean_list:
 - CVE-2025-27636-Practical-Lab
 - CVE-2025-4918
 - PanOsExploitMultitool
+- CVE-2024-56428
+- CVE-2025-40634
+- CVE-2024-56429
