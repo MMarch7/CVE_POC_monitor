@@ -9843,5 +9843,15 @@
         "title": "Chrome’s Auto-Change: Boosting Password Security After Breaches",
         "link": "https://securityonline.info/chromes-auto-change-boosting-password-security-after-breaches/",
         "published": "Wed, 21 May 2025 09:36:58 +0000"
+    },
+    {
+        "title": "setuptools Flaw Exposes Millions of Python Users to RCE",
+        "link": "https://securityonline.info/setuptools-flaw-exposes-millions-of-python-users-to-rce/",
+        "published": "Wed, 21 May 2025 14:18:15 +0000"
+    },
+    {
+        "title": "BIND DNS Server Vulnerable to Remote Crash",
+        "link": "https://securityonline.info/bind-dns-server-vulnerable-to-remote-crash/",
+        "published": "Wed, 21 May 2025 14:01:44 +0000"
     }
 ]
