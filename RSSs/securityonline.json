@@ -9858,5 +9858,50 @@
         "title": "Russian GRU’s APT28 Targets Global Logistics Supporting Ukraine Defense",
         "link": "https://securityonline.info/russian-grus-apt28-targets-global-logistics-supporting-ukraine-defense/",
         "published": "Wed, 21 May 2025 14:43:51 +0000"
+    },
+    {
+        "title": "Grafana Zero-Day? Emergency Patch Released ‘One Day Ahead of Schedule’ for XSS Flaw",
+        "link": "https://securityonline.info/grafana-zero-day-emergency-patch-released-one-day-ahead-of-schedule-for-xss-flaw/",
+        "published": "Thu, 22 May 2025 01:46:31 +0000"
+    },
+    {
+        "title": "GitLab Patches High-Severity Flaws: DoS and 2FA Bypass Fixed",
+        "link": "https://securityonline.info/gitlab-patches-high-severity-flaws-dos-and-2fa-bypass-fixed/",
+        "published": "Thu, 22 May 2025 01:33:51 +0000"
+    },
+    {
+        "title": "Docker Containers Under Attack: New Self-Replicating Dero Cryptominer",
+        "link": "https://securityonline.info/docker-containers-under-attack-new-self-replicating-dero-cryptominer/",
+        "published": "Thu, 22 May 2025 00:36:14 +0000"
+    },
+    {
+        "title": "NIST Proposes New Metric to Predict “Likely Exploited” Vulnerabilities",
+        "link": "https://securityonline.info/nist-proposes-new-metric-to-predict-likely-exploited-vulnerabilities/",
+        "published": "Thu, 22 May 2025 00:30:16 +0000"
+    },
+    {
+        "title": "Langroid Flaws (CVSS 9.8) Expose LLM Apps to RCE",
+        "link": "https://securityonline.info/langroid-flaws-cvss-9-8-expose-llm-apps-to-rce/",
+        "published": "Thu, 22 May 2025 00:20:11 +0000"
+    },
+    {
+        "title": "Beyond Detection: PyBitmessage Protocol Used for Covert Monero Mining Campaign",
+        "link": "https://securityonline.info/beyond-detection-pybitmessage-protocol-used-for-covert-monero-mining-campaign/",
+        "published": "Thu, 22 May 2025 00:16:21 +0000"
+    },
+    {
+        "title": "Critical Flaws in AI Browse Agents: Exposed to Credential Theft and Hijacking",
+        "link": "https://securityonline.info/critical-flaws-in-ai-browse-agents-exposed-to-credential-theft-and-hijacking/",
+        "published": "Thu, 22 May 2025 00:12:02 +0000"
+    },
+    {
+        "title": "Industrial Alert: AutomationDirect MB-Gateway Flaw Rated CVSS 10, No Software Fix",
+        "link": "https://securityonline.info/industrial-alert-automationdirect-mb-gateway-flaw-rated-cvss-10-no-software-fix/",
+        "published": "Thu, 22 May 2025 00:09:04 +0000"
+    },
+    {
+        "title": "Beyond Ads: Malvertising Campaign Leverages Google APIs to Redirect Shoppers to Fake Payments",
+        "link": "https://securityonline.info/beyond-ads-malvertising-campaign-leverages-google-apis-to-redirect-shoppers-to-fake-payments/",
+        "published": "Thu, 22 May 2025 00:00:48 +0000"
     }
 ]
