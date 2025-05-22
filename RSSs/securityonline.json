@@ -9913,5 +9913,20 @@
         "title": "RADIUS Risk: Unauthenticated Remote Attacker Can Crash Cisco ISE by Default",
         "link": "https://securityonline.info/radius-risk-unauthenticated-remote-attacker-can-crash-cisco-ise-by-default/",
         "published": "Thu, 22 May 2025 02:34:01 +0000"
+    },
+    {
+        "title": "Privilege Escalation Flaws in Cisco Unified Intelligence Center Threaten User Data Integrity",
+        "link": "https://securityonline.info/privilege-escalation-flaws-in-cisco-unified-intelligence-center-threaten-user-data-integrity/",
+        "published": "Thu, 22 May 2025 04:23:13 +0000"
+    },
+    {
+        "title": "Unauthenticated Attacker Can Read Sensitive Files in Mitel OpenScape Xpressions",
+        "link": "https://securityonline.info/unauthenticated-attacker-can-read-sensitive-files-in-mitel-openscape-xpressions/",
+        "published": "Thu, 22 May 2025 04:11:44 +0000"
+    },
+    {
+        "title": "Google Chrome Update: 8 Security Fixes Including High-Severity Flaw",
+        "link": "https://securityonline.info/google-chrome-update-8-security-fixes-including-high-severity-flaw/",
+        "published": "Thu, 22 May 2025 04:02:57 +0000"
     }
 ]
