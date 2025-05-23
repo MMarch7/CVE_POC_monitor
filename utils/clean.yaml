@@ -646,3 +646,4 @@ clean_list:
 - nhi-zero-trust-bypass
 - CVE-2025-4611-PoC
 - CVE-2025-44998
+- CVE-2024-3661VPN
