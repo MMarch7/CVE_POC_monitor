@@ -9958,5 +9958,50 @@
         "title": "Halo Security Achieves SOC 2 Type 1 Compliance, Validating Security Controls for Its Attack Surface Management Platform",
         "link": "https://securityonline.info/halo-security-achieves-soc-2-type-1-compliance-validating-security-controls-for-its-attack-surface-management-platform/",
         "published": "Thu, 22 May 2025 16:16:41 +0000"
+    },
+    {
+        "title": "Critical NETGEAR Router Flaw Enables Full Admin Access via Hidden Backdoor (PoC Included)",
+        "link": "https://securityonline.info/critical-netgear-router-flaw-enables-full-admin-access-via-hidden-backdoor-poc-included/",
+        "published": "Fri, 23 May 2025 00:50:57 +0000"
+    },
+    {
+        "title": "Rhadamanthys Stealer Returns: Copyright Phishing Targets Europe",
+        "link": "https://securityonline.info/rhadamanthys-stealer-returns-copyright-phishing-targets-europe/",
+        "published": "Fri, 23 May 2025 00:39:20 +0000"
+    },
+    {
+        "title": "Stealthy Skimmer: New Formjacking Malware Targets WooCommerce Checkouts",
+        "link": "https://securityonline.info/stealthy-skimmer-new-formjacking-malware-targets-woocommerce-checkouts/",
+        "published": "Fri, 23 May 2025 00:35:21 +0000"
+    },
+    {
+        "title": "Print Security Warning: Canon Printers Exposed to Data Theft",
+        "link": "https://securityonline.info/print-security-warning-canon-printers-exposed-to-data-theft/",
+        "published": "Fri, 23 May 2025 00:33:06 +0000"
+    },
+    {
+        "title": "ModSecurity DoS Flaw: PoC Available for Apache Vulnerability (No Workaround, Patch Pending)",
+        "link": "https://securityonline.info/modsecurity-dos-flaw-poc-available-for-apache-vulnerability-no-workaround-patch-pending/",
+        "published": "Fri, 23 May 2025 00:27:36 +0000"
+    },
+    {
+        "title": "Destructive npm Packages Deleting Files, Hijacking Frameworks for 2+ Years",
+        "link": "https://securityonline.info/destructive-npm-packages-deleting-files-hijacking-frameworks-for-2-years/",
+        "published": "Fri, 23 May 2025 00:25:53 +0000"
+    },
+    {
+        "title": "Ivanti EPMM Under Attack: Zero-Day RCE Exploited by China-Linked Group UNC5221",
+        "link": "https://securityonline.info/ivanti-epmm-under-attack-zero-day-rce-exploited-by-china-linked-group-unc5221/",
+        "published": "Fri, 23 May 2025 00:13:29 +0000"
+    },
+    {
+        "title": "Malicious VS Code Extensions Deliver Spyware, Steal Crypto Credentials",
+        "link": "https://securityonline.info/malicious-vs-code-extensions-deliver-spyware-steal-crypto-credentials/",
+        "published": "Fri, 23 May 2025 00:08:54 +0000"
+    },
+    {
+        "title": "Dark Web Alert: Genesis Market Returns with Stealthy Browser Extension Attack",
+        "link": "https://securityonline.info/dark-web-alert-genesis-market-returns-with-stealthy-browser-extension-attack/",
+        "published": "Fri, 23 May 2025 00:01:50 +0000"
     }
 ]
