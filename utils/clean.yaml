@@ -649,3 +649,4 @@ clean_list:
 - CVE-2024-3661VPN
 - -CVE-2025-46822-
 - CVE-2025-46822
+- NextJS-CVE-2025-29927-Docker-Lab
