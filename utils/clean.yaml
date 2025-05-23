@@ -644,3 +644,5 @@ clean_list:
 - CVE-2025-44108-SXSS
 - o3_finds_cve-2025-37899
 - nhi-zero-trust-bypass
+- CVE-2025-4611-PoC
+- CVE-2025-44998
