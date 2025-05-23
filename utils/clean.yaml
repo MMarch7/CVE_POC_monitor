@@ -652,3 +652,4 @@ clean_list:
 - NextJS-CVE-2025-29927-Docker-Lab
 - cve-2025-0133
 - CVE-2025-4123
+- CVE-2024-12583
