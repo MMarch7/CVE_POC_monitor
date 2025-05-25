@@ -656,3 +656,5 @@ clean_list:
 - CVE-2025-36535
 - CVE-2025-0868
 - CVE-2025-48708
+- -Pymatgen-2024.1---Remote-Code-Execution-RCE-
+- Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-
