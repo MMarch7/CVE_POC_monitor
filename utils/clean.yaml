@@ -666,3 +666,5 @@ clean_list:
 - CVE-2025-46173
 - CVE-2025-27363
 - CVE-2025-24054_CVE-2025-24071-PoC
+- ChromSploit-Framework
+- CVE-2025-32421
