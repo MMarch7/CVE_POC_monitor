@@ -668,3 +668,4 @@ clean_list:
 - CVE-2025-24054_CVE-2025-24071-PoC
 - ChromSploit-Framework
 - CVE-2025-32421
+- Wing-FTP-Server-7.4.4-RCE-Authenticated
