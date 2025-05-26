@@ -662,3 +662,4 @@ clean_list:
 - CVE-2025-4664-
 - CVE-2024-55591-POC
 - CVE-2024-42008-9-exploit
+- CVE-2025-2907
