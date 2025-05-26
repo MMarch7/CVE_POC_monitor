@@ -659,3 +659,6 @@ clean_list:
 - -Pymatgen-2024.1---Remote-Code-Execution-RCE-
 - Apache-Tomcat---Remote-Code-Execution-via-Session-Deserialization-CVE-2025-24813-
 - iDevice_ZH
+- CVE-2025-4664-
+- CVE-2024-55591-POC
+- CVE-2024-42008-9-exploit

@@ -10083,5 +10083,65 @@
         "title": "Important Update: Vulnerability Articles Now Exclusive to Supporters",
         "link": "https://securityonline.info/important-update-vulnerability-articles-now-exclusive-to-supporters/",
         "published": "Sun, 25 May 2025 08:26:42 +0000"
+    },
+    {
+        "title": "Critical (CVSS 9.8): Canon Printers Vulnerable to Arbitrary Code Execution",
+        "link": "https://securityonline.info/critical-cvss-9-8-canon-printers-vulnerable-to-arbitrary-code-execution/",
+        "published": "Mon, 26 May 2025 02:17:33 +0000"
+    },
+    {
+        "title": "Critical Pre-Auth RCE: vBulletin Flaw Allows Full Server Compromise (PoC Available)",
+        "link": "https://securityonline.info/critical-pre-auth-rce-vbulletin-flaw-allows-full-server-compromise-poc-available/",
+        "published": "Mon, 26 May 2025 00:50:32 +0000"
+    },
+    {
+        "title": "Critical WSO2 Flaw: Unauthenticated Account Takeover Risk (CVSS 9.8)",
+        "link": "https://securityonline.info/critical-wso2-flaw-unauthenticated-account-takeover-risk-cvss-9-8/",
+        "published": "Mon, 26 May 2025 00:44:54 +0000"
+    },
+    {
+        "title": "Sony Camera Hack (CVSS 9.4): Default Credential Flaw Risks Full Control (PoC)",
+        "link": "https://securityonline.info/sony-camera-hack-cvss-9-4-default-credential-flaw-risks-full-control-poc/",
+        "published": "Mon, 26 May 2025 00:40:47 +0000"
+    },
+    {
+        "title": "Decade of Stealth: China-Linked TA-ShadowCricket Targets Asia-Pacific",
+        "link": "https://securityonline.info/decade-of-stealth-china-linked-ta-shadowcricket-targets-asia-pacific/",
+        "published": "Mon, 26 May 2025 00:35:48 +0000"
+    },
+    {
+        "title": "DOUBLELOADER Malware Uses ALCATRAZ Obfuscator to Evade Detection",
+        "link": "https://securityonline.info/doubleloader-malware-uses-alcatraz-obfuscator-to-evade-detection/",
+        "published": "Mon, 26 May 2025 00:30:39 +0000"
+    },
+    {
+        "title": "NPM Recon: Malicious Packages Found Stealing Internal Network IPs and Hostnames",
+        "link": "https://securityonline.info/npm-recon-malicious-packages-found-stealing-internal-network-ips-and-hostnames/",
+        "published": "Mon, 26 May 2025 00:24:19 +0000"
+    },
+    {
+        "title": "Russian-Aligned TAG-110 Targets Tajikistan Governments with Stealthy Cyber-Espionage",
+        "link": "https://securityonline.info/russian-aligned-tag-110-targets-tajikistan-governments-with-stealthy-cyber-espionage/",
+        "published": "Mon, 26 May 2025 00:20:40 +0000"
+    },
+    {
+        "title": "Persistent DoS: Unauthenticated Attacker Crashes GNOME RDP (Even After Systemd)",
+        "link": "https://securityonline.info/persistent-dos-unauthenticated-attacker-crashes-gnome-rdp-even-after-systemd/",
+        "published": "Mon, 26 May 2025 00:16:58 +0000"
+    },
+    {
+        "title": "Qakbot Mastermind Indicted: Russian Architect of $50M Malware Empire Charged",
+        "link": "https://securityonline.info/qakbot-mastermind-indicted-russian-architect-of-50m-malware-empire-charged/",
+        "published": "Mon, 26 May 2025 00:12:21 +0000"
+    },
+    {
+        "title": "Chrome Web Store Under Siege: 40+ Malicious Extensions Found Stealing Data",
+        "link": "https://securityonline.info/chrome-web-store-under-siege-40-malicious-extensions-found-stealing-data/",
+        "published": "Mon, 26 May 2025 00:09:04 +0000"
+    },
+    {
+        "title": "Deceptive CAPTCHA: ClickFix Campaign Uses Clipboard Injection to Deliver Malware",
+        "link": "https://securityonline.info/deceptive-captcha-clickfix-campaign-uses-clipboard-injection-to-deliver-malware/",
+        "published": "Mon, 26 May 2025 00:02:30 +0000"
     }
 ]
