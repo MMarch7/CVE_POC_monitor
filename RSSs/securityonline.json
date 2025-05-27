@@ -10193,5 +10193,10 @@
         "title": "GhostSpy: Advanced Android RAT Steals Banking Info & Bypasses Security",
         "link": "https://securityonline.info/ghostspy-advanced-android-rat-steals-banking-info-bypasses-security/",
         "published": "Tue, 27 May 2025 00:02:19 +0000"
+    },
+    {
+        "title": "Windows Server 2025 “BadSuccessor” Flaw Allows Domain Takeover (PoC Available, No Patch)",
+        "link": "https://securityonline.info/windows-server-2025-badsuccessor-flaw-allows-domain-takeover-poc-available-no-patch/",
+        "published": "Tue, 27 May 2025 02:31:27 +0000"
     }
 ]
