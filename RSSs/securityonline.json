@@ -10158,5 +10158,40 @@
         "title": "Windows 11 Smart App Control: Enhanced Security & Performance?",
         "link": "https://securityonline.info/windows-11-smart-app-control-enhanced-security-performance/",
         "published": "Mon, 26 May 2025 07:42:37 +0000"
+    },
+    {
+        "title": "Fundamental Web Security Broken: New Attacks Bypass Same-Origin Policy via HTTP/2 & SXG",
+        "link": "https://securityonline.info/fundamental-web-security-broken-new-attacks-bypass-same-origin-policy-via-http-2-sxg/",
+        "published": "Tue, 27 May 2025 00:32:44 +0000"
+    },
+    {
+        "title": "Mesh Wi-Fi Hack (CVSS 9.1): Design Flaw Enables Frame Injection (PoC Available)",
+        "link": "https://securityonline.info/mesh-wi-fi-hack-cvss-9-1-design-flaw-enables-frame-injection-poc-available/",
+        "published": "Tue, 27 May 2025 00:25:44 +0000"
+    },
+    {
+        "title": "GIMP Vulnerabilities: Malicious Images Can Lead to Code Execution",
+        "link": "https://securityonline.info/gimp-vulnerabilities-malicious-images-can-lead-to-code-execution/",
+        "published": "Tue, 27 May 2025 00:20:58 +0000"
+    },
+    {
+        "title": "New macOS Infostealer: AppleProcessHub Uses Objective-C to Steal Developer Data",
+        "link": "https://securityonline.info/new-macos-infostealer-appleprocesshub-uses-objective-c-to-steal-developer-data/",
+        "published": "Tue, 27 May 2025 00:16:50 +0000"
+    },
+    {
+        "title": "Unauthenticated Attack: Siemens SiPass Vulnerability Risks DoS",
+        "link": "https://securityonline.info/unauthenticated-attack-siemens-sipass-vulnerability-risks-dos/",
+        "published": "Tue, 27 May 2025 00:11:48 +0000"
+    },
+    {
+        "title": "Fake Google Meet Page Tricks Users into Running Malware",
+        "link": "https://securityonline.info/fake-google-meet-page-tricks-users-into-running-malware/",
+        "published": "Tue, 27 May 2025 00:08:59 +0000"
+    },
+    {
+        "title": "GhostSpy: Advanced Android RAT Steals Banking Info & Bypasses Security",
+        "link": "https://securityonline.info/ghostspy-advanced-android-rat-steals-banking-info-bypasses-security/",
+        "published": "Tue, 27 May 2025 00:02:19 +0000"
     }
 ]
