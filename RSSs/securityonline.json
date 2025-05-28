@@ -10228,5 +10228,50 @@
         "title": "Unpatched & Critical (CVSS 10): TI WooCommerce Wishlist Vulnerability Affects 100K+ Sites",
         "link": "https://securityonline.info/unpatched-critical-cvss-10-ti-woocommerce-wishlist-vulnerability-affects-100k-sites/",
         "published": "Tue, 27 May 2025 11:30:37 +0000"
+    },
+    {
+        "title": "Robbinhood Ransomware Operator Pleads Guilty to Targeting U.S. Cities",
+        "link": "https://securityonline.info/robbinhood-ransomware-operator-pleads-guilty-to-targeting-u-s-cities/",
+        "published": "Wed, 28 May 2025 01:46:24 +0000"
+    },
+    {
+        "title": "Chrome 137 Released: Fixes High-Severity Use-After-Free & V8 Bugs",
+        "link": "https://securityonline.info/chrome-137-released-fixes-high-severity-use-after-free-v8-bugs/",
+        "published": "Wed, 28 May 2025 01:37:42 +0000"
+    },
+    {
+        "title": "Void Blizzard: New Russian Cyberespionage Group Targets NATO and Ukraine",
+        "link": "https://securityonline.info/void-blizzard-new-russian-cyberespionage-group-targets-nato-and-ukraine/",
+        "published": "Wed, 28 May 2025 00:35:58 +0000"
+    },
+    {
+        "title": "Stealthy Catena Loader Delivers Winos RAT via Trojanized App Installers",
+        "link": "https://securityonline.info/stealthy-catena-loader-delivers-winos-rat-via-trojanized-app-installers/",
+        "published": "Wed, 28 May 2025 00:32:59 +0000"
+    },
+    {
+        "title": "Critical (CVSS 9.8): Weidmueller Switch Flaws Risk Full System Compromise",
+        "link": "https://securityonline.info/critical-cvss-9-8-weidmueller-switch-flaws-risk-full-system-compromise/",
+        "published": "Wed, 28 May 2025 00:30:39 +0000"
+    },
+    {
+        "title": "Mimo Returns: CVE-2025-32432 Exploited in Cryptomining and Proxyware Campaigns",
+        "link": "https://securityonline.info/mimo-returns-cve-2025-32432-exploited-in-cryptomining-and-proxyware-campaigns/",
+        "published": "Wed, 28 May 2025 00:22:09 +0000"
+    },
+    {
+        "title": "Toxic Agent Flow: GitHub MCP Vulnerability Exposes Private Repositories",
+        "link": "https://securityonline.info/toxic-agent-flow-github-mcp-vulnerability-exposes-private-repositories/",
+        "published": "Wed, 28 May 2025 00:18:40 +0000"
+    },
+    {
+        "title": "Industrial Systems at Risk: Lenze VPN Flaws Lead to Root/SYSTEM Access",
+        "link": "https://securityonline.info/industrial-systems-at-risk-lenze-vpn-flaws-lead-to-root-system-access/",
+        "published": "Wed, 28 May 2025 00:08:40 +0000"
+    },
+    {
+        "title": "Earth Lamia: China-Linked APT Targets Global Industries with Custom Backdoors",
+        "link": "https://securityonline.info/earth-lamia-china-linked-apt-targets-global-industries-with-custom-backdoors/",
+        "published": "Wed, 28 May 2025 00:01:21 +0000"
     }
 ]

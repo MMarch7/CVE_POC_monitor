@@ -671,3 +671,4 @@ clean_list:
 - Wing-FTP-Server-7.4.4-RCE-Authenticated
 - CVE-2024-8682
 - CVE-2025-24071-PoC
+- SMB_CVE-2025-24071
