@@ -10273,5 +10273,20 @@
         "title": "Earth Lamia: China-Linked APT Targets Global Industries with Custom Backdoors",
         "link": "https://securityonline.info/earth-lamia-china-linked-apt-targets-global-industries-with-custom-backdoors/",
         "published": "Wed, 28 May 2025 00:01:21 +0000"
+    },
+    {
+        "title": "Critical (CVSS 9.8): Cyrus IMAP Flaw Risks Full System Compromise on openSUSE",
+        "link": "https://securityonline.info/critical-cvss-9-8-cyrus-imap-flaw-risks-full-system-compromise-on-opensuse/",
+        "published": "Wed, 28 May 2025 03:04:00 +0000"
+    },
+    {
+        "title": "Amazon Redshift Alert: OAuth2 Vulnerability Exposes Data",
+        "link": "https://securityonline.info/amazon-redshift-alert-oauth2-vulnerability-exposes-data/",
+        "published": "Wed, 28 May 2025 02:29:04 +0000"
+    },
+    {
+        "title": "Firefox Alert: Zero-Interaction Exploit in libvpx Allows Arbitrary Code Execution",
+        "link": "https://securityonline.info/firefox-alert-zero-interaction-exploit-in-libvpx-allows-arbitrary-code-execution/",
+        "published": "Wed, 28 May 2025 02:13:48 +0000"
     }
 ]
