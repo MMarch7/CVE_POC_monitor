@@ -681,3 +681,4 @@ clean_list:
 - CVE-2025-46078
 - CVE-2025-29632
 - DLang-file-encryptor
+- nes-vuetify-cve-2025-1461
