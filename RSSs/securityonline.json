@@ -10328,5 +10328,60 @@
         "title": "AlmaLinux OS 10 “Purple Lion” Released: RHEL 10 Compatible with Extended Support",
         "link": "https://securityonline.info/almalinux-os-10-purple-lion-released-rhel-10-compatible-with-extended-support/",
         "published": "Wed, 28 May 2025 07:28:46 +0000"
+    },
+    {
+        "title": "Stack Overflow in Redis May Lead to Remote Code Execution",
+        "link": "https://securityonline.info/stack-overflow-in-redis-may-lead-to-remote-code-execution/",
+        "published": "Thu, 29 May 2025 02:03:00 +0000"
+    },
+    {
+        "title": "Beyond Malware: Stealthy ASUS Router Exploitation Survives Reboots, Builds Botnet",
+        "link": "https://securityonline.info/beyond-malware-stealthy-asus-router-exploitation-survives-reboots-builds-botnet/",
+        "published": "Thu, 29 May 2025 01:50:18 +0000"
+    },
+    {
+        "title": "Java Apps at Risk: Apache Commons BeanUtils Flaw Exposes RCE",
+        "link": "https://securityonline.info/java-apps-at-risk-apache-commons-beanutils-flaw-exposes-rce/",
+        "published": "Thu, 29 May 2025 01:37:06 +0000"
+    },
+    {
+        "title": "Zanubis Android Trojan Evolves: Hijacks Devices, Steals Banking Data",
+        "link": "https://securityonline.info/zanubis-android-trojan-evolves-hijacks-devices-steals-banking-data/",
+        "published": "Thu, 29 May 2025 00:38:28 +0000"
+    },
+    {
+        "title": "New Cyber Threat: UTG-Q-015 Exploits 0-Days for Espionage in Asia",
+        "link": "https://securityonline.info/new-cyber-threat-utg-q-015-exploits-0-days-for-espionage-in-asia/",
+        "published": "Thu, 29 May 2025 00:33:54 +0000"
+    },
+    {
+        "title": "New Malware Campaign: Fake Java Pop-ups on WordPress Trick Users",
+        "link": "https://securityonline.info/new-malware-campaign-fake-java-pop-ups-on-wordpress-trick-users/",
+        "published": "Thu, 29 May 2025 00:29:56 +0000"
+    },
+    {
+        "title": "Warning: Thousands of Ads Promote Fake AI Video Tools Distributing Malware",
+        "link": "https://securityonline.info/warning-thousands-of-ads-promote-fake-ai-video-tools-distributing-malware/",
+        "published": "Thu, 29 May 2025 00:24:35 +0000"
+    },
+    {
+        "title": "Stealthy Attacks: Silent Werewolf Deploys Custom Loaders in Espionage Operations",
+        "link": "https://securityonline.info/stealthy-attacks-silent-werewolf-deploys-custom-loaders-in-espionage-operations/",
+        "published": "Thu, 29 May 2025 00:18:55 +0000"
+    },
+    {
+        "title": "CHOICEJACKING: New USB Attack Bypasses Android & iOS Security",
+        "link": "https://securityonline.info/choicejacking-new-usb-attack-bypasses-android-ios-security/",
+        "published": "Thu, 29 May 2025 00:12:55 +0000"
+    },
+    {
+        "title": "Ransomware Attack: MSP’s RMM Tool Abused to Spread DragonForce",
+        "link": "https://securityonline.info/ransomware-attack-msps-rmm-tool-abused-to-spread-dragonforce/",
+        "published": "Thu, 29 May 2025 00:08:53 +0000"
+    },
+    {
+        "title": "Beware Katz Stealer: Sophisticated Malware-as-a-Service Steals Everything",
+        "link": "https://securityonline.info/beware-katz-stealer-sophisticated-malware-as-a-service-steals-everything/",
+        "published": "Thu, 29 May 2025 00:01:54 +0000"
     }
 ]
