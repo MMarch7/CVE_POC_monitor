@@ -10383,5 +10383,10 @@
         "title": "Beware Katz Stealer: Sophisticated Malware-as-a-Service Steals Everything",
         "link": "https://securityonline.info/beware-katz-stealer-sophisticated-malware-as-a-service-steals-everything/",
         "published": "Thu, 29 May 2025 00:01:54 +0000"
+    },
+    {
+        "title": "Argo CD Alert: XSS Flaw (CVSS 9.1) Allows Kubernetes Hijacking",
+        "link": "https://securityonline.info/argo-cd-alert-xss-flaw-cvss-9-1-allows-kubernetes-hijacking/",
+        "published": "Thu, 29 May 2025 03:12:12 +0000"
     }
 ]
