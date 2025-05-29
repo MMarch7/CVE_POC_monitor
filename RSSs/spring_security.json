@@ -98,5 +98,10 @@
         "title": "CVE-2025-41232 - Medium - CVE-2025-41232: Spring Security authorization bypass for method security annotations on private methods",
         "link": "https://spring.io/security/cve-2025-41232",
         "published": "Mon, 19 May 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41235 - High - CVE-2025-41235: Spring Cloud Gateway Server Forwards Headers from Untrusted Proxies",
+        "link": "https://spring.io/security/cve-2025-41235",
+        "published": "Tue, 27 May 2025 00:00:00 GMT"
     }
 ]
