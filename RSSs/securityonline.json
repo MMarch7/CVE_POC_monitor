@@ -10388,5 +10388,10 @@
         "title": "Argo CD Alert: XSS Flaw (CVSS 9.1) Allows Kubernetes Hijacking",
         "link": "https://securityonline.info/argo-cd-alert-xss-flaw-cvss-9-1-allows-kubernetes-hijacking/",
         "published": "Thu, 29 May 2025 03:12:12 +0000"
+    },
+    {
+        "title": "Tenda Router Flaw (CVSS 9.8): Unauthenticated RCE Flaw (PoC, No Patch)",
+        "link": "https://securityonline.info/tenda-router-flaw-cvss-9-8-unauthenticated-rce-flaw-poc-no-patch/",
+        "published": "Thu, 29 May 2025 03:38:48 +0000"
     }
 ]
