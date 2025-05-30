@@ -10473,5 +10473,15 @@
         "title": "Security Alert: Multi Flaws in Kea DHCP Server Disclosed",
         "link": "https://securityonline.info/security-alert-multi-flaws-in-kea-dhcp-server-disclosed/",
         "published": "Fri, 30 May 2025 00:01:44 +0000"
+    },
+    {
+        "title": "Horizon3 Details Critical File Upload Vulnerability in Cisco IOS XE WLC (CVE-2025-20188, CVSS 10)",
+        "link": "https://securityonline.info/horizon3-details-critical-file-upload-vulnerability-in-cisco-ios-xe-wlc-cve-2025-20188-cvss-10/",
+        "published": "Fri, 30 May 2025 02:48:28 +0000"
+    },
+    {
+        "title": "ConnectWise ScreenConnect Targeted by Nation-State Actor",
+        "link": "https://securityonline.info/connectwise-screenconnect-targeted-by-nation-state-actor/",
+        "published": "Fri, 30 May 2025 02:31:28 +0000"
     }
 ]
