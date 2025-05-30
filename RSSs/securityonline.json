@@ -10423,5 +10423,55 @@
         "title": "Fullscreen BitM Attack Discovered by SquareX Exploits Browser Fullscreen APIs to Steal Credentials in Safari",
         "link": "https://securityonline.info/fullscreen-bitm-attack-discovered-by-squarex-exploits-browser-fullscreen-apis-to-steal-credentials-in-safari/",
         "published": "Thu, 29 May 2025 13:00:14 +0000"
+    },
+    {
+        "title": "Apache Tomcat Flaw Allows Security Bypass on Case-Insensitive Systems",
+        "link": "https://securityonline.info/apache-tomcat-flaw-allows-security-bypass-on-case-insensitive-systems/",
+        "published": "Fri, 30 May 2025 01:52:37 +0000"
+    },
+    {
+        "title": "Spring Cloud Gateway Vulnerability Exposes Applications to Header Injection Risks",
+        "link": "https://securityonline.info/spring-cloud-gateway-vulnerability-exposes-applications-to-header-injection-risks/",
+        "published": "Fri, 30 May 2025 01:41:32 +0000"
+    },
+    {
+        "title": "Critical (CVSS 9.8): IBM Tivoli Monitoring Flaw Risks Remote Code Execution",
+        "link": "https://securityonline.info/critical-cvss-9-8-ibm-tivoli-monitoring-flaw-risks-remote-code-execution/",
+        "published": "Fri, 30 May 2025 00:42:00 +0000"
+    },
+    {
+        "title": "Warning: Fake AI Tools Spread CyberLock Ransomware and Numero Destructive Malware",
+        "link": "https://securityonline.info/warning-fake-ai-tools-spread-cyberlock-ransomware-and-numero-destructive-malware/",
+        "published": "Fri, 30 May 2025 00:39:26 +0000"
+    },
+    {
+        "title": "ZITADEL Flaw: Host Header Injection Risks Account Takeover (Password Reset)",
+        "link": "https://securityonline.info/zitadel-flaw-host-header-injection-risks-account-takeover-password-reset/",
+        "published": "Fri, 30 May 2025 00:33:30 +0000"
+    },
+    {
+        "title": "Spear-Phishing Alert: NetBird RAT Spreads via Deceptive Job Lures",
+        "link": "https://securityonline.info/spear-phishing-alert-netbird-rat-spreads-via-deceptive-job-lures/",
+        "published": "Fri, 30 May 2025 00:30:46 +0000"
+    },
+    {
+        "title": "Critical Vulnerability (CVSS 9.3): Icinga 2 Flaw Risks Certificate Impersonation",
+        "link": "https://securityonline.info/critical-vulnerability-cvss-9-3-icinga-2-flaw-risks-certificate-impersonation/",
+        "published": "Fri, 30 May 2025 00:16:09 +0000"
+    },
+    {
+        "title": "APT41 Uses Google Calendar as Covert C2 in Stealthy Cyberespionage Campaign",
+        "link": "https://securityonline.info/apt41-uses-google-calendar-as-covert-c2-in-stealthy-cyberespionage-campaign/",
+        "published": "Fri, 30 May 2025 00:13:13 +0000"
+    },
+    {
+        "title": "PureHVNC RAT Spreads Through Fake Job Offers and Multi-Stage Obfuscation",
+        "link": "https://securityonline.info/purehvnc-rat-spreads-through-fake-job-offers-and-multi-stage-obfuscation/",
+        "published": "Fri, 30 May 2025 00:09:48 +0000"
+    },
+    {
+        "title": "Security Alert: Multi Flaws in Kea DHCP Server Disclosed",
+        "link": "https://securityonline.info/security-alert-multi-flaws-in-kea-dhcp-server-disclosed/",
+        "published": "Fri, 30 May 2025 00:01:44 +0000"
     }
 ]
