@@ -690,3 +690,6 @@ clean_list:
 - CVE-2024-41570
 - CVE-2025-5319
 - CVE-2025-5329
+- CVE-2025-29093-Arbitrary-File-Upload
+- Moniker-Link-CVE-2024-21413
+- CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS
