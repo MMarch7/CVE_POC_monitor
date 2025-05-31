@@ -10548,5 +10548,15 @@
         "title": "CVE-2025-48912: Apache Superset Flaw Allows Row-Level Security Bypass via SQL Injection",
         "link": "https://securityonline.info/cve-2025-48912-apache-superset-flaw-allows-row-level-security-bypass-via-sql-injection/",
         "published": "Sat, 31 May 2025 02:12:21 +0000"
+    },
+    {
+        "title": "AyySSHush: New Stealthy Botnet Backdoors ASUS Routers, Persists Through Firmware Updates",
+        "link": "https://securityonline.info/ayysshush-new-stealthy-botnet-backdoors-asus-routers-persists-through-firmware-updates/",
+        "published": "Sat, 31 May 2025 11:38:44 +0000"
+    },
+    {
+        "title": "Microsoft’s Russian Subsidiary “Microsoft Rus” Files for Bankruptcy",
+        "link": "https://securityonline.info/microsofts-russian-subsidiary-microsoft-rus-files-for-bankruptcy/",
+        "published": "Sat, 31 May 2025 11:27:45 +0000"
     }
 ]

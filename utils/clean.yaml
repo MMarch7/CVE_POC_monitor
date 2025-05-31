@@ -695,3 +695,5 @@ clean_list:
 - CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS
 - CVE-2025-2995
 - dinkleberry
+- CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-
+- CVE-2025-4631
