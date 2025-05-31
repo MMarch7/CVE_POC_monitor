@@ -698,3 +698,4 @@ clean_list:
 - CVE-2025-30397---Windows-Server-2025-JScript-RCE-Use-After-Free-
 - CVE-2025-4631
 - CVE-2025-27590
+- CVE-2025-48827
