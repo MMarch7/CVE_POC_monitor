@@ -10573,5 +10573,55 @@
         "title": "EDDIESTEALER: New Rust Infostealer Uses Fake CAPTCHAs to Hijack Crypto Wallets & Data",
         "link": "https://securityonline.info/eddiestealer-new-rust-infostealer-uses-fake-captchas-to-hijack-crypto-wallets-data/",
         "published": "Sun, 01 Jun 2025 00:08:02 +0000"
+    },
+    {
+        "title": "PoC Reveals Apple Audio Zero-Day Enabling Remote Code Execution via Malicious Media Files",
+        "link": "https://securityonline.info/poc-reveals-apple-audio-zero-day-enabling-remote-code-execution-via-malicious-media-files/",
+        "published": "Mon, 02 Jun 2025 00:50:14 +0000"
+    },
+    {
+        "title": "Critical SSRF Flaw in Esri Portal for ArcGIS Exposes Internal Networks",
+        "link": "https://securityonline.info/critical-ssrf-flaw-in-esri-portal-for-arcgis-exposes-internal-networks/",
+        "published": "Mon, 02 Jun 2025 00:40:21 +0000"
+    },
+    {
+        "title": "Critical Flaw in Fabio Load Balancer Allows HTTP Header Tampering & Access Bypass",
+        "link": "https://securityonline.info/critical-flaw-in-fabio-load-balancer-allows-http-header-tampering-access-bypass/",
+        "published": "Mon, 02 Jun 2025 00:39:05 +0000"
+    },
+    {
+        "title": "Aviation Industry Alert: 50,000+ Azure AD Records Exposed via Misconfigured API",
+        "link": "https://securityonline.info/aviation-industry-alert-50000-azure-ad-records-exposed-via-misconfigured-api/",
+        "published": "Mon, 02 Jun 2025 00:33:38 +0000"
+    },
+    {
+        "title": "CISA Alert: Critical Flaws in Consilium Safety CS5000 Fire Panel Could Enable Remote Takeover, No Patch",
+        "link": "https://securityonline.info/cisa-alert-critical-flaws-in-consilium-safety-cs5000-fire-panel-could-enable-remote-takeover-no-patch/",
+        "published": "Mon, 02 Jun 2025 00:30:23 +0000"
+    },
+    {
+        "title": "Critical Flaws in Veritas DLO Expose Systems to Remote Code Execution",
+        "link": "https://securityonline.info/critical-flaws-in-veritas-dlo-expose-systems-to-remote-code-execution/",
+        "published": "Mon, 02 Jun 2025 00:26:58 +0000"
+    },
+    {
+        "title": "Critical RCE Flaws in MICI NetFax Server Unpatched, Vendor Refuses Fix",
+        "link": "https://securityonline.info/critical-rce-flaws-in-mici-netfax-server-unpatched-vendor-refuses-fix/",
+        "published": "Mon, 02 Jun 2025 00:22:22 +0000"
+    },
+    {
+        "title": "PyPI Supply Chain Attack Steals Solana Private Keys via Covert Monkey-Patching",
+        "link": "https://securityonline.info/pypi-supply-chain-attack-steals-solana-private-keys-via-covert-monkey-patching/",
+        "published": "Mon, 02 Jun 2025 00:19:33 +0000"
+    },
+    {
+        "title": "NetSPI Details Multiple Local Privilege Escalation Vulnerabilities in SonicWall NetExtender",
+        "link": "https://securityonline.info/netspi-details-multiple-local-privilege-escalation-vulnerabilities-in-sonicwall-netextender/",
+        "published": "Mon, 02 Jun 2025 00:13:43 +0000"
+    },
+    {
+        "title": "Path Traversal at Scale: Study Uncovers 1,756 Vulnerable GitHub Projects and LLM Contamination",
+        "link": "https://securityonline.info/path-traversal-at-scale-study-uncovers-1756-vulnerable-github-projects-and-llm-contamination/",
+        "published": "Mon, 02 Jun 2025 00:02:00 +0000"
     }
 ]
