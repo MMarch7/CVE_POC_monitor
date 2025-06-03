@@ -10773,5 +10773,10 @@
         "title": "ModSecurity Alert: New DoS Vulnerability Discovered!",
         "link": "https://securityonline.info/modsecurity-alert-new-dos-vulnerability-discovered/",
         "published": "Mon, 02 Jun 2025 23:45:49 +0000"
+    },
+    {
+        "title": "CVSS 10.0: Critical Flaw Threatens DELMIA Apriso Manufacturing Systems",
+        "link": "https://securityonline.info/cvss-10-0-critical-flaw-threatens-delmia-apriso-manufacturing-systems/",
+        "published": "Tue, 03 Jun 2025 02:21:49 +0000"
     }
 ]
