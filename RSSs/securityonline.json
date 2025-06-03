@@ -10693,5 +10693,85 @@
         "title": "Chrome Zero-Day Alert: CVE-2025-5419 Actively Exploited in the Wild",
         "link": "https://securityonline.info/chrome-zero-day-alert-cve-2025-5419-actively-exploited-in-the-wild/",
         "published": "Mon, 02 Jun 2025 23:23:20 +0000"
+    },
+    {
+        "title": "Splunk Issues Patches for Two Security Flaws: Windows Permission Misconfiguration and Reflected XSS",
+        "link": "https://securityonline.info/splunk-issues-patches-for-two-security-flaws-windows-permission-misconfiguration-and-reflected-xss/",
+        "published": "Tue, 03 Jun 2025 01:57:47 +0000"
+    },
+    {
+        "title": "Critical 9.8 CVSS Authentication Bypass in HPE StoreOnce Software",
+        "link": "https://securityonline.info/critical-9-8-cvss-authentication-bypass-in-hpe-storeonce-software/",
+        "published": "Tue, 03 Jun 2025 00:52:25 +0000"
+    },
+    {
+        "title": "FiberGateway Router Hacked: Portugal’s 1.6M Homes at Risk",
+        "link": "https://securityonline.info/fibergateway-router-hacked-portugals-1-6m-homes-at-risk/",
+        "published": "Tue, 03 Jun 2025 00:50:27 +0000"
+    },
+    {
+        "title": "JINX-0132: Cryptojackers Exploit Misconfigured DevOps Environments",
+        "link": "https://securityonline.info/jinx-0132-cryptojackers-exploit-misconfigured-devops-environments/",
+        "published": "Tue, 03 Jun 2025 00:46:19 +0000"
+    },
+    {
+        "title": "Linux Flaws Expose Sensitive Data via Core Dumps",
+        "link": "https://securityonline.info/linux-flaws-expose-sensitive-data-via-core-dumps/",
+        "published": "Tue, 03 Jun 2025 00:42:19 +0000"
+    },
+    {
+        "title": "Haozi Returns: The Phishing-as-a-Service Platform Making Cybercrime Easy",
+        "link": "https://securityonline.info/haozi-returns-the-phishing-as-a-service-platform-making-cybercrime-easy/",
+        "published": "Tue, 03 Jun 2025 00:40:53 +0000"
+    },
+    {
+        "title": "Stealthy npm Supply Chain Attack: Typosquatting Leads to Remote Code Execution and Data Destruction",
+        "link": "https://securityonline.info/stealthy-npm-supply-chain-attack-typosquatting-leads-to-remote-code-execution-and-data-destruction/",
+        "published": "Tue, 03 Jun 2025 00:36:38 +0000"
+    },
+    {
+        "title": "Glitch Platform Abused: Phishing Campaigns Circumvent MFA and Target Credit Unions",
+        "link": "https://securityonline.info/glitch-platform-abused-phishing-campaigns-circumvent-mfa-and-target-credit-unions/",
+        "published": "Tue, 03 Jun 2025 00:28:21 +0000"
+    },
+    {
+        "title": "How to Detect Microsoft 365 Phishing Attacks on Your Business",
+        "link": "https://securityonline.info/how-to-detect-microsoft-365-phishing-attacks-on-your-business/",
+        "published": "Tue, 03 Jun 2025 00:25:48 +0000"
+    },
+    {
+        "title": "Gh0st in the Machine: ASEC Uncovers Cryptomining Campaign Exploiting Korean Internet Cafés",
+        "link": "https://securityonline.info/gh0st-in-the-machine-asec-uncovers-cryptomining-campaign-exploiting-korean-internet-cafes/",
+        "published": "Tue, 03 Jun 2025 00:22:49 +0000"
+    },
+    {
+        "title": "Kaspersky Report Reveals Growing Threat from Old Exploits and OS Vulnerabilities in Q1 2025",
+        "link": "https://securityonline.info/kaspersky-report-reveals-growing-threat-from-old-exploits-and-os-vulnerabilities-in-q1-2025/",
+        "published": "Tue, 03 Jun 2025 00:17:50 +0000"
+    },
+    {
+        "title": "Unmasking BtHoster: The Bulletproof Host Fueling Global Cyberattacks",
+        "link": "https://securityonline.info/unmasking-bthoster-the-bulletproof-host-fueling-global-cyberattacks/",
+        "published": "Tue, 03 Jun 2025 00:12:12 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Unauthenticated Access Vulnerability in Instantel Micromate Devices",
+        "link": "https://securityonline.info/cisa-warns-of-critical-unauthenticated-access-vulnerability-in-instantel-micromate-devices/",
+        "published": "Tue, 03 Jun 2025 00:09:04 +0000"
+    },
+    {
+        "title": "CISA Adds 5 Actively Exploited Vulnerabilities to KEV Catalog: ASUS Routers, Craft CMS, and ConnectWise Targeted",
+        "link": "https://securityonline.info/cisa-adds-5-actively-exploited-vulnerabilities-to-kev-catalog-asus-routers-craft-cms-and-connectwise-targeted/",
+        "published": "Tue, 03 Jun 2025 00:06:29 +0000"
+    },
+    {
+        "title": "Lyrix Ransomware: New Threat Emerges with Advanced Evasion Tactics",
+        "link": "https://securityonline.info/lyrix-ransomware-new-threat-emerges-with-advanced-evasion-tactics/",
+        "published": "Tue, 03 Jun 2025 00:02:40 +0000"
+    },
+    {
+        "title": "ModSecurity Alert: New DoS Vulnerability Discovered!",
+        "link": "https://securityonline.info/modsecurity-alert-new-dos-vulnerability-discovered/",
+        "published": "Mon, 02 Jun 2025 23:45:49 +0000"
     }
 ]
