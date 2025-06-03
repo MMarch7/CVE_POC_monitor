@@ -707,3 +707,5 @@ clean_list:
 - CVE-2025-46204
 - CVE-2025-46206
 - CVE-2025-4123-template
+- cve-2024-3094
+- django-vulnerability-CVE-2025-32873
