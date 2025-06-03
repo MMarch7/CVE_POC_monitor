@@ -711,3 +711,5 @@ clean_list:
 - django-vulnerability-CVE-2025-32873
 - cve20254664
 - CVE-2025-45781-Kemal-Framework-Path-Traversal-Vulnerability-PoC
+- CVE-2024-10914
+- CVE-2025-5419
