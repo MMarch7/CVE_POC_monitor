@@ -10833,5 +10833,50 @@
         "title": "Aembit Extends Workload IAM to Microsoft Ecosystem, Securing Hybrid Access for Non-Human Identities",
         "link": "https://securityonline.info/aembit-extends-workload-iam-to-microsoft-ecosystem-securing-hybrid-access-for-non-human-identities/",
         "published": "Tue, 03 Jun 2025 13:30:59 +0000"
+    },
+    {
+        "title": "Critical CVSS 9.6: IBM QRadar & Cloud Pak Security Flaws Exposed",
+        "link": "https://securityonline.info/critical-cvss-9-6-ibm-qradar-cloud-pak-security-flaws-exposed/",
+        "published": "Wed, 04 Jun 2025 01:43:15 +0000"
+    },
+    {
+        "title": "PoC Unleashed: Linux vsock Flaw Enables Privilege Escalation to Root",
+        "link": "https://securityonline.info/poc-unleashed-linux-vsock-flaw-enables-privilege-escalation-to-root/",
+        "published": "Wed, 04 Jun 2025 00:40:21 +0000"
+    },
+    {
+        "title": "Crocodilus Trojan Evolves: Android Malware Goes Global with New Seed Phrase Stealer and Contact Injection",
+        "link": "https://securityonline.info/crocodilus-trojan-evolves-android-malware-goes-global-with-new-seed-phrase-stealer-and-contact-injection/",
+        "published": "Wed, 04 Jun 2025 00:35:25 +0000"
+    },
+    {
+        "title": "Samba Security Alert: Stale Group Data Poses Risk in Kerberos SMB Sessions, No Patch!",
+        "link": "https://securityonline.info/samba-security-alert-stale-group-data-poses-risk-in-kerberos-smb-sessions-no-patch/",
+        "published": "Wed, 04 Jun 2025 00:30:12 +0000"
+    },
+    {
+        "title": "Alert: Malicious RubyGems Impersonate Fastlane Plugins, Steal CI/CD Data",
+        "link": "https://securityonline.info/alert-malicious-rubygems-impersonate-fastlane-plugins-steal-ci-cd-data/",
+        "published": "Wed, 04 Jun 2025 00:24:29 +0000"
+    },
+    {
+        "title": "AI Interface Hijacked: Open WebUI Exploited for Cryptominers and Stealthy AI Malware",
+        "link": "https://securityonline.info/ai-interface-hijacked-open-webui-exploited-for-cryptominers-and-stealthy-ai-malware/",
+        "published": "Wed, 04 Jun 2025 00:19:06 +0000"
+    },
+    {
+        "title": "New WordPress Malware Masquerades as Legit Plugin with Data Exfiltration and RCE Capabilities",
+        "link": "https://securityonline.info/new-wordpress-malware-masquerades-as-legit-plugin-with-data-exfiltration-and-rce-capabilities/",
+        "published": "Wed, 04 Jun 2025 00:13:47 +0000"
+    },
+    {
+        "title": "New npm Packages Exposed: Crypto Drainers Targeting BSC & Ethereum Wallets",
+        "link": "https://securityonline.info/new-npm-packages-exposed-crypto-drainers-targeting-bsc-ethereum-wallets/",
+        "published": "Wed, 04 Jun 2025 00:06:05 +0000"
+    },
+    {
+        "title": "VulBinLLM: Using Large Language Models to Unlock Vulnerabilities Hidden in Stripped Binaries",
+        "link": "https://securityonline.info/vulbinllm-using-large-language-models-to-unlock-vulnerabilities-hidden-in-stripped-binaries/",
+        "published": "Wed, 04 Jun 2025 00:00:00 +0000"
     }
 ]
