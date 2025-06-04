@@ -10878,5 +10878,15 @@
         "title": "VulBinLLM: Using Large Language Models to Unlock Vulnerabilities Hidden in Stripped Binaries",
         "link": "https://securityonline.info/vulbinllm-using-large-language-models-to-unlock-vulnerabilities-hidden-in-stripped-binaries/",
         "published": "Wed, 04 Jun 2025 00:00:00 +0000"
+    },
+    {
+        "title": "Actively Exploited Qualcomm GPU Zero-Days Added to CISA’s KEV Catalog",
+        "link": "https://securityonline.info/actively-exploited-qualcomm-gpu-zero-days-added-to-cisas-kev-catalog/",
+        "published": "Wed, 04 Jun 2025 02:55:58 +0000"
+    },
+    {
+        "title": "Unpatched Telecom Flaws (CVSS 9.8) Enable Remote Code Execution: Critical Buffer Overflows Expose Core Infrastructure",
+        "link": "https://securityonline.info/unpatched-telecom-flaws-cvss-9-8-enable-remote-code-execution-critical-buffer-overflows-expose-core-infrastructure/",
+        "published": "Wed, 04 Jun 2025 02:20:22 +0000"
     }
 ]
