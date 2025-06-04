@@ -714,3 +714,4 @@ clean_list:
 - CVE-2024-10914
 - CVE-2025-5419
 - CVE-2025-49113-nuclei-template
+- CVE-2025-22056-exploit
