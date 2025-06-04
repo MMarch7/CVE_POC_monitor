@@ -717,3 +717,4 @@ clean_list:
 - CVE-2025-22056-exploit
 - CVE-2025-49223-BillboardJS-PoC
 - CVE-2025-4123-Exploit-Tool-Grafana-
+- CVE-2025-46047
