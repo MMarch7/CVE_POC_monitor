@@ -719,3 +719,4 @@ clean_list:
 - CVE-2025-4123-Exploit-Tool-Grafana-
 - CVE-2025-46047
 - CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers
+- CVE-2025-49113
