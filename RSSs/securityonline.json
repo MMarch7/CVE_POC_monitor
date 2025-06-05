@@ -11003,5 +11003,20 @@
         "title": "Multiple Stored XSS Vulnerabilities Discovered in VMware NSX — Patch Now",
         "link": "https://securityonline.info/multiple-stored-xss-vulnerabilities-discovered-in-vmware-nsx-patch-now/",
         "published": "Wed, 04 Jun 2025 23:46:11 +0000"
+    },
+    {
+        "title": "CVE-2025-49113: Roundcube RCE Exploit Unveiled—The Swiss Army Knife of Webmail Just Got a Weaponized Blade",
+        "link": "https://securityonline.info/cve-2025-49113-roundcube-rce-exploit-unveiled-the-swiss-army-knife-of-webmail-just-got-a-weaponized-blade/",
+        "published": "Thu, 05 Jun 2025 03:42:08 +0000"
+    },
+    {
+        "title": "Cisco Patches Two Vulnerabilities in CCP and ISE: Proof-of-Concept Exploits Publicly Available",
+        "link": "https://securityonline.info/cisco-patches-two-vulnerabilities-in-ccp-and-ise-proof-of-concept-exploits-publicly-available/",
+        "published": "Thu, 05 Jun 2025 03:16:03 +0000"
+    },
+    {
+        "title": "12.2TB of User Data Exposed in Passion.io Breach: Over 3.6 Million Records Left Unprotected",
+        "link": "https://securityonline.info/12-2tb-of-user-data-exposed-in-passion-io-breach-over-3-6-million-records-left-unprotected/",
+        "published": "Thu, 05 Jun 2025 03:05:18 +0000"
     }
 ]
