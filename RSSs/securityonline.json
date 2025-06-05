@@ -10943,5 +10943,65 @@
         "title": "Firefox Bolsters Security: New Scan Detects Crypto Wallet Thieves!",
         "link": "https://securityonline.info/firefox-bolsters-security-new-scan-detects-crypto-wallet-thieves/",
         "published": "Wed, 04 Jun 2025 08:43:21 +0000"
+    },
+    {
+        "title": "Critical Dell Bug (CVSS 9.8) Lets Unauthenticated Attackers Fully Compromise the System",
+        "link": "https://securityonline.info/critical-dell-bug-cvss-9-8-lets-unauthenticated-attackers-fully-compromise-the-system/",
+        "published": "Thu, 05 Jun 2025 01:51:17 +0000"
+    },
+    {
+        "title": "CVE-2025-48951: Critical Deserialization Flaw in Auth0 PHP SDK Threatens Millions of Applications",
+        "link": "https://securityonline.info/cve-2025-48951-critical-deserialization-flaw-in-auth0-php-sdk-threatens-millions-of-applications/",
+        "published": "Thu, 05 Jun 2025 01:32:24 +0000"
+    },
+    {
+        "title": "Cisco Warns of High-Severity SSH Security Flaws in UCS IMC and NDFC Systems",
+        "link": "https://securityonline.info/cisco-warns-of-high-severity-ssh-security-flaws-in-ucs-imc-and-ndfc-systems/",
+        "published": "Thu, 05 Jun 2025 00:34:55 +0000"
+    },
+    {
+        "title": "Sophos Unmasks Sakura RAT: Hackers Hacking Hackers with Backdoored Malware!",
+        "link": "https://securityonline.info/sophos-unmasks-sakura-rat-hackers-hacking-hackers-with-backdoored-malware/",
+        "published": "Thu, 05 Jun 2025 00:29:47 +0000"
+    },
+    {
+        "title": "Alert: Fake DocuSign & Gitcodes Pages Install NetSupport RAT Malware!",
+        "link": "https://securityonline.info/alert-fake-docusign-gitcodes-pages-install-netsupport-rat-malware/",
+        "published": "Thu, 05 Jun 2025 00:25:35 +0000"
+    },
+    {
+        "title": "CVE-2025-48947: Session Cookies at Risk in Auth0 Next.js SDK",
+        "link": "https://securityonline.info/cve-2025-48947-session-cookies-at-risk-in-auth0-next-js-sdk/",
+        "published": "Thu, 05 Jun 2025 00:18:36 +0000"
+    },
+    {
+        "title": "IBM X-Force Uncovers Hive0131’s Sophisticated DCRat Campaign Targeting Colombian Users",
+        "link": "https://securityonline.info/ibm-x-force-uncovers-hive0131s-sophisticated-dcrat-campaign-targeting-colombian-users/",
+        "published": "Thu, 05 Jun 2025 00:18:30 +0000"
+    },
+    {
+        "title": "Kaspersky Exposes Hidden Dangers: Are Your Containers Truly Secure?",
+        "link": "https://securityonline.info/kaspersky-exposes-hidden-dangers-are-your-containers-truly-secure/",
+        "published": "Thu, 05 Jun 2025 00:12:13 +0000"
+    },
+    {
+        "title": "ViperSoftX Evolves: New PowerShell Malware Boasts Stealth & Persistence",
+        "link": "https://securityonline.info/vipersoftx-evolves-new-powershell-malware-boasts-stealth-persistence/",
+        "published": "Thu, 05 Jun 2025 00:08:16 +0000"
+    },
+    {
+        "title": "Critical Cisco ISE Cloud Vulnerability (CVSS 9.9) with PoC Exploit Threatens AWS, Azure, OCI",
+        "link": "https://securityonline.info/critical-cisco-ise-cloud-vulnerability-cvss-9-9-with-poc-exploit-threatens-aws-azure-oci/",
+        "published": "Thu, 05 Jun 2025 00:06:02 +0000"
+    },
+    {
+        "title": "Critical ABB EIBPORT Flaw: Update Now to Prevent Building Automation Hijacks!",
+        "link": "https://securityonline.info/critical-abb-eibport-flaw-update-now-to-prevent-building-automation-hijacks/",
+        "published": "Thu, 05 Jun 2025 00:01:02 +0000"
+    },
+    {
+        "title": "Multiple Stored XSS Vulnerabilities Discovered in VMware NSX — Patch Now",
+        "link": "https://securityonline.info/multiple-stored-xss-vulnerabilities-discovered-in-vmware-nsx-patch-now/",
+        "published": "Wed, 04 Jun 2025 23:46:11 +0000"
     }
 ]
