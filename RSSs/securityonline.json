@@ -11053,5 +11053,10 @@
         "title": "Microsoft 365 Update Channels – Major Changes Ahead for IT Admins!",
         "link": "https://securityonline.info/microsoft-365-update-channels-major-changes-ahead-for-it-admins/",
         "published": "Thu, 05 Jun 2025 06:56:29 +0000"
+    },
+    {
+        "title": "CRITICAL (CVSS 9.4) Python ‘tarfile’ Vulnerability: Arbitrary Filesystem Writes Possible!",
+        "link": "https://securityonline.info/critical-cvss-9-4-python-tarfile-vulnerability-arbitrary-filesystem-writes-possible/",
+        "published": "Thu, 05 Jun 2025 08:38:15 +0000"
     }
 ]
