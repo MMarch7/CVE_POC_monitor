@@ -721,3 +721,4 @@ clean_list:
 - CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers
 - CVE-2025-49113
 - CVE-2025-3054-Exploit
+- CVE-2025-5701-Exploit
