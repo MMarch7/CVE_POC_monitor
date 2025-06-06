@@ -727,3 +727,4 @@ clean_list:
 - exploit-CVE-2025-49113
 - CVE-2025-49113-exploit
 - Blackash-CVE-2025-31161
+- cve-2025-24893
