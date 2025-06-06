@@ -725,3 +725,4 @@ clean_list:
 - CVE-2025-5701
 - cve-2025-5054
 - exploit-CVE-2025-49113
+- CVE-2025-49113-exploit
