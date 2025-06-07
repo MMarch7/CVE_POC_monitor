@@ -11198,5 +11198,10 @@
         "title": "Nintendo Switch 2 Hacked? Early Exploit Uncovered!",
         "link": "https://securityonline.info/nintendo-switch-2-hacked-early-exploit-uncovered/",
         "published": "Sat, 07 Jun 2025 08:38:21 +0000"
+    },
+    {
+        "title": "Legacy vBulletin 4.x Patch Backfires: RCE via Signed Base64 Payloads and a Full PoC",
+        "link": "https://securityonline.info/legacy-vbulletin-4-x-patch-backfires-rce-via-signed-base64-payloads-and-a-full-poc/",
+        "published": "Sat, 07 Jun 2025 16:33:17 +0000"
     }
 ]
