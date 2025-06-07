@@ -11178,5 +11178,20 @@
         "title": "CISA Alert: Critical Vulnerabilities Found in CyberData SIP Emergency Intercom Devices",
         "link": "https://securityonline.info/cisa-alert-critical-vulnerabilities-found-in-cyberdata-sip-emergency-intercom-devices/",
         "published": "Sat, 07 Jun 2025 00:11:36 +0000"
+    },
+    {
+        "title": "Unpatched XSS Vulnerability in Jenkins Gatling Plugin Puts Users at Risk (CVE-2025-5806)",
+        "link": "https://securityonline.info/unpatched-xss-vulnerability-in-jenkins-gatling-plugin-puts-users-at-risk-cve-2025-5806/",
+        "published": "Sat, 07 Jun 2025 06:19:46 +0000"
+    },
+    {
+        "title": "Claude Gov: Anthropic’s AI Brain for U.S. National Security",
+        "link": "https://securityonline.info/claude-gov-anthropics-ai-brain-for-u-s-national-security/",
+        "published": "Sat, 07 Jun 2025 06:11:05 +0000"
+    },
+    {
+        "title": "Apple’s App Store shaken: Court ends ‘Apple tax’ on external purchases",
+        "link": "https://securityonline.info/apples-app-store-shaken-court-ends-apple-tax-on-external-purchases/",
+        "published": "Sat, 07 Jun 2025 06:02:31 +0000"
     }
 ]
