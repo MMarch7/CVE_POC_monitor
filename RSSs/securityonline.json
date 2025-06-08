@@ -11203,5 +11203,15 @@
         "title": "Legacy vBulletin 4.x Patch Backfires: RCE via Signed Base64 Payloads and a Full PoC",
         "link": "https://securityonline.info/legacy-vbulletin-4-x-patch-backfires-rce-via-signed-base64-payloads-and-a-full-poc/",
         "published": "Sat, 07 Jun 2025 16:33:17 +0000"
+    },
+    {
+        "title": "New Mirai Botnet Variant Targets DVR Systems via CVE-2024-3721",
+        "link": "https://securityonline.info/new-mirai-botnet-variant-targets-dvr-systems-via-cve-2024-3721/",
+        "published": "Sun, 08 Jun 2025 00:39:34 +0000"
+    },
+    {
+        "title": "Fake Government Android App Found Delivering Stealer Malware",
+        "link": "https://securityonline.info/fake-government-android-app-found-delivering-stealer-malware/",
+        "published": "Sun, 08 Jun 2025 00:20:55 +0000"
     }
 ]
