@@ -740,3 +740,4 @@ clean_list:
 - CVE-2025-46041
 - Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-
 - Blackash-CVE-2025-32756
+- AnySniff
