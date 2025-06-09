@@ -11213,5 +11213,65 @@
         "title": "Fake Government Android App Found Delivering Stealer Malware",
         "link": "https://securityonline.info/fake-government-android-app-found-delivering-stealer-malware/",
         "published": "Sun, 08 Jun 2025 00:20:55 +0000"
+    },
+    {
+        "title": "Microsoft BFS Flaws Expose Windows to Privilege Escalation – PoC Code Released",
+        "link": "https://securityonline.info/microsoft-bfs-flaws-expose-windows-to-privilege-escalation-poc-code-released/",
+        "published": "Mon, 09 Jun 2025 00:50:44 +0000"
+    },
+    {
+        "title": "From Cheats to Compromise: Blitz Malware Exploits Gamers via Backdoored Standoff 2 Cheats",
+        "link": "https://securityonline.info/from-cheats-to-compromise-blitz-malware-exploits-gamers-via-backdoored-standoff-2-cheats/",
+        "published": "Mon, 09 Jun 2025 00:48:28 +0000"
+    },
+    {
+        "title": "QNAP Fixes SQL Injection and Certificate Validation Flaws in Qsync Central and File Station 5",
+        "link": "https://securityonline.info/qnap-fixes-sql-injection-and-certificate-validation-flaws-in-qsync-central-and-file-station-5/",
+        "published": "Mon, 09 Jun 2025 00:43:36 +0000"
+    },
+    {
+        "title": "Critical CVSS 10.0 Flaws in B. Braun OnlineSuite Threaten Healthcare Infrastructure",
+        "link": "https://securityonline.info/critical-cvss-10-0-flaws-in-b-braun-onlinesuite-threaten-healthcare-infrastructure/",
+        "published": "Mon, 09 Jun 2025 00:39:26 +0000"
+    },
+    {
+        "title": "UNC1151 Exploits Roundcube Flaw in Spear Phishing Attack",
+        "link": "https://securityonline.info/unc1151-exploits-roundcube-flaw-in-spear-phishing-attack/",
+        "published": "Mon, 09 Jun 2025 00:35:31 +0000"
+    },
+    {
+        "title": "DuplexSpy RAT: New C# Malware Toolkit Emerges on GitHub",
+        "link": "https://securityonline.info/duplexspy-rat-new-c-malware-toolkit-emerges-on-github/",
+        "published": "Mon, 09 Jun 2025 00:30:48 +0000"
+    },
+    {
+        "title": "Destructive npm Packages Disguised as Utilities Trigger Remote System Wipes on Demand",
+        "link": "https://securityonline.info/destructive-npm-packages-disguised-as-utilities-trigger-remote-system-wipes-on-demand/",
+        "published": "Mon, 09 Jun 2025 00:27:46 +0000"
+    },
+    {
+        "title": "Android’s Secret Tracking: Meta & Yandex Abused Localhost for User Data",
+        "link": "https://securityonline.info/androids-secret-tracking-meta-yandex-abused-localhost-for-user-data/",
+        "published": "Mon, 09 Jun 2025 00:21:39 +0000"
+    },
+    {
+        "title": "Go Fixes Three Security Flaws: Update Your Apps Now!",
+        "link": "https://securityonline.info/go-fixes-three-security-flaws-update-your-apps-now/",
+        "published": "Mon, 09 Jun 2025 00:16:56 +0000"
+    },
+    {
+        "title": "FormBook Returns: Exploiting CVE-2017-0199 via Malicious Excel Attachments in New Phishing Campaign",
+        "link": "https://securityonline.info/formbook-returns-exploiting-cve-2017-0199-via-malicious-excel-attachments-in-new-phishing-campaign/",
+        "published": "Mon, 09 Jun 2025 00:11:27 +0000"
+    },
+    {
+        "title": "EnigmaCyberSecurity: Brazil-Focused Banking Malware Campaign Uses RATs and Malicious Extensions",
+        "link": "https://securityonline.info/enigmacybersecurity-brazil-focused-banking-malware-campaign-uses-rats-and-malicious-extensions/",
+        "published": "Mon, 09 Jun 2025 00:07:04 +0000"
+    },
+    {
+        "title": "CVE-2025-4318 (CVSS 9.5): AWS Amplify RCE Flaw Exposed with PoC – CI/CD Pipelines at Risk",
+        "link": "https://securityonline.info/cve-2025-4318-cvss-9-5-aws-amplify-rce-flaw-exposed-with-poc-ci-cd-pipelines-at-risk/",
+        "published": "Mon, 09 Jun 2025 00:02:25 +0000"
     }
 ]

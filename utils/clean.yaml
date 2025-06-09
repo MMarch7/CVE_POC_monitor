@@ -743,3 +743,5 @@ clean_list:
 - AnySniff
 - SOC274---Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400-
 - CVE-2025-5840
+- cvear2025
+- CVE-2025-48129
