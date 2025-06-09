@@ -750,3 +750,4 @@ clean_list:
 - Blackash-CVE-2025-24071
 - SMB-LINUX-CVE-2025-37899
 - Blackash-CVE-2025-32433
+- CVE-2025-20286
