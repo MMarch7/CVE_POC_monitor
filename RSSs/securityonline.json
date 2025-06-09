@@ -11323,5 +11323,10 @@
         "title": "Critical Wazuh RCE (CVE-2025-24016) Actively Exploited by Mirai Botnets",
         "link": "https://securityonline.info/critical-wazuh-rce-cve-2025-24016-actively-exploited-by-mirai-botnets/",
         "published": "Mon, 09 Jun 2025 15:07:09 +0000"
+    },
+    {
+        "title": "Apache Kafka Clients at Risk: File Reads, SSRF, and RCE Exploits Trigger Urgent Security Fixes",
+        "link": "https://securityonline.info/apache-kafka-clients-at-risk-file-reads-ssrf-and-rce-exploits-trigger-urgent-security-fixes/",
+        "published": "Mon, 09 Jun 2025 15:44:54 +0000"
     }
 ]
