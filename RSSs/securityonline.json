@@ -11453,5 +11453,10 @@
         "title": "Microsoft’s June 2025 Patch Tuesday: 2 Zero-Days, 69 Vulnerabilities Patched!",
         "link": "https://securityonline.info/microsofts-june-2025-patch-tuesday-2-zero-days-69-vulnerabilities-patched/",
         "published": "Tue, 10 Jun 2025 22:04:26 +0000"
+    },
+    {
+        "title": "UEFI Secure Boot Bypass: Critical Flaw (CVE-2025-3052) Exposes Millions of Devices!",
+        "link": "https://securityonline.info/uefi-secure-boot-bypass-critical-flaw-cve-2025-3052-exposes-millions-of-devices/",
+        "published": "Tue, 10 Jun 2025 22:37:50 +0000"
     }
 ]
