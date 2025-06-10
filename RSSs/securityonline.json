@@ -11328,5 +11328,65 @@
         "title": "Apache Kafka Clients at Risk: File Reads, SSRF, and RCE Exploits Trigger Urgent Security Fixes",
         "link": "https://securityonline.info/apache-kafka-clients-at-risk-file-reads-ssrf-and-rce-exploits-trigger-urgent-security-fixes/",
         "published": "Mon, 09 Jun 2025 15:44:54 +0000"
+    },
+    {
+        "title": "CVE-2025-4601: Flaw Exposes 33,000+ RealHomes WordPress Sites to Admin Takeover",
+        "link": "https://securityonline.info/cve-2025-4601-flaw-exposes-33000-realhomes-wordpress-sites-to-admin-takeover/",
+        "published": "Tue, 10 Jun 2025 02:10:16 +0000"
+    },
+    {
+        "title": "CISA Flags Active Exploits in Erlang/OTP SSH and Roundcube Webmail: Critical RCE and XSS Flaws Under Attack",
+        "link": "https://securityonline.info/cisa-flags-active-exploits-in-erlang-otp-ssh-and-roundcube-webmail-critical-rce-and-xss-flaws-under-attack/",
+        "published": "Tue, 10 Jun 2025 02:01:00 +0000"
+    },
+    {
+        "title": "Chinese Cyberespionage Groups Probe SentinelOne in Sophisticated ShadowPad and PurpleHaze Campaigns",
+        "link": "https://securityonline.info/chinese-cyberespionage-groups-probe-sentinelone-in-sophisticated-shadowpad-and-purplehaze-campaigns/",
+        "published": "Tue, 10 Jun 2025 00:45:22 +0000"
+    },
+    {
+        "title": "Librarian Ghouls APT: The Threat Actor Turning Legitimate Tools into a Cybercrime Toolkit",
+        "link": "https://securityonline.info/librarian-ghouls-apt-the-threat-actor-turning-legitimate-tools-into-a-cybercrime-toolkit/",
+        "published": "Tue, 10 Jun 2025 00:44:43 +0000"
+    },
+    {
+        "title": "CVE-2025-48757: Lovable’s Row-Level Security Breakdown Exposes Sensitive Data Across Hundreds of Projects",
+        "link": "https://securityonline.info/cve-2025-48757-lovables-row-level-security-breakdown-exposes-sensitive-data-across-hundreds-of-projects/",
+        "published": "Tue, 10 Jun 2025 00:38:53 +0000"
+    },
+    {
+        "title": "Kimsuky’s AppleSeed Returns: North Korea-Linked APT Targets Korean Users via Social Media",
+        "link": "https://securityonline.info/kimsukys-appleseed-returns-north-korea-linked-apt-targets-korean-users-via-social-media/",
+        "published": "Tue, 10 Jun 2025 00:32:05 +0000"
+    },
+    {
+        "title": "Operation DRAGONCLONE: China Mobile Tietong Hit by Advanced APT Attack",
+        "link": "https://securityonline.info/operation-dragonclone-china-mobile-tietong-hit-by-advanced-apt-attack/",
+        "published": "Tue, 10 Jun 2025 00:27:20 +0000"
+    },
+    {
+        "title": "CVE-2025-41646: Critical Authentication Bypass in RevPi Webstatus Threatens Industrial Systems",
+        "link": "https://securityonline.info/cve-2025-41646-critical-authentication-bypass-in-revpi-webstatus-threatens-industrial-systems/",
+        "published": "Tue, 10 Jun 2025 00:21:29 +0000"
+    },
+    {
+        "title": "APT41 Unleashes Stealthy Malware Using Google Calendar for Covert C2!",
+        "link": "https://securityonline.info/apt41-unleashes-stealthy-malware-using-google-calendar-for-covert-c2/",
+        "published": "Tue, 10 Jun 2025 00:19:30 +0000"
+    },
+    {
+        "title": "Behind the Followers: Malicious Python Package Harvests Instagram Credentials",
+        "link": "https://securityonline.info/behind-the-followers-malicious-python-package-harvests-instagram-credentials/",
+        "published": "Tue, 10 Jun 2025 00:12:30 +0000"
+    },
+    {
+        "title": "BladedFeline: Iran-Aligned APT Group Expands Arsenal With Whisper and PrimeCache",
+        "link": "https://securityonline.info/bladedfeline-iran-aligned-apt-group-expands-arsenal-with-whisper-and-primecache/",
+        "published": "Tue, 10 Jun 2025 00:08:10 +0000"
+    },
+    {
+        "title": "SoraAI.lnk: Beware of This New Info-Stealer Hiding as OpenAI’s Sora",
+        "link": "https://securityonline.info/soraai-lnk-beware-of-this-new-info-stealer-hiding-as-openais-sora/",
+        "published": "Tue, 10 Jun 2025 00:02:42 +0000"
     }
 ]
