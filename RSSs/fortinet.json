@@ -623,5 +623,75 @@
         "title": "Unauthorized modification of global threat feeds",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-023",
         "published": "Tue, 13 May 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Blind SSRF in API",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-342",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Firewall session injection in FGSP",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-287",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "IPsec improper validation of certificate with host mismatch",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-365",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Improper Handling of Insufficient Permissions or Privileges in GUI websocket",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-008",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Information Disclosure on SSLVPN endpoint",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-257",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insufficient Access Control Over API Endpoints",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-274",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insufficient Session Expiration in SSL-VPN cookie",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-339",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Multiple OS command injection in Web Vulnerability Scanner",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-099",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Privilege escalation in GUI websocket module",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-006",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Privilege escalation in automation-stitch",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-385",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "SSH key is added even if operation is aborted",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-008",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Telemetry protocol authentication is based over VDOM and FCTUID",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-375",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Weak authentication in security fabric daemon",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-058",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "eap-cert-auth bypass via revoked certificate",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-544",
+        "published": "Tue, 10 Jun 2025 00:00:00 -0700"
     }
 ]
