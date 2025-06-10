@@ -11388,5 +11388,10 @@
         "title": "SoraAI.lnk: Beware of This New Info-Stealer Hiding as OpenAI’s Sora",
         "link": "https://securityonline.info/soraai-lnk-beware-of-this-new-info-stealer-hiding-as-openais-sora/",
         "published": "Tue, 10 Jun 2025 00:02:42 +0000"
+    },
+    {
+        "title": "CVSS 9.9: Critical XXE Flaw in GeoTools Exposes Geospatial Data Systems",
+        "link": "https://securityonline.info/cvss-9-9-critical-xxe-flaw-in-geotools-exposes-geospatial-data-systems/",
+        "published": "Tue, 10 Jun 2025 02:34:55 +0000"
     }
 ]
