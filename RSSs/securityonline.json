@@ -11458,5 +11458,75 @@
         "title": "UEFI Secure Boot Bypass: Critical Flaw (CVE-2025-3052) Exposes Millions of Devices!",
         "link": "https://securityonline.info/uefi-secure-boot-bypass-critical-flaw-cve-2025-3052-exposes-millions-of-devices/",
         "published": "Tue, 10 Jun 2025 22:37:50 +0000"
+    },
+    {
+        "title": "Critical Apache CloudStack Flaws Expose Kubernetes & Admin Accounts!",
+        "link": "https://securityonline.info/critical-apache-cloudstack-flaws-expose-kubernetes-admin-accounts/",
+        "published": "Wed, 11 Jun 2025 02:07:41 +0000"
+    },
+    {
+        "title": "Critical Command Injection Flaw in KDE Konsole Exposes Users to Arbitrary Code Execution",
+        "link": "https://securityonline.info/critical-command-injection-flaw-in-kde-konsole-exposes-users-to-arbitrary-code-execution/",
+        "published": "Wed, 11 Jun 2025 01:56:05 +0000"
+    },
+    {
+        "title": "Windows Kernel Flaws Revealed: SYSTEM-Level Privilege Escalation & PoC Exploits Available Now!",
+        "link": "https://securityonline.info/windows-kernel-flaws-revealed-system-level-privilege-escalation-poc-exploits-available-now/",
+        "published": "Wed, 11 Jun 2025 00:55:08 +0000"
+    },
+    {
+        "title": "High-Severity Flaw in Kibana: Unauthorized Access Possible in Synthetic Monitoring!",
+        "link": "https://securityonline.info/high-severity-flaw-in-kibana-unauthorized-access-possible-in-synthetic-monitoring/",
+        "published": "Wed, 11 Jun 2025 00:46:04 +0000"
+    },
+    {
+        "title": "Ivanti Patches High-Severity Credential Decryption Flaws in Workspace Control",
+        "link": "https://securityonline.info/ivanti-patches-high-severity-credential-decryption-flaws-in-workspace-control/",
+        "published": "Wed, 11 Jun 2025 00:40:07 +0000"
+    },
+    {
+        "title": "Insyde UEFI Flaw (CVE-2025-4275): Secure Boot Bypass Allows Rootkits & Undetectable Malware",
+        "link": "https://securityonline.info/insyde-uefi-flaw-cve-2025-4275-secure-boot-bypass-allows-rootkits-undetectable-malware/",
+        "published": "Wed, 11 Jun 2025 00:38:17 +0000"
+    },
+    {
+        "title": "Salesforce OmniStudio Flaws Expose Encrypted Data",
+        "link": "https://securityonline.info/salesforce-omnistudio-flaws-expose-encrypted-data/",
+        "published": "Wed, 11 Jun 2025 00:36:01 +0000"
+    },
+    {
+        "title": "Warning: 40,000+ Internet-Connected Cameras Are Exposed & Streaming Live Globally!",
+        "link": "https://securityonline.info/warning-40000-internet-connected-cameras-are-exposed-streaming-live-globally/",
+        "published": "Wed, 11 Jun 2025 00:30:40 +0000"
+    },
+    {
+        "title": "Chrome Update Alert: Two High-Severity Flaws Patched – Update Now to Stay Safe!",
+        "link": "https://securityonline.info/chrome-update-alert-two-high-severity-flaws-patched-update-now-to-stay-safe/",
+        "published": "Wed, 11 Jun 2025 00:22:28 +0000"
+    },
+    {
+        "title": "CVSS 9.8: Backend.AI Critical Flaw Allows Account Takeover via PoC, No Patch Available",
+        "link": "https://securityonline.info/cvss-9-8-backend-ai-critical-flaw-allows-account-takeover-via-poc-no-patch-available/",
+        "published": "Wed, 11 Jun 2025 00:18:39 +0000"
+    },
+    {
+        "title": "“DanaBleed” Flaw Exposes DanaBot’s Inner Workings for Three Years",
+        "link": "https://securityonline.info/danableed-flaw-exposes-danabots-inner-workings-for-three-years/",
+        "published": "Wed, 11 Jun 2025 00:13:56 +0000"
+    },
+    {
+        "title": "CoreDNS DoS Flaw: Unauthenticated Attackers Can Crash Servers via DNS-over-QUIC",
+        "link": "https://securityonline.info/coredns-dos-flaw-unauthenticated-attackers-can-crash-servers-via-dns-over-quic/",
+        "published": "Wed, 11 Jun 2025 00:09:54 +0000"
+    },
+    {
+        "title": "Wasp Framework Patches OAuth Flaw Allowing User Impersonation",
+        "link": "https://securityonline.info/wasp-framework-patches-oauth-flaw-allowing-user-impersonation/",
+        "published": "Wed, 11 Jun 2025 00:08:33 +0000"
+    },
+    {
+        "title": "“GhostVendors”: Thousands of Fake Domains Exploit Facebook Ads in Massive Retail Scam",
+        "link": "https://securityonline.info/ghostvendors-thousands-of-fake-domains-exploit-facebook-ads-in-massive-retail-scam/",
+        "published": "Wed, 11 Jun 2025 00:02:26 +0000"
     }
 ]
