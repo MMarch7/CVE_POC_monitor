@@ -343,5 +343,40 @@
         "title": "CVE-2025-0134 Cortex XDR Broker VM: Authenticated Code Injection Vulnerability in Broker VM (Severity: LOW)",
         "link": "https://security.paloaltonetworks.com/CVE-2025-0134",
         "published": "2025-05-14T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4231 PAN-OS: Authenticated Admin Command Injection Vulnerability in the Management Web Interface (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4231",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4232 GlobalProtect: Authenticated Code Injection Through Wildcard on macOS (Severity: HIGH)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4232",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4230 PAN-OS: Authenticated Admin Command Injection Vulnerability Through CLI (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4230",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4228 Cortex XDR Broker VM: Privilege Escalation (PE) Vulnerability (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4228",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0011 Chromium and Prisma Access Browser: Monthly Vulnerability Update (June 2025) (Severity: HIGH)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0011",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4227 GlobalProtect App: Interception in Endpoint Traffic Policy Enforcement  (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4227",
+        "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4229 PAN-OS: Traffic Information Disclosure Vulnerability (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4229",
+        "published": "2025-06-11T16:00:00.000Z"
     }
 ]
