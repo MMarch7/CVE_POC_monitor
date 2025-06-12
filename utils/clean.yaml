@@ -761,3 +761,4 @@ clean_list:
 - CVE-2025-33053-Proof-Of-Concept
 - Next.JS-CVE-2025-29927
 - CVE-2024-8232
+- cve-2025-24035-rds-websocket-dos-test
