@@ -103,5 +103,10 @@
         "title": "CVE-2025-41235 - High - CVE-2025-41235: Spring Cloud Gateway Server Forwards Headers from Untrusted Proxies",
         "link": "https://spring.io/security/cve-2025-41235",
         "published": "Tue, 27 May 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41234 - Medium - CVE-2025-41234: RFD Attack via “Content-Disposition” Header Sourced from Request",
+        "link": "https://spring.io/security/cve-2025-41234",
+        "published": "Thu, 12 Jun 2025 00:00:00 GMT"
     }
 ]
