@@ -11563,5 +11563,65 @@
         "title": "Windows 11 24H2 Update Alert: Microsoft Pulls & Reissues June 2025 Patch Due to Compatibility Issues",
         "link": "https://securityonline.info/windows-11-24h2-update-alert-microsoft-pulls-reissues-june-2025-patch-due-to-compatibility-issues/",
         "published": "Wed, 11 Jun 2025 06:47:44 +0000"
+    },
+    {
+        "title": "Root Access Unlocked: Public PoC Exposes GlobalProtect macOS Privilege Escalation Flaw",
+        "link": "https://securityonline.info/root-access-unlocked-public-poc-exposes-globalprotect-macos-privilege-escalation-flaw/",
+        "published": "Thu, 12 Jun 2025 02:02:48 +0000"
+    },
+    {
+        "title": "Urgent GitLab Security Alert: High-Severity Flaws Allow Account Takeover & Code Injection!",
+        "link": "https://securityonline.info/urgent-gitlab-security-alert-high-severity-flaws-allow-account-takeover-code-injection/",
+        "published": "Thu, 12 Jun 2025 01:39:38 +0000"
+    },
+    {
+        "title": "Zero-Day Alert: Remotely Escalate Privileges to SYSTEM via Kerberos Relay – PoC Available",
+        "link": "https://securityonline.info/zero-day-alert-remotely-escalate-privileges-to-system-via-kerberos-relay-poc-available/",
+        "published": "Thu, 12 Jun 2025 00:50:10 +0000"
+    },
+    {
+        "title": "OpenPGP.js Flaw Allows Signature Spoofing, Breaking Message Trust – PoC Available!",
+        "link": "https://securityonline.info/openpgp-js-flaw-allows-signature-spoofing-breaking-message-trust-poc-available/",
+        "published": "Thu, 12 Jun 2025 00:45:29 +0000"
+    },
+    {
+        "title": "Flaws in Weidmueller IE-SR-2TX Routers Allow Remote Root Access!",
+        "link": "https://securityonline.info/flaws-in-weidmueller-ie-sr-2tx-routers-allow-remote-root-access/",
+        "published": "Thu, 12 Jun 2025 00:40:50 +0000"
+    },
+    {
+        "title": "MFA Bypass Alert: AitM Phishing Surges with Industrialized PhaaS Kits Targeting Microsoft 365 & Google Accounts!",
+        "link": "https://securityonline.info/mfa-bypass-alert-aitm-phishing-surges-with-industrialized-phaas-kits-targeting-microsoft-365-google-accounts/",
+        "published": "Thu, 12 Jun 2025 00:36:25 +0000"
+    },
+    {
+        "title": "IGEL OS 10 Flaw (CVE-2025-47827): Full Secure Boot Bypass Allows Untrusted Kernel & Rootkits, PoC Available",
+        "link": "https://securityonline.info/igel-os-10-flaw-cve-2025-47827-full-secure-boot-bypass-allows-untrusted-kernel-rootkits-poc-available/",
+        "published": "Thu, 12 Jun 2025 00:32:09 +0000"
+    },
+    {
+        "title": "Urgent Siemens Energy Alert: Critical Flaw (CVSS 9.9) in Private 5G Core Exposes Sensitive Data!",
+        "link": "https://securityonline.info/urgent-siemens-energy-alert-critical-flaw-cvss-9-9-in-private-5g-core-exposes-sensitive-data/",
+        "published": "Thu, 12 Jun 2025 00:21:43 +0000"
+    },
+    {
+        "title": "CyberEye RAT: Plug-and-Play Espionage via Telegram-Powered Malware",
+        "link": "https://securityonline.info/cybereye-rat-plug-and-play-espionage-via-telegram-powered-malware/",
+        "published": "Thu, 12 Jun 2025 00:17:44 +0000"
+    },
+    {
+        "title": "Critical RCE Flaw (CVSS 9.8) in QNX SDP Exposes Automotive & IoT Systems to Attack!",
+        "link": "https://securityonline.info/critical-rce-flaw-cvss-9-8-in-qnx-sdp-exposes-automotive-iot-systems-to-attack/",
+        "published": "Thu, 12 Jun 2025 00:13:21 +0000"
+    },
+    {
+        "title": "TPM 2.0 Flaw (CVE-2025-2884) Exposes Sensitive Data & Disrupts Trusted Computing!",
+        "link": "https://securityonline.info/tpm-2-0-flaw-cve-2025-2884-exposes-sensitive-data-disrupts-trusted-computing/",
+        "published": "Thu, 12 Jun 2025 00:08:39 +0000"
+    },
+    {
+        "title": "BlackSuit Affiliates Continue Social Engineering Attacks with Upgraded Java RAT and Cloud Abuse",
+        "link": "https://securityonline.info/blacksuit-affiliates-continue-social-engineering-attacks-with-upgraded-java-rat-and-cloud-abuse/",
+        "published": "Thu, 12 Jun 2025 00:02:15 +0000"
     }
 ]
