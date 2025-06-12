@@ -756,3 +756,4 @@ clean_list:
 - Roundcube-CVE-2025-49113
 - Blackash-CVE-2025-24252
 - RCE-CVE-2025
+- CVE-2025-27817
