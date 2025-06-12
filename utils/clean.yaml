@@ -763,3 +763,4 @@ clean_list:
 - CVE-2024-8232
 - cve-2025-24035-rds-websocket-dos-test
 - CVE-2025-32711-Exploit
+- SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup
