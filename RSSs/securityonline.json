@@ -11673,5 +11673,10 @@
         "title": "Urgent Firefox Alert: Critical Memory Corruption Flaws (CVSS 9.8) Allow Remote Code Execution",
         "link": "https://securityonline.info/urgent-firefox-alert-critical-memory-corruption-flaws-cvss-9-8-allow-remote-code-execution/",
         "published": "Thu, 12 Jun 2025 08:13:30 +0000"
+    },
+    {
+        "title": "CVE-2025-41234: Spring Framework Vulnerability Enables Reflected File Download Attacks",
+        "link": "https://securityonline.info/cve-2025-41234-spring-framework-vulnerability-enables-reflected-file-download-attacks/",
+        "published": "Thu, 12 Jun 2025 14:13:53 +0000"
     }
 ]
