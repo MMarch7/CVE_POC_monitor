@@ -769,3 +769,4 @@ clean_list:
 - CVE-2024-55890
 - CVE-2025-24071-POC-NTLMHashDisclosure-
 - CVE-2025-5815-Nuclei-Template
+- CVE-2025-33073
