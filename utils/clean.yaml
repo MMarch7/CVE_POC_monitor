@@ -770,3 +770,5 @@ clean_list:
 - CVE-2025-24071-POC-NTLMHashDisclosure-
 - CVE-2025-5815-Nuclei-Template
 - CVE-2025-33073
+- DOS-exploit
+- Dos-exploit-
