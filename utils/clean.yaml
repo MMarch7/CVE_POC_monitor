@@ -767,3 +767,4 @@ clean_list:
 - cve-2025-2082
 - CVE-2025-29471
 - CVE-2024-55890
+- CVE-2025-24071-POC-NTLMHashDisclosure-
