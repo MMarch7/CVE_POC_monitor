@@ -11683,5 +11683,55 @@
         "title": "Zero-Click iMessage Alert: Paragon’s Graphite Spyware Exploits iOS Flaw, Targets Journalists",
         "link": "https://securityonline.info/zero-click-imessage-alert-paragons-graphite-spyware-exploits-ios-flaw-targets-journalists/",
         "published": "Thu, 12 Jun 2025 14:42:45 +0000"
+    },
+    {
+        "title": "Apache Tomcat Under Attack: Massive Brute-Force Campaign Targets Manager Interfaces",
+        "link": "https://securityonline.info/apache-tomcat-under-attack-massive-brute-force-campaign-targets-manager-interfaces/",
+        "published": "Fri, 13 Jun 2025 02:08:21 +0000"
+    },
+    {
+        "title": "The Day the Internet Broke: Unpacking the June 12th Global Cloud Meltdown",
+        "link": "https://securityonline.info/the-day-the-internet-broke-unpacking-the-june-12th-global-cloud-meltdown/",
+        "published": "Fri, 13 Jun 2025 01:42:19 +0000"
+    },
+    {
+        "title": "Critical Path Traversal Vulnerability (CVSS 9.8) Exposes Mitel MiCollab Servers to Unauthorized Access",
+        "link": "https://securityonline.info/critical-path-traversal-vulnerability-cvss-9-8-exposes-mitel-micollab-servers-to-unauthorized-access/",
+        "published": "Fri, 13 Jun 2025 00:40:38 +0000"
+    },
+    {
+        "title": "Urgent Bosch Alert: Critical RCE Flaw (CVSS 10.0) Exposes Dispatch & Matrix Software to Attack",
+        "link": "https://securityonline.info/urgent-bosch-alert-critical-rce-flaw-cvss-10-0-exposes-dispatch-matrix-software-to-attack/",
+        "published": "Fri, 13 Jun 2025 00:35:25 +0000"
+    },
+    {
+        "title": "TeamFiltration Weaponized: UNK_SneakyStrike Campaign Targets 80,000+ Microsoft Entra ID Accounts",
+        "link": "https://securityonline.info/teamfiltration-weaponized-unk_sneakystrike-campaign-targets-80000-microsoft-entra-id-accounts/",
+        "published": "Fri, 13 Jun 2025 00:30:01 +0000"
+    },
+    {
+        "title": "Critical CI/CD Cache Poisoning Threatens Supply Chain: Undetectable Code Injection Possible!",
+        "link": "https://securityonline.info/critical-ci-cd-cache-poisoning-threatens-supply-chain-undetectable-code-injection-possible/",
+        "published": "Fri, 13 Jun 2025 00:22:16 +0000"
+    },
+    {
+        "title": "Flaw in PostgreSQL JDBC Driver (CVE-2025-49146) Exposes Database Connections to MITM Attacks!",
+        "link": "https://securityonline.info/flaw-in-postgresql-jdbc-driver-cve-2025-49146-exposes-database-connections-to-mitm-attacks/",
+        "published": "Fri, 13 Jun 2025 00:18:38 +0000"
+    },
+    {
+        "title": "High-Severity Flaw in HashiCorp Nomad (CVE-2025-4922) Allows Privilege Escalation",
+        "link": "https://securityonline.info/high-severity-flaw-in-hashicorp-nomad-cve-2025-4922-allows-privilege-escalation/",
+        "published": "Fri, 13 Jun 2025 00:13:39 +0000"
+    },
+    {
+        "title": "DeepSeek-R1 Chatbot Lure: BrowserVenom Malware Spreads via Google Ads, Hijacking Your Browser Traffic",
+        "link": "https://securityonline.info/deepseek-r1-chatbot-lure-browservenom-malware-spreads-via-google-ads-hijacking-your-browser-traffic/",
+        "published": "Fri, 13 Jun 2025 00:09:56 +0000"
+    },
+    {
+        "title": "HelloTDS Unmasked: Covert Traffic System Funnels Millions to FakeCaptcha Malware!",
+        "link": "https://securityonline.info/hellotds-unmasked-covert-traffic-system-funnels-millions-to-fakecaptcha-malware/",
+        "published": "Fri, 13 Jun 2025 00:02:06 +0000"
     }
 ]
