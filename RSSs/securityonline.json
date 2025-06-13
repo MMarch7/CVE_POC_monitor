@@ -11733,5 +11733,25 @@
         "title": "HelloTDS Unmasked: Covert Traffic System Funnels Millions to FakeCaptcha Malware!",
         "link": "https://securityonline.info/hellotds-unmasked-covert-traffic-system-funnels-millions-to-fakecaptcha-malware/",
         "published": "Fri, 13 Jun 2025 00:02:06 +0000"
+    },
+    {
+        "title": "CVE-2025-5491: Acer Control Center Bug Allows Remote Code Execution as NT AUTHORITY\\SYSTEM",
+        "link": "https://securityonline.info/cve-2025-5491-acer-control-center-bug-allows-remote-code-execution-as-nt-authoritysystem/",
+        "published": "Fri, 13 Jun 2025 03:18:03 +0000"
+    },
+    {
+        "title": "CVE-2024-9404: Remote DoS Vulnerability Found in Moxa Industrial Switches",
+        "link": "https://securityonline.info/cve-2024-9404-remote-dos-vulnerability-found-in-moxa-industrial-switches/",
+        "published": "Fri, 13 Jun 2025 03:01:18 +0000"
+    },
+    {
+        "title": "Urgent CISA Alert: Ransomware Actors Exploiting SimpleHelp RMM Flaw (CVE-2024-57727)",
+        "link": "https://securityonline.info/urgent-cisa-alert-ransomware-actors-exploiting-simplehelp-rmm-flaw-cve-2024-57727/",
+        "published": "Fri, 13 Jun 2025 02:47:09 +0000"
+    },
+    {
+        "title": "Warning: Discontinued Amazon Cloud Cam Has Vulnerability (CVE-2025-6031), Exposing Your Network",
+        "link": "https://securityonline.info/warning-discontinued-amazon-cloud-cam-has-vulnerability-cve-2025-6031-exposing-your-network/",
+        "published": "Fri, 13 Jun 2025 02:25:36 +0000"
     }
 ]
