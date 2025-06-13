@@ -766,3 +766,4 @@ clean_list:
 - SOC335-Event-ID-313-CVE-2024-49138-Exploitation-Detected--Lest-Defend-Writeup
 - cve-2025-2082
 - CVE-2025-29471
+- CVE-2024-55890
