@@ -772,3 +772,4 @@ clean_list:
 - CVE-2025-33073
 - DOS-exploit
 - Dos-exploit-
+- chrome_cve-2025-5419_checker

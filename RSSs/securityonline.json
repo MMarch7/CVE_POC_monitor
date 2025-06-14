@@ -11783,5 +11783,30 @@
         "title": "Arsen Launches AI-Powered Vishing Simulation to Help Organizations Combat Voice Phishing at Scale",
         "link": "https://securityonline.info/arsen-launches-ai-powered-vishing-simulation-to-help-organizations-combat-voice-phishing-at-scale/",
         "published": "Fri, 13 Jun 2025 13:30:26 +0000"
+    },
+    {
+        "title": "Windows SMB Flaw (CVE-2025-33073): SYSTEM Privilege Escalation via Kerberos, PoC Available",
+        "link": "https://securityonline.info/windows-smb-flaw-cve-2025-33073-system-privilege-escalation-via-kerberos-poc-available/",
+        "published": "Sat, 14 Jun 2025 01:57:38 +0000"
+    },
+    {
+        "title": "Grafana Alert: Medium-Severity Flaw (CVE-2025-3415) Exposes DingDing API Keys",
+        "link": "https://securityonline.info/grafana-alert-medium-severity-flaw-cve-2025-3415-exposes-dingding-api-keys/",
+        "published": "Sat, 14 Jun 2025 01:43:39 +0000"
+    },
+    {
+        "title": "Spectra Ransomware: Chaos Evolution with Double Extortion & System Evasion",
+        "link": "https://securityonline.info/spectra-ransomware-chaos-evolution-with-double-extortion-system-evasion/",
+        "published": "Sat, 14 Jun 2025 00:37:55 +0000"
+    },
+    {
+        "title": "Ransomware or Espionage? Fog Ransomware Attack in Asia Raises Suspicion with Rare Toolset",
+        "link": "https://securityonline.info/ransomware-or-espionage-fog-ransomware-attack-in-asia-raises-suspicion-with-rare-toolset/",
+        "published": "Sat, 14 Jun 2025 00:16:54 +0000"
+    },
+    {
+        "title": "Mitel OpenScape Flaw (CVE-2025-23092): High-Severity Path Traversal Allows Admin RCE",
+        "link": "https://securityonline.info/mitel-openscape-flaw-cve-2025-23092-high-severity-path-traversal-allows-admin-rce/",
+        "published": "Sat, 14 Jun 2025 00:11:24 +0000"
     }
 ]
