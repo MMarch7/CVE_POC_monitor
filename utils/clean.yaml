@@ -776,3 +776,5 @@ clean_list:
 - CVE-2025-23245655
 - CVE-2025-46181-XSS
 - CVE-2025-24054_POC
+- CVE-2024-50379-POC
+- mastercamp-projet-final
