@@ -773,3 +773,6 @@ clean_list:
 - DOS-exploit
 - Dos-exploit-
 - chrome_cve-2025-5419_checker
+- CVE-2025-23245655
+- CVE-2025-46181-XSS
+- CVE-2025-24054_POC
