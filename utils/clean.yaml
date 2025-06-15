@@ -782,3 +782,4 @@ clean_list:
 - CVE-2025-24201-Exploit
 - CVE-2024-9264-Fixed
 - CVE-2025-49619
+- CVE_2025_6065
