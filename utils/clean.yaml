@@ -786,3 +786,5 @@ clean_list:
 - CVE_2025_6070
 - CVE_2025_6083
 - CVE-2024-0204
+- CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE
+- unisoc-su
