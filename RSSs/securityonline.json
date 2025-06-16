@@ -11963,5 +11963,10 @@
         "title": "Apple Announces Public Betas for iOS 26, macOS Tahoe, and First-Ever AirPods Firmware",
         "link": "https://securityonline.info/apple-announces-public-betas-for-ios-26-macos-tahoe-and-first-ever-airpods-firmware/",
         "published": "Mon, 16 Jun 2025 06:52:48 +0000"
+    },
+    {
+        "title": "Langflow Under Attacks: CVE-2025-3248 Exploited to Deliver Stealthy Flodrix Botnet",
+        "link": "https://securityonline.info/langflow-under-attacks-cve-2025-3248-exploited-to-deliver-stealthy-flodrix-botnet/",
+        "published": "Mon, 16 Jun 2025 22:35:52 +0000"
     }
 ]
