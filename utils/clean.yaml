@@ -790,3 +790,4 @@ clean_list:
 - unisoc-su
 - CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit
 - CVE_2025_32433_exploit
+- CVE-2025-2783-SandboxEscape

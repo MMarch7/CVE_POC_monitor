@@ -11848,5 +11848,80 @@
         "title": "Microsoft Defender for Identity Flaw (CVE-2025-26685) Allows Unauthenticated Privilege Escalation",
         "link": "https://securityonline.info/microsoft-defender-for-identity-flaw-cve-2025-26685-allows-unauthenticated-privilege-escalation/",
         "published": "Sun, 15 Jun 2025 00:26:06 +0000"
+    },
+    {
+        "title": "ChatGPT Search Gets Major Upgrade: Smarter Responses, Better Context & Image Search",
+        "link": "https://securityonline.info/chatgpt-search-gets-major-upgrade-smarter-responses-better-context-image-search/",
+        "published": "Mon, 16 Jun 2025 02:12:41 +0000"
+    },
+    {
+        "title": "Google Search Unveils “Audio Overviews”: Listen to Search Results with AI-Powered Summaries",
+        "link": "https://securityonline.info/google-search-unveils-audio-overviews-listen-to-search-results-with-ai-powered-summaries/",
+        "published": "Mon, 16 Jun 2025 02:05:52 +0000"
+    },
+    {
+        "title": "Mac Mini M2 Power Issue: Apple Offers Free Repair for Affected Models",
+        "link": "https://securityonline.info/mac-mini-m2-power-issue-apple-offers-free-repair-for-affected-models/",
+        "published": "Mon, 16 Jun 2025 02:01:20 +0000"
+    },
+    {
+        "title": "Unauthenticated RCE in Mitel SIP Phones (CVSS 9.8) Detailed with PoC Exploit",
+        "link": "https://securityonline.info/unauthenticated-rce-in-mitel-sip-phones-cvss-9-8-detailed-with-poc-exploit/",
+        "published": "Mon, 16 Jun 2025 00:50:18 +0000"
+    },
+    {
+        "title": "Critical Blink Router Flaws (CVSS 9.8) Allow Remote Root Code Execution via Unauthenticated Attacks",
+        "link": "https://securityonline.info/critical-blink-router-flaws-cvss-9-8-allow-remote-root-code-execution-via-unauthenticated-attacks/",
+        "published": "Mon, 16 Jun 2025 00:48:27 +0000"
+    },
+    {
+        "title": "Predator Spyware Resurges: New Infrastructure, Evasion Tactics, and Mozambique Customer Uncovered",
+        "link": "https://securityonline.info/predator-spyware-resurges-new-infrastructure-evasion-tactics-and-mozambique-customer-uncovered/",
+        "published": "Mon, 16 Jun 2025 00:44:32 +0000"
+    },
+    {
+        "title": "Anubis Ransomware: New RaaS Combines Encryption with Permanent Data Wiping",
+        "link": "https://securityonline.info/anubis-ransomware-new-raas-combines-encryption-with-permanent-data-wiping/",
+        "published": "Mon, 16 Jun 2025 00:40:53 +0000"
+    },
+    {
+        "title": "CVE-2025-6029 & CVE-2025-6030: Replay Attacks Expose Vulnerabilities in KIA and Autoeastern Smart Keyless Entry Systems",
+        "link": "https://securityonline.info/cve-2025-6029-cve-2025-6030-replay-attacks-expose-vulnerabilities-in-kia-and-autoeastern-smart-keyless-entry-systems/",
+        "published": "Mon, 16 Jun 2025 00:36:40 +0000"
+    },
+    {
+        "title": "Katz Stealer: New Stealthy MaaS Steals Everything, Hides in Images, and Hijacks Discord",
+        "link": "https://securityonline.info/katz-stealer-new-stealthy-maas-steals-everything-hides-in-images-and-hijacks-discord/",
+        "published": "Mon, 16 Jun 2025 00:31:11 +0000"
+    },
+    {
+        "title": "Privilege Escalation Flaw in IBM Backup Services Threatens IBM i Environments (CVE-2025-33108)",
+        "link": "https://securityonline.info/privilege-escalation-flaw-in-ibm-backup-services-threatens-ibm-i-environments-cve-2025-33108/",
+        "published": "Mon, 16 Jun 2025 00:25:43 +0000"
+    },
+    {
+        "title": "New Malware Duo HijackLoader & DeerStealer Surge: Bypassing Defenses for Data Theft",
+        "link": "https://securityonline.info/new-malware-duo-hijackloader-deerstealer-surge-bypassing-defenses-for-data-theft/",
+        "published": "Mon, 16 Jun 2025 00:22:39 +0000"
+    },
+    {
+        "title": "Obscure VBScript “sostener.vbs” Unmasked: Fuels Multi-Stage RAT Delivery, Linked to Blind Eagle APT",
+        "link": "https://securityonline.info/obscure-vbscript-sostener-vbs-unmasked-fuels-multi-stage-rat-delivery-linked-to-blind-eagle-apt/",
+        "published": "Mon, 16 Jun 2025 00:18:06 +0000"
+    },
+    {
+        "title": "SmartAttack: Turning Your Smartwatch into a Spy Tool for Air-Gapped Networks",
+        "link": "https://securityonline.info/smartattack-turning-your-smartwatch-into-a-spy-tool-for-air-gapped-networks/",
+        "published": "Mon, 16 Jun 2025 00:13:18 +0000"
+    },
+    {
+        "title": "VexTrio Exposed: Infoblox Uncovers Massive Malicious Adtech Ecosystem Powering Global Malware",
+        "link": "https://securityonline.info/vextrio-exposed-infoblox-uncovers-massive-malicious-adtech-ecosystem-powering-global-malware/",
+        "published": "Mon, 16 Jun 2025 00:07:19 +0000"
+    },
+    {
+        "title": "libxml2 Flaws Exposed: Memory Corruption, RCE, & DoS Threats Uncovered",
+        "link": "https://securityonline.info/libxml2-flaws-exposed-memory-corruption-rce-dos-threats-uncovered/",
+        "published": "Mon, 16 Jun 2025 00:02:39 +0000"
     }
 ]
