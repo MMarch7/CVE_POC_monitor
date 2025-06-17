@@ -113,5 +113,10 @@
         "title": "Expression Payloads Meet Mayhem - Ivanti EPMM Unauth RCE Chain (CVE-2025-4427 and CVE-2025-4428)",
         "link": "https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/",
         "published": "Thu, 15 May 2025 14:51:12 GMT"
+    },
+    {
+        "title": "Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform",
+        "link": "https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/",
+        "published": "Tue, 17 Jun 2025 10:12:49 GMT"
     }
 ]
