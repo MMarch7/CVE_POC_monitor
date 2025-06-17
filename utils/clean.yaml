@@ -800,3 +800,4 @@ clean_list:
 - WriteUp-Roundcube_CVE-2025-49113
 - CVE-2025-4123grafana
 - Blackash-CVE-2025-49113
+- CVE-2025-48466
