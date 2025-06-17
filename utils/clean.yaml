@@ -795,3 +795,4 @@ clean_list:
 - CVE-2025-20124_and_CVE-2025-20125
 - cve-2024-23113
 - CVE-2025-5964-
+- CVE-2025-3248-Langflow-RCE
