@@ -796,3 +796,6 @@ clean_list:
 - cve-2024-23113
 - CVE-2025-5964-
 - CVE-2025-3248-Langflow-RCE
+- CVE-2025-43200
+- WriteUp-Roundcube_CVE-2025-49113
+- CVE-2025-4123grafana
