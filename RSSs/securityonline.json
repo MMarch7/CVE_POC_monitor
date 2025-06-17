@@ -11968,5 +11968,85 @@
         "title": "Langflow Under Attacks: CVE-2025-3248 Exploited to Deliver Stealthy Flodrix Botnet",
         "link": "https://securityonline.info/langflow-under-attacks-cve-2025-3248-exploited-to-deliver-stealthy-flodrix-botnet/",
         "published": "Mon, 16 Jun 2025 22:35:52 +0000"
+    },
+    {
+        "title": "Windows Hello Update: Microsoft Disables Facial Recognition in the Dark Due to Security Flaw",
+        "link": "https://securityonline.info/windows-hello-update-microsoft-disables-facial-recognition-in-the-dark-due-to-security-flaw/",
+        "published": "Tue, 17 Jun 2025 02:15:49 +0000"
+    },
+    {
+        "title": "High-Severity Flaw Exposes ASUS Armoury Crate to Authentication Bypass",
+        "link": "https://securityonline.info/high-severity-flaw-exposes-asus-armoury-crate-to-authentication-bypass/",
+        "published": "Tue, 17 Jun 2025 00:42:38 +0000"
+    },
+    {
+        "title": "Team46 (TaxOff) Exploits Google Chrome Zero-Day (CVE-2025-2783) in Sophisticated Phishing Campaign",
+        "link": "https://securityonline.info/team46-taxoff-exploits-google-chrome-zero-day-cve-2025-2783-in-sophisticated-phishing-campaign/",
+        "published": "Tue, 17 Jun 2025 00:40:37 +0000"
+    },
+    {
+        "title": "Critical Teleport Flaw (CVSS 9.8): Remote Authentication Bypass Threatens Infrastructure Access",
+        "link": "https://securityonline.info/critical-teleport-flaw-cvss-9-8-remote-authentication-bypass-threatens-infrastructure-access/",
+        "published": "Tue, 17 Jun 2025 00:36:09 +0000"
+    },
+    {
+        "title": "CVE-2025-49596: Critical RCE Vulnerability in MCP Inspector Exposes AI Developer Environments",
+        "link": "https://securityonline.info/cve-2025-49596-critical-rce-vulnerability-in-mcp-inspector-exposes-ai-developer-environments/",
+        "published": "Tue, 17 Jun 2025 00:35:13 +0000"
+    },
+    {
+        "title": "Two sslh Flaws Disclosed: Remote DoS Attacks Possible via Protocol Multiplexer",
+        "link": "https://securityonline.info/two-sslh-flaws-disclosed-remote-dos-attacks-possible-via-protocol-multiplexer/",
+        "published": "Tue, 17 Jun 2025 00:31:52 +0000"
+    },
+    {
+        "title": "Unauthenticated RCE in BeyondTrust Tools: Chat Feature Opens Door to Server Takeover",
+        "link": "https://securityonline.info/unauthenticated-rce-in-beyondtrust-tools-chat-feature-opens-door-to-server-takeover/",
+        "published": "Tue, 17 Jun 2025 00:30:13 +0000"
+    },
+    {
+        "title": "Fileless AsyncRAT Campaign Targets German Users with Stealthy PowerShell Payload",
+        "link": "https://securityonline.info/fileless-asyncrat-campaign-targets-german-users-with-stealthy-powershell-payload/",
+        "published": "Tue, 17 Jun 2025 00:28:08 +0000"
+    },
+    {
+        "title": "Water Curse: GitHub Supply Chain Attack Spreads Malware via Fake Tools, Targets Devs & Gamers",
+        "link": "https://securityonline.info/water-curse-github-supply-chain-attack-spreads-malware-via-fake-tools-targets-devs-gamers/",
+        "published": "Tue, 17 Jun 2025 00:22:02 +0000"
+    },
+    {
+        "title": "Apache Tomcat Patches 4 Flaws: DoS, Privilege Bypass, & Installer Risks Addressed",
+        "link": "https://securityonline.info/apache-tomcat-patches-4-flaws-dos-privilege-bypass-installer-risks-addressed/",
+        "published": "Tue, 17 Jun 2025 00:19:36 +0000"
+    },
+    {
+        "title": "Zero-Click to Root: CISA Flags Active Exploits in Apple iOS and TP-Link Routers",
+        "link": "https://securityonline.info/zero-click-to-root-cisa-flags-active-exploits-in-apple-ios-and-tp-link-routers/",
+        "published": "Tue, 17 Jun 2025 00:16:47 +0000"
+    },
+    {
+        "title": "OneLogin AD Connector Flaw Exposes Credentials & Allows Account Impersonation",
+        "link": "https://securityonline.info/onelogin-ad-connector-flaw-exposes-credentials-allows-account-impersonation/",
+        "published": "Tue, 17 Jun 2025 00:16:04 +0000"
+    },
+    {
+        "title": "PoCGen: AI Tool Automates Exploit Generation for npm Vulnerabilities with LLMs",
+        "link": "https://securityonline.info/pocgen-ai-tool-automates-exploit-generation-for-npm-vulnerabilities-with-llms/",
+        "published": "Tue, 17 Jun 2025 00:12:42 +0000"
+    },
+    {
+        "title": "Zyxel Firewalls Under Attack via Critical CVE-2023-28771",
+        "link": "https://securityonline.info/zyxel-firewalls-under-attack-via-critical-cve-2023-28771/",
+        "published": "Tue, 17 Jun 2025 00:09:29 +0000"
+    },
+    {
+        "title": "Hackers Leak 7.4 Million Paraguayan Citizen Records, Demand $1 Per Person Ransom",
+        "link": "https://securityonline.info/hackers-leak-7-4-million-paraguayan-citizen-records-demand-1-per-person-ransom/",
+        "published": "Tue, 17 Jun 2025 00:08:12 +0000"
+    },
+    {
+        "title": "GrayAlpha’s Expanding Arsenal: FIN7-Aligned Threat Actor Deploys Custom Loaders to Spread NetSupport RAT",
+        "link": "https://securityonline.info/grayalphas-expanding-arsenal-fin7-aligned-threat-actor-deploys-custom-loaders-to-spread-netsupport-rat/",
+        "published": "Tue, 17 Jun 2025 00:02:46 +0000"
     }
 ]
