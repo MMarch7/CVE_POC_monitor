@@ -12103,5 +12103,50 @@
         "title": "Kimsuky APT Group Abuses HWP and AnyDesk for Covert Remote Surveillance",
         "link": "https://securityonline.info/kimsuky-apt-group-abuses-hwp-and-anydesk-for-covert-remote-surveillance/",
         "published": "Wed, 18 Jun 2025 00:01:06 +0000"
+    },
+    {
+        "title": "Broadcom Unveils VMware Cloud Foundation 9.0: A Unified Private Cloud for AI & Modern Workloads",
+        "link": "https://securityonline.info/broadcom-unveils-vmware-cloud-foundation-9-0-a-unified-private-cloud-for-ai-modern-workloads/",
+        "published": "Wed, 18 Jun 2025 03:52:43 +0000"
+    },
+    {
+        "title": "Wi-Fi 8 is Coming: Ultra-Reliable Connectivity Set for 2028 Launch",
+        "link": "https://securityonline.info/wi-fi-8-is-coming-ultra-reliable-connectivity-set-for-2028-launch/",
+        "published": "Wed, 18 Jun 2025 03:33:14 +0000"
+    },
+    {
+        "title": "OneDrive Shock: User Loses 30 Years of Photos After Account Suspension, Highlighting Cloud Backup Risks",
+        "link": "https://securityonline.info/onedrive-shock-user-loses-30-years-of-photos-after-account-suspension-highlighting-cloud-backup-risks/",
+        "published": "Wed, 18 Jun 2025 03:26:34 +0000"
+    },
+    {
+        "title": "Mastodon Cracks Down: New Terms Ban Unauthorized AI Data Scraping",
+        "link": "https://securityonline.info/mastodon-cracks-down-new-terms-ban-unauthorized-ai-data-scraping/",
+        "published": "Wed, 18 Jun 2025 03:19:47 +0000"
+    },
+    {
+        "title": "Firefox Pilots AI Search: Perplexity AI Integration Challenges Google’s Dominance",
+        "link": "https://securityonline.info/firefox-pilots-ai-search-perplexity-ai-integration-challenges-googles-dominance/",
+        "published": "Wed, 18 Jun 2025 03:10:04 +0000"
+    },
+    {
+        "title": "The “Infinite Workday” is Here: Microsoft Warns of Never-Ending Work Driven by Hybrid Models & AI",
+        "link": "https://securityonline.info/the-infinite-workday-is-here-microsoft-warns-of-never-ending-work-driven-by-hybrid-models-ai/",
+        "published": "Wed, 18 Jun 2025 03:03:52 +0000"
+    },
+    {
+        "title": "Taiwan Under Attack: Sophisticated Phishing Campaign Delivers Winos 4.0, HoldingHands RAT, & Gh0stCringe",
+        "link": "https://securityonline.info/taiwan-under-attack-sophisticated-phishing-campaign-delivers-winos-4-0-holdinghands-rat-gh0stcringe/",
+        "published": "Wed, 18 Jun 2025 02:49:25 +0000"
+    },
+    {
+        "title": "Urgent Ubiquiti Alert: Critical Flaws (CVSS 9.9) Allow Privilege Escalation via XSS & SQL Injection",
+        "link": "https://securityonline.info/urgent-ubiquiti-alert-critical-flaws-cvss-9-9-allow-privilege-escalation-via-xss-sql-injection/",
+        "published": "Wed, 18 Jun 2025 02:40:22 +0000"
+    },
+    {
+        "title": "Critical Linux Root Exploit Chain Discovered in PAM & UDisks, Affecting Major Distros",
+        "link": "https://securityonline.info/critical-linux-root-exploit-chain-discovered-in-pam-udisks-affecting-major-distros/",
+        "published": "Wed, 18 Jun 2025 02:28:03 +0000"
     }
 ]
