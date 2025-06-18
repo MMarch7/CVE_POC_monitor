@@ -12063,5 +12063,45 @@
         "title": "5 tips for protecting your money from cyberthreats",
         "link": "https://securityonline.info/5-tips-for-protecting-your-money-from-cyberthreats/",
         "published": "Mon, 16 Jun 2025 21:18:31 +0000"
+    },
+    {
+        "title": "KimJongRAT Returns: New PE & PowerShell Variants Steal Crypto and Browser Data via CDNs",
+        "link": "https://securityonline.info/kimjongrat-returns-new-pe-powershell-variants-steal-crypto-and-browser-data-via-cdns/",
+        "published": "Wed, 18 Jun 2025 02:15:11 +0000"
+    },
+    {
+        "title": "Why Threat Intelligence Is Critical for Business Security and Avoiding Cyberattacks",
+        "link": "https://securityonline.info/why-threat-intelligence-is-critical-for-business-security-and-avoiding-cyberattacks/",
+        "published": "Wed, 18 Jun 2025 01:26:48 +0000"
+    },
+    {
+        "title": "Linux Kernel Flaw (CVE-2023-0386) Actively Exploited for Root Privilege Escalation, PoC Available",
+        "link": "https://securityonline.info/linux-kernel-flaw-cve-2023-0386-actively-exploited-for-root-privilege-escalation-poc-available/",
+        "published": "Wed, 18 Jun 2025 00:45:24 +0000"
+    },
+    {
+        "title": "Critical NetScaler Flaws Allow Access Control Bypass & Memory Overread",
+        "link": "https://securityonline.info/critical-netscaler-flaws-allow-access-control-bypass-memory-overread/",
+        "published": "Wed, 18 Jun 2025 00:34:46 +0000"
+    },
+    {
+        "title": "Urgent Veeam Update: Critical RCE CVE-2025-23121 (CVSS 9.9) & Two Other Flaws Threaten Backup Servers",
+        "link": "https://securityonline.info/urgent-veeam-update-critical-rce-cve-2025-23121-cvss-9-9-two-other-flaws-threaten-backup-servers/",
+        "published": "Wed, 18 Jun 2025 00:24:34 +0000"
+    },
+    {
+        "title": "Chrome Update Alert: Two High-Severity Flaws (CVE-2025-6191, CVE-2025-6192) Patched",
+        "link": "https://securityonline.info/chrome-update-alert-two-high-severity-flaws-cve-2025-6191-cve-2025-6192-patched/",
+        "published": "Wed, 18 Jun 2025 00:16:12 +0000"
+    },
+    {
+        "title": "WAGO Device Manager Vulnerabilities Expose Critical Industrial Infrastructure to Remote Exploits",
+        "link": "https://securityonline.info/wago-device-manager-vulnerabilities-expose-critical-industrial-infrastructure-to-remote-exploits/",
+        "published": "Wed, 18 Jun 2025 00:08:42 +0000"
+    },
+    {
+        "title": "Kimsuky APT Group Abuses HWP and AnyDesk for Covert Remote Surveillance",
+        "link": "https://securityonline.info/kimsuky-apt-group-abuses-hwp-and-anydesk-for-covert-remote-surveillance/",
+        "published": "Wed, 18 Jun 2025 00:01:06 +0000"
     }
 ]
