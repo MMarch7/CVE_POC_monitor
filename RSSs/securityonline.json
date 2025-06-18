@@ -12153,5 +12153,15 @@
         "title": "D-Link Router Flaws Allow Code Execution, PoC Available, No Patch",
         "link": "https://securityonline.info/d-link-router-flaws-allow-code-execution-poc-available-no-patch/",
         "published": "Wed, 18 Jun 2025 08:14:31 +0000"
+    },
+    {
+        "title": "TikTok Gets Another Lifeline: Trump Extends Ban Deadline by 90 Days",
+        "link": "https://securityonline.info/tiktok-gets-another-lifeline-trump-extends-ban-deadline-by-90-days/",
+        "published": "Wed, 18 Jun 2025 10:07:17 +0000"
+    },
+    {
+        "title": "Python Protobuf Flaw Allows DoS Via Nested Messages",
+        "link": "https://securityonline.info/python-protobuf-flaw-allows-dos-via-nested-messages/",
+        "published": "Wed, 18 Jun 2025 09:58:03 +0000"
     }
 ]
