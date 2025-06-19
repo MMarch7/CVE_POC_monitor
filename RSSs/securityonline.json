@@ -12168,5 +12168,70 @@
         "title": "Halo Security Honored with 2025 MSP Today Product of the Year Award",
         "link": "https://securityonline.info/halo-security-honored-with-2025-msp-today-product-of-the-year-award/",
         "published": "Wed, 18 Jun 2025 17:01:00 +0000"
+    },
+    {
+        "title": "Cisco ClamAV Critical Flaws: CVE-2025-20260 (CVSS 9.8) Allows Code Execution",
+        "link": "https://securityonline.info/cisco-clamav-critical-flaws-cve-2025-20260-cvss-9-8-allows-code-execution/",
+        "published": "Thu, 19 Jun 2025 02:07:41 +0000"
+    },
+    {
+        "title": "WordPress AI Engine Flaw (CVE-2025-5071): Critical Bug Allows Subscriber-Level Account Takeover",
+        "link": "https://securityonline.info/wordpress-ai-engine-flaw-cve-2025-5071-critical-bug-allows-subscriber-level-account-takeover/",
+        "published": "Thu, 19 Jun 2025 01:56:51 +0000"
+    },
+    {
+        "title": "CVE-2025-20271: Cisco Meraki VPN Bug Exposes MX and Z Series Devices to Remote DoS Attacks",
+        "link": "https://securityonline.info/cve-2025-20271-cisco-meraki-vpn-bug-exposes-mx-and-z-series-devices-to-remote-dos-attacks/",
+        "published": "Thu, 19 Jun 2025 01:48:39 +0000"
+    },
+    {
+        "title": "Apache Traffic Server Flaws Allow Access Bypass & Remote DoS",
+        "link": "https://securityonline.info/apache-traffic-server-flaws-allow-access-bypass-remote-dos/",
+        "published": "Thu, 19 Jun 2025 00:42:13 +0000"
+    },
+    {
+        "title": "Root Access Unlocked: How a pam_namespace Flaw Lets Attackers Elevate Privileges on Linux",
+        "link": "https://securityonline.info/root-access-unlocked-how-a-pam_namespace-flaw-lets-attackers-elevate-privileges-on-linux/",
+        "published": "Thu, 19 Jun 2025 00:39:28 +0000"
+    },
+    {
+        "title": "Tor Meets Docker: Sophisticated Crypto-Mining Campaign Hijacks Misconfigured APIs",
+        "link": "https://securityonline.info/tor-meets-docker-sophisticated-crypto-mining-campaign-hijacks-misconfigured-apis/",
+        "published": "Thu, 19 Jun 2025 00:35:11 +0000"
+    },
+    {
+        "title": "MySQL Servers Under Attack: Threat Actors Exploiting UDFs to Inject Gh0stRAT, XWorm & Zoho Agents",
+        "link": "https://securityonline.info/mysql-servers-under-attack-threat-actors-exploiting-udfs-to-inject-gh0strat-xworm-zoho-agents/",
+        "published": "Thu, 19 Jun 2025 00:30:17 +0000"
+    },
+    {
+        "title": "SSRF Flaw (CVE-2025-6087) in OpenNext for Cloudflare Allows Unauthenticated Content Proxying",
+        "link": "https://securityonline.info/ssrf-flaw-cve-2025-6087-in-opennext-for-cloudflare-allows-unauthenticated-content-proxying/",
+        "published": "Thu, 19 Jun 2025 00:27:55 +0000"
+    },
+    {
+        "title": "Elastic Uncovers Stealthy Campaign Using GHOSTPULSE and ARECHCLIENT2 Malware",
+        "link": "https://securityonline.info/elastic-uncovers-stealthy-campaign-using-ghostpulse-and-arechclient2-malware/",
+        "published": "Thu, 19 Jun 2025 00:22:58 +0000"
+    },
+    {
+        "title": "Ransomware Gang Qilin Rises Amid Collapse of Major Gangs Like RansomHub and LockBit",
+        "link": "https://securityonline.info/ransomware-gang-qilin-rises-amid-collapse-of-major-gangs-like-ransomhub-and-lockbit/",
+        "published": "Thu, 19 Jun 2025 00:19:57 +0000"
+    },
+    {
+        "title": "Critical Auth Bypass Vulnerability (CVE-2025-51381) Found in KAON KCM3100 Gateways",
+        "link": "https://securityonline.info/critical-auth-bypass-vulnerability-cve-2025-51381-found-in-kaon-kcm3100-gateways/",
+        "published": "Thu, 19 Jun 2025 00:12:57 +0000"
+    },
+    {
+        "title": "Invoice to Infection: Sorillus RAT Campaign Strikes European Organizations",
+        "link": "https://securityonline.info/invoice-to-infection-sorillus-rat-campaign-strikes-european-organizations/",
+        "published": "Thu, 19 Jun 2025 00:06:16 +0000"
+    },
+    {
+        "title": "XDSpy Resurfaces: Stealthy Cyber-Espionage Campaign Targets Governments with Obscure Windows LNK Flaw",
+        "link": "https://securityonline.info/xdspy-resurfaces-stealthy-cyber-espionage-campaign-targets-governments-with-obscure-windows-lnk-flaw/",
+        "published": "Thu, 19 Jun 2025 00:00:11 +0000"
     }
 ]
