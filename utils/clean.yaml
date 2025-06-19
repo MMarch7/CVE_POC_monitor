@@ -809,3 +809,5 @@ clean_list:
 - CVE-2025-49125
 - CVE-2025-6019
 - CVE-2025-26199
+- Blackash-CVE-2025-0108
+- ManagedProvisioning-A10_r33_CVE-2025-26443
