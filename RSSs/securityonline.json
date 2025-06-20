@@ -12278,5 +12278,55 @@
         "title": "Meta Embraces Passkeys: Facebook & Messenger Get Secure, Passwordless Login",
         "link": "https://securityonline.info/meta-embraces-passkeys-facebook-messenger-get-secure-passwordless-login/",
         "published": "Thu, 19 Jun 2025 08:18:18 +0000"
+    },
+    {
+        "title": "Critical Versa Director Flaw: RCE Possible via HA Ports, PoC Available",
+        "link": "https://securityonline.info/critical-versa-director-flaw-rce-possible-via-ha-ports-poc-available/",
+        "published": "Fri, 20 Jun 2025 00:40:50 +0000"
+    },
+    {
+        "title": "Amatera Stealer Unveiled: Rebranded ACR Stealer Now More Evasive, Targeting Your Data",
+        "link": "https://securityonline.info/amatera-stealer-unveiled-rebranded-acr-stealer-now-more-evasive-targeting-your-data/",
+        "published": "Fri, 20 Jun 2025 00:37:12 +0000"
+    },
+    {
+        "title": "Banana Squad Strikes Again: 60+ GitHub Repositories Trojanized in New Software Supply Chain Attack",
+        "link": "https://securityonline.info/banana-squad-strikes-again-60-github-repositories-trojanized-in-new-software-supply-chain-attack/",
+        "published": "Fri, 20 Jun 2025 00:33:18 +0000"
+    },
+    {
+        "title": "Russian APT UNC6293 Exploits Google Application-Specific Passwords to Hack Critics",
+        "link": "https://securityonline.info/russian-apt-unc6293-exploits-google-application-specific-passwords-to-hack-critics/",
+        "published": "Fri, 20 Jun 2025 00:28:22 +0000"
+    },
+    {
+        "title": "Stargazers Ghost Network: Minecraft Mods Used to Distribute Multi-Stage Stealers via GitHub",
+        "link": "https://securityonline.info/stargazers-ghost-network-minecraft-mods-used-to-distribute-multi-stage-stealers-via-github/",
+        "published": "Fri, 20 Jun 2025 00:28:10 +0000"
+    },
+    {
+        "title": "PylangGhost: North Korean APT Deploys Python-Based RAT to Target Crypto Professionals",
+        "link": "https://securityonline.info/pylangghost-north-korean-apt-deploys-python-based-rat-to-target-crypto-professionals/",
+        "published": "Fri, 20 Jun 2025 00:22:32 +0000"
+    },
+    {
+        "title": "Silver Fox APT: Chinese Threat Actor Deploys Trojanized Medical Software in Stealth Espionage Campaign",
+        "link": "https://securityonline.info/silver-fox-apt-chinese-threat-actor-deploys-trojanized-medical-software-in-stealth-espionage-campaign/",
+        "published": "Fri, 20 Jun 2025 00:19:39 +0000"
+    },
+    {
+        "title": "Critical Privilege Escalation Flaw in FreeIPA Threatens Linux Domain Security",
+        "link": "https://securityonline.info/critical-privilege-escalation-flaw-in-freeipa-threatens-linux-domain-security/",
+        "published": "Fri, 20 Jun 2025 00:12:35 +0000"
+    },
+    {
+        "title": "CISA Warning: Critical Flaw (CVE-2025-5310) Exposes Fueling Station Devices",
+        "link": "https://securityonline.info/cisa-warning-critical-flaw-cve-2025-5310-exposes-fueling-station-devices/",
+        "published": "Fri, 20 Jun 2025 00:08:12 +0000"
+    },
+    {
+        "title": "ComfyUI Under Attack: “Pickai” C++ Backdoor Compromises 700+ AI Image Generation Servers Globally",
+        "link": "https://securityonline.info/comfyui-under-attack-pickai-c-backdoor-compromises-700-ai-image-generation-servers-globally/",
+        "published": "Fri, 20 Jun 2025 00:00:36 +0000"
     }
 ]
