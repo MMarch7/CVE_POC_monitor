@@ -812,3 +812,4 @@ clean_list:
 - Blackash-CVE-2025-0108
 - ManagedProvisioning-A10_r33_CVE-2025-26443
 - threat-intel-cve-2024-3094
+- CVE-2025-36041
