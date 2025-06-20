@@ -813,3 +813,4 @@ clean_list:
 - ManagedProvisioning-A10_r33_CVE-2025-26443
 - threat-intel-cve-2024-3094
 - CVE-2025-36041
+- POC-CVE-2025-48988-CVE-2025-48976
