@@ -12343,5 +12343,25 @@
         "title": "Massive Data Leak: Hacker Allegedly Selling 16 Billion Login Credentials from Major Tech Giants",
         "link": "https://securityonline.info/massive-data-leak-hacker-allegedly-selling-16-billion-login-credentials-from-major-tech-giants/",
         "published": "Fri, 20 Jun 2025 06:25:49 +0000"
+    },
+    {
+        "title": "Urgent WordPress Alert: Motors Theme Flaw (CVE-2025-4322) Actively Exploited for Site Takeover",
+        "link": "https://securityonline.info/urgent-wordpress-alert-motors-theme-flaw-cve-2025-4322-actively-exploited-for-site-takeover/",
+        "published": "Fri, 20 Jun 2025 07:19:00 +0000"
+    },
+    {
+        "title": "SERPENTINE#CLOUD: Stealthy Malware Campaign Leverages Cloudflare Tunnels for In-Memory RAT Delivery",
+        "link": "https://securityonline.info/serpentinecloud-stealthy-malware-campaign-leverages-cloudflare-tunnels-for-in-memory-rat-delivery/",
+        "published": "Fri, 20 Jun 2025 07:03:52 +0000"
+    },
+    {
+        "title": "Alert: Hunt.io Uncovers SpyNote Android Spyware Disguised as Popular Apps on Open Servers",
+        "link": "https://securityonline.info/alert-hunt-io-uncovers-spynote-android-spyware-disguised-as-popular-apps-on-open-servers/",
+        "published": "Fri, 20 Jun 2025 06:57:54 +0000"
+    },
+    {
+        "title": "AntiDot Android Trojan: New MaaS Malware Records Screens, Intercepts SMS, & Steals Financial Data",
+        "link": "https://securityonline.info/antidot-android-trojan-new-maas-malware-records-screens-intercepts-sms-steals-financial-data/",
+        "published": "Fri, 20 Jun 2025 06:50:27 +0000"
     }
 ]
