@@ -814,3 +814,5 @@ clean_list:
 - threat-intel-cve-2024-3094
 - CVE-2025-36041
 - POC-CVE-2025-48988-CVE-2025-48976
+- CVE-2025-6019-exploit
+- fortinet-cve-2024-50562
