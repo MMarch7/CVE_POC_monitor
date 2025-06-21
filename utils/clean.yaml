@@ -820,3 +820,4 @@ clean_list:
 - CVE-2025-44203
 - CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check
 - PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-
+- Grafana-cve-2025-4123
