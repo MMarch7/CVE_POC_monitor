@@ -12378,5 +12378,30 @@
         "title": "Iran Plunges into Near-Total Internet Blackout Amid Escalating Cyberwar with Israel",
         "link": "https://securityonline.info/iran-plunges-into-near-total-internet-blackout-amid-escalating-cyberwar-with-israel/",
         "published": "Fri, 20 Jun 2025 08:46:05 +0000"
+    },
+    {
+        "title": "Critical Mattermost Flaw (CVE-2025-4981, CVSS 9.9) Allows RCE Via Path Traversal",
+        "link": "https://securityonline.info/critical-mattermost-flaw-cve-2025-4981-cvss-9-9-allows-rce-via-path-traversal/",
+        "published": "Sat, 21 Jun 2025 02:01:45 +0000"
+    },
+    {
+        "title": "Crypto Tax Scam Sweeps Europe: Fake Government Sites Drain Wallets Via Seed Phrase Theft & Malicious Web3",
+        "link": "https://securityonline.info/crypto-tax-scam-sweeps-europe-fake-government-sites-drain-wallets-via-seed-phrase-theft-malicious-web3/",
+        "published": "Sat, 21 Jun 2025 00:33:44 +0000"
+    },
+    {
+        "title": "Search Hijacking: Cybercriminals Turn Google Ads into Tech Support Scam Portals",
+        "link": "https://securityonline.info/search-hijacking-cybercriminals-turn-google-ads-into-tech-support-scam-portals/",
+        "published": "Sat, 21 Jun 2025 00:22:10 +0000"
+    },
+    {
+        "title": "IBM QRadar SIEM Exposed by Trio of Security Flaws, Including Critical Command Execution Bug",
+        "link": "https://securityonline.info/ibm-qradar-siem-exposed-by-trio-of-security-flaws-including-critical-command-execution-bug/",
+        "published": "Sat, 21 Jun 2025 00:11:40 +0000"
+    },
+    {
+        "title": "Fileless Masslogger Infostealer Spreading via VBScript (.VBE) & Hiding in Your Registry",
+        "link": "https://securityonline.info/fileless-masslogger-infostealer-spreading-via-vbscript-vbe-hiding-in-your-registry/",
+        "published": "Sat, 21 Jun 2025 00:00:27 +0000"
     }
 ]
