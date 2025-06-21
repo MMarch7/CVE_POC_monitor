@@ -817,3 +817,4 @@ clean_list:
 - CVE-2025-6019-exploit
 - fortinet-cve-2024-50562
 - cheese
+- CVE-2025-44203
