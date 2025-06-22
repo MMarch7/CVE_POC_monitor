@@ -12413,5 +12413,10 @@
         "title": "Midjourney Unveils First AI Video Tool: Transform Static Images into Dynamic Clips (Up to 21s)",
         "link": "https://securityonline.info/midjourney-unveils-first-ai-video-tool-transform-static-images-into-dynamic-clips-up-to-21s/",
         "published": "Sat, 21 Jun 2025 02:27:08 +0000"
+    },
+    {
+        "title": "Critical ANPR Camera Flaw (CVE-2025-34022, CVSS 9.3) Exposes Selea TARGA Devices, PoC Available, No Vendor Response",
+        "link": "https://securityonline.info/critical-anpr-camera-flaw-cve-2025-34022-cvss-9-3-exposes-selea-targa-devices-poc-available-no-vendor-response/",
+        "published": "Sun, 22 Jun 2025 00:02:15 +0000"
     }
 ]
