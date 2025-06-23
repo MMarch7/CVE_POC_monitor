@@ -12418,5 +12418,75 @@
         "title": "Critical ANPR Camera Flaw (CVE-2025-34022, CVSS 9.3) Exposes Selea TARGA Devices, PoC Available, No Vendor Response",
         "link": "https://securityonline.info/critical-anpr-camera-flaw-cve-2025-34022-cvss-9-3-exposes-selea-targa-devices-poc-available-no-vendor-response/",
         "published": "Sun, 22 Jun 2025 00:02:15 +0000"
+    },
+    {
+        "title": "Apple Eyes Perplexity AI Acquisition: Bolstering Search & Siri with Generative AI",
+        "link": "https://securityonline.info/apple-eyes-perplexity-ai-acquisition-bolstering-search-siri-with-generative-ai/",
+        "published": "Mon, 23 Jun 2025 02:00:32 +0000"
+    },
+    {
+        "title": "Cloudflare Mitigates Record 7.3 Tbps DDoS Attack: 37.4 TB in 45 Seconds",
+        "link": "https://securityonline.info/cloudflare-mitigates-record-7-3-tbps-ddos-attack-37-4-tb-in-45-seconds/",
+        "published": "Mon, 23 Jun 2025 01:55:18 +0000"
+    },
+    {
+        "title": "Microsoft Family Safety Blocks Google Chrome in Windows 11: Workarounds Revealed",
+        "link": "https://securityonline.info/microsoft-family-safety-blocks-google-chrome-in-windows-11-workarounds-revealed/",
+        "published": "Mon, 23 Jun 2025 01:51:42 +0000"
+    },
+    {
+        "title": "Windows Update’s Driver Purge: Smoother Updates, or Hidden Headaches?",
+        "link": "https://securityonline.info/windows-updates-driver-purge-smoother-updates-or-hidden-headaches/",
+        "published": "Mon, 23 Jun 2025 01:47:57 +0000"
+    },
+    {
+        "title": "Critical Python Tarfile Flaw (CVE-2025-4517, CVSS 9.4): Arbitrary File Write, PoC Available",
+        "link": "https://securityonline.info/critical-python-tarfile-flaw-cve-2025-4517-cvss-9-4-arbitrary-file-write-poc-available/",
+        "published": "Mon, 23 Jun 2025 00:48:27 +0000"
+    },
+    {
+        "title": "Confucius Group Evolves: Researcher Uncovers New Modular Backdoor “Anondoor” in Latest Espionage Campaign",
+        "link": "https://securityonline.info/confucius-group-evolves-researcher-uncovers-new-modular-backdoor-anondoor-in-latest-espionage-campaign/",
+        "published": "Mon, 23 Jun 2025 00:44:57 +0000"
+    },
+    {
+        "title": "Prometei Botnet Evolves: Linux Variant Returns With Stealthier Payloads and Monero Mining Focus",
+        "link": "https://securityonline.info/prometei-botnet-evolves-linux-variant-returns-with-stealthier-payloads-and-monero-mining-focus/",
+        "published": "Mon, 23 Jun 2025 00:40:49 +0000"
+    },
+    {
+        "title": "Mocha Manakin: New Threat Group Uses “Paste and Run” to Deploy Custom NodeJS RAT!",
+        "link": "https://securityonline.info/mocha-manakin-new-threat-group-uses-paste-and-run-to-deploy-custom-nodejs-rat/",
+        "published": "Mon, 23 Jun 2025 00:36:34 +0000"
+    },
+    {
+        "title": "Critical Meshtastic Flaw: Key Duplication Allows Message Decryption & Node Hijacking",
+        "link": "https://securityonline.info/critical-meshtastic-flaw-key-duplication-allows-message-decryption-node-hijacking/",
+        "published": "Mon, 23 Jun 2025 00:30:42 +0000"
+    },
+    {
+        "title": "NCSC Uncovers “UMBRELLA STAND” Malware: Stealthy Backdoor Targets Fortinet FortiGate Firewalls",
+        "link": "https://securityonline.info/ncsc-uncovers-umbrella-stand-malware-stealthy-backdoor-targets-fortinet-fortigate-firewalls/",
+        "published": "Mon, 23 Jun 2025 00:22:26 +0000"
+    },
+    {
+        "title": "North Korean BlueNoroff Uses Deepfakes in Zoom Scams to Install macOS Malware for Crypto Theft",
+        "link": "https://securityonline.info/north-korean-bluenoroff-uses-deepfakes-in-zoom-scams-to-install-macos-malware-for-crypto-theft/",
+        "published": "Mon, 23 Jun 2025 00:19:41 +0000"
+    },
+    {
+        "title": "RapperBot Resurfaces: 50,000+ Bots Demand Monero Extortion in New DDoS Campaigns",
+        "link": "https://securityonline.info/rapperbot-resurfaces-50000-bots-demand-monero-extortion-in-new-ddos-campaigns/",
+        "published": "Mon, 23 Jun 2025 00:13:32 +0000"
+    },
+    {
+        "title": "Shadow Vector: Malicious SVGs Deliver AsyncRAT & RemcosRAT in Colombian Phishing Campaign!",
+        "link": "https://securityonline.info/shadow-vector-malicious-svgs-deliver-asyncrat-remcosrat-in-colombian-phishing-campaign/",
+        "published": "Mon, 23 Jun 2025 00:06:30 +0000"
+    },
+    {
+        "title": "EKS Security Alert: Overprivileged Containers Exposing AWS Credentials via Unencrypted API",
+        "link": "https://securityonline.info/eks-security-alert-overprivileged-containers-exposing-aws-credentials-via-unencrypted-api/",
+        "published": "Mon, 23 Jun 2025 00:01:29 +0000"
     }
 ]

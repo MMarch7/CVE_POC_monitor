@@ -824,3 +824,5 @@ clean_list:
 - CVE-2025-1562
 - CVE-2025-30401
 - CVE-2025-49132
+- langflow-rce-exploit
+- cve-2025-24514
