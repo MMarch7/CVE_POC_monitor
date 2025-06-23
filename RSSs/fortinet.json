@@ -693,5 +693,10 @@
         "title": "eap-cert-auth bypass via revoked certificate",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-544",
         "published": "Tue, 10 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Buffer overflow in fgfmd",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-036",
+        "published": "Mon, 23 Jun 2025 00:00:00 -0700"
     }
 ]
