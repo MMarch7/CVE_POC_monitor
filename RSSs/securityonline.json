@@ -12523,5 +12523,50 @@
         "title": "Speaker Proposal Deadline Approaches for OpenSSL Conference 2025 in Prague",
         "link": "https://securityonline.info/speaker-proposal-deadline-approaches-for-openssl-conference-2025-in-prague/",
         "published": "Mon, 23 Jun 2025 16:16:15 +0000"
+    },
+    {
+        "title": "Critical Convoy Flaw (CVE-2025-52562, CVSS 10.0): Unauthenticated Remote Code Execution on KVM Servers!",
+        "link": "https://securityonline.info/critical-convoy-flaw-cve-2025-52562-cvss-10-0-unauthenticated-remote-code-execution-on-kvm-servers/",
+        "published": "Tue, 24 Jun 2025 02:15:14 +0000"
+    },
+    {
+        "title": "From Bypass to Root: Mandiant Red Team Exploits CVE-2025-2171 and CVE-2025-2172 in Aviatrix Cloud Controller",
+        "link": "https://securityonline.info/from-bypass-to-root-mandiant-red-team-exploits-cve-2025-2171-and-cve-2025-2172-in-aviatrix-cloud-controller/",
+        "published": "Tue, 24 Jun 2025 02:04:44 +0000"
+    },
+    {
+        "title": "No Patch, Full Exploit: CVSS 9.9 RCE & IDOR Flaws in InnoShop eCommerce Platform",
+        "link": "https://securityonline.info/no-patch-full-exploit-cvss-9-9-rce-idor-flaws-in-innoshop-ecommerce-platform/",
+        "published": "Tue, 24 Jun 2025 01:54:10 +0000"
+    },
+    {
+        "title": "EvilConwi: Hackers Abuse Signed ConnectWise Installers to Launch Stealth Remote Access Attacks",
+        "link": "https://securityonline.info/evilconwi-hackers-abuse-signed-connectwise-installers-to-launch-stealth-remote-access-attacks/",
+        "published": "Tue, 24 Jun 2025 00:26:29 +0000"
+    },
+    {
+        "title": "SHOE RACK Malware: NCSC Uncovers Stealthy Reverse SSH & DoH Post-Exploitation Tool Targeting FortiGate Firewalls",
+        "link": "https://securityonline.info/shoe-rack-malware-ncsc-uncovers-stealthy-reverse-ssh-doh-post-exploitation-tool-targeting-fortigate-firewalls/",
+        "published": "Tue, 24 Jun 2025 00:21:16 +0000"
+    },
+    {
+        "title": "Cyber Fattah Breach: Pro-Iranian Hackers Leak Saudi Games Athlete Data in Targeted Info Op",
+        "link": "https://securityonline.info/cyber-fattah-breach-pro-iranian-hackers-leak-saudi-games-athlete-data-in-targeted-info-op/",
+        "published": "Tue, 24 Jun 2025 00:19:05 +0000"
+    },
+    {
+        "title": "Spyware Reloaded: SparkKitty Stalks Crypto Wallets via TikTok Mods and Fake Apps",
+        "link": "https://securityonline.info/spyware-reloaded-sparkkitty-stalks-crypto-wallets-via-tiktok-mods-and-fake-apps/",
+        "published": "Tue, 24 Jun 2025 00:13:43 +0000"
+    },
+    {
+        "title": "North Korean Hackers Exploit GitHub and Dropbox in Targeted Spearphishing Attacks",
+        "link": "https://securityonline.info/north-korean-hackers-exploit-github-and-dropbox-in-targeted-spearphishing-attacks/",
+        "published": "Tue, 24 Jun 2025 00:11:03 +0000"
+    },
+    {
+        "title": "Wedding Invitation Scam: SpyMax RAT Targets Indian WhatsApp Users, Stealing OTPs & Banking Credentials",
+        "link": "https://securityonline.info/wedding-invitation-scam-spymax-rat-targets-indian-whatsapp-users-stealing-otps-banking-credentials/",
+        "published": "Tue, 24 Jun 2025 00:01:43 +0000"
     }
 ]
