@@ -12568,5 +12568,20 @@
         "title": "Wedding Invitation Scam: SpyMax RAT Targets Indian WhatsApp Users, Stealing OTPs & Banking Credentials",
         "link": "https://securityonline.info/wedding-invitation-scam-spymax-rat-targets-indian-whatsapp-users-stealing-otps-banking-credentials/",
         "published": "Tue, 24 Jun 2025 00:01:43 +0000"
+    },
+    {
+        "title": "CVE-2025-6218: WinRAR Directory Traversal Bug Opens the Door to Remote Code Execution",
+        "link": "https://securityonline.info/cve-2025-6218-winrar-directory-traversal-bug-opens-the-door-to-remote-code-execution/",
+        "published": "Tue, 24 Jun 2025 03:20:25 +0000"
+    },
+    {
+        "title": "Critical Key Derivation Flaws in pbkdf2 Affect Millions of JavaScript Projects, PoC Available",
+        "link": "https://securityonline.info/critical-key-derivation-flaws-in-pbkdf2-affect-millions-of-javascript-projects-poc-available/",
+        "published": "Tue, 24 Jun 2025 03:00:05 +0000"
+    },
+    {
+        "title": "PoC Released for Notepad++ Flaw Enables Privilege Escalation to NT AUTHORITY\\SYSTEM",
+        "link": "https://securityonline.info/poc-released-for-notepad-flaw-enables-privilege-escalation-to-nt-authoritysystem/",
+        "published": "Tue, 24 Jun 2025 02:40:03 +0000"
     }
 ]
