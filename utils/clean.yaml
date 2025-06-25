@@ -840,3 +840,4 @@ clean_list:
 - Langflow-CVE-2025-3248-Multi-target
 - CVE-2024-38819-POC2
 - BrotherVulnerabilities
+- CVE-2025-27558_Patching
