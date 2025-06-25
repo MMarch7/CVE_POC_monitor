@@ -12633,5 +12633,60 @@
         "title": "Behind the Commit: CVSS 10.0 Bug Lets Attackers Hijack Gogs Servers",
         "link": "https://securityonline.info/behind-the-commit-cvss-10-0-bug-lets-attackers-hijack-gogs-servers/",
         "published": "Tue, 24 Jun 2025 12:07:23 +0000"
+    },
+    {
+        "title": "TeamViewer Remote Management Bug (CVE-2025-36537) Enables Privilege Escalation",
+        "link": "https://securityonline.info/teamviewer-remote-management-bug-cve-2025-36537-enables-privilege-escalation/",
+        "published": "Wed, 25 Jun 2025 02:14:25 +0000"
+    },
+    {
+        "title": "SonicWall Warns: Trojanized NetExtender VPN Client Stealing Credentials in Active Campaign",
+        "link": "https://securityonline.info/sonicwall-warns-trojanized-netextender-vpn-client-stealing-credentials-in-active-campaign/",
+        "published": "Wed, 25 Jun 2025 02:07:29 +0000"
+    },
+    {
+        "title": "Double Injection Risk in NVIDIA Megatron-LM: Code Execution Flaws Patched in v0.12.1",
+        "link": "https://securityonline.info/double-injection-risk-in-nvidia-megatron-lm-code-execution-flaws-patched-in-v0-12-1/",
+        "published": "Wed, 25 Jun 2025 01:53:37 +0000"
+    },
+    {
+        "title": "Flaws Found in Hitachi Energy’s MicroSCADA X SYS600: CVEs Could Enable File Tampering, DoS, and MITM Attacks",
+        "link": "https://securityonline.info/flaws-found-in-hitachi-energys-microscada-x-sys600-cves-could-enable-file-tampering-dos-and-mitm-attacks/",
+        "published": "Wed, 25 Jun 2025 01:47:01 +0000"
+    },
+    {
+        "title": "Middle East Cyberwar Escalates: GPS Spoofing, Fake Alerts, Crypto Hacks, & IP Camera Spying Revealed",
+        "link": "https://securityonline.info/middle-east-cyberwar-escalates-gps-spoofing-fake-alerts-crypto-hacks-ip-camera-spying-revealed/",
+        "published": "Wed, 25 Jun 2025 00:37:50 +0000"
+    },
+    {
+        "title": "Critical Flaws in ELECOM Routers: JPCERT/CC Issues Warning Over Command Injection and XSS Risks",
+        "link": "https://securityonline.info/critical-flaws-in-elecom-routers-jpcert-cc-issues-warning-over-command-injection-and-xss-risks/",
+        "published": "Wed, 25 Jun 2025 00:32:25 +0000"
+    },
+    {
+        "title": "APT36 Unleashes Advanced Phishing Against Indian Defense Personnel: New Anti-Analysis Malware & NIC Impersonation",
+        "link": "https://securityonline.info/apt36-unleashes-advanced-phishing-against-indian-defense-personnel-new-anti-analysis-malware-nic-impersonation/",
+        "published": "Wed, 25 Jun 2025 00:23:39 +0000"
+    },
+    {
+        "title": "Urgent Advantech Alert: Critical Flaws (CVSS 9.6) Expose Industrial Automation to Remote Takeover, PoC Releases",
+        "link": "https://securityonline.info/urgent-advantech-alert-critical-flaws-cvss-9-6-expose-industrial-automation-to-remote-takeover-poc-releases/",
+        "published": "Wed, 25 Jun 2025 00:17:21 +0000"
+    },
+    {
+        "title": "Rogue WordPress Plugin Unmasked: Stealthy Malware Skims Credit Cards & Steals Credentials",
+        "link": "https://securityonline.info/rogue-wordpress-plugin-unmasked-stealthy-malware-skims-credit-cards-steals-credentials/",
+        "published": "Wed, 25 Jun 2025 00:13:28 +0000"
+    },
+    {
+        "title": "DRAT V2 Emerges: New Delphi-Compiled RAT Targets Indian Government with Expanded Post-Exploitation",
+        "link": "https://securityonline.info/drat-v2-emerges-new-delphi-compiled-rat-targets-indian-government-with-expanded-post-exploitation/",
+        "published": "Wed, 25 Jun 2025 00:08:31 +0000"
+    },
+    {
+        "title": "LapDogs: China-Nexus Threat Actors Deploy Covert ORB Network on 1,000+ SOHO Devices Globally",
+        "link": "https://securityonline.info/lapdogs-china-nexus-threat-actors-deploy-covert-orb-network-on-1000-soho-devices-globally/",
+        "published": "Wed, 25 Jun 2025 00:00:24 +0000"
     }
 ]
