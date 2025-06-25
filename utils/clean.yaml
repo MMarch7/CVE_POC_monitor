@@ -837,3 +837,4 @@ clean_list:
 - CVE-2025-45466
 - CVE-2025-45467
 - CVE-2025-1718-Scanner
+- Langflow-CVE-2025-3248-Multi-target

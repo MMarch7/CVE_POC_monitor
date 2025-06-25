@@ -12688,5 +12688,30 @@
         "title": "LapDogs: China-Nexus Threat Actors Deploy Covert ORB Network on 1,000+ SOHO Devices Globally",
         "link": "https://securityonline.info/lapdogs-china-nexus-threat-actors-deploy-covert-orb-network-on-1000-soho-devices-globally/",
         "published": "Wed, 25 Jun 2025 00:00:24 +0000"
+    },
+    {
+        "title": "Mozilla Add-ons Store Overhaul: Closed-Group Extensions Allowed, Privacy Policies Simplified",
+        "link": "https://securityonline.info/mozilla-add-ons-store-overhaul-closed-group-extensions-allowed-privacy-policies-simplified/",
+        "published": "Wed, 25 Jun 2025 03:29:17 +0000"
+    },
+    {
+        "title": "Windows 10 Users Get Free ESU: Microsoft Offers 1 Year of Security Updates via Backup or Rewards",
+        "link": "https://securityonline.info/windows-10-users-get-free-esu-microsoft-offers-1-year-of-security-updates-via-backup-or-rewards/",
+        "published": "Wed, 25 Jun 2025 03:20:59 +0000"
+    },
+    {
+        "title": "Pre-Auth Command Execution in CentOS Web Panel Exposes Over 200,000 Servers, PoC Publishes",
+        "link": "https://securityonline.info/pre-auth-command-execution-in-centos-web-panel-exposes-over-200000-servers-poc-publishes/",
+        "published": "Wed, 25 Jun 2025 02:50:57 +0000"
+    },
+    {
+        "title": "Critical Kibana Flaws: CVE-2025-2135 (CVSS 9.9) Allows Heap Corruption & RCE; Open Redirect Also Patched",
+        "link": "https://securityonline.info/critical-kibana-flaws-cve-2025-2135-cvss-9-9-allows-heap-corruption-open-redirect-also-patched/",
+        "published": "Wed, 25 Jun 2025 02:37:58 +0000"
+    },
+    {
+        "title": "Dire Wolf Ransomware: New Golang Threat Hits 11 Countries with Double Extortion & File Wiping",
+        "link": "https://securityonline.info/dire-wolf-ransomware-new-golang-threat-hits-11-countries-with-double-extortion-file-wiping/",
+        "published": "Wed, 25 Jun 2025 02:27:44 +0000"
     }
 ]
