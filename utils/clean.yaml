@@ -842,3 +842,4 @@ clean_list:
 - BrotherVulnerabilities
 - CVE-2025-27558_Patching
 - CVE-2025-48703
+- Blackash-CVE-2025-1974
