@@ -12733,5 +12733,60 @@
         "title": "Critical Kaleris Navis N4 Flaw (CVE-2025-2566, CVSS 9.8): Supply Chain Infrastructure at Risk!",
         "link": "https://securityonline.info/critical-kaleris-navis-n4-flaw-cve-2025-2566-cvss-9-8-supply-chain-infrastructure-at-risk/",
         "published": "Wed, 25 Jun 2025 07:15:42 +0000"
+    },
+    {
+        "title": "Privilege Escalation in guix-daemon: Critical Vulnerabilities Threaten Multi-User Systems",
+        "link": "https://securityonline.info/privilege-escalation-in-guix-daemon-critical-vulnerabilities-threaten-multi-user-systems/",
+        "published": "Thu, 26 Jun 2025 00:50:00 +0000"
+    },
+    {
+        "title": "CISA Alerts on Critical Vulnerabilities in MICROSENS NMP Web+: Attackers Could Gain Full System Access",
+        "link": "https://securityonline.info/cisa-alerts-on-critical-vulnerabilities-in-microsens-nmp-web-attackers-could-gain-full-system-access/",
+        "published": "Thu, 26 Jun 2025 00:42:33 +0000"
+    },
+    {
+        "title": "North Korean APT Launches Massive npm Supply Chain Attack: Typosquatting & Fake Jobs Steal Crypto from Devs",
+        "link": "https://securityonline.info/north-korean-apt-launches-massive-npm-supply-chain-attack-typosquatting-fake-jobs-steal-crypto-from-devs/",
+        "published": "Thu, 26 Jun 2025 00:40:46 +0000"
+    },
+    {
+        "title": "Printer Security Alert: Rapid7 Uncovers Critical Flaws (CVSS 9.8) in Multi Brother Models",
+        "link": "https://securityonline.info/printer-security-alert-rapid7-uncovers-critical-flaws-cvss-9-8-in-multi-brother-models/",
+        "published": "Thu, 26 Jun 2025 00:36:25 +0000"
+    },
+    {
+        "title": "CISA, FBI, NSA Urge Software Industry: Adopt Memory-Safe Languages to Drastically Cut Vulnerabilities",
+        "link": "https://securityonline.info/cisa-fbi-nsa-urge-software-industry-adopt-memory-safe-languages-to-drastically-cut-vulnerabilities/",
+        "published": "Thu, 26 Jun 2025 00:33:27 +0000"
+    },
+    {
+        "title": "CVE-2025-36004: IBM i Vulnerability Allows Privilege Escalation",
+        "link": "https://securityonline.info/cve-2025-36004-ibm-i-vulnerability-allows-privilege-escalation/",
+        "published": "Thu, 26 Jun 2025 00:28:51 +0000"
+    },
+    {
+        "title": "African Financial Institutions Targeted: “CL-CRI-1014” IAB Uses Open-Source Tools & Forged Signatures for Covert Access",
+        "link": "https://securityonline.info/african-financial-institutions-targeted-cl-cri-1014-iab-uses-open-source-tools-forged-signatures-for-covert-access/",
+        "published": "Thu, 26 Jun 2025 00:22:34 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Flaws in ControlID iDSecure Vehicle Control Software",
+        "link": "https://securityonline.info/cisa-warns-of-critical-flaws-in-controlid-idsecure-vehicle-control-software/",
+        "published": "Thu, 26 Jun 2025 00:19:12 +0000"
+    },
+    {
+        "title": "Alert: Malicious Python Package “psslib” Typosquats passlib, Shuts Down Windows Systems",
+        "link": "https://securityonline.info/alert-malicious-python-package-psslib-typosquats-passlib-shuts-down-windows-systems/",
+        "published": "Thu, 26 Jun 2025 00:12:55 +0000"
+    },
+    {
+        "title": "Quest Patches Critical KACE SMA Flaws, Including CVSS 10 Authentication Bypass",
+        "link": "https://securityonline.info/quest-patches-critical-kace-sma-flaws-including-cvss-10-authentication-bypass/",
+        "published": "Thu, 26 Jun 2025 00:07:26 +0000"
+    },
+    {
+        "title": "OneClik” APT Unmasked: China-Linked Campaign Abuses Microsoft ClickOnce & AWS Cloud to Target Energy Sector",
+        "link": "https://securityonline.info/oneclik-apt-unmasked-china-linked-campaign-abuses-microsoft-clickonce-aws-cloud-to-target-energy-sector/",
+        "published": "Thu, 26 Jun 2025 00:01:10 +0000"
     }
 ]

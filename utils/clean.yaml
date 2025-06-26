@@ -841,3 +841,4 @@ clean_list:
 - CVE-2024-38819-POC2
 - BrotherVulnerabilities
 - CVE-2025-27558_Patching
+- CVE-2025-48703
