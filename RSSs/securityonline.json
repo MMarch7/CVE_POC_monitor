@@ -12788,5 +12788,105 @@
         "title": "OneClik” APT Unmasked: China-Linked Campaign Abuses Microsoft ClickOnce & AWS Cloud to Target Energy Sector",
         "link": "https://securityonline.info/oneclik-apt-unmasked-china-linked-campaign-abuses-microsoft-clickonce-aws-cloud-to-target-energy-sector/",
         "published": "Thu, 26 Jun 2025 00:01:10 +0000"
+    },
+    {
+        "title": "MongoDB Hit by Pre-Auth Denial of Service Vulnerability",
+        "link": "https://securityonline.info/mongodb-hit-by-pre-auth-denial-of-service-vulnerability/",
+        "published": "Fri, 27 Jun 2025 03:25:23 +0000"
+    },
+    {
+        "title": "CVE-2025-36038: Critical RCE Vulnerability Discovered in IBM WebSphere Application Server",
+        "link": "https://securityonline.info/cve-2025-36038-critical-rce-vulnerability-discovered-in-ibm-websphere-application-server/",
+        "published": "Fri, 27 Jun 2025 03:14:39 +0000"
+    },
+    {
+        "title": "Microsoft’s Major Shift: Moving Security Drivers Out of Windows Kernel to Prevent Future BSOD Disasters",
+        "link": "https://securityonline.info/microsofts-major-shift-moving-security-drivers-out-of-windows-kernel-to-prevent-future-bsod-disasters/",
+        "published": "Fri, 27 Jun 2025 02:56:28 +0000"
+    },
+    {
+        "title": "Good News! Let’s Encrypt Begins Testing IP-Only Certificates — No Domain Needed",
+        "link": "https://securityonline.info/good-news-lets-encrypt-begins-testing-ip-only-certificates-no-domain-needed/",
+        "published": "Fri, 27 Jun 2025 02:48:19 +0000"
+    },
+    {
+        "title": "Notorious Hacker “IntelBroker” (Kai West) Arrested: Exposed by Crypto Transactions, Caused $25M in Damages",
+        "link": "https://securityonline.info/notorious-hacker-intelbroker-kai-west-arrested-exposed-by-crypto-transactions-caused-25m-in-damages/",
+        "published": "Fri, 27 Jun 2025 02:44:20 +0000"
+    },
+    {
+        "title": "Windows 10 ESU: Any Activated PC Can Get Extended Security Updates, No Windows 11 Hardware Needed",
+        "link": "https://securityonline.info/windows-10-esu-any-activated-pc-can-get-extended-security-updates-no-windows-11-hardware-needed/",
+        "published": "Fri, 27 Jun 2025 02:37:09 +0000"
+    },
+    {
+        "title": "HDMI 2.2 Officially Finalized: Doubles Bandwidth to 96Gbps for Next-Gen 4K/240Hz, 8K/60Hz, and 16K",
+        "link": "https://securityonline.info/hdmi-2-2-officially-finalized-doubles-bandwidth-to-96gbps-for-next-gen-4k-240hz-8k-60hz-and-16k/",
+        "published": "Fri, 27 Jun 2025 02:33:38 +0000"
+    },
+    {
+        "title": "PNG 3.0 Becomes W3C Standard: Brings HDR, Native APNG & EXIF Support to the Web",
+        "link": "https://securityonline.info/png-3-0-becomes-w3c-standard-brings-hdr-native-apng-exif-support-to-the-web/",
+        "published": "Fri, 27 Jun 2025 02:27:32 +0000"
+    },
+    {
+        "title": "US Senate Reintroduces Open App Markets Act: Aims to Break Apple & Google’s App Store Monopoly",
+        "link": "https://securityonline.info/us-senate-reintroduces-open-app-markets-act-aims-to-break-apple-googles-app-store-monopoly/",
+        "published": "Fri, 27 Jun 2025 02:19:44 +0000"
+    },
+    {
+        "title": "Google Cloud Unveils Gemini CLI: Free AI Assistant Brings Gemini 2.5 Pro to Your Terminal",
+        "link": "https://securityonline.info/google-cloud-unveils-gemini-cli-free-ai-assistant-brings-gemini-2-5-pro-to-your-terminal/",
+        "published": "Fri, 27 Jun 2025 02:15:58 +0000"
+    },
+    {
+        "title": "Amazon Expands Same-Day Delivery: 4,000 New US Cities & Towns by 2026",
+        "link": "https://securityonline.info/amazon-expands-same-day-delivery-4000-new-us-cities-towns-by-2026/",
+        "published": "Fri, 27 Jun 2025 02:11:55 +0000"
+    },
+    {
+        "title": "Windows 11 Retires Blue Screen of Death: New Black Crash Screen Focuses on Faster Diagnostics",
+        "link": "https://securityonline.info/windows-11-retires-blue-screen-of-death-new-black-crash-screen-focuses-on-faster-diagnostics/",
+        "published": "Fri, 27 Jun 2025 02:07:22 +0000"
+    },
+    {
+        "title": "Mitsubishi Electric Air Conditioning Systems Vulnerable to Remote Authentication Bypass (CVSS 9.8)",
+        "link": "https://securityonline.info/mitsubishi-electric-air-conditioning-systems-vulnerable-to-remote-authentication-bypass-cvss-9-8/",
+        "published": "Fri, 27 Jun 2025 01:49:44 +0000"
+    },
+    {
+        "title": "GIFTEDCROOK Evolves: Arctic Wolf Labs Exposes Threat Group UAC-0226’s Espionage on Ukraine",
+        "link": "https://securityonline.info/giftedcrook-evolves-arctic-wolf-labs-exposes-threat-group-uac-0226s-espionage-on-ukraine/",
+        "published": "Fri, 27 Jun 2025 01:34:55 +0000"
+    },
+    {
+        "title": "China-Aligned Hive0154 APT Strikes Tibetan Community: Pubload Backdoor Delivered via Phishing Lures",
+        "link": "https://securityonline.info/china-aligned-hive0154-apt-strikes-tibetan-community-pubload-backdoor-delivered-via-phishing-lures/",
+        "published": "Fri, 27 Jun 2025 01:09:48 +0000"
+    },
+    {
+        "title": "CVE-2025-6561 (CVSS 9.8): Hunt Electronic DVR Vulnerability Exposes Admin Credentials in Plaintext",
+        "link": "https://securityonline.info/cve-2025-6561-cvss-9-8-hunt-electronic-dvr-vulnerability-exposes-admin-credentials-in-plaintext/",
+        "published": "Fri, 27 Jun 2025 01:01:10 +0000"
+    },
+    {
+        "title": "AI Hype Exploited: Black Hat SEO Campaign Poisons Search Results to Deliver Vidar, Lumma & Legion Stealers",
+        "link": "https://securityonline.info/ai-hype-exploited-black-hat-seo-campaign-poisons-search-results-to-deliver-vidar-lumma-legion-stealers/",
+        "published": "Fri, 27 Jun 2025 00:42:19 +0000"
+    },
+    {
+        "title": "Iranian APT “Educated Manticore” Unleashes AI-Powered Phishing & Keylogging Against Critics",
+        "link": "https://securityonline.info/iranian-apt-educated-manticore-unleashes-ai-powered-phishing-keylogging-against-critics/",
+        "published": "Fri, 27 Jun 2025 00:32:13 +0000"
+    },
+    {
+        "title": "Cisco ISE/ISE-PIC Alert: Two Critical RCE Flaws (CVSS 10.0) Allow Unauthenticated Root Access",
+        "link": "https://securityonline.info/cisco-ise-ise-pic-alert-two-critical-rce-flaws-cvss-10-0-allow-unauthenticated-root-access/",
+        "published": "Fri, 27 Jun 2025 00:21:59 +0000"
+    },
+    {
+        "title": "Urgent Citrix NetScaler Alert: Critical Memory Overflow Flaw (CVE-2025-6543, CVSS 9.2) Actively Exploited",
+        "link": "https://securityonline.info/urgent-citrix-netscaler-alert-critical-memory-overflow-flaw-cve-2025-6543-cvss-9-2-actively-exploited/",
+        "published": "Fri, 27 Jun 2025 00:14:19 +0000"
     }
 ]
