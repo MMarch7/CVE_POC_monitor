@@ -851,3 +851,4 @@ clean_list:
 - CVE-2024-27388_afterpatch
 - CVE-2025-49144_PoC
 - 65-75-65-83-72.github.io
+- CVE-2024-43425-Poc
