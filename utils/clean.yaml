@@ -855,3 +855,4 @@ clean_list:
 - Notepad-8.8.1_CVE-2025-49144
 - CVE-2025-49144-Test
 - CVE-2025-6019_Exploit
+- CVE-2025-29927-exploit-code-
