@@ -854,3 +854,4 @@ clean_list:
 - CVE-2024-43425-Poc
 - Notepad-8.8.1_CVE-2025-49144
 - CVE-2025-49144-Test
+- CVE-2025-6019_Exploit
