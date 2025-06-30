@@ -856,3 +856,6 @@ clean_list:
 - CVE-2025-49144-Test
 - CVE-2025-6019_Exploit
 - CVE-2025-29927-exploit-code-
+- CVE-2024-27388_beforPatch
+- CVE-2024-27388_afterPatch
+- cve-testing
