@@ -861,3 +861,7 @@ clean_list:
 - cve-testing
 - CVE-2025-6543
 - CVE-2025-5777-Session-Hijack
+- CVE-2024-27388_whitesource
+- CitrixBleed-2-CVE-2025-5777-PoC-
+- CVE-2024-27388_afterPatch_validation
+- PoC-for-Next.js-Middleware
