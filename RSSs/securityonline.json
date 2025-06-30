@@ -12938,5 +12938,90 @@
         "title": "Windows 11 25H2 Dev Build Unveils Deeper 1Password Integration for Seamless Passkey Management",
         "link": "https://securityonline.info/windows-11-25h2-dev-build-unveils-deeper-1password-integration-for-seamless-passkey-management/",
         "published": "Sun, 29 Jun 2025 06:56:53 +0000"
+    },
+    {
+        "title": "Canada Bans Hikvision Operations Nationwide Citing National Security Threat",
+        "link": "https://securityonline.info/canada-bans-hikvision-operations-nationwide-citing-national-security-threat/",
+        "published": "Mon, 30 Jun 2025 02:19:16 +0000"
+    },
+    {
+        "title": "RansomHub Breach: Six-Day Attack Leveraged RDP, RMM Tools & Mimikatz for Data Exfiltration & Ransomware",
+        "link": "https://securityonline.info/ransomhub-breach-six-day-attack-leveraged-rdp-rmm-tools-mimikatz-for-data-exfiltration-ransomware/",
+        "published": "Mon, 30 Jun 2025 02:09:12 +0000"
+    },
+    {
+        "title": "Apple’s “Apple Ring” Rumors Reignite: Mark Gurman Hints at Subtle Wearable Health & Control Device",
+        "link": "https://securityonline.info/apples-apple-ring-rumors-reignite-mark-gurman-hints-at-subtle-wearable-health-control-device/",
+        "published": "Mon, 30 Jun 2025 01:59:08 +0000"
+    },
+    {
+        "title": "Microsoft’s “2.3X Faster” Windows 11 Claim Debunked: It’s Your New PC, Not Just the OS",
+        "link": "https://securityonline.info/microsofts-2-3x-faster-windows-11-claim-debunked-its-your-new-pc-not-just-the-os/",
+        "published": "Mon, 30 Jun 2025 01:52:10 +0000"
+    },
+    {
+        "title": "iOS 26 Unveils New Wi-Fi Sync: Auto-Login for Public Networks Across All Your Apple Devices",
+        "link": "https://securityonline.info/ios-26-unveils-new-wi-fi-sync-auto-login-for-public-networks-across-all-your-apple-devices/",
+        "published": "Mon, 30 Jun 2025 01:49:26 +0000"
+    },
+    {
+        "title": "D-Link Router Flaw Allows Remote Code Execution, PoC Publishes, NO PATCH",
+        "link": "https://securityonline.info/d-link-router-flaw-allows-remote-code-execution-poc-publishes-no-patch/",
+        "published": "Mon, 30 Jun 2025 00:41:02 +0000"
+    },
+    {
+        "title": "Citrix Bleed 2: ReliaQuest Warns of Active Exploitation in NetScaler Gateway Vulnerability",
+        "link": "https://securityonline.info/citrix-bleed-2-reliaquest-warns-of-active-exploitation-in-netscaler-gateway-vulnerability/",
+        "published": "Mon, 30 Jun 2025 00:30:45 +0000"
+    },
+    {
+        "title": "D-Link DIR-816 Router Alert: 6 Critical Flaws (CVSS 9.8) Allow Remote Code Execution, NO PATCHES",
+        "link": "https://securityonline.info/d-link-dir-816-router-alert-6-critical-flaws-cvss-9-8-allow-remote-code-execution-no-patches/",
+        "published": "Mon, 30 Jun 2025 00:28:34 +0000"
+    },
+    {
+        "title": "Stealthy WordPress Malware Uncovered: Multi-Stage RAT Injects via Header.php, Hides Traces",
+        "link": "https://securityonline.info/stealthy-wordpress-malware-uncovered-multi-stage-rat-injects-via-header-php-hides-traces/",
+        "published": "Mon, 30 Jun 2025 00:21:30 +0000"
+    },
+    {
+        "title": "Meta AI Seeks Access to Your Unuploaded Photos: New Feature Sparks Privacy Concerns",
+        "link": "https://securityonline.info/meta-ai-seeks-access-to-your-unuploaded-photos-new-feature-sparks-privacy-concerns/",
+        "published": "Mon, 30 Jun 2025 00:20:01 +0000"
+    },
+    {
+        "title": "Synology ABM Flaw (CVE-2025-4679) Leaks Global Client Secret, Exposing ALL Microsoft 365 Tenants",
+        "link": "https://securityonline.info/synology-abm-flaw-cve-2025-4679-leaks-global-client-secret-exposing-all-microsoft-365-tenants/",
+        "published": "Mon, 30 Jun 2025 00:18:07 +0000"
+    },
+    {
+        "title": "Google Unveils “Doppl”: AI-Powered App Lets You Virtually Try On Clothes & See Them in Motion",
+        "link": "https://securityonline.info/google-unveils-doppl-ai-powered-app-lets-you-virtually-try-on-clothes-see-them-in-motion/",
+        "published": "Mon, 30 Jun 2025 00:16:41 +0000"
+    },
+    {
+        "title": "IIS & Linux Servers Hit by WogRAT, MeshAgent, & SuperShell Malware",
+        "link": "https://securityonline.info/iis-linux-servers-hit-by-wograt-meshagent-supershell-malware/",
+        "published": "Mon, 30 Jun 2025 00:15:46 +0000"
+    },
+    {
+        "title": "Meta Eyes PlayAI Acquisition: Bolstering AI Voice Tech & Superintelligence Ambitions",
+        "link": "https://securityonline.info/meta-eyes-playai-acquisition-bolstering-ai-voice-tech-superintelligence-ambitions/",
+        "published": "Mon, 30 Jun 2025 00:11:10 +0000"
+    },
+    {
+        "title": "Swift Goes Android: Apple Launches Official Workgroup for Cross-Platform Mobile Development",
+        "link": "https://securityonline.info/swift-goes-android-apple-launches-official-workgroup-for-cross-platform-mobile-development/",
+        "published": "Mon, 30 Jun 2025 00:10:23 +0000"
+    },
+    {
+        "title": "Snake Keylogger Exploits Geopolitical Tensions with Oil-Themed Spearphishing Campaign",
+        "link": "https://securityonline.info/snake-keylogger-exploits-geopolitical-tensions-with-oil-themed-spearphishing-campaign/",
+        "published": "Mon, 30 Jun 2025 00:01:32 +0000"
+    },
+    {
+        "title": "Google Unleashes Gemma 3n: Breakthrough On-Device Multimodal AI for Smartphones & Laptops",
+        "link": "https://securityonline.info/google-unleashes-gemma-3n-breakthrough-on-device-multimodal-ai-for-smartphones-laptops/",
+        "published": "Mon, 30 Jun 2025 00:01:09 +0000"
     }
 ]
