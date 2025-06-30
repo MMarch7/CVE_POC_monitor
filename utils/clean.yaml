@@ -859,3 +859,4 @@ clean_list:
 - CVE-2024-27388_beforPatch
 - CVE-2024-27388_afterPatch
 - cve-testing
+- CVE-2025-6543
