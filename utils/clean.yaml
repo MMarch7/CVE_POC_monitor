@@ -866,3 +866,4 @@ clean_list:
 - CVE-2024-27388_afterPatch_validation
 - PoC-for-Next.js-Middleware
 - csrgenerator-secure
+- CVE-2025-6218-POC
