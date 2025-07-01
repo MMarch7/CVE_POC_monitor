@@ -867,3 +867,5 @@ clean_list:
 - PoC-for-Next.js-Middleware
 - csrgenerator-secure
 - CVE-2025-6218-POC
+- CVE-2025-47812-poc
+- CVE-2025-32463_chwoot
