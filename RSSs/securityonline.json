@@ -13158,5 +13158,10 @@
         "title": "Raspberry Pi Unveils $4 Radio Module 2: Bringing Wi-Fi 4 & Bluetooth 5.2 to Custom Boards",
         "link": "https://securityonline.info/raspberry-pi-unveils-4-radio-module-2-bringing-wi-fi-4-bluetooth-5-2-to-custom-boards/",
         "published": "Tue, 01 Jul 2025 07:47:14 +0000"
+    },
+    {
+        "title": "Electron Flaws: ASAR Bypass & Buffer Overflow Threaten Desktop Apps",
+        "link": "https://securityonline.info/electron-flaws-asar-bypass-buffer-overflow-threaten-desktop-apps/",
+        "published": "Tue, 01 Jul 2025 09:29:48 +0000"
     }
 ]
