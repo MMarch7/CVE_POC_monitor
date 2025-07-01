@@ -13053,5 +13053,80 @@
         "title": "SquareX Reveals that Employees are No Longer the Weakest Link, Browser AI Agents Are",
         "link": "https://securityonline.info/squarex-reveals-that-employees-are-no-longer-the-weakest-link-browser-ai-agents-are/",
         "published": "Mon, 30 Jun 2025 13:00:07 +0000"
+    },
+    {
+        "title": "Critical Sunshine Flaw: Remote Command Execution via App-Wide CSRF",
+        "link": "https://securityonline.info/critical-sunshine-flaw-remote-command-execution-via-app-wide-csrf/",
+        "published": "Tue, 01 Jul 2025 03:30:30 +0000"
+    },
+    {
+        "title": "Apple Eyes OpenAI & Anthropic: Claude & ChatGPT Models May Power Next-Gen Siri",
+        "link": "https://securityonline.info/apple-eyes-openai-anthropic-claude-chatgpt-models-may-power-next-gen-siri/",
+        "published": "Tue, 01 Jul 2025 03:16:29 +0000"
+    },
+    {
+        "title": "Apple Planning Cheaper 13-inch MacBook with A18 Pro Chip, Mass Production Late 2025",
+        "link": "https://securityonline.info/apple-planning-cheaper-13-inch-macbook-with-a18-pro-chip-mass-production-late-2025/",
+        "published": "Tue, 01 Jul 2025 03:11:02 +0000"
+    },
+    {
+        "title": "JetBrains YouTrack Price Hike: New Plans & Features Arrive October 1, 2025",
+        "link": "https://securityonline.info/jetbrains-youtrack-price-hike-new-plans-features-arrive-october-1-2025/",
+        "published": "Tue, 01 Jul 2025 03:06:11 +0000"
+    },
+    {
+        "title": "Critical Sudo Flaw (CVE-2025-32463, CVSS 9.3): Root Privilege Escalation & Host Bypass, PoC Available",
+        "link": "https://securityonline.info/critical-sudo-flaws-cve-2025-32463-cvss-9-3-root-privilege-escalation-host-bypass-poc-available/",
+        "published": "Tue, 01 Jul 2025 02:51:46 +0000"
+    },
+    {
+        "title": "ClickFix Unmasked: How North Korea’s Kimsuky Group Turned PowerShell into a Weapon of Psychological Deception",
+        "link": "https://securityonline.info/clickfix-unmasked-how-north-koreas-kimsuky-group-turned-powershell-into-a-weapon-of-psychological-deception/",
+        "published": "Tue, 01 Jul 2025 02:25:15 +0000"
+    },
+    {
+        "title": "Urgent Citrix NetScaler Alert: Critical Memory Overflow Flaw (CVE-2025-6543, CVSS 9.2) Actively Exploited on 2,100+ Unpatched Appliances",
+        "link": "https://securityonline.info/urgent-citrix-netscaler-alert-critical-memory-overflow-flaw-cve-2025-6543-cvss-9-2-actively-exploited-on-2100-unpatched-appliances/",
+        "published": "Tue, 01 Jul 2025 02:11:33 +0000"
+    },
+    {
+        "title": "Iranian Cyber Actors May Target U.S. Networks and Critical Infrastructure, Warn U.S. Agencies",
+        "link": "https://securityonline.info/iranian-cyber-actors-may-target-u-s-networks-and-critical-infrastructure-warn-u-s-agencies/",
+        "published": "Tue, 01 Jul 2025 01:57:51 +0000"
+    },
+    {
+        "title": "Proofpoint Exposes TA829 & UNK_GreenSec’s Dual-Nature Campaigns",
+        "link": "https://securityonline.info/proofpoint-exposes-ta829-unk_greensecs-dual-nature-campaigns/",
+        "published": "Tue, 01 Jul 2025 00:52:05 +0000"
+    },
+    {
+        "title": "Critical RCE in MCP Inspector Exposes AI Devs to Web-Based Exploits (CVE-2025-49596)",
+        "link": "https://securityonline.info/critical-rce-in-mcp-inspector-exposes-ai-devs-to-web-based-exploits-cve-2025-49596/",
+        "published": "Tue, 01 Jul 2025 00:36:26 +0000"
+    },
+    {
+        "title": "From Code to Crypto Theft: DOJ Charges Four North Koreans for Infiltrating U.S. Companies and Laundering $900K in Virtual Currency",
+        "link": "https://securityonline.info/from-code-to-crypto-theft-doj-charges-four-north-koreans-for-infiltrating-u-s-companies-and-laundering-900k-in-virtual-currency/",
+        "published": "Tue, 01 Jul 2025 00:20:08 +0000"
+    },
+    {
+        "title": "North Korea’s AI-Powered Cybercrime: Deepfakes & Fake Personas Infiltrate 300+ US Companies via Remote IT Jobs",
+        "link": "https://securityonline.info/north-koreas-ai-powered-cybercrime-deepfakes-fake-personas-infiltrate-300-us-companies-via-remote-it-jobs/",
+        "published": "Tue, 01 Jul 2025 00:13:00 +0000"
+    },
+    {
+        "title": "DOJ Dismantles North Korean IT Job Scam: Stolen Identities & Laundering Funded DPRK Weapons",
+        "link": "https://securityonline.info/doj-dismantles-north-korean-it-job-scam-stolen-identities-laundering-funded-dprk-weapons/",
+        "published": "Mon, 30 Jun 2025 23:53:56 +0000"
+    },
+    {
+        "title": "Blind Eagle (APT-C-36): Financially Motivated Cybercrime Meets Open-Access Infrastructure in LATAM",
+        "link": "https://securityonline.info/blind-eagle-apt-c-36-financially-motivated-cybercrime-meets-open-access-infrastructure-in-latam/",
+        "published": "Mon, 30 Jun 2025 23:44:44 +0000"
+    },
+    {
+        "title": "Google Patches Actively Exploited Chrome Zero-Day: CVE-2025-6554",
+        "link": "https://securityonline.info/google-patches-actively-exploited-chrome-zero-day-cve-2025-6554/",
+        "published": "Mon, 30 Jun 2025 23:34:38 +0000"
     }
 ]
