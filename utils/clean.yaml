@@ -865,3 +865,4 @@ clean_list:
 - CitrixBleed-2-CVE-2025-5777-PoC-
 - CVE-2024-27388_afterPatch_validation
 - PoC-for-Next.js-Middleware
+- csrgenerator-secure
