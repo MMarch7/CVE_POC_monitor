@@ -13208,5 +13208,20 @@
         "title": "Pilz IndustrialPI 4 Alert: Critical Flaws (CVE-2025-41656 CVSS 10.0 RCE, CVE-2025-41648 Auth Bypass) Expose Industrial PCs",
         "link": "https://securityonline.info/pilz-industrialpi-4-alert-critical-flaws-cve-2025-41656-cvss-10-0-rce-cve-2025-41648-auth-bypass-expose-industrial-pcs/",
         "published": "Wed, 02 Jul 2025 00:00:07 +0000"
+    },
+    {
+        "title": "CVSS 10 RCE in Wing FTP Server (CVE-2025-47812) Allows Full Server Takeover, PoC Releases",
+        "link": "https://securityonline.info/cvss-10-rce-in-wing-ftp-server-cve-2025-47812-allows-full-server-takeover-poc-releases/",
+        "published": "Wed, 02 Jul 2025 02:56:12 +0000"
+    },
+    {
+        "title": "CVE-2025-6463: Unauthenticated Arbitrary File Deletion in Forminator Plugin Exposes Over 600,000 WordPress Sites to Remote Takeover",
+        "link": "https://securityonline.info/cve-2025-6463-unauthenticated-arbitrary-file-deletion-in-forminator-plugin-exposes-over-600000-wordpress-sites-to-remote-takeover/",
+        "published": "Wed, 02 Jul 2025 02:32:56 +0000"
+    },
+    {
+        "title": "Chinese Student Jailed for Smishing: Operated Covert “SMS Blaster” in Car for Mass Phishing",
+        "link": "https://securityonline.info/chinese-student-jailed-for-smishing-operated-covert-sms-blaster-in-car-for-mass-phishing/",
+        "published": "Wed, 02 Jul 2025 02:20:00 +0000"
     }
 ]
