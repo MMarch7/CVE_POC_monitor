@@ -884,3 +884,4 @@ clean_list:
 - CVE-2025-32463_Exploit
 - NFSundown
 - CVE-Vulnerability-Dashboard-app
+- mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE
