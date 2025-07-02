@@ -873,3 +873,8 @@ clean_list:
 - CVE-2025-6934
 - CVE-2025-32463-POC
 - Tomcat-CVE-2025-31650
+- Chrome-Skia-CVE-2024-8193
+- Chrome-Skia-CVE-2024-8198
+- Chrome-Skia-CVE-2024-8636
+- CVE-2025-49144-Research
+- Chrome-Skia-CVE-2024-7966
