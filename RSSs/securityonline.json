@@ -13163,5 +13163,50 @@
         "title": "Electron Flaws: ASAR Bypass & Buffer Overflow Threaten Desktop Apps",
         "link": "https://securityonline.info/electron-flaws-asar-bypass-buffer-overflow-threaten-desktop-apps/",
         "published": "Tue, 01 Jul 2025 09:29:48 +0000"
+    },
+    {
+        "title": "ANSSI Exposes “Houken”: China-Linked Threat Actor Exploiting Ivanti CSA Zero-Days & Deploying Linux Rootkits",
+        "link": "https://securityonline.info/anssi-exposes-houken-china-linked-threat-actor-exploiting-ivanti-csa-zero-days-deploying-linux-rootkits/",
+        "published": "Wed, 02 Jul 2025 02:08:27 +0000"
+    },
+    {
+        "title": "OFAC Sanctions Russian “Bulletproof Host” Aeza Group: Linked to Ransomware, Infostealers & Darknet",
+        "link": "https://securityonline.info/ofac-sanctions-russian-bulletproof-host-aeza-group-linked-to-ransomware-infostealers-darknet/",
+        "published": "Wed, 02 Jul 2025 01:57:05 +0000"
+    },
+    {
+        "title": "DOJ Dismantles North Korean IT Job Scam: Stolen Identities & Laundering Funded DPRK Weapons",
+        "link": "https://securityonline.info/doj-unmasks-north-korean-remote-it-work-scam-fueling-weapons-program/",
+        "published": "Wed, 02 Jul 2025 01:46:41 +0000"
+    },
+    {
+        "title": "CVSS 9.8 RCE in Netflix Conductor Exposes Servers to Full Remote Shell – PoC Available",
+        "link": "https://securityonline.info/cvss-9-8-rce-in-netflix-conductor-exposes-servers-to-full-remote-shell-poc-available/",
+        "published": "Wed, 02 Jul 2025 00:29:07 +0000"
+    },
+    {
+        "title": "Multi DataEase Flaws: RCE & Bypass Vulnerabilities Threaten BI Platform via JDBC",
+        "link": "https://securityonline.info/multi-dataease-flaws-rce-bypass-vulnerabilities-threaten-bi-platform-via-jdbc/",
+        "published": "Wed, 02 Jul 2025 00:24:35 +0000"
+    },
+    {
+        "title": "Graylog Flaw (CVE-2025-53106, CVSS 8.8): Privilege Escalation Via API Token Abuse",
+        "link": "https://securityonline.info/graylog-flaw-cve-2025-53106-cvss-8-8-privilege-escalation-via-api-token-abuse/",
+        "published": "Wed, 02 Jul 2025 00:19:34 +0000"
+    },
+    {
+        "title": "Security Flaws in Frappe Framework Expose Self-Hosted ERPNext Users to Takeovers, XSS, and SQL Injection",
+        "link": "https://securityonline.info/security-flaws-in-frappe-framework-expose-self-hosted-erpnext-users-to-takeovers-xss-and-sql-injection/",
+        "published": "Wed, 02 Jul 2025 00:11:27 +0000"
+    },
+    {
+        "title": "Cracked Software Danger: Report Exposes Pakistani Freelancers Building Websites to Deliver Stealer Malware",
+        "link": "https://securityonline.info/cracked-software-danger-report-exposes-pakistani-freelancers-building-websites-to-deliver-stealer-malware/",
+        "published": "Wed, 02 Jul 2025 00:06:20 +0000"
+    },
+    {
+        "title": "Pilz IndustrialPI 4 Alert: Critical Flaws (CVE-2025-41656 CVSS 10.0 RCE, CVE-2025-41648 Auth Bypass) Expose Industrial PCs",
+        "link": "https://securityonline.info/pilz-industrialpi-4-alert-critical-flaws-cve-2025-41656-cvss-10-0-rce-cve-2025-41648-auth-bypass-expose-industrial-pcs/",
+        "published": "Wed, 02 Jul 2025 00:00:07 +0000"
     }
 ]
