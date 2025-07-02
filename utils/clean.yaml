@@ -883,3 +883,4 @@ clean_list:
 - cve-2024-23113-test-env
 - CVE-2025-32463_Exploit
 - NFSundown
+- CVE-Vulnerability-Dashboard-app
