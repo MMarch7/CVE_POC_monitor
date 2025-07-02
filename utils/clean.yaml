@@ -878,3 +878,5 @@ clean_list:
 - Chrome-Skia-CVE-2024-8636
 - CVE-2025-49144-Research
 - Chrome-Skia-CVE-2024-7966
+- cve-2025-21756
+- AAMVA-PDF417-Vulnerability-Research
