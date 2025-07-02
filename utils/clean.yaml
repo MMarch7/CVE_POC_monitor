@@ -881,3 +881,5 @@ clean_list:
 - cve-2025-21756
 - AAMVA-PDF417-Vulnerability-Research
 - cve-2024-23113-test-env
+- CVE-2025-32463_Exploit
+- NFSundown
