@@ -13263,5 +13263,50 @@
         "title": "Microsoft Hikes On-Premises Server & CAL Prices by Up to 20% Starting July",
         "link": "https://securityonline.info/microsoft-hikes-on-premises-server-cal-prices-by-up-to-20-starting-july/",
         "published": "Wed, 02 Jul 2025 07:34:23 +0000"
+    },
+    {
+        "title": "Four Critical RCE Flaws Found in Grafana Plugins via Chromium: Patch Now!",
+        "link": "https://securityonline.info/four-critical-rce-flaws-found-in-grafana-plugins-via-chromium-patch-now/",
+        "published": "Thu, 03 Jul 2025 02:10:12 +0000"
+    },
+    {
+        "title": "Global E-commerce Fraud Ring Uncovered: Fake Apple, Nordstrom, Brooks Brothers Sites Steal Credit Cards",
+        "link": "https://securityonline.info/global-e-commerce-fraud-ring-uncovered-fake-apple-nordstrom-brooks-brothers-sites-steal-credit-cards/",
+        "published": "Thu, 03 Jul 2025 01:53:14 +0000"
+    },
+    {
+        "title": "CVE-2025-20309 (CVSS 10): Cisco Patches Critical Static SSH Root Credential Flaw in Unified CM",
+        "link": "https://securityonline.info/cve-2025-20309-cvss-10-cisco-patches-critical-static-ssh-root-credential-flaw-in-unified-cm/",
+        "published": "Thu, 03 Jul 2025 01:39:40 +0000"
+    },
+    {
+        "title": "NimDoor: North Korean APT Uses Nim-Based Malware for Stealthy Web3 & Crypto Attacks on macOS!",
+        "link": "https://securityonline.info/nimdoor-north-korean-apt-uses-nim-based-malware-for-stealthy-web3-crypto-attacks-on-macos/",
+        "published": "Thu, 03 Jul 2025 00:27:36 +0000"
+    },
+    {
+        "title": "dpkg-deb Flaw Opens Path to Disk Exhaustion Denial-of-Service on Debian Systems",
+        "link": "https://securityonline.info/dpkg-deb-flaw-opens-path-to-disk-exhaustion-denial-of-service-on-debian-systems/",
+        "published": "Thu, 03 Jul 2025 00:22:25 +0000"
+    },
+    {
+        "title": "Qwizzserial: Telegram-Driven Android SMS Stealer Infects 100,000 Devices",
+        "link": "https://securityonline.info/qwizzserial-telegram-driven-android-sms-stealer-infects-100000-devices/",
+        "published": "Thu, 03 Jul 2025 00:18:45 +0000"
+    },
+    {
+        "title": "Linux Servers Hijacked: Attackers Install Legitimate Proxy Software for Covert Operations",
+        "link": "https://securityonline.info/linux-servers-hijacked-attackers-install-legitimate-proxy-software-for-covert-operations/",
+        "published": "Thu, 03 Jul 2025 00:13:38 +0000"
+    },
+    {
+        "title": "DCRat: Sophisticated RAT Delivered via Phishing Campaign Impersonating Government Entity",
+        "link": "https://securityonline.info/dcrat-sophisticated-rat-delivered-via-phishing-campaign-impersonating-government-entity/",
+        "published": "Thu, 03 Jul 2025 00:09:33 +0000"
+    },
+    {
+        "title": "New macOS Crypto Stealer Targets Ledger Live Users, Mimics AMOS with Stealthy Tactics",
+        "link": "https://securityonline.info/new-macos-crypto-stealer-targets-ledger-live-users-mimics-amos-with-stealthy-tactics/",
+        "published": "Thu, 03 Jul 2025 00:02:54 +0000"
     }
 ]

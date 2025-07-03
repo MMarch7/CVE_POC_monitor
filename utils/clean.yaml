@@ -886,3 +886,6 @@ clean_list:
 - CVE-Vulnerability-Dashboard-app
 - mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE
 - CVE-2025-32463_POC
+- CVE-2025-20281-Cisco-
+- cve-2025-24813-poc
+- cve-2025-32711
