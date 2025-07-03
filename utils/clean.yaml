@@ -895,3 +895,4 @@ clean_list:
 - CVE-2025-32462
 - CVE-2025-6018-19-exploit
 - CVE-2025-45407
+- CVE-2025-6019_Poc
