@@ -893,3 +893,4 @@ clean_list:
 - sudoinjection
 - chainwalk
 - CVE-2025-32462
+- CVE-2025-6018-19-exploit
