@@ -903,3 +903,5 @@ clean_list:
 - cve-2025-6907
 - CVE-2025-6554
 - CVE-2025-32463_illdeed
+- CrushFTP-CVE-2024-4040-illdeed
+- Cisco-CVE-2025-20281-illdeed
