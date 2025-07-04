@@ -900,3 +900,5 @@ clean_list:
 - cve-2025-6554
 - CVE-2025-41646---Critical-Authentication-Bypass-
 - CVE-2025-5961
+- cve-2025-6907
+- CVE-2025-6554
