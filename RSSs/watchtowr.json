@@ -118,5 +118,10 @@
         "title": "Is b For Backdoor? Pre-Auth RCE Chain In Sitecore Experience Platform",
         "link": "https://labs.watchtowr.com/is-b-for-backdoor-pre-auth-rce-chain-in-sitecore-experience-platform/",
         "published": "Tue, 17 Jun 2025 10:12:49 GMT"
+    },
+    {
+        "title": "How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)",
+        "link": "https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/",
+        "published": "Fri, 04 Jul 2025 19:13:56 GMT"
     }
 ]
