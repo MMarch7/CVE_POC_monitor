@@ -13368,5 +13368,65 @@
         "title": "Google & XREAL Unveil “Project Aura”: AI-Powered Smart Glasses Coming in 2026",
         "link": "https://securityonline.info/google-xreal-unveil-project-aura-ai-powered-smart-glasses-coming-in-2026/",
         "published": "Thu, 03 Jul 2025 07:34:51 +0000"
+    },
+    {
+        "title": "Next.js Flaw (CVE-2025-49826, CVSS 7.5): Cache Poisoning Leads to Denial-of-Service",
+        "link": "https://securityonline.info/next-js-flaw-cve-2025-49826-cvss-7-5-cache-poisoning-leads-to-denial-of-service/",
+        "published": "Fri, 04 Jul 2025 00:53:31 +0000"
+    },
+    {
+        "title": "Microsoft Edge Alert: Two High-Severity Flaws (CVE-2025-6554, CVE-2025-49713) Allow Remote Code Execution, One Actively Exploited",
+        "link": "https://securityonline.info/microsoft-edge-alert-two-high-severity-flaws-cve-2025-6554-cve-2025-49713-allow-remote-code-execution-one-actively-exploited/",
+        "published": "Fri, 04 Jul 2025 00:50:41 +0000"
+    },
+    {
+        "title": "PHP Flaws: CVE-2025-1735 (SQLi/Crash) & CVE-2025-6491 (SOAP DoS) Threaten PHP Apps",
+        "link": "https://securityonline.info/php-flaws-cve-2025-1735-sqli-crash-cve-2025-6491-soap-dos-threaten-php-apps/",
+        "published": "Fri, 04 Jul 2025 00:46:21 +0000"
+    },
+    {
+        "title": "CIEE Data Breach Exposes 248K Brazilian Records: Medical Reports, CVs, & Videos Leaked from Google Cloud",
+        "link": "https://securityonline.info/ciee-data-breach-exposes-248k-brazilian-records-medical-reports-cvs-videos-leaked-from-google-cloud/",
+        "published": "Fri, 04 Jul 2025 00:42:44 +0000"
+    },
+    {
+        "title": "Apache Under Attack: Critical RCE Flaws in Tomcat & Camel Spark Thousands of Exploit Attempts",
+        "link": "https://securityonline.info/apache-under-attack-critical-rce-flaws-in-tomcat-camel-spark-thousands-of-exploit-attempts/",
+        "published": "Fri, 04 Jul 2025 00:39:12 +0000"
+    },
+    {
+        "title": "Critical HIKVISION applyCT Flaw (CVE-2025-34067, CVSS 10.0): Unauthenticated RCE Via Fastjson",
+        "link": "https://securityonline.info/critical-hikvision-applyct-flaw-cve-2025-34067-cvss-10-0-unauthenticated-rce-via-fastjson/",
+        "published": "Fri, 04 Jul 2025 00:33:55 +0000"
+    },
+    {
+        "title": "Stealthy WordPress Malware Uncovered: SEO Spam Plugin Mimics Your Domain to Evade Detection",
+        "link": "https://securityonline.info/stealthy-wordpress-malware-uncovered-seo-spam-plugin-mimics-your-domain-to-evade-detection/",
+        "published": "Fri, 04 Jul 2025 00:28:42 +0000"
+    },
+    {
+        "title": "SCATTERED SPIDER Infiltrates Airlines: Ransomware, vCenter Hijacks, and Voice Phishing Unleashed",
+        "link": "https://securityonline.info/scattered-spider-infiltrates-airlines-ransomware-vcenter-hijacks-and-voice-phishing-unleashed/",
+        "published": "Fri, 04 Jul 2025 00:22:19 +0000"
+    },
+    {
+        "title": "Anthropic MCP Server Flaws: Path Traversal & Symlink Attacks Allow RCE",
+        "link": "https://securityonline.info/anthropic-mcp-server-flaws-path-traversal-symlink-attacks-allow-rce/",
+        "published": "Fri, 04 Jul 2025 00:19:59 +0000"
+    },
+    {
+        "title": "Apache APISIX Flaw (CVE-2025-46647): Token Issuer Bypass in OpenID Connect Allows Cross-Issuer Access",
+        "link": "https://securityonline.info/apache-apisix-flaw-cve-2025-46647-token-issuer-bypass-in-openid-connect-allows-cross-issuer-access/",
+        "published": "Fri, 04 Jul 2025 00:13:00 +0000"
+    },
+    {
+        "title": "Exposed JDWP Debug Ports Under Attack: Cryptominers Infiltrating Java Apps in Hours",
+        "link": "https://securityonline.info/exposed-jdwp-debug-ports-under-attack-cryptominers-infiltrating-java-apps-in-hours/",
+        "published": "Fri, 04 Jul 2025 00:07:06 +0000"
+    },
+    {
+        "title": "Critical Lucee Flaw (CVE-2025-34074, CVSS 9.4): Authenticated RCE Via Scheduled Task Abuse, Metasploit Module Out",
+        "link": "https://securityonline.info/critical-lucee-flaw-cve-2025-34074-cvss-9-4-authenticated-rce-via-scheduled-task-abuse-metasploit-module-out/",
+        "published": "Fri, 04 Jul 2025 00:01:31 +0000"
     }
 ]
