@@ -898,3 +898,4 @@ clean_list:
 - CVE-2025-6019_Poc
 - CVE-2024-48061
 - cve-2025-6554
+- CVE-2025-41646---Critical-Authentication-Bypass-
