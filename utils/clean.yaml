@@ -911,3 +911,4 @@ clean_list:
 - CVE-2025-5777
 - ansible-sudo-cve2025-patch
 - Blackash-CVE-2025-49493
+- Blackash-CVE-2025-0411
