@@ -13428,5 +13428,15 @@
         "title": "Critical Lucee Flaw (CVE-2025-34074, CVSS 9.4): Authenticated RCE Via Scheduled Task Abuse, Metasploit Module Out",
         "link": "https://securityonline.info/critical-lucee-flaw-cve-2025-34074-cvss-9-4-authenticated-rce-via-scheduled-task-abuse-metasploit-module-out/",
         "published": "Fri, 04 Jul 2025 00:01:31 +0000"
+    },
+    {
+        "title": "CVE-2025-53367: DjVuLibre Vulnerability Opens Path to Linux Desktop Code Execution, PoC Available!",
+        "link": "https://securityonline.info/cve-2025-53367-djvulibre-vulnerability-opens-path-to-linux-desktop-code-execution-poc-available/",
+        "published": "Sat, 05 Jul 2025 02:03:33 +0000"
+    },
+    {
+        "title": "RondoDox: Sophisticated Botnet Exploits TBK DVRs & Four-Faith Routers for DDoS Attacks",
+        "link": "https://securityonline.info/rondodox-sophisticated-botnet-exploits-tbk-dvrs-four-faith-routers-for-ddos-attacks/",
+        "published": "Sat, 05 Jul 2025 01:48:07 +0000"
     }
 ]
