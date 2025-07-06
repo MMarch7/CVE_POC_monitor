@@ -914,3 +914,5 @@ clean_list:
 - Blackash-CVE-2025-0411
 - CVE-2024-55963
 - cve-2025-5777
+- CVE-2025-32463-PoC
+- Blackash-CVE-2025-4403
