@@ -916,3 +916,5 @@ clean_list:
 - cve-2025-5777
 - CVE-2025-32463-PoC
 - Blackash-CVE-2025-4403
+- CVE-2025-32462-POC
+- citrix_bleed_2
