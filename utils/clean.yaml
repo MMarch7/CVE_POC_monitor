@@ -920,3 +920,4 @@ clean_list:
 - citrix_bleed_2
 - CVE-2025-32463-lab
 - Blackash-CVE-2025-20281
+- CitrixBleed-2-CVE-2025-5777
