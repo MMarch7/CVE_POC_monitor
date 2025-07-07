@@ -13558,5 +13558,30 @@
         "title": "Linux Privilege Escalation (CVE-2025-6019): Root Access Via udisksd & libblockdev, PoC Available",
         "link": "https://securityonline.info/linux-privilege-escalation-cve-2025-6019-root-access-via-udisksd-libblockdev-poc-available/",
         "published": "Mon, 07 Jul 2025 00:00:20 +0000"
+    },
+    {
+        "title": "Redis Vulnerability Opens Door to Remote Code Execution, PoC Releases",
+        "link": "https://securityonline.info/redis-vulnerability-opens-door-to-remote-code-execution-poc-releases/",
+        "published": "Mon, 07 Jul 2025 03:35:44 +0000"
+    },
+    {
+        "title": "Redis DoS Flaw (CVE-2025-48367): Authenticated Clients Can Disrupt Service",
+        "link": "https://securityonline.info/redis-dos-flaw-cve-2025-48367-authenticated-clients-can-disrupt-service/",
+        "published": "Mon, 07 Jul 2025 03:26:39 +0000"
+    },
+    {
+        "title": "Apple’s Huge H2 2025 Lineup: iPhone 17 Air, Apple Watch Ultra 3 (5G/Satellite), M5 Macs & More",
+        "link": "https://securityonline.info/apples-huge-h2-2025-lineup-iphone-17-air-apple-watch-ultra-3-5g-satellite-m5-macs-more/",
+        "published": "Mon, 07 Jul 2025 03:04:46 +0000"
+    },
+    {
+        "title": "ScriptCase Flaws (CVE-2025-47227/47228): Pre-Auth RCE & Admin Takeover Risk for Web Servers, PoC Published",
+        "link": "https://securityonline.info/scriptcase-flaws-cve-2025-47227-47228-pre-auth-rce-admin-takeover-risk-for-web-servers-poc-published/",
+        "published": "Mon, 07 Jul 2025 02:49:20 +0000"
+    },
+    {
+        "title": "Hpingbot: New Go-Based Botnet Leverages Pastebin & Hping3 for Stealthy Attacks",
+        "link": "https://securityonline.info/hpingbot-new-go-based-botnet-leverages-pastebin-hping3-for-stealthy-attacks/",
+        "published": "Mon, 07 Jul 2025 02:31:26 +0000"
     }
 ]
