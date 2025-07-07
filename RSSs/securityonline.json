@@ -13508,5 +13508,55 @@
         "title": "The Movie Speeds Past $300M—Apple’s First True Box Office Breakthrough",
         "link": "https://securityonline.info/the-movie-speeds-past-300m-apples-first-true-box-office-breakthrough/",
         "published": "Sun, 06 Jul 2025 07:51:11 +0000"
+    },
+    {
+        "title": "State Secrets for Sale: China’s “Hack-for-Hire” Ecosystem Exposed in Massive VenusTech & Salt Typhoon Leaks",
+        "link": "https://securityonline.info/state-secrets-for-sale-chinas-hack-for-hire-ecosystem-exposed-in-massive-venustech-salt-typhoon-leaks/",
+        "published": "Mon, 07 Jul 2025 02:12:36 +0000"
+    },
+    {
+        "title": "APT36 Unleashes Linux Malware: Transparent Tribe Targets Indian Government with Go-Based Espionage Tools",
+        "link": "https://securityonline.info/apt36-unleashes-linux-malware-transparent-tribe-targets-indian-government-with-go-based-espionage-tools/",
+        "published": "Mon, 07 Jul 2025 02:00:12 +0000"
+    },
+    {
+        "title": "Taiwan Warns Public: Popular Chinese Apps (TikTok, WeChat, Rednote) Pose National Security Risk Via Data Transfer to China",
+        "link": "https://securityonline.info/taiwan-warns-public-popular-chinese-apps-tiktok-wechat-rednote-pose-national-security-risk-via-data-transfer-to-china/",
+        "published": "Mon, 07 Jul 2025 01:50:14 +0000"
+    },
+    {
+        "title": "XWorm’s Shape-Shifting Arsenal: RAT Evolves to Deliver LockBit Ransomware, Evades Detection",
+        "link": "https://securityonline.info/xworms-shape-shifting-arsenal-rat-evolves-to-deliver-lockbit-ransomware-evades-detection/",
+        "published": "Mon, 07 Jul 2025 01:33:36 +0000"
+    },
+    {
+        "title": "Malicious Firefox Extensions Unmasked: Fake Games, VPNs, & Calendar Tools Hijack Traffic, Steal Crypto & OAuth Tokens",
+        "link": "https://securityonline.info/malicious-firefox-extensions-unmasked-fake-games-vpns-calendar-tools-hijack-traffic-steal-crypto-oauth-tokens/",
+        "published": "Mon, 07 Jul 2025 00:29:33 +0000"
+    },
+    {
+        "title": "Nobitex Hack Unveils Iran’s Crypto Blueprint: Sanctions Evasion & Surveillance Defiance Exposed",
+        "link": "https://securityonline.info/nobitex-hack-unveils-irans-crypto-blueprint-sanctions-evasion-surveillance-defiance-exposed/",
+        "published": "Mon, 07 Jul 2025 00:26:13 +0000"
+    },
+    {
+        "title": "IBM X-Force Uncovers Azure Arc Flaws: Hybrid-Cloud Tool Becomes Stealthy RCE & Privilege Escalation Vector",
+        "link": "https://securityonline.info/ibm-x-force-uncovers-azure-arc-flaws-hybrid-cloud-tool-becomes-stealthy-rce-privilege-escalation-vector/",
+        "published": "Mon, 07 Jul 2025 00:19:48 +0000"
+    },
+    {
+        "title": "“NightEagle” APT Group Soars Over China’s Critical Tech: Zero-Days, Exchange Exploits, and Tailored Espionage",
+        "link": "https://securityonline.info/nighteagle-apt-group-soars-over-chinas-critical-tech-zero-days-exchange-exploits-and-tailored-espionage/",
+        "published": "Mon, 07 Jul 2025 00:12:19 +0000"
+    },
+    {
+        "title": "SHELLTER Evasion Framework Abused: Elite v11.0 Packages LUMMA, RHADAMANTHYS, ARECHCLIENT2 Infostealers",
+        "link": "https://securityonline.info/shellter-evasion-framework-abused-elite-v11-0-packages-lumma-rhadamanthys-arechclient2-infostealers/",
+        "published": "Mon, 07 Jul 2025 00:07:26 +0000"
+    },
+    {
+        "title": "Linux Privilege Escalation (CVE-2025-6019): Root Access Via udisksd & libblockdev, PoC Available",
+        "link": "https://securityonline.info/linux-privilege-escalation-cve-2025-6019-root-access-via-udisksd-libblockdev-poc-available/",
+        "published": "Mon, 07 Jul 2025 00:00:20 +0000"
     }
 ]
