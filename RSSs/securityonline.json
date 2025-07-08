@@ -13718,5 +13718,15 @@
         "title": "Jack Dorsey Unveils “Bitchat”: New Bluetooth-Only App Offers Decentralized, Internet-Free Messaging",
         "link": "https://securityonline.info/jack-dorsey-unveils-bitchat-new-bluetooth-only-app-offers-decentralized-internet-free-messaging/",
         "published": "Tue, 08 Jul 2025 06:49:56 +0000"
+    },
+    {
+        "title": "MediaTek July 2025 Security Bulletin: Heap Overflows, WLAN Flaws, and Bluetooth Risks Threaten Billions of Devices",
+        "link": "https://securityonline.info/mediatek-july-2025-security-bulletin-heap-overflows-wlan-flaws-and-bluetooth-risks-threaten-billions-of-devices/",
+        "published": "Tue, 08 Jul 2025 08:04:59 +0000"
+    },
+    {
+        "title": "SAP’s July 2025 Patch Day Brings 27 New Notes, Multiple Critical RCE & Deserialization Flaws (CVSS 10.0)",
+        "link": "https://securityonline.info/saps-july-2025-patch-day-brings-27-new-notes-multiple-critical-rce-deserialization-flaws-cvss-10-0/",
+        "published": "Tue, 08 Jul 2025 07:40:47 +0000"
     }
 ]
