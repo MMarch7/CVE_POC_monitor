@@ -13683,5 +13683,15 @@
         "title": "CVE-2025-41672 (CVSS 10): Critical JWT Certificate Flaw in WAGO Device Sphere Allows Full Remote Takeover",
         "link": "https://securityonline.info/cve-2025-41672-cvss-10-critical-jwt-certificate-flaw-in-wago-device-sphere-allows-full-remote-takeover/",
         "published": "Tue, 08 Jul 2025 00:00:09 +0000"
+    },
+    {
+        "title": "Microsoft Edge Achieves Sub-300ms FCP: Browser UI Now Loads Instantly",
+        "link": "https://securityonline.info/microsoft-edge-achieves-sub-300ms-fcp-browser-ui-now-loads-instantly/",
+        "published": "Tue, 08 Jul 2025 03:05:49 +0000"
+    },
+    {
+        "title": "iOS 26 Beta 3 Unleashed: Apple Refines “Liquid Glass” UI, Boosting Readability in Music, Safari & More",
+        "link": "https://securityonline.info/ios-26-beta-3-unleashed-apple-refines-liquid-glass-ui-boosting-readability-in-music-safari-more/",
+        "published": "Tue, 08 Jul 2025 02:58:01 +0000"
     }
 ]
