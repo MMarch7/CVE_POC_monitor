@@ -929,3 +929,4 @@ clean_list:
 - CVE-2024-7954
 - CVE-2024-9014
 - cve-2025-32463
+- CVE-2025-32463_sudo_chroot
