@@ -13613,5 +13613,75 @@
         "title": "Microsoft is Removing PowerShell 2.0 from Windows 11",
         "link": "https://securityonline.info/microsoft-is-removing-powershell-2-0-from-windows-11/",
         "published": "Mon, 07 Jul 2025 07:34:40 +0000"
+    },
+    {
+        "title": "Galaxy Z Fold7 & Flip7 Leaked: Samsung’s Thinnest Foldables Yet Unveiling July 9 at Unpacked",
+        "link": "https://securityonline.info/galaxy-z-fold7-flip7-leaked-samsungs-thinnest-foldables-yet-unveiling-july-9-at-unpacked/",
+        "published": "Tue, 08 Jul 2025 01:58:54 +0000"
+    },
+    {
+        "title": "Apple Appeals €500M EU DMA Fine: Challenges “Unprecedented” Ruling on App Store Policies",
+        "link": "https://securityonline.info/apple-appeals-e500m-eu-dma-fine-challenges-unprecedented-ruling-on-app-store-policies/",
+        "published": "Tue, 08 Jul 2025 01:54:59 +0000"
+    },
+    {
+        "title": "Galaxy S25 Edge Breaks Sales Records in Europe, Outselling All Previous Plus Models",
+        "link": "https://securityonline.info/galaxy-s25-edge-breaks-sales-records-in-europe-outselling-all-previous-plus-models/",
+        "published": "Tue, 08 Jul 2025 01:49:38 +0000"
+    },
+    {
+        "title": "MongoDB Flaws Allow Privilege Escalation & DoS",
+        "link": "https://securityonline.info/mongodb-flaws-allow-privilege-escalation-dos/",
+        "published": "Tue, 08 Jul 2025 01:42:09 +0000"
+    },
+    {
+        "title": "NetSupport RAT Returns: Weaponized via WordPress & “ClickFix” for Remote Access",
+        "link": "https://securityonline.info/netsupport-rat-returns-weaponized-via-wordpress-clickfix-for-remote-access/",
+        "published": "Tue, 08 Jul 2025 00:44:44 +0000"
+    },
+    {
+        "title": "New BERT Ransomware Unleashed: Multi-Threaded Attacks Hit Windows, Linux & ESXi with REvil Links",
+        "link": "https://securityonline.info/new-bert-ransomware-unleashed-multi-threaded-attacks-hit-windows-linux-esxi-with-revil-links/",
+        "published": "Tue, 08 Jul 2025 00:41:45 +0000"
+    },
+    {
+        "title": "RedLine Stealer Unleashed: Inno Setup Installers Abused for Stealthy Data Theft & Cryptowallet Draining",
+        "link": "https://securityonline.info/redline-stealer-unleashed-inno-setup-installers-abused-for-stealthy-data-theft-cryptowallet-draining/",
+        "published": "Tue, 08 Jul 2025 00:38:47 +0000"
+    },
+    {
+        "title": "Critical Frauscher Flaws (CVE-2025-3626 CVSS 9.1, CVE-2025-3705 CVSS 6.8): OS Command Injection Threatens Railway Systems",
+        "link": "https://securityonline.info/critical-frauscher-flaws-cve-2025-3626-cvss-9-1-cve-2025-3705-cvss-6-8-os-command-injection-threatens-railway-systems/",
+        "published": "Tue, 08 Jul 2025 00:31:51 +0000"
+    },
+    {
+        "title": "NordDragonScan: New Infostealer Hits Via Weaponized HTAs, Stealing Browser Data & Documents!",
+        "link": "https://securityonline.info/norddragonscan-new-infostealer-hits-via-weaponized-htas-stealing-browser-data-documents/",
+        "published": "Tue, 08 Jul 2025 00:28:41 +0000"
+    },
+    {
+        "title": "Phishing Alert: Fake WeTransfer & HunCERT Pages Hosted on AWS S3 & Cloudflare Turnstile Stealing Credentials",
+        "link": "https://securityonline.info/hishing-alert-fake-wetransfer-huncert-pages-hosted-on-aws-s3-cloudflare-turnstile-stealing-credentials/",
+        "published": "Tue, 08 Jul 2025 00:22:42 +0000"
+    },
+    {
+        "title": "XMRig Cryptojacking Surges: New Campaign Uses LOLBAS, Steals Monero Undetected",
+        "link": "https://securityonline.info/xmrig-cryptojacking-surges-new-campaign-uses-lolbas-steals-monero-undetected/",
+        "published": "Tue, 08 Jul 2025 00:19:57 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities Found in Nimesa Backup and Recovery Software",
+        "link": "https://securityonline.info/critical-vulnerabilities-found-in-nimesa-backup-and-recovery-software/",
+        "published": "Tue, 08 Jul 2025 00:13:18 +0000"
+    },
+    {
+        "title": "XwormRAT Resurfaces with Steganography-Powered Attack Chain",
+        "link": "https://securityonline.info/xwormrat-resurfaces-with-steganography-powered-attack-chain/",
+        "published": "Tue, 08 Jul 2025 00:08:48 +0000"
+    },
+    {
+        "title": "CVE-2025-41672 (CVSS 10): Critical JWT Certificate Flaw in WAGO Device Sphere Allows Full Remote Takeover",
+        "link": "https://securityonline.info/cve-2025-41672-cvss-10-critical-jwt-certificate-flaw-in-wago-device-sphere-allows-full-remote-takeover/",
+        "published": "Tue, 08 Jul 2025 00:00:09 +0000"
     }
 ]
