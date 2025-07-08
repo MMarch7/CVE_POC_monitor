@@ -698,5 +698,45 @@
         "title": "Buffer overflow in fgfmd",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-036",
         "published": "Mon, 23 Jun 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Access control bypass in logging component",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-045",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Command injection vulnerability",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-250",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "DNS type 65 resource record requests bypass DNS filter",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-053",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Heap-based buffer overflow in cw_stad daemon",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-026",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "PKI via API: Authentication granted with an invalid certificate",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-511",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "SQL injection in forward module",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-437",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Session still active for deleted admin",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-035",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Unauthenticated SQL injection in GUI",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-151",
+        "published": "Tue, 08 Jul 2025 00:00:00 -0700"
     }
 ]
