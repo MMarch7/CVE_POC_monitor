@@ -378,5 +378,25 @@
         "title": "CVE-2025-4229 PAN-OS: Traffic Information Disclosure Vulnerability (Severity: LOW)",
         "link": "https://security.paloaltonetworks.com/CVE-2025-4229",
         "published": "2025-06-11T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0141 GlobalProtect App: Privilege Escalation (PE) Vulnerability (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0141",
+        "published": "2025-07-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0140 GlobalProtect App: Non Admin User Can Disable the GlobalProtect App (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0140",
+        "published": "2025-07-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-0139 Autonomous Digital Experience Manager: Privilege Escalation (PE) Vulnerability (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-0139",
+        "published": "2025-07-09T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0013 Chromium: Monthly Vulnerability Update (July 2025) (Severity: HIGH)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0013",
+        "published": "2025-07-09T16:00:00.000Z"
     }
 ]
