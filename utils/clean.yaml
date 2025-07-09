@@ -939,3 +939,4 @@ clean_list:
 - CVE-2025-49719-Exploit
 - cve-2025-48384-hook
 - TestCitrixException
+- CVE-2025-45072
