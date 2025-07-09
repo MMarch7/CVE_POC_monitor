@@ -933,3 +933,5 @@ clean_list:
 - ble-cve2025-attack-new-version
 - POC-CVE-2025-6554
 - cve-2025-48384
+- CVE-2025-53547-POC
+- CVE-2025-48384
