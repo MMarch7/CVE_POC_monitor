@@ -931,3 +931,5 @@ clean_list:
 - cve-2025-32463
 - CVE-2025-32463_sudo_chroot
 - ble-cve2025-attack-new-version
+- POC-CVE-2025-6554
+- cve-2025-48384
