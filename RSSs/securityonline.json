@@ -13838,5 +13838,10 @@
         "title": "Rockerbox Data Leak Exposes 245,949 Records: SSNs, Driver’s Licenses, Military IDs Leaked from Unsecured Cloud",
         "link": "https://securityonline.info/rockerbox-data-leak-exposes-245949-records-ssns-drivers-licenses-military-ids-leaked-from-unsecured-cloud/",
         "published": "Wed, 09 Jul 2025 09:04:10 +0000"
+    },
+    {
+        "title": "Hardcoded Credentials & Command Injection Found in HPE Aruba Instant On Access Points",
+        "link": "https://securityonline.info/hardcoded-credentials-command-injection-found-in-hpe-aruba-instant-on-access-points/",
+        "published": "Wed, 09 Jul 2025 09:45:50 +0000"
     }
 ]
