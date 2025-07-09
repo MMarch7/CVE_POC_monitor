@@ -13728,5 +13728,95 @@
         "title": "SAP’s July 2025 Patch Day Brings 27 New Notes, Multiple Critical RCE & Deserialization Flaws (CVSS 10.0)",
         "link": "https://securityonline.info/saps-july-2025-patch-day-brings-27-new-notes-multiple-critical-rce-deserialization-flaws-cvss-10-0/",
         "published": "Tue, 08 Jul 2025 07:40:47 +0000"
+    },
+    {
+        "title": "Windows Activation Tool TSforge Suspended: Microsoft’s Coding Error Breaks ZeroCID",
+        "link": "https://securityonline.info/windows-activation-tool-tsforge-suspended-microsofts-coding-error-breaks-zerocid/",
+        "published": "Wed, 09 Jul 2025 02:11:33 +0000"
+    },
+    {
+        "title": "Android Gets New “System Services” Page: Google Boosts Transparency for Background Apps",
+        "link": "https://securityonline.info/android-gets-new-system-services-page-google-boosts-transparency-for-background-apps/",
+        "published": "Wed, 09 Jul 2025 02:06:34 +0000"
+    },
+    {
+        "title": "Android Privacy Alert: Google Gemini AI Now Accesses WhatsApp, Texts & Calls by Default",
+        "link": "https://securityonline.info/android-privacy-alert-google-gemini-ai-now-accesses-whatsapp-texts-calls-by-default/",
+        "published": "Wed, 09 Jul 2025 02:02:24 +0000"
+    },
+    {
+        "title": "Intel’s Arrow Lake Refresh to Bring Copilot+ AI Powers & Faster Performance to Desktops This Year",
+        "link": "https://securityonline.info/intels-arrow-lake-refresh-to-bring-copilot-ai-powers-faster-performance-to-desktops-this-year/",
+        "published": "Wed, 09 Jul 2025 01:56:14 +0000"
+    },
+    {
+        "title": "Zoom Patches 6 Flaws: DoS, Info Disclosure & XSS Across All Platforms",
+        "link": "https://securityonline.info/zoom-patches-6-flaws-dos-info-disclosure-xss-across-all-platforms/",
+        "published": "Wed, 09 Jul 2025 01:47:39 +0000"
+    },
+    {
+        "title": "Git Project Patches 3 Flaws: RCE, Arbitrary File Writes & Buffer Overflow",
+        "link": "https://securityonline.info/git-project-patches-3-flaws-rce-arbitrary-file-writes-buffer-overflow/",
+        "published": "Wed, 09 Jul 2025 01:37:19 +0000"
+    },
+    {
+        "title": "VS Code ETHcode Extension Hacked: Just 2 Lines of Code Led to Supply Chain Compromise Via GitHub PR",
+        "link": "https://securityonline.info/vs-code-ethcode-extension-hacked-just-2-lines-of-code-led-to-supply-chain-compromise-via-github-pr/",
+        "published": "Wed, 09 Jul 2025 00:46:20 +0000"
+    },
+    {
+        "title": "Critical Flaws Found in Siemens SINEC NMS: Privilege Escalation and Remote Code Execution Risks",
+        "link": "https://securityonline.info/critical-flaws-found-in-siemens-sinec-nms-privilege-escalation-and-remote-code-execution-risks/",
+        "published": "Wed, 09 Jul 2025 00:36:12 +0000"
+    },
+    {
+        "title": "Citrix Warns of Privilege Escalation Vulnerability in Windows Virtual Delivery Agent (CVE-2025-6759)",
+        "link": "https://securityonline.info/citrix-warns-of-privilege-escalation-vulnerability-in-windows-virtual-delivery-agent-cve-2025-6759/",
+        "published": "Wed, 09 Jul 2025 00:31:02 +0000"
+    },
+    {
+        "title": "Apache Tomcat Patches Trio of Denial-of-Service Flaws",
+        "link": "https://securityonline.info/apache-tomcat-patches-trio-of-denial-of-service-flaws/",
+        "published": "Wed, 09 Jul 2025 00:29:02 +0000"
+    },
+    {
+        "title": "OmegaPro Founders Charged: DOJ Unseals Indictment for $650M Global Crypto Ponzi Scheme",
+        "link": "https://securityonline.info/omegapro-founders-charged-doj-unseals-indictment-for-650m-global-crypto-ponzi-scheme/",
+        "published": "Wed, 09 Jul 2025 00:25:27 +0000"
+    },
+    {
+        "title": "Microsoft’s July 2025 Patch Tuesday: 140 Flaws Fixed, Including Zero-Day, RCEs & AMD CPU Threats",
+        "link": "https://securityonline.info/microsofts-july-2025-patch-tuesday-140-flaws-fixed-including-zero-day-rces-amd-cpu-threats/",
+        "published": "Wed, 09 Jul 2025 00:21:46 +0000"
+    },
+    {
+        "title": "Philippines Hit by Surge in Chinese Cybercrime: NFC & Smishing Attacks Steal Millions from Mobile Wallets",
+        "link": "https://securityonline.info/philippines-hit-by-surge-in-chinese-cybercrime-nfc-smishing-attacks-steal-millions-from-mobile-wallets/",
+        "published": "Wed, 09 Jul 2025 00:17:38 +0000"
+    },
+    {
+        "title": "Fortinet Fixes Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257, CVSS 9.6)",
+        "link": "https://securityonline.info/fortinet-fixes-critical-sql-injection-flaw-in-fortiweb-cve-2025-25257-cvss-9-6/",
+        "published": "Wed, 09 Jul 2025 00:14:22 +0000"
+    },
+    {
+        "title": "Chinese State-Sponsored Hacker Xu Zewei Arrested in Italy for COVID-19 Research & Exchange Server Hacks",
+        "link": "https://securityonline.info/chinese-state-sponsored-hacker-xu-zewei-arrested-in-italy-for-covid-19-research-exchange-server-hacks/",
+        "published": "Wed, 09 Jul 2025 00:11:47 +0000"
+    },
+    {
+        "title": "Anatsa Resurfaces: Banking Trojan Targets North America via Google Play",
+        "link": "https://securityonline.info/anatsa-resurfaces-banking-trojan-targets-north-america-via-google-play/",
+        "published": "Wed, 09 Jul 2025 00:07:00 +0000"
+    },
+    {
+        "title": "Critical Flaws in Phoenix Contact EV Charging Controllers Expose Infrastructure to Remote Code Execution and Unauthorized Access",
+        "link": "https://securityonline.info/critical-flaws-in-phoenix-contact-ev-charging-controllers-expose-infrastructure-to-remote-code-execution-and-unauthorized-access/",
+        "published": "Wed, 09 Jul 2025 00:00:34 +0000"
+    },
+    {
+        "title": "Google’s New Android Advanced Protection Supercharges Chrome Security for High-Risk Users",
+        "link": "https://securityonline.info/googles-new-android-advanced-protection-supercharges-chrome-security-for-high-risk-users/",
+        "published": "Tue, 08 Jul 2025 23:38:01 +0000"
     }
 ]
