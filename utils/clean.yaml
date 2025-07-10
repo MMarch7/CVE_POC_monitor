@@ -942,3 +942,5 @@ clean_list:
 - CVE-2025-45072
 - CVE-2025-6218-WinRAR-Directory-Traversal-RCE
 - CVE-2025-34085
+- CVE-2025-32023
+- CVE-2024-31969
