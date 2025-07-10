@@ -949,3 +949,4 @@ clean_list:
 - CVE-2025-48384-sub
 - CVE-2025-4578
 - CVE-2025-5777-CitrixBleed
+- cve-2025-48384-hub
