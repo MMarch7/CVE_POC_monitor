@@ -940,3 +940,5 @@ clean_list:
 - cve-2025-48384-hook
 - TestCitrixException
 - CVE-2025-45072
+- CVE-2025-6218-WinRAR-Directory-Traversal-RCE
+- CVE-2025-34085

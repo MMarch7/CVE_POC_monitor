@@ -13848,5 +13848,55 @@
         "title": "Reflectiz Joins the Datadog Marketplace",
         "link": "https://securityonline.info/reflectiz-joins-the-datadog-marketplace/",
         "published": "Wed, 09 Jul 2025 14:15:49 +0000"
+    },
+    {
+        "title": "Windows Update Flaw: SYSTEM Privilege Escalation Via Arbitrary Folder Deletion, PoC Available!",
+        "link": "https://securityonline.info/windows-update-flaw-system-privilege-escalation-via-arbitrary-folder-deletion-poc-available/",
+        "published": "Thu, 10 Jul 2025 00:50:51 +0000"
+    },
+    {
+        "title": "Critical D-Link DIR-825 Router Flaw (CVE-2025-7206, CVSS 9.8): Remote Crash Via Buffer Overflow",
+        "link": "https://securityonline.info/critical-d-link-dir-825-router-flaw-cve-2025-7206-cvss-9-8-remote-crash-via-buffer-overflow/",
+        "published": "Thu, 10 Jul 2025 00:42:29 +0000"
+    },
+    {
+        "title": "Ruckus Wireless Exposed: 9 Critical Vulnerabilities Leave Wi-Fi Management Systems Wide Open, No Patch!",
+        "link": "https://securityonline.info/ruckus-wireless-exposed-9-critical-vulnerabilities-leave-wi-fi-management-systems-wide-open-no-patch/",
+        "published": "Thu, 10 Jul 2025 00:38:16 +0000"
+    },
+    {
+        "title": "From Stealer to Spy: AMOS Malware Evolves into Full-Fledged Backdoor Threat for macOS",
+        "link": "https://securityonline.info/from-stealer-to-spy-amos-malware-evolves-into-full-fledged-backdoor-threat-for-macos/",
+        "published": "Thu, 10 Jul 2025 00:32:17 +0000"
+    },
+    {
+        "title": "Opossum Attack: New Vulnerability Compromises Encrypted TLS Connections, Allowing MitM & Data Injection",
+        "link": "https://securityonline.info/opossum-attack-new-vulnerability-compromises-encrypted-tls-connections-allowing-mitm-data-injection/",
+        "published": "Thu, 10 Jul 2025 00:26:40 +0000"
+    },
+    {
+        "title": "Critical Vulnerabilities Found in Schneider Electric’s EcoStruxure IT Data Center Expert",
+        "link": "https://securityonline.info/critical-vulnerabilities-found-in-schneider-electrics-ecostruxure-it-data-center-expert/",
+        "published": "Thu, 10 Jul 2025 00:21:21 +0000"
+    },
+    {
+        "title": "OFAC Sanctions Key Players in North Korea’s Remote IT Worker Scheme Funding Weapons Programs",
+        "link": "https://securityonline.info/ofac-sanctions-key-players-in-north-koreas-remote-it-worker-scheme-funding-weapons-programs/",
+        "published": "Thu, 10 Jul 2025 00:18:37 +0000"
+    },
+    {
+        "title": "Ongoing Attacks Exploit GeoServer RCE Flaw (CVE-2024-36401) to Install NetCat and XMRig CoinMiner",
+        "link": "https://securityonline.info/ongoing-attacks-exploit-geoserver-rce-flaw-cve-2024-36401-to-install-netcat-and-xmrig-coinminer/",
+        "published": "Thu, 10 Jul 2025 00:11:17 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Flaws in Emerson ValveLink Software: Exploits Could Lead to Code Execution and Data Exposure",
+        "link": "https://securityonline.info/cisa-warns-of-critical-flaws-in-emerson-valvelink-software-exploits-could-lead-to-code-execution-and-data-exposure/",
+        "published": "Thu, 10 Jul 2025 00:08:38 +0000"
+    },
+    {
+        "title": "Gold Melody’s Stealthy Campaign: Leaked ASP.NET Machine Keys Fuel In-Memory RCE & Privilege Escalation",
+        "link": "https://securityonline.info/gold-melodys-stealthy-campaign-leaked-asp-net-machine-keys-fuel-in-memory-rce-privilege-escalation/",
+        "published": "Thu, 10 Jul 2025 00:00:18 +0000"
     }
 ]
