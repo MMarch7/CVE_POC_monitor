@@ -947,3 +947,4 @@ clean_list:
 - CVE-2025-48384-p
 - Pickle-Deserialization-Exploit-in-Transformers
 - CVE-2025-48384-sub
+- CVE-2025-4578
