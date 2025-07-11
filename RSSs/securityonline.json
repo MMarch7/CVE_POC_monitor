@@ -13958,5 +13958,55 @@
         "title": "INE Security Launches Enhanced eMAPT Certification",
         "link": "https://securityonline.info/ine-security-launches-enhanced-emapt-certification/",
         "published": "Thu, 10 Jul 2025 14:01:14 +0000"
+    },
+    {
+        "title": "CitrixBleed 2: CVE-2025-5777 Joins CISA’s KEV Catalog Amid Active Exploitation Storm, PoC Available",
+        "link": "https://securityonline.info/citrixbleed-2-cve-2025-5777-joins-cisas-kev-catalog-amid-active-exploitation-storm-poc-available/",
+        "published": "Fri, 11 Jul 2025 02:13:28 +0000"
+    },
+    {
+        "title": "Apache HTTP Server 2.4.64 Released: Patches 8 Vulnerabilities, Including HTTP Splitting, SSRF & DoS",
+        "link": "https://securityonline.info/apache-http-server-2-4-64-released-patches-8-vulnerabilities-including-http-splitting-ssrf-dos/",
+        "published": "Fri, 11 Jul 2025 01:47:56 +0000"
+    },
+    {
+        "title": "Critical Wing FTP Server RCE (CVE-2025-47812) Actively Exploited In The Wild",
+        "link": "https://securityonline.info/critical-wing-ftp-server-rce-cve-2025-47812-actively-exploited-in-the-wild/",
+        "published": "Fri, 11 Jul 2025 00:38:50 +0000"
+    },
+    {
+        "title": "Juniper Security Director Alert: Critical Flaw Allows Unauthenticated Access to Sensitive Resources",
+        "link": "https://securityonline.info/juniper-security-director-alert-critical-flaw-allows-unauthenticated-access-to-sensitive-resources/",
+        "published": "Fri, 11 Jul 2025 00:36:09 +0000"
+    },
+    {
+        "title": "Laravel Flaw: Leaked APP_KEY Turns Into Remote Code Execution",
+        "link": "https://securityonline.info/laravel-flaw-leaked-app_key-turns-into-remote-code-execution/",
+        "published": "Fri, 11 Jul 2025 00:28:20 +0000"
+    },
+    {
+        "title": "New macOS.ZuRu Variant Uses Trojanized Termius App to Infiltrate Systems",
+        "link": "https://securityonline.info/new-macos-zuru-variant-uses-trojanized-termius-app-to-infiltrate-systems/",
+        "published": "Fri, 11 Jul 2025 00:22:01 +0000"
+    },
+    {
+        "title": "SafePay Ransomware Unleashed: New LockBit 3.0 Variant Hits 200+ MSPs & SMBs Worldwide",
+        "link": "https://securityonline.info/safepay-ransomware-unleashed-new-lockbit-3-0-variant-hits-200-msps-smbs-worldwide/",
+        "published": "Fri, 11 Jul 2025 00:19:25 +0000"
+    },
+    {
+        "title": "DoNot APT Expands to Europe: Targets Foreign Ministry with LoptikMod Malware via Google Drive Phishing",
+        "link": "https://securityonline.info/donot-apt-expands-to-europe-targets-foreign-ministry-with-loptikmod-malware-via-google-drive-phishing/",
+        "published": "Fri, 11 Jul 2025 00:11:52 +0000"
+    },
+    {
+        "title": "Iranian Ransomware “Pay2Key.I2P” Resurfaces on I2P Network, Offering 80% Profit for Targeting Western Enemies",
+        "link": "https://securityonline.info/iranian-ransomware-pay2key-i2p-resurfaces-on-i2p-network-offering-80-profit-for-targeting-western-enemies/",
+        "published": "Fri, 11 Jul 2025 00:08:30 +0000"
+    },
+    {
+        "title": "Helm Flaw (CVE-2025-53547): Local Code Execution via Malicious Chart.yaml & Symlinks",
+        "link": "https://securityonline.info/helm-flaw-cve-2025-53547-local-code-execution-via-malicious-chart-yaml-symlinks/",
+        "published": "Fri, 11 Jul 2025 00:00:15 +0000"
     }
 ]

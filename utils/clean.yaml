@@ -950,3 +950,5 @@ clean_list:
 - CVE-2025-4578
 - CVE-2025-5777-CitrixBleed
 - cve-2025-48384-hub
+- CVE-2025-45778
+- Ofbiz-RCE
