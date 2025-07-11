@@ -957,3 +957,4 @@ clean_list:
 - CVE-2024-45352-xiaomi
 - -CVE-2024-45352
 - CVE-2024-10915
+- CVE-2025-32462-32463-Detection-Script-
