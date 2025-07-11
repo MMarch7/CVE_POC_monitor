@@ -952,3 +952,6 @@ clean_list:
 - cve-2025-48384-hub
 - CVE-2025-45778
 - Ofbiz-RCE
+- xiaomi-cve-2024-45352
+- CVE-2024-45352
+- CVE-2024-45352-xiaomi
