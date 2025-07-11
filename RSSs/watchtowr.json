@@ -123,5 +123,10 @@
         "title": "How Much More Must We Bleed? - Citrix NetScaler Memory Disclosure (CitrixBleed 2 CVE-2025-5777)",
         "link": "https://labs.watchtowr.com/how-much-more-must-we-bleed-citrix-netscaler-memory-disclosure-citrixbleed-2-cve-2025-5777/",
         "published": "Fri, 04 Jul 2025 19:13:56 GMT"
+    },
+    {
+        "title": "Pre-Auth SQL Injection to RCE - Fortinet FortiWeb Fabric Connector (CVE-2025-25257)",
+        "link": "https://labs.watchtowr.com/pre-auth-sql-injection-to-rce-fortinet-fortiweb-fabric-connector-cve-2025-25257/",
+        "published": "Fri, 11 Jul 2025 10:12:43 GMT"
     }
 ]
