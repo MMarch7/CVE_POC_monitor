@@ -965,3 +965,4 @@ clean_list:
 - CVE-2025-24813-Apache-Tomcat-RCE-PoC
 - CVE-2024-42640
 - CVE-2024-27954
+- CVE-2024-9796
