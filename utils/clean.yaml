@@ -967,3 +967,4 @@ clean_list:
 - CVE-2024-27954
 - CVE-2024-9796
 - CVE-2024-1212
+- CVE-2025-25257-Exploit-Tool
