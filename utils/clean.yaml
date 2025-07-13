@@ -971,3 +971,4 @@ clean_list:
 - CVE-2025-34085-Multi-target
 - Scan-CVE-2025-6058
 - CVE-2025-27591
+- CVE-2025-47981-POC
