@@ -975,3 +975,4 @@ clean_list:
 - CVE-2025-27591-PoC
 - Blackash-CVE-2025-22457
 - CVE-2025-4593
+- collateral-damage
