@@ -984,3 +984,4 @@ clean_list:
 - cve_2025_7620
 - CVE-2025-27415-PoC
 - Exploit-CVE-2025-1974-Lab
+- fortiweb_rce_toolkit
