@@ -14068,5 +14068,75 @@
         "title": "Meta Acquires PlayAI: Voice AI Startup Joins Superintelligence Push, Boosting Conversational Tech",
         "link": "https://securityonline.info/meta-acquires-playai-voice-ai-startup-joins-superintelligence-push-boosting-conversational-tech/",
         "published": "Sun, 13 Jul 2025 08:25:50 +0000"
+    },
+    {
+        "title": "GMX Hacked for $40M, Hacker Returns Funds for $5M Bounty After On-Chain Appeal",
+        "link": "https://securityonline.info/gmx-hacked-for-40m-hacker-returns-funds-for-5m-bounty-after-on-chain-appeal/",
+        "published": "Mon, 14 Jul 2025 02:27:21 +0000"
+    },
+    {
+        "title": "Red Bull Job Scam Exposed: Phishing Campaign Spoofs Brands, Uses “Slow Kill” Tactics to Steal Credentials",
+        "link": "https://securityonline.info/red-bull-job-scam-exposed-phishing-campaign-spoofs-brands-uses-slow-kill-tactics-to-steal-credentials/",
+        "published": "Mon, 14 Jul 2025 02:07:49 +0000"
+    },
+    {
+        "title": "Interlock RAT Gets PHP Makeover: New Variant Uses Steganography & ClickFix for Stealthy Infiltration",
+        "link": "https://securityonline.info/interlock-rat-gets-php-makeover-new-variant-uses-steganography-clickfix-for-stealthy-infiltration/",
+        "published": "Mon, 14 Jul 2025 02:00:25 +0000"
+    },
+    {
+        "title": "Elon Musk’s AI Empire Boosted: SpaceX Invests $2B in xAI to Accelerate Grok Development & Tesla Integration",
+        "link": "https://securityonline.info/elon-musks-ai-empire-boosted-spacex-invests-2b-in-xai-to-accelerate-grok-development-tesla-integration/",
+        "published": "Mon, 14 Jul 2025 01:51:10 +0000"
+    },
+    {
+        "title": "CVE-2025-25257 (CVSS 9.6): Pre-Auth SQLi in Fortinet FortiWeb Opens Door to RCE, PoC Published",
+        "link": "https://securityonline.info/cve-2025-25257-cvss-9-6-pre-auth-sqli-in-fortinet-fortiweb-opens-door-to-rce-poc-published/",
+        "published": "Mon, 14 Jul 2025 00:43:00 +0000"
+    },
+    {
+        "title": "Linux Kernel Flaw: Root Privilege Escalation Via Use-After-Free, PoC Available!",
+        "link": "https://securityonline.info/linux-kernel-flaw-root-privilege-escalation-via-use-after-free-poc-available/",
+        "published": "Mon, 14 Jul 2025 00:41:49 +0000"
+    },
+    {
+        "title": "RenderShock: New Zero-Click Attack Explores Hidden Vulnerabilities in OS & Enterprise Environments",
+        "link": "https://securityonline.info/rendershock-new-zero-click-attack-explores-hidden-vulnerabilities-in-os-enterprise-environments/",
+        "published": "Mon, 14 Jul 2025 00:41:49 +0000"
+    },
+    {
+        "title": "SLOW#TEMPEST: Advanced Obfuscation Evades Static Analysis With CFG & Indirect Calls",
+        "link": "https://securityonline.info/slowtempest-advanced-obfuscation-evades-static-analysis-with-cfg-indirect-calls/",
+        "published": "Mon, 14 Jul 2025 00:36:35 +0000"
+    },
+    {
+        "title": "SMM Vulnerabilities in Gigabyte UEFI Firmware Expose Systems to Stealthy Attacks",
+        "link": "https://securityonline.info/smm-vulnerabilities-in-gigabyte-uefi-firmware-expose-systems-to-stealthy-attacks/",
+        "published": "Mon, 14 Jul 2025 00:28:03 +0000"
+    },
+    {
+        "title": "CVE-2025-30023: Critical RCE Vulnerability Discovered in Axis Video Management Software",
+        "link": "https://securityonline.info/cve-2025-30023-critical-rce-vulnerability-discovered-in-axis-video-management-software/",
+        "published": "Mon, 14 Jul 2025 00:22:16 +0000"
+    },
+    {
+        "title": "WordPress Supply Chain Attack: Gravity Forms Plugin Backdoored Through Official Downloads",
+        "link": "https://securityonline.info/wordpress-supply-chain-attack-gravity-forms-plugin-backdoored-through-official-downloads/",
+        "published": "Mon, 14 Jul 2025 00:18:56 +0000"
+    },
+    {
+        "title": "Google Uncovers Massive Phishing Scam Exploiting Booking.com Users",
+        "link": "https://securityonline.info/google-uncovers-massive-phishing-scam-exploiting-booking-com-users/",
+        "published": "Mon, 14 Jul 2025 00:11:22 +0000"
+    },
+    {
+        "title": "Darktrace Exposes “Fake Startup” Malware Campaign: Lures Crypto Users with AI/Web3 Apps to Steal Wallets",
+        "link": "https://securityonline.info/darktrace-exposes-fake-startup-malware-campaign-lures-crypto-users-with-ai-web3-apps-to-steal-wallets/",
+        "published": "Mon, 14 Jul 2025 00:08:34 +0000"
+    },
+    {
+        "title": "Fake Free VPN & Minecraft Mod Repositories Deliver Lumma Stealer",
+        "link": "https://securityonline.info/fake-free-vpn-minecraft-mod-repositories-deliver-lumma-stealer/",
+        "published": "Mon, 14 Jul 2025 00:01:15 +0000"
     }
 ]
