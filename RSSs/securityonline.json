@@ -14178,5 +14178,10 @@
         "title": "MoonPay CEO Falls Victim to Crypto Scam: Imposter Steve Witkoff Dupes Executive for $250K",
         "link": "https://securityonline.info/moonpay-ceo-falls-victim-to-crypto-scam-imposter-steve-witkoff-dupes-executive-for-250k/",
         "published": "Mon, 14 Jul 2025 07:33:52 +0000"
+    },
+    {
+        "title": "Critical Apache Jackrabbit Flaw (CVE-2025-53689): XXE Attacks Allow Data Exfiltration & DoS",
+        "link": "https://securityonline.info/critical-apache-jackrabbit-flaw-cve-2025-53689-xxe-attacks-allow-data-exfiltration-dos/",
+        "published": "Mon, 14 Jul 2025 09:37:24 +0000"
     }
 ]
