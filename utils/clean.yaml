@@ -989,3 +989,5 @@ clean_list:
 - CVE-2025-47981
 - CVE-2025-XXXX-Sirv-Stored-XSS
 - Linux-Privilege-Escalation-CVE-2025-27591
+- CVE-2025-48384-submodule
+- Blackash-CVE-2025-53833
