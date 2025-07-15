@@ -992,3 +992,4 @@ clean_list:
 - CVE-2025-48384-submodule
 - Blackash-CVE-2025-53833
 - AutoVAPT-AI-Based-Vulnerability-Scanner-Pentest-Tool
+- CVE-2025-5349-Scanner
