@@ -14193,5 +14193,50 @@
         "title": "Tible Partners with AccuKnox to Deploy Zero Trust CNAPP Solution",
         "link": "https://securityonline.info/tible-partners-with-accuknox-to-deploy-zero-trust-cnapp-solution/",
         "published": "Mon, 14 Jul 2025 11:56:38 +0000"
+    },
+    {
+        "title": "Cursor AI IDE Hacked: Fraudulent Extension Steals $500K in Crypto from Russian Developer",
+        "link": "https://securityonline.info/cursor-ai-ide-hacked-fraudulent-extension-steals-500k-in-crypto-from-russian-developer/",
+        "published": "Tue, 15 Jul 2025 02:13:22 +0000"
+    },
+    {
+        "title": "CVE-2025-53833 (CVSS 10): Critical SSTI Flaw in LaRecipe Threatens Millions of Laravel Apps",
+        "link": "https://securityonline.info/cve-2025-53833-cvss-10-critical-ssti-flaw-in-larecipe-threatens-millions-of-laravel-apps/",
+        "published": "Tue, 15 Jul 2025 02:01:46 +0000"
+    },
+    {
+        "title": "Google Confirms Major OS Merger: Android & ChromeOS to Become a Single Unified Platform",
+        "link": "https://securityonline.info/google-confirms-major-os-merger-android-chromeos-to-become-a-single-unified-platform/",
+        "published": "Tue, 15 Jul 2025 01:53:48 +0000"
+    },
+    {
+        "title": "CISA Warns of Active Exploitation of Wing FTP Server Flaw (CVE-2025-47812), CVSS 10",
+        "link": "https://securityonline.info/cisa-warns-of-active-exploitation-of-wing-ftp-server-flaw-cve-2025-47812-cvss-10/",
+        "published": "Tue, 15 Jul 2025 00:55:03 +0000"
+    },
+    {
+        "title": "ImageMagick Flaw (CVE-2025-53101): Stack Buffer Overflow Allows Potential Remote Code Execution",
+        "link": "https://securityonline.info/imagemagick-flaw-cve-2025-53101-stack-buffer-overflow-allows-potential-remote-code-execution/",
+        "published": "Tue, 15 Jul 2025 00:38:57 +0000"
+    },
+    {
+        "title": "XORIndex: North Korea’s Evolving Supply Chain Malware Targets npm Ecosystem Again",
+        "link": "https://securityonline.info/xorindex-north-koreas-evolving-supply-chain-malware-targets-npm-ecosystem-again/",
+        "published": "Tue, 15 Jul 2025 00:26:06 +0000"
+    },
+    {
+        "title": "HazyBeacon: Novel Backdoor Uses AWS Lambda for Stealthy C2, Targets Govts",
+        "link": "https://securityonline.info/hazybeacon-novel-backdoor-uses-aws-lambda-for-stealthy-c2-targets-govts/",
+        "published": "Tue, 15 Jul 2025 00:12:47 +0000"
+    },
+    {
+        "title": "CVE-2025-43856: OAuth2 Account Hijacking Flaw Found in Immich, a Popular Self-Hosted Photo Platform",
+        "link": "https://securityonline.info/cve-2025-43856-oauth2-account-hijacking-flaw-found-in-immich-a-popular-self-hosted-photo-platform/",
+        "published": "Tue, 15 Jul 2025 00:03:14 +0000"
+    },
+    {
+        "title": "BlackSuit: New Royal/Conti Rebrand Hits With Speed, Stealth, & Data Exfiltration",
+        "link": "https://securityonline.info/blacksuit-new-royal-conti-rebrand-hits-with-speed-stealth-data-exfiltration/",
+        "published": "Tue, 15 Jul 2025 00:00:30 +0000"
     }
 ]
