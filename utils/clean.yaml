@@ -998,3 +998,4 @@ clean_list:
 - CVE-2025-27210_NodeJS_Path_Traversal_Exploit
 - CVE-2025-52689-PoC
 - Blackash-CVE-2025-32432
+- CVE-2025-32463-Chwoot-POC
