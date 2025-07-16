@@ -999,3 +999,4 @@ clean_list:
 - CVE-2025-52689-PoC
 - Blackash-CVE-2025-32432
 - CVE-2025-32463-Chwoot-POC
+- CVE-2025-52688
