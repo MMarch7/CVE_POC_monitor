@@ -996,3 +996,4 @@ clean_list:
 - cve-2025-48384-poc
 - cve-2025-32463-lab
 - CVE-2025-27210_NodeJS_Path_Traversal_Exploit
+- CVE-2025-52689-PoC

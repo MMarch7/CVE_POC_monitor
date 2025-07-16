@@ -108,5 +108,10 @@
         "title": "CVE-2025-41234 - Medium - CVE-2025-41234: RFD Attack via “Content-Disposition” Header Sourced from Request",
         "link": "https://spring.io/security/cve-2025-41234",
         "published": "Thu, 12 Jun 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-22227 - Medium - CVE-2025-22227: Authentication Leak On Redirect With Reactor Netty HTTP Client",
+        "link": "https://spring.io/security/cve-2025-22227",
+        "published": "Tue, 15 Jul 2025 00:00:00 GMT"
     }
 ]
