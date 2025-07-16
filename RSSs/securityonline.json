@@ -14313,5 +14313,50 @@
         "title": "Apache CXF Vulnerability: DoS and Data Leak Risks Exposed (CVE-2025-48795)",
         "link": "https://securityonline.info/apache-cxf-vulnerability-dos-and-data-leak-risks-exposed-cve-2025-48795/",
         "published": "Tue, 15 Jul 2025 22:34:35 +0000"
+    },
+    {
+        "title": "AI Spam Threatens cURL’s Bug Bounty Program: Developer Considers Shutting It Down",
+        "link": "https://securityonline.info/ai-spam-threatens-curls-bug-bounty-program-developer-considers-shutting-it-down/",
+        "published": "Wed, 16 Jul 2025 02:24:12 +0000"
+    },
+    {
+        "title": "Windows 10 LTSB 2015 Reaches End-of-Life: Act Now to Avoid Security Risks",
+        "link": "https://securityonline.info/windows-10-ltsb-2015-reaches-end-of-life-act-now-to-avoid-security-risks/",
+        "published": "Wed, 16 Jul 2025 02:18:04 +0000"
+    },
+    {
+        "title": "Microsoft’s AI Assistant Now Reviews 90% of All Internal Pull Requests, Powering GitHub Copilot",
+        "link": "https://securityonline.info/microsofts-ai-assistant-now-reviews-90-of-all-internal-pull-requests-powering-github-copilot/",
+        "published": "Wed, 16 Jul 2025 02:04:30 +0000"
+    },
+    {
+        "title": "Critical Pre-Auth Root RCE Found in Samsung WLAN APs, PoC Published – Patch Now!",
+        "link": "https://securityonline.info/critical-pre-auth-root-rce-found-in-samsung-wlan-aps-poc-published-patch-now/",
+        "published": "Wed, 16 Jul 2025 01:54:44 +0000"
+    },
+    {
+        "title": "High-Severity Node.js Flaws Expose Windows Apps to Path Traversal (CVE-2025-27210) & HashDoS (CVE-2025-27209) Attacks",
+        "link": "https://securityonline.info/high-severity-node-js-flaws-expose-windows-apps-to-path-traversal-cve-2025-27210-hashdos-cve-2025-27209-attacks/",
+        "published": "Wed, 16 Jul 2025 01:34:31 +0000"
+    },
+    {
+        "title": "Warning: Fake Remittance Apps Target Bangladeshi Expats, Stealing IDs & Financial Data",
+        "link": "https://securityonline.info/warning-fake-remittance-apps-target-bangladeshi-expats-stealing-ids-financial-data/",
+        "published": "Wed, 16 Jul 2025 00:18:03 +0000"
+    },
+    {
+        "title": "Warning: “Educational” Octalyn Forensic Toolkit is a Dangerous Telegram-Controlled Credential Stealer",
+        "link": "https://securityonline.info/warning-educational-octalyn-forensic-toolkit-is-a-dangerous-telegram-controlled-credential-stealer/",
+        "published": "Wed, 16 Jul 2025 00:11:53 +0000"
+    },
+    {
+        "title": "GLOBAL GROUP: New Ransomware Giant Emerges with AI Negotiators, Affiliate Incentives, and Industrial-Scale Attacks",
+        "link": "https://securityonline.info/global-group-new-ransomware-giant-emerges-with-ai-negotiators-affiliate-incentives-and-industrial-scale-attacks/",
+        "published": "Wed, 16 Jul 2025 00:08:09 +0000"
+    },
+    {
+        "title": "New PhantomRemote Backdoor Targets Russian Healthcare & IT, Linked to Rainbow Hyena Attacks",
+        "link": "https://securityonline.info/new-phantomremote-backdoor-targets-russian-healthcare-it-linked-to-rainbow-hyena-attacks/",
+        "published": "Wed, 16 Jul 2025 00:00:23 +0000"
     }
 ]
