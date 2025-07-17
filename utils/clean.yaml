@@ -1008,3 +1008,6 @@ clean_list:
 - Blackash-CVE-2025-30065
 - cve-analysis
 - CVE-2025-27521_PoC
+- Blackash-CVE-2025-47812
+- CVE-2025-6558-exp
+- CVE-2025-27591_PoC
