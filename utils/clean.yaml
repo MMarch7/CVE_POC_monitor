@@ -1002,3 +1002,4 @@ clean_list:
 - CVE-2025-52688
 - Blackash-CVE-2025-5777
 - CVE-2025-48384-RCE
+- realestate-php-cve-report
