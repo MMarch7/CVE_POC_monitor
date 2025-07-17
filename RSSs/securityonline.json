@@ -14373,5 +14373,70 @@
         "title": "AWS Unveils Kiro: The AI Agent IDE Revolutionizing Development from Concept to Code",
         "link": "https://securityonline.info/aws-unveils-kiro-the-ai-agent-ide-revolutionizing-development-from-concept-to-code/",
         "published": "Wed, 16 Jul 2025 08:41:13 +0000"
+    },
+    {
+        "title": "ChromeOS Isn’t Dying: Google Clarifies Android Integration for Enhanced Laptop Experience",
+        "link": "https://securityonline.info/chromeos-isnt-dying-google-clarifies-android-integration-for-enhanced-laptop-experience/",
+        "published": "Thu, 17 Jul 2025 02:25:11 +0000"
+    },
+    {
+        "title": "Facebook’s Major Purge: 10 Million Accounts Removed in New Content Quality Push",
+        "link": "https://securityonline.info/facebooks-major-purge-10-million-accounts-removed-in-new-content-quality-push/",
+        "published": "Thu, 17 Jul 2025 02:20:28 +0000"
+    },
+    {
+        "title": "Made by Google 2025: Pixel 10, Pixel Watch 4, and More AI Innovations Revealed",
+        "link": "https://securityonline.info/made-by-google-2025-pixel-10-pixel-watch-4-and-more-ai-innovations-revealed/",
+        "published": "Thu, 17 Jul 2025 02:12:48 +0000"
+    },
+    {
+        "title": "Critical Cisco ISE Flaw CVE-2025-20337 (CVSS 10.0) Allows Unauthenticated Root RCE – Patch Immediately",
+        "link": "https://securityonline.info/critical-cisco-ise-flaw-cve-2025-20337-cvss-10-0-allows-unauthenticated-root-rce-patch-immediately/",
+        "published": "Thu, 17 Jul 2025 02:02:00 +0000"
+    },
+    {
+        "title": "SonicWall SMA Devices Under Attack: UNC6148 Deploys OVERSTEP Rootkit for Persistent Access",
+        "link": "https://securityonline.info/sonicwall-sma-devices-under-attack-unc6148-deploys-overstep-rootkit-for-persistent-access/",
+        "published": "Thu, 17 Jul 2025 01:48:35 +0000"
+    },
+    {
+        "title": "PyPI Bans Inbox.ru After Massive Spam Campaign and 1,500+ Fake Project Uploads",
+        "link": "https://securityonline.info/pypi-bans-inbox-ru-after-massive-spam-campaign-and-1500-fake-project-uploads/",
+        "published": "Thu, 17 Jul 2025 01:40:07 +0000"
+    },
+    {
+        "title": "Critical Backdoors & RCE Found in Nexxt Solutions Mesh Routers: Unauthenticated Takeover Possible, PoC Published",
+        "link": "https://securityonline.info/critical-backdoors-rce-found-in-nexxt-solutions-mesh-routers-unauthenticated-takeover-possible-poc-published/",
+        "published": "Thu, 17 Jul 2025 00:30:17 +0000"
+    },
+    {
+        "title": "Stealthy SquidLoader Malware Targets Hong Kong Financial Firms with Evasive Cobalt Strike Attacks",
+        "link": "https://securityonline.info/stealthy-squidloader-malware-targets-hong-kong-financial-firms-with-evasive-cobalt-strike-attacks/",
+        "published": "Thu, 17 Jul 2025 00:28:19 +0000"
+    },
+    {
+        "title": "Critical Flaws in Alcatel-Lucent OmniAccess Stellar WLAN APs Allow Full Remote Takeover, PoC Releases",
+        "link": "https://securityonline.info/critical-flaws-in-alcatel-lucent-omniaccess-stellar-wlan-aps-allow-full-remote-takeover-poc-releases/",
+        "published": "Thu, 17 Jul 2025 00:22:06 +0000"
+    },
+    {
+        "title": "Microsoft Unveils RedirectionGuard: A New Windows 11 Defense Against Privilege Escalation Attacks",
+        "link": "https://securityonline.info/microsoft-unveils-redirectionguard-a-new-windows-11-defense-against-privilege-escalation-attacks/",
+        "published": "Thu, 17 Jul 2025 00:17:41 +0000"
+    },
+    {
+        "title": "NVIDIA Plugs Critical Flaws in Container Toolkit and GPU Operator: CVE-2025-23266 & CVE-2025-23267",
+        "link": "https://securityonline.info/nvidia-plugs-critical-flaws-in-container-toolkit-and-gpu-operator-cve-2025-23266-cve-2025-23267/",
+        "published": "Thu, 17 Jul 2025 00:11:52 +0000"
+    },
+    {
+        "title": "Hidden Protestware Found in 28+ npm Packages: Silently Targeting Russian Users",
+        "link": "https://securityonline.info/hidden-protestware-found-in-28-npm-packages-silently-targeting-russian-users/",
+        "published": "Thu, 17 Jul 2025 00:06:14 +0000"
+    },
+    {
+        "title": "Google’s Big Sleep AI Foils Live Zero-Day Exploit in SQLite (CVE-2025-6965)",
+        "link": "https://securityonline.info/googles-big-sleep-ai-foils-live-zero-day-exploit-in-sqlite-cve-2025-6965/",
+        "published": "Thu, 17 Jul 2025 00:00:14 +0000"
     }
 ]
