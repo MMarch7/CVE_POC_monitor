@@ -1004,3 +1004,4 @@ clean_list:
 - CVE-2025-48384-RCE
 - realestate-php-cve-report
 - CVE-2025-6558
+- real-world-cve-analysis
