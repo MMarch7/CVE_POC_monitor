@@ -14538,5 +14538,15 @@
         "title": "Hijacking the Cloud: How a Misconfigured App Can Become a Global Admin in Entra ID",
         "link": "https://securityonline.info/hijacking-the-cloud-how-a-misconfigured-app-can-become-a-global-admin-in-entra-id/",
         "published": "Fri, 18 Jul 2025 00:00:26 +0000"
+    },
+    {
+        "title": "Google Sues BadBox 2.0 Botnet Operators, Protecting 10 Million+ Infected Android Devices",
+        "link": "https://securityonline.info/google-sues-badbox-2-0-botnet-operators-protecting-10-million-infected-android-devices/",
+        "published": "Fri, 18 Jul 2025 09:29:58 +0000"
+    },
+    {
+        "title": "Grafana Patches XSS (CVE-2025-6023) and Open Redirect (CVE-2025-6197) Flaws in Recent Security Release",
+        "link": "https://securityonline.info/grafana-patches-xss-cve-2025-6023-and-open-redirect-cve-2025-6197-flaws-in-recent-security-release/",
+        "published": "Fri, 18 Jul 2025 09:20:55 +0000"
     }
 ]
