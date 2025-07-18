@@ -1014,3 +1014,5 @@ clean_list:
 - splashin-cve-2025
 - cve-monitor
 - CVE-2025-44608
+- Blackash-CVE-2025-27210
+- cve-analysis-2
