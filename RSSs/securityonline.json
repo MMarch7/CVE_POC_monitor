@@ -14493,5 +14493,50 @@
         "title": "SquareX Collaborates with Top Fortune 500 CISOs to Launch The Browser Security Field Manual at Black Hat",
         "link": "https://securityonline.info/squarex-collaborates-with-top-fortune-500-cisos-to-launch-the-browser-security-field-manual-at-black-hat/",
         "published": "Thu, 17 Jul 2025 13:00:50 +0000"
+    },
+    {
+        "title": "GitHub Abused in Amadey MaaS Campaign: Talos Uncovers Malware-as-a-Service Network Leveraging Public Repositories",
+        "link": "https://securityonline.info/github-abused-in-amadey-maas-campaign-talos-uncovers-malware-as-a-service-network-leveraging-public-repositories/",
+        "published": "Fri, 18 Jul 2025 00:40:16 +0000"
+    },
+    {
+        "title": "Critical Flaw (CVSS 9.8) in Ubiquiti UniFi Access Devices Allows RCE",
+        "link": "https://securityonline.info/critical-flaw-cvss-9-8-in-ubiquiti-unifi-access-devices-allows-rce/",
+        "published": "Fri, 18 Jul 2025 00:36:56 +0000"
+    },
+    {
+        "title": "GhostContainer: Kaspersky Uncovers Stealthy Backdoor Infiltrating Government & High-Tech Exchange Servers",
+        "link": "https://securityonline.info/ghostcontainer-kaspersky-uncovers-stealthy-backdoor-infiltrating-government-high-tech-exchange-servers/",
+        "published": "Fri, 18 Jul 2025 00:33:48 +0000"
+    },
+    {
+        "title": "CVE-2025-34300 (CVSS 10): Critical RCE Flaw in Lighthouse Studio’s CGI Scripts Threatens Survey Servers Worldwide",
+        "link": "https://securityonline.info/cve-2025-34300-cvss-10-critical-rce-flaw-in-lighthouse-studios-cgi-scripts-threatens-survey-servers-worldwide/",
+        "published": "Fri, 18 Jul 2025 00:27:44 +0000"
+    },
+    {
+        "title": "Massistant: China’s New Mobile Forensics App Deepens Digital Surveillance",
+        "link": "https://securityonline.info/massistant-chinas-new-mobile-forensics-app-deepens-digital-surveillance/",
+        "published": "Fri, 18 Jul 2025 00:22:29 +0000"
+    },
+    {
+        "title": "New macOS Infostealer Slips Past Apple’s Defenses with Code Signing and Notarization",
+        "link": "https://securityonline.info/new-macos-infostealer-slips-past-apples-defenses-with-code-signing-and-notarization/",
+        "published": "Fri, 18 Jul 2025 00:18:52 +0000"
+    },
+    {
+        "title": "ISC Warns of Cache Poisoning and Crash Risks in BIND: What You Need to Know About CVE-2025-40776 and CVE-2025-40777",
+        "link": "https://securityonline.info/isc-warns-of-cache-poisoning-and-crash-risks-in-bind-what-you-need-to-know-about-cve-2025-40776-and-cve-2025-40777/",
+        "published": "Fri, 18 Jul 2025 00:12:45 +0000"
+    },
+    {
+        "title": "H2Miner Botnet Unleashes Lcrypt0rx: Flawed, AI-Generated Ransomware with Zero Detection Rates",
+        "link": "https://securityonline.info/h2miner-botnet-unleashes-lcrypt0rx-flawed-ai-generated-ransomware-with-zero-detection-rates/",
+        "published": "Fri, 18 Jul 2025 00:07:31 +0000"
+    },
+    {
+        "title": "Hijacking the Cloud: How a Misconfigured App Can Become a Global Admin in Entra ID",
+        "link": "https://securityonline.info/hijacking-the-cloud-how-a-misconfigured-app-can-become-a-global-admin-in-entra-id/",
+        "published": "Fri, 18 Jul 2025 00:00:26 +0000"
     }
 ]
