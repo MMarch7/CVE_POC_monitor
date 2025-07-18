@@ -1013,3 +1013,4 @@ clean_list:
 - CVE-2025-27591_PoC
 - splashin-cve-2025
 - cve-monitor
+- CVE-2025-44608
