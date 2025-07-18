@@ -1017,3 +1017,4 @@ clean_list:
 - Blackash-CVE-2025-27210
 - cve-analysis-2
 - CVE-2025-7753
+- DjVuLibre-poc-CVE-2025-53367
