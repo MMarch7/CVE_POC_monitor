@@ -1034,3 +1034,5 @@ clean_list:
 - CVE-2025-51867
 - CVE-2025-51869
 - CVE-2025-51868
+- CVE-2025-41646
+- PutScanner
