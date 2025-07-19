@@ -1018,3 +1018,4 @@ clean_list:
 - cve-analysis-2
 - CVE-2025-7753
 - DjVuLibre-poc-CVE-2025-53367
+- CVE-2024-20767
