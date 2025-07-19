@@ -1024,3 +1024,4 @@ clean_list:
 - CVE-2025-51858
 - Sudo-CVE-2021-3156
 - CVE-2025-20337-EXP
+- cve-2025-23266-poc
