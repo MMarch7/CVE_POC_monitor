@@ -1025,3 +1025,4 @@ clean_list:
 - Sudo-CVE-2021-3156
 - CVE-2025-20337-EXP
 - cve-2025-23266-poc
+- CVE-2025-51862
