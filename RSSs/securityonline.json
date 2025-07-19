@@ -14573,5 +14573,30 @@
         "title": "Mark Zuckerberg & Meta Directors Settle $8 Billion Privacy Lawsuit Over Cambridge Analytica",
         "link": "https://securityonline.info/mark-zuckerberg-meta-directors-settle-8-billion-privacy-lawsuit-over-cambridge-analytica/",
         "published": "Fri, 18 Jul 2025 09:35:31 +0000"
+    },
+    {
+        "title": "FortiWeb SQL Injection (CVE-2025-25257) Added to CISA KEV After Active Exploitation, PoC Available!",
+        "link": "https://securityonline.info/fortiweb-sql-injection-cve-2025-25257-added-to-cisa-kev-after-active-exploitation-poc-available/",
+        "published": "Sat, 19 Jul 2025 02:06:44 +0000"
+    },
+    {
+        "title": "CVE-2025-54309: CrushFTP Targeted in Active Exploits Due to Unpatched Zero-Day Vulnerability",
+        "link": "https://securityonline.info/cve-2025-54309-crushftp-targeted-in-active-exploits-due-to-unpatched-zero-day-vulnerability/",
+        "published": "Sat, 19 Jul 2025 01:50:51 +0000"
+    },
+    {
+        "title": "CVE-2025-4660 (CVSS 8.7) in Forescout SecureConnector Allows Remote Endpoint Hijack, PoC Publishes",
+        "link": "https://securityonline.info/cve-2025-4660-cvss-8-7-in-forescout-secureconnector-allows-remote-endpoint-hijack-poc-publishes/",
+        "published": "Sat, 19 Jul 2025 00:11:30 +0000"
+    },
+    {
+        "title": "KAWA4096: New Ransomware Blends Qilin & Akira Tactics, Hits US and Japan",
+        "link": "https://securityonline.info/kawa4096-new-ransomware-blends-qilin-akira-tactics-hits-us-and-japan/",
+        "published": "Sat, 19 Jul 2025 00:06:57 +0000"
+    },
+    {
+        "title": "Nvidia Flaws Expose Jetson AI & Robotics Platforms to RCE and Data Theft",
+        "link": "https://securityonline.info/nvidia-flaws-expose-jetson-ai-robotics-platforms-to-rce-and-data-theft/",
+        "published": "Sat, 19 Jul 2025 00:01:17 +0000"
     }
 ]
