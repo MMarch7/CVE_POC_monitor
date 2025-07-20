@@ -1048,3 +1048,4 @@ clean_list:
 - CVE-2025-51970
 - CVE-2025-49706-SharePoint-Spoofing-Vulnerability-Under-Active-Exploitation
 - linux-root-kit
+- CVE-2025-7840
