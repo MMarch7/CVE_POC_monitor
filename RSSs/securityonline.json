@@ -14608,5 +14608,10 @@
         "title": "Major npm Supply Chain Attack: Phishing Campaign Steals Maintainer Credentials, Injects Malware into Popular Packages",
         "link": "https://securityonline.info/major-npm-supply-chain-attack-phishing-campaign-steals-maintainer-credentials-injects-malware-into-popular-packages/",
         "published": "Sat, 19 Jul 2025 02:38:23 +0000"
+    },
+    {
+        "title": "PyPI Supply Chain Attack: “cloudscrapersafe” Steals Credit Cards via Fake Python Library",
+        "link": "https://securityonline.info/pypi-supply-chain-attack-cloudscrapersafe-steals-credit-cards-via-fake-python-library/",
+        "published": "Sun, 20 Jul 2025 00:04:23 +0000"
     }
 ]
