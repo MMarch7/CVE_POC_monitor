@@ -1059,3 +1059,4 @@ clean_list:
 - grafana-CVE-2024-9264
 - SharePointSecurityMonitor
 - Blackash-CVE-2025-53770
+- CVE-2025-53770-Exploit
