@@ -1056,3 +1056,5 @@ clean_list:
 - POC-CVE-2024-8118
 - ZeroPoint
 - Bootstrap-with-XSS
+- grafana-CVE-2024-9264
+- SharePointSecurityMonitor
