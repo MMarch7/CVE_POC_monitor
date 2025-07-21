@@ -1058,3 +1058,4 @@ clean_list:
 - Bootstrap-with-XSS
 - grafana-CVE-2024-9264
 - SharePointSecurityMonitor
+- Blackash-CVE-2025-53770
