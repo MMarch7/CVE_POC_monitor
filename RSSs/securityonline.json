@@ -14628,5 +14628,85 @@
         "title": "SharePoint Server Under Active Zero-Day Attack (CVE-2025-53770, CVSS 9.8), No Patch Yet!",
         "link": "https://securityonline.info/sharepoint-server-under-active-zero-day-attack-cve-2025-53770-cvss-9-8-no-patch-yet/",
         "published": "Sun, 20 Jul 2025 02:38:16 +0000"
+    },
+    {
+        "title": "Three High-Severity Privilege Escalation Flaws Patched in Sophos Intercept X for Windows",
+        "link": "https://securityonline.info/three-high-severity-privilege-escalation-flaws-patched-in-sophos-intercept-x-for-windows/",
+        "published": "Mon, 21 Jul 2025 00:41:21 +0000"
+    },
+    {
+        "title": "Critical Livewire RCE (CVE-2025-54068) Threatens Millions of Laravel Apps – Patch Immediately!",
+        "link": "https://securityonline.info/critical-livewire-rce-cve-2025-54068-threatens-millions-of-laravel-apps-patch-immediately/",
+        "published": "Mon, 21 Jul 2025 00:40:45 +0000"
+    },
+    {
+        "title": "Scanception: Global QR Code Phishing Campaign Bypasses Enterprise Security, Steals Credentials at Scale",
+        "link": "https://securityonline.info/scanception-global-qr-code-phishing-campaign-bypasses-enterprise-security-steals-credentials-at-scale/",
+        "published": "Mon, 21 Jul 2025 00:40:41 +0000"
+    },
+    {
+        "title": "Katz Stealer: The $100/Month MaaS Threat Plundering Digital Identities Undetected",
+        "link": "https://securityonline.info/katz-stealer-the-100-month-maas-threat-plundering-digital-identities-undetected/",
+        "published": "Mon, 21 Jul 2025 00:36:34 +0000"
+    },
+    {
+        "title": "Windows Zero-Day Actively Exploited by Ransomware Gangs – PoC Available!",
+        "link": "https://securityonline.info/windows-zero-day-actively-exploited-by-ransomware-gangs-poc-available/",
+        "published": "Mon, 21 Jul 2025 00:33:06 +0000"
+    },
+    {
+        "title": "Matanbuchus 3.0 Levels Up: New Stealthy Malware Loader Exploits Microsoft Teams",
+        "link": "https://securityonline.info/matanbuchus-3-0-levels-up-new-stealthy-malware-loader-exploits-microsoft-teams/",
+        "published": "Mon, 21 Jul 2025 00:31:13 +0000"
+    },
+    {
+        "title": "Two Vulnerabilities in 7-Zip Could Trigger Denial of Service",
+        "link": "https://securityonline.info/two-vulnerabilities-in-7-zip-could-trigger-denial-of-service/",
+        "published": "Mon, 21 Jul 2025 00:24:30 +0000"
+    },
+    {
+        "title": "UNG0002: Stealthy South Asian APT Group Unleashes New Malware in Cyber Espionage Campaigns Across Asia",
+        "link": "https://securityonline.info/ung0002-stealthy-south-asian-apt-group-unleashes-new-malware-in-cyber-espionage-campaigns-across-asia/",
+        "published": "Mon, 21 Jul 2025 00:20:56 +0000"
+    },
+    {
+        "title": "ToolShell: New SharePoint RCE Zero-Day Chain Under Active Global Exploitation",
+        "link": "https://securityonline.info/toolshell-new-sharepoint-rce-zero-day-chain-under-active-global-exploitation/",
+        "published": "Mon, 21 Jul 2025 00:20:02 +0000"
+    },
+    {
+        "title": "China-Aligned APTs Intensify Cyber Espionage on Taiwan’s Semiconductor Industry",
+        "link": "https://securityonline.info/china-aligned-apts-intensify-cyber-espionage-on-taiwans-semiconductor-industry/",
+        "published": "Mon, 21 Jul 2025 00:16:56 +0000"
+    },
+    {
+        "title": "DuckDuckGo Battles AI Slop: New Filter Lets Users Hide AI-Generated Images from Search Results",
+        "link": "https://securityonline.info/duckduckgo-battles-ai-slop-new-filter-lets-users-hide-ai-generated-images-from-search-results/",
+        "published": "Mon, 21 Jul 2025 00:15:46 +0000"
+    },
+    {
+        "title": "Lenovo Vantage Flaws Allow Local Privilege Escalation on PCs",
+        "link": "https://securityonline.info/lenovo-vantage-flaws-allow-local-privilege-escalation-on-pcs/",
+        "published": "Mon, 21 Jul 2025 00:11:39 +0000"
+    },
+    {
+        "title": "LibreOffice Accuses Microsoft of Deliberate “Lock-in” Through Complex File Formats",
+        "link": "https://securityonline.info/libreoffice-accuses-microsoft-of-deliberate-lock-in-through-complex-file-formats/",
+        "published": "Mon, 21 Jul 2025 00:10:16 +0000"
+    },
+    {
+        "title": "Fake Receipts, Real Damage: Group-IB Uncovers Fraud-as-a-Service Empire Behind MaisonReceipts",
+        "link": "https://securityonline.info/fake-receipts-real-damage-group-ib-uncovers-fraud-as-a-service-empire-behind-maisonreceipts/",
+        "published": "Mon, 21 Jul 2025 00:07:39 +0000"
+    },
+    {
+        "title": "Trump Signs “GENIUS Act”: Landmark Law Reshapes US Stablecoin Market, Boosts Dollar Dominance",
+        "link": "https://securityonline.info/trump-signs-genius-act-landmark-law-reshapes-us-stablecoin-market-boosts-dollar-dominance/",
+        "published": "Mon, 21 Jul 2025 00:04:33 +0000"
+    },
+    {
+        "title": "SilentRoute: Trojanized SonicWall VPN Client Used to Steal Enterprise Credentials",
+        "link": "https://securityonline.info/silentroute-trojanized-sonicwall-vpn-client-used-to-steal-enterprise-credentials/",
+        "published": "Mon, 21 Jul 2025 00:00:31 +0000"
     }
 ]
