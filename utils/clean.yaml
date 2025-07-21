@@ -1060,3 +1060,4 @@ clean_list:
 - SharePointSecurityMonitor
 - Blackash-CVE-2025-53770
 - CVE-2025-53770-Exploit
+- CVE-2025-52488-poc
