@@ -1050,3 +1050,4 @@ clean_list:
 - linux-root-kit
 - CVE-2025-7840
 - WPTaskScheduler_CVE-2024-49039
+- CVE-2025-53770
