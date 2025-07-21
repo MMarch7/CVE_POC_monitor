@@ -1052,3 +1052,5 @@ clean_list:
 - WPTaskScheduler_CVE-2024-49039
 - CVE-2025-53770
 - bluefire-sharepoint-cve-2025-53770
+- Zeropoint
+- POC-CVE-2024-8118
