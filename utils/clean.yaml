@@ -1055,3 +1055,4 @@ clean_list:
 - Zeropoint
 - POC-CVE-2024-8118
 - ZeroPoint
+- Bootstrap-with-XSS
