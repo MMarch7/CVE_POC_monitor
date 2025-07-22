@@ -1072,3 +1072,4 @@ clean_list:
 - sudo_exploit
 - cve-2024-3552
 - CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE
+- CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC
