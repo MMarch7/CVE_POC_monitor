@@ -1068,3 +1068,5 @@ clean_list:
 - CVE-2024-4947
 - CVE-2025-53770-scanner
 - HelakuruV.1.1-DLLHijack
+- CVE-2024-6387-OpenSSH-ProxyCommand-RC
+- sudo_exploit
