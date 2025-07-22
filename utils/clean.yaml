@@ -1075,3 +1075,4 @@ clean_list:
 - CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC
 - Toolshell_CVE-2025-53770
 - CVE-2025-2825-CrushFTP-AuthBypass
+- -CVE-2024-39930
