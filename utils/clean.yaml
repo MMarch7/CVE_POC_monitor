@@ -1067,3 +1067,4 @@ clean_list:
 - cve-2025-5025
 - CVE-2024-4947
 - CVE-2025-53770-scanner
+- HelakuruV.1.1-DLLHijack
