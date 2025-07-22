@@ -1073,3 +1073,5 @@ clean_list:
 - cve-2024-3552
 - CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE
 - CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC
+- Toolshell_CVE-2025-53770
+- CVE-2025-2825-CrushFTP-AuthBypass
