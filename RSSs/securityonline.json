@@ -14753,5 +14753,80 @@
         "title": "Apple’s Foldable iPhone Coming 2026: “Not the First, But the Best” Strategy Aims for China Reboot",
         "link": "https://securityonline.info/apples-foldable-iphone-coming-2026-not-the-first-but-the-best-strategy-aims-for-china-reboot/",
         "published": "Mon, 21 Jul 2025 08:08:26 +0000"
+    },
+    {
+        "title": "India’s Chip Ambition: First “Made in India” Semiconductor & 6 New Fabs by 2025",
+        "link": "https://securityonline.info/indias-chip-ambition-first-made-in-india-semiconductor-6-new-fabs-by-2025/",
+        "published": "Tue, 22 Jul 2025 02:23:11 +0000"
+    },
+    {
+        "title": "Corning Avoids Massive EU Fine by Ending Exclusive Smartphone Glass Deals",
+        "link": "https://securityonline.info/corning-avoids-massive-eu-fine-by-ending-exclusive-smartphone-glass-deals/",
+        "published": "Tue, 22 Jul 2025 02:18:10 +0000"
+    },
+    {
+        "title": "Urgent Sophos Firewall Update: Two Critical RCE Flaws (CVE-2025-6704, CVE-2025-7624) Patched via Hotfixes",
+        "link": "https://securityonline.info/urgent-sophos-firewall-update-two-critical-rce-flaws-cve-2025-6704-cve-2025-7624-patched-via-hotfixes/",
+        "published": "Tue, 22 Jul 2025 02:07:48 +0000"
+    },
+    {
+        "title": "Critical Flaw (CVE-2025-24936, CVSS 9.0) in Nokia WaveSuite NOC Expose Telecom Networks to RCE",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-24936-cvss-9-0-in-nokia-wavesuite-noc-expose-telecom-networks-to-rce/",
+        "published": "Tue, 22 Jul 2025 00:46:35 +0000"
+    },
+    {
+        "title": "Greedy Sponge Reemerges: New AllaKore RAT Variant and SystemBC Target Mexico’s Financial Sector",
+        "link": "https://securityonline.info/greedy-sponge-reemerges-new-allakore-rat-variant-and-systembc-target-mexicos-financial-sector/",
+        "published": "Tue, 22 Jul 2025 00:44:16 +0000"
+    },
+    {
+        "title": "Android Malware Strikes: Fake Facebook & TikTok Apps Impersonate Brands for Traffic Monetization",
+        "link": "https://securityonline.info/android-malware-strikes-fake-facebook-tiktok-apps-impersonate-brands-for-traffic-monetization/",
+        "published": "Tue, 22 Jul 2025 00:40:17 +0000"
+    },
+    {
+        "title": "NailaoLocker Ransomware: Chinese SM2 Crypto and Built-in Decryptor Raise Questions",
+        "link": "https://securityonline.info/nailaolocker-ransomware-chinese-sm2-crypto-and-built-in-decryptor-raise-questions/",
+        "published": "Tue, 22 Jul 2025 00:35:12 +0000"
+    },
+    {
+        "title": "Important wolfSSL Update: Critical Apple Trust Store Bypass & Predictable Randomness Flaws Patched",
+        "link": "https://securityonline.info/important-wolfssl-update-critical-apple-trust-store-bypass-predictable-randomness-flaws-patched/",
+        "published": "Tue, 22 Jul 2025 00:30:30 +0000"
+    },
+    {
+        "title": "From MDifyLoader to Fscan: JPCERT Uncovers Deep Exploitation of Ivanti VPN Flaws in Advanced Malware Campaign",
+        "link": "https://securityonline.info/from-mdifyloader-to-fscan-jpcert-uncovers-deep-exploitation-of-ivanti-vpn-flaws-in-advanced-malware-campaign/",
+        "published": "Tue, 22 Jul 2025 00:29:54 +0000"
+    },
+    {
+        "title": "SVF Botnet: New Python DDoS Threat Leverages Discord for Stealthy C&C on Linux Servers",
+        "link": "https://securityonline.info/svf-botnet-new-python-ddos-threat-leverages-discord-for-stealthy-cc-on-linux-servers/",
+        "published": "Tue, 22 Jul 2025 00:27:21 +0000"
+    },
+    {
+        "title": "DeedRAT Backdoor: Chinese APT Targets Southeast Asian Governments via Vulnerable AV Software",
+        "link": "https://securityonline.info/deedrat-backdoor-chinese-apt-targets-southeast-asian-governments-via-vulnerable-av-software/",
+        "published": "Tue, 22 Jul 2025 00:20:42 +0000"
+    },
+    {
+        "title": "Ghost Crypt & PureRAT: New Stealthy Malware Targets Accounting Firm via “Process Hypnosis”",
+        "link": "https://securityonline.info/ghost-crypt-purerat-new-stealthy-malware-targets-accounting-firm-via-process-hypnosis/",
+        "published": "Tue, 22 Jul 2025 00:15:34 +0000"
+    },
+    {
+        "title": "Apache Jena Flaws (CVE-2025-49656 and CVE-2025-50151) Expose Semantic Web Apps to File System Compromise",
+        "link": "https://securityonline.info/apache-jena-flaws-cve-2025-49656-and-cve-2025-50151-expose-semantic-web-apps-to-file-system-compromise/",
+        "published": "Tue, 22 Jul 2025 00:11:45 +0000"
+    },
+    {
+        "title": "APT41 Unleashes Full Arsenal in Rare African Cyberespionage Campaign",
+        "link": "https://securityonline.info/apt41-unleashes-full-arsenal-in-rare-african-cyberespionage-campaign/",
+        "published": "Tue, 22 Jul 2025 00:06:03 +0000"
+    },
+    {
+        "title": "LARVA-208: New Web3 Phishing Campaign Leverages Fake AI Platforms & Job Lures to Steal Crypto",
+        "link": "https://securityonline.info/larva-208-new-web3-phishing-campaign-leverages-fake-ai-platforms-job-lures-to-steal-crypto/",
+        "published": "Tue, 22 Jul 2025 00:00:57 +0000"
     }
 ]

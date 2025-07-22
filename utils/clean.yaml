@@ -1061,3 +1061,5 @@ clean_list:
 - Blackash-CVE-2025-53770
 - CVE-2025-53770-Exploit
 - CVE-2025-52488-poc
+- CVE-2025-47917
+- fuzzy
