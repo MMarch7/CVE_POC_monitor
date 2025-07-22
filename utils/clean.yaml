@@ -1077,3 +1077,5 @@ clean_list:
 - CVE-2025-2825-CrushFTP-AuthBypass
 - -CVE-2024-39930
 - CVE-2025-6965-
+- CVE-2025-53770-Vulnerable-Scanner
+- Blackash-CVE-2025-34085
