@@ -1079,3 +1079,4 @@ clean_list:
 - CVE-2025-6965-
 - CVE-2025-53770-Vulnerable-Scanner
 - Blackash-CVE-2025-34085
+- MassExploit-CVE-2024-4577
