@@ -14993,5 +14993,10 @@
         "title": "Arch Linux Alert: Malicious Firefox, LibreWolf, & Zen Web AUR Packages Spread CHAOS RAT",
         "link": "https://securityonline.info/arch-linux-alert-malicious-firefox-librewolf-zen-web-aur-packages-spread-chaos-rat/",
         "published": "Wed, 23 Jul 2025 07:06:14 +0000"
+    },
+    {
+        "title": "RCEs in Schneider Electric EcoStruxure Power Operation: Actively Exploited, Public PoCs Available",
+        "link": "https://securityonline.info/rces-in-schneider-electric-ecostruxure-power-operation-actively-exploited-public-pocs-available/",
+        "published": "Wed, 23 Jul 2025 10:09:39 +0000"
     }
 ]
