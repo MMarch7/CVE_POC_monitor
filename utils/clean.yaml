@@ -1088,3 +1088,5 @@ clean_list:
 - CVE-2025-5777-TrendMicro-ApexCentral-RCE
 - CVE-2025-8018
 - CVE-2024-6387_Checker
+- Blackash-CVE-2025-30397
+- CVE-2025-53770-Scanner

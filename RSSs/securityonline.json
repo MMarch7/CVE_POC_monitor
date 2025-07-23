@@ -14998,5 +14998,20 @@
         "title": "RCEs in Schneider Electric EcoStruxure Power Operation: Actively Exploited, Public PoCs Available",
         "link": "https://securityonline.info/rces-in-schneider-electric-ecostruxure-power-operation-actively-exploited-public-pocs-available/",
         "published": "Wed, 23 Jul 2025 10:09:39 +0000"
+    },
+    {
+        "title": "Metasploit Module Released for Actively Exploited Microsoft SharePoint Flaw CVE-2025-53770",
+        "link": "https://securityonline.info/metasploit-module-released-for-actively-exploited-microsoft-sharepoint-flaw-cve-2025-53770/",
+        "published": "Wed, 23 Jul 2025 15:32:15 +0000"
+    },
+    {
+        "title": "Kingpin of xss.is Cybercrime Forum Arrested in Ukraine After Europol-Led Sting",
+        "link": "https://securityonline.info/kingpin-of-xss-is-cybercrime-forum-arrested-in-ukraine-after-europol-led-sting/",
+        "published": "Wed, 23 Jul 2025 15:07:03 +0000"
+    },
+    {
+        "title": "Critical Arbitrary File Upload Vulnerability in SonicWall SMA 100 Series Devices",
+        "link": "https://securityonline.info/critical-arbitrary-file-upload-vulnerability-in-sonicwall-sma-100-series-devices/",
+        "published": "Wed, 23 Jul 2025 14:59:11 +0000"
     }
 ]
