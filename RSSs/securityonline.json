@@ -14983,5 +14983,15 @@
         "title": "Microsoft: China-Backed APTs Actively Exploiting SharePoint Flaws (CVE-2025-49704 & CVE-2025-49706)",
         "link": "https://securityonline.info/microsoft-china-backed-apts-actively-exploiting-sharepoint-flaws-cve-2025-49704-cve-2025-49706/",
         "published": "Wed, 23 Jul 2025 02:30:47 +0000"
+    },
+    {
+        "title": "Brave Browser Blocks Microsoft Recall by Default, Citing Persistent Privacy Concerns",
+        "link": "https://securityonline.info/brave-browser-blocks-microsoft-recall-by-default-citing-persistent-privacy-concerns/",
+        "published": "Wed, 23 Jul 2025 07:12:35 +0000"
+    },
+    {
+        "title": "Arch Linux Alert: Malicious Firefox, LibreWolf, & Zen Web AUR Packages Spread CHAOS RAT",
+        "link": "https://securityonline.info/arch-linux-alert-malicious-firefox-librewolf-zen-web-aur-packages-spread-chaos-rat/",
+        "published": "Wed, 23 Jul 2025 07:06:14 +0000"
     }
 ]
