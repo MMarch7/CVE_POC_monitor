@@ -1083,3 +1083,6 @@ clean_list:
 - CVE-2024-45195
 - CVE-2025-49113-Simulation
 - CVE-2025-7461
+- cve-2025-32756
+- Digital-Signature-Forgery-Attack
+- CVE-2025-5777-TrendMicro-ApexCentral-RCE
