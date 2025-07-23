@@ -15013,5 +15013,10 @@
         "title": "Critical Arbitrary File Upload Vulnerability in SonicWall SMA 100 Series Devices",
         "link": "https://securityonline.info/critical-arbitrary-file-upload-vulnerability-in-sonicwall-sma-100-series-devices/",
         "published": "Wed, 23 Jul 2025 14:59:11 +0000"
+    },
+    {
+        "title": "GitLab Update: High-Severity XSS & Data Exposure Flaws Patched",
+        "link": "https://securityonline.info/gitlab-update-high-severity-xss-data-exposure-flaws-patched/",
+        "published": "Wed, 23 Jul 2025 15:53:47 +0000"
     }
 ]
