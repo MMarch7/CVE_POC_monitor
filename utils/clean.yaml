@@ -1090,3 +1090,5 @@ clean_list:
 - CVE-2024-6387_Checker
 - Blackash-CVE-2025-30397
 - CVE-2025-53770-Scanner
+- CVE-2025-6558-Proof-Of-Concept
+- suricata-rule-CVE-2025-53770

@@ -15018,5 +15018,65 @@
         "title": "GitLab Update: High-Severity XSS & Data Exposure Flaws Patched",
         "link": "https://securityonline.info/gitlab-update-high-severity-xss-data-exposure-flaws-patched/",
         "published": "Wed, 23 Jul 2025 15:53:47 +0000"
+    },
+    {
+        "title": "UK Moves to Ban Ransomware Payments for Public Sector Bodies, Criminalizing Extortion Compliance",
+        "link": "https://securityonline.info/uk-moves-to-ban-ransomware-payments-for-public-sector-bodies-criminalizing-extortion-compliance/",
+        "published": "Thu, 24 Jul 2025 02:25:25 +0000"
+    },
+    {
+        "title": "Buffer Overflows & XSS in SonicWall SMA 100 Expose Devices to RCE – Patch Immediately!",
+        "link": "https://securityonline.info/buffer-overflows-xss-in-sonicwall-sma-100-expose-devices-to-rce-patch-immediately/",
+        "published": "Thu, 24 Jul 2025 00:50:51 +0000"
+    },
+    {
+        "title": "Critical Flaws in Weidmueller Industrial Routers Allow Unauthenticated RCE",
+        "link": "https://securityonline.info/critical-flaws-in-weidmueller-industrial-routers-allow-unauthenticated-rce/",
+        "published": "Thu, 24 Jul 2025 00:45:35 +0000"
+    },
+    {
+        "title": "TP-Link NVR Update: Command Injection Flaws Expose Devices to Remote Code Execution",
+        "link": "https://securityonline.info/tp-link-nvr-update-command-injection-flaws-expose-devices-to-remote-code-execution/",
+        "published": "Thu, 24 Jul 2025 00:40:38 +0000"
+    },
+    {
+        "title": "Synology BeeDrive Flaws Allow Code Execution & Arbitrary File Deletion",
+        "link": "https://securityonline.info/synology-beedrive-flaws-allow-code-execution-arbitrary-file-deletion/",
+        "published": "Thu, 24 Jul 2025 00:30:57 +0000"
+    },
+    {
+        "title": "EdskManager RAT: New Stealthy Malware Leverages HVNC for Covert Remote Access & Evasion",
+        "link": "https://securityonline.info/edskmanager-rat-new-stealthy-malware-leverages-hvnc-for-covert-remote-access-evasion/",
+        "published": "Thu, 24 Jul 2025 00:26:28 +0000"
+    },
+    {
+        "title": "First in the Wild: Coyote Banking Trojan Exploits Microsoft’s UI Automation to Steal Credentials Undetected",
+        "link": "https://securityonline.info/first-in-the-wild-coyote-banking-trojan-exploits-microsofts-ui-automation-to-steal-credentials-undetected/",
+        "published": "Thu, 24 Jul 2025 00:21:03 +0000"
+    },
+    {
+        "title": "Critical Flaw (CVE-2025-8070) in ASUSTOR Backup & EZSync Allows Local SYSTEM Privilege Escalation",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-8070-in-asustor-backup-ezsync-allows-local-system-privilege-escalation/",
+        "published": "Thu, 24 Jul 2025 00:13:46 +0000"
+    },
+    {
+        "title": "CVE-2025-31700 & CVE-2025-31701: Buffer Overflow Flaws in Dahua IP Cameras Expose Devices to RCE",
+        "link": "https://securityonline.info/cve-2025-31700-cve-2025-31701-buffer-overflow-flaws-in-dahua-ip-cameras-expose-devices-to-rce/",
+        "published": "Thu, 24 Jul 2025 00:10:31 +0000"
+    },
+    {
+        "title": "18 Serious Flaws (CVSS up to 9.8) Expose Samsung MagicINFO 9 Servers to Full Compromise",
+        "link": "https://securityonline.info/18-serious-flaws-cvss-up-to-9-8-expose-samsung-magicinfo-9-servers-to-full-compromise/",
+        "published": "Thu, 24 Jul 2025 00:06:40 +0000"
+    },
+    {
+        "title": "WhoFi: New AI-Powered Wi-Fi Biometrics Track Humans Through Walls with 95.5% Accuracy",
+        "link": "https://securityonline.info/whofi-new-ai-powered-wi-fi-biometrics-track-humans-through-walls-with-95-5-accuracy/",
+        "published": "Thu, 24 Jul 2025 00:03:12 +0000"
+    },
+    {
+        "title": "Windows 11 24H2 Unleashes “Quick Machine Recovery” and a New Black Screen of Death for Faster Reboots",
+        "link": "https://securityonline.info/windows-11-24h2-unleashes-quick-machine-recovery-and-a-new-black-screen-of-death-for-faster-reboots/",
+        "published": "Thu, 24 Jul 2025 00:00:15 +0000"
     }
 ]
