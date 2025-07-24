@@ -15103,5 +15103,10 @@
         "title": "Critical Mitel MiVoice MX-ONE Flaw: Unauthenticated Authentication Bypass Exposed",
         "link": "https://securityonline.info/critical-mitel-mivoice-mx-one-flaw-unauthenticated-authentication-bypass-exposed/",
         "published": "Thu, 24 Jul 2025 09:28:05 +0000"
+    },
+    {
+        "title": "Bitnami Helm Chart Flaw (CVSS 10.0) Exposes Kubernetes Secrets: Publicly Accessible & Exploitable Remotely",
+        "link": "https://securityonline.info/bitnami-helm-chart-flaw-cvss-10-0-exposes-kubernetes-secrets-publicly-accessible-exploitable-remotely/",
+        "published": "Thu, 24 Jul 2025 09:45:30 +0000"
     }
 ]

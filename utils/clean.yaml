@@ -1097,3 +1097,5 @@ clean_list:
 - Jenkins-CVE-2024-23897-Lab
 - cve-2024-12085
 - github-cve-monitor
+- hackmelocal-CVE-2025-31486-Simulation
+- Blackash-Top-CVEs-2000-2025
