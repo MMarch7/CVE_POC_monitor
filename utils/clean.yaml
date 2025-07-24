@@ -1099,3 +1099,4 @@ clean_list:
 - github-cve-monitor
 - hackmelocal-CVE-2025-31486-Simulation
 - Blackash-Top-CVEs-2000-2025
+- POC-CVE-2025-5777
