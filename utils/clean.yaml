@@ -1094,3 +1094,6 @@ clean_list:
 - suricata-rule-CVE-2025-53770
 - cve-2025-53770-
 - cve_monitor
+- Jenkins-CVE-2024-23897-Lab
+- cve-2024-12085
+- github-cve-monitor
