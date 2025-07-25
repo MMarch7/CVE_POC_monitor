@@ -15108,5 +15108,45 @@
         "title": "Bitnami Helm Chart Flaw (CVSS 10.0) Exposes Kubernetes Secrets: Publicly Accessible & Exploitable Remotely",
         "link": "https://securityonline.info/bitnami-helm-chart-flaw-cvss-10-0-exposes-kubernetes-secrets-publicly-accessible-exploitable-remotely/",
         "published": "Thu, 24 Jul 2025 09:45:30 +0000"
+    },
+    {
+        "title": "Toptal GitHub Organization Compromised: Malicious npm Packages Steal Tokens & Wipe Systems",
+        "link": "https://securityonline.info/toptal-github-organization-compromised-malicious-npm-packages-steal-tokens-wipe-systems/",
+        "published": "Fri, 25 Jul 2025 00:39:28 +0000"
+    },
+    {
+        "title": "Operation GhostChat & PhantomPrayers: China-Linked APTs Target Tibetan Community with Stealthy Spyware",
+        "link": "https://securityonline.info/operation-ghostchat-phantomprayers-china-linked-apts-target-tibetan-community-with-stealthy-spyware/",
+        "published": "Fri, 25 Jul 2025 00:32:35 +0000"
+    },
+    {
+        "title": "Critical Axios Flaw (CVE-2025-54371) in Form-Data Dependency Exposes Millions to HTTP Manipulation",
+        "link": "https://securityonline.info/critical-axios-flaw-cve-2025-54371-in-form-data-dependency-exposes-millions-to-http-manipulation/",
+        "published": "Fri, 25 Jul 2025 00:28:21 +0000"
+    },
+    {
+        "title": "Dropping Elephant Targets Türkiye’s Missile Industry with Stealthy Conference Lures & VLC DLL Sideloading",
+        "link": "https://securityonline.info/dropping-elephant-targets-turkiyes-missile-industry-with-stealthy-conference-lures-vlc-dll-sideloading/",
+        "published": "Fri, 25 Jul 2025 00:22:23 +0000"
+    },
+    {
+        "title": "400,000 WordPress Sites at Risk: CVE-2025-24000 in Post SMTP Plugin Allows Full Site Takeover",
+        "link": "https://securityonline.info/400000-wordpress-sites-at-risk-cve-2025-24000-in-post-smtp-plugin-allows-full-site-takeover/",
+        "published": "Fri, 25 Jul 2025 00:18:36 +0000"
+    },
+    {
+        "title": "4 Open-Source Packages Infect 56,000+ Downloads with Stealthy Spyware",
+        "link": "https://securityonline.info/4-open-source-packages-infect-56000-downloads-with-stealthy-spyware/",
+        "published": "Fri, 25 Jul 2025 00:12:36 +0000"
+    },
+    {
+        "title": "Soco404: New Stealthy Cryptojacking Campaign Exploits Cloud Misconfigurations and PostgreSQL to Mine Crypto",
+        "link": "https://securityonline.info/soco404-new-stealthy-cryptojacking-campaign-exploits-cloud-misconfigurations-and-postgresql-to-mine-crypto/",
+        "published": "Fri, 25 Jul 2025 00:06:21 +0000"
+    },
+    {
+        "title": "High-Severity SQL Injection (CVE-2025-52914) in Mitel MiCollab Allows Data Access, Command Execution",
+        "link": "https://securityonline.info/high-severity-sql-injection-cve-2025-52914-in-mitel-micollab-allows-data-access-command-execution/",
+        "published": "Fri, 25 Jul 2025 00:00:24 +0000"
     }
 ]
