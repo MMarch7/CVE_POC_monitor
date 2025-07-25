@@ -1100,3 +1100,5 @@ clean_list:
 - hackmelocal-CVE-2025-31486-Simulation
 - Blackash-Top-CVEs-2000-2025
 - POC-CVE-2025-5777
+- CVE-2025-51411
+- cve-2025-5755
