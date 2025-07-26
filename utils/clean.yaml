@@ -1111,3 +1111,4 @@ clean_list:
 - bricks-rce-writeup
 - CVE-2025-32429
 - sharepoint-toolpane
+- cve-2025-54313
