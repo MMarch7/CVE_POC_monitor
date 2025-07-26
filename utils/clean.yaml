@@ -1107,3 +1107,4 @@ clean_list:
 - CVE-2025-53652-Jenkins-Git-Parameter-Analysis
 - CVE-2025-54554
 - CPSC253_CybersecurityFinalProjectReports
+- CVE-2024-27686
