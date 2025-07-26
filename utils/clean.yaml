@@ -1108,3 +1108,5 @@ clean_list:
 - CVE-2025-54554
 - CPSC253_CybersecurityFinalProjectReports
 - CVE-2024-27686
+- bricks-rce-writeup
+- CVE-2025-32429
