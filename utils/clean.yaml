@@ -1105,3 +1105,4 @@ clean_list:
 - CVE-2025-52914
 - ToolShell-Honeypot
 - CVE-2025-53652-Jenkins-Git-Parameter-Analysis
+- CVE-2025-54554
