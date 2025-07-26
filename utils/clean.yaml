@@ -1112,3 +1112,4 @@ clean_list:
 - CVE-2025-32429
 - sharepoint-toolpane
 - cve-2025-54313
+- CVE-2024-23346-exploit
