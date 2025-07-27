@@ -1117,3 +1117,4 @@ clean_list:
 - CVE-2025-50867
 - CVE-2025-34138
 - CVE-2025-54309-EXPLOIT
+- engeman-web-language-combobox-sqli
