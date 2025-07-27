@@ -1120,3 +1120,4 @@ clean_list:
 - engeman-web-language-combobox-sqli
 - CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection
 - CVE-2025-6998-CalibreWeb-0.6.24-ReDoS
+- -SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE
