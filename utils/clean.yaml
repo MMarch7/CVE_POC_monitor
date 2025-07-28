@@ -1124,3 +1124,4 @@ clean_list:
 - CVE-2025-8191
 - ToolShellFinder
 - CVE-2025-32429-Checker-
+- CVE-2025-32429-Checker
