@@ -128,5 +128,10 @@
         "title": "Pre-Auth SQL Injection to RCE - Fortinet FortiWeb Fabric Connector (CVE-2025-25257)",
         "link": "https://labs.watchtowr.com/pre-auth-sql-injection-to-rce-fortinet-fortiweb-fabric-connector-cve-2025-25257/",
         "published": "Fri, 11 Jul 2025 10:12:43 GMT"
+    },
+    {
+        "title": "Stack Overflows, Heap Overflows, and Existential Dread (SonicWall SMA100 CVE-2025-40596, CVE-2025-40597 and CVE-2025-40598)",
+        "link": "https://labs.watchtowr.com/stack-overflows-heap-overflows-and-existential-dread-sonicwall-sma100-cve-2025-40596-cve-2025-40597-and-cve-2025-40598/",
+        "published": "Mon, 28 Jul 2025 21:38:47 GMT"
     }
 ]

@@ -398,5 +398,10 @@
         "title": "PAN-SA-2025-0013 Chromium: Monthly Vulnerability Update (July 2025) (Severity: HIGH)",
         "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0013",
         "published": "2025-07-09T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2179 GlobalProtect App: Non Admin User Can Disable the GlobalProtect App (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2179",
+        "published": "2025-07-28T19:00:00.000Z"
     }
 ]
