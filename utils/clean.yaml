@@ -1123,3 +1123,4 @@ clean_list:
 - -SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE
 - CVE-2025-8191
 - ToolShellFinder
+- CVE-2025-32429-Checker-
