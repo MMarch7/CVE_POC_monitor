@@ -15353,5 +15353,85 @@
         "title": "Mozilla Ceases China Operations: Firefox to Exit Local Business, Focus on Global Direct Support",
         "link": "https://securityonline.info/mozilla-ceases-china-operations-firefox-to-exit-local-business-focus-on-global-direct-support/",
         "published": "Mon, 28 Jul 2025 11:00:48 +0000"
+    },
+    {
+        "title": "GitHub Hit by Widespread Outage: Core Services Disrupted Globally",
+        "link": "https://securityonline.info/github-hit-by-widespread-outage-core-services-disrupted-globally/",
+        "published": "Tue, 29 Jul 2025 01:55:36 +0000"
+    },
+    {
+        "title": "RedHook Android Banking Trojan Targets Vietnamese Users with Advanced Phishing & Full Device Takeover",
+        "link": "https://securityonline.info/redhook-android-banking-trojan-targets-vietnamese-users-with-advanced-phishing-full-device-takeover/",
+        "published": "Tue, 29 Jul 2025 01:44:50 +0000"
+    },
+    {
+        "title": "Critical Node-SAML Flaw (CVE-2025-54419, CVSS 10.0) Allows Authentication Bypass in SAML 2.0 Web Apps",
+        "link": "https://securityonline.info/critical-node-saml-flaw-cve-2025-54419-cvss-10-0-allows-authentication-bypass-in-saml-2-0-web-apps/",
+        "published": "Tue, 29 Jul 2025 00:45:30 +0000"
+    },
+    {
+        "title": "XWorm 6.0: New Variant Uses AMSI Bypass & Critical Process Trick to Evade Detection and Crash Systems",
+        "link": "https://securityonline.info/xworm-6-0-new-variant-uses-amsi-bypass-critical-process-trick-to-evade-detection-and-crash-systems/",
+        "published": "Tue, 29 Jul 2025 00:40:16 +0000"
+    },
+    {
+        "title": "Stealthy REMCOS Backdoor Delivered by LNK Files: Bypasses Antivirus with Multi-Stage PowerShell Attack",
+        "link": "https://securityonline.info/stealthy-remcos-backdoor-delivered-by-lnk-files-bypasses-antivirus-with-multi-stage-powershell-attack/",
+        "published": "Tue, 29 Jul 2025 00:38:14 +0000"
+    },
+    {
+        "title": "PyPI Warns of Sophisticated Phishing Campaign Targeting Python Developers",
+        "link": "https://securityonline.info/pypi-warns-of-sophisticated-phishing-campaign-targeting-python-developers/",
+        "published": "Tue, 29 Jul 2025 00:34:33 +0000"
+    },
+    {
+        "title": "QWINS LTD, The Suspected Bulletproof Hosting Provider Fueling Global Malware Campaigns",
+        "link": "https://securityonline.info/qwins-ltd-the-suspected-bulletproof-hosting-provider-fueling-global-malware-campaigns/",
+        "published": "Tue, 29 Jul 2025 00:30:20 +0000"
+    },
+    {
+        "title": "Elon Musk Confirms $16.5B Samsung Deal: Tesla’s AI6 Chips to Revitalize Foundry Business in Texas",
+        "link": "https://securityonline.info/elon-musk-confirms-16-5b-samsung-deal-teslas-ai6-chips-to-revitalize-foundry-business-in-texas/",
+        "published": "Tue, 29 Jul 2025 00:23:17 +0000"
+    },
+    {
+        "title": "Neuralink Joins “Smart Bionic Eye” Project: Elon Musk’s Company Aims to Restore Sight with AI-Powered Implants",
+        "link": "https://securityonline.info/neuralink-joins-smart-bionic-eye-project-elon-musks-company-aims-to-restore-sight-with-ai-powered-implants/",
+        "published": "Tue, 29 Jul 2025 00:21:21 +0000"
+    },
+    {
+        "title": "EU’s Open-Source Age Verification App Sparks Controversy with Google Play Integrity Dependency",
+        "link": "https://securityonline.info/eus-open-source-age-verification-app-sparks-controversy-with-google-play-integrity-dependency/",
+        "published": "Tue, 29 Jul 2025 00:19:55 +0000"
+    },
+    {
+        "title": "Critical CodeIgniter Flaw (CVSS 9.8) Allows Remote Code Execution, Over 2.9 Million Downloads at Risk",
+        "link": "https://securityonline.info/critical-codeigniter-flaw-cvss-9-8-allows-remote-code-execution-over-2-9-million-downloads-at-risk/",
+        "published": "Tue, 29 Jul 2025 00:16:49 +0000"
+    },
+    {
+        "title": "The Y2K38 Bug Looms: Debian Linux Prepares for “Epochalypse” by Shifting to 64-bit Time",
+        "link": "https://securityonline.info/the-y2k38-bug-looms-debian-linux-prepares-for-epochalypse-by-shifting-to-64-bit-time/",
+        "published": "Tue, 29 Jul 2025 00:16:07 +0000"
+    },
+    {
+        "title": "Allianz Life Suffers Data Breach: 1.4 Million Customers’ PII Compromised via Cloud CRM Social Engineering Attack",
+        "link": "https://securityonline.info/allianz-life-suffers-data-breach-1-4-million-customers-pii-compromised-via-cloud-crm-social-engineering-attack/",
+        "published": "Tue, 29 Jul 2025 00:15:40 +0000"
+    },
+    {
+        "title": "vivo Unveils BlueOS: A Lightweight, Open-Source OS Kernel Built with Rust",
+        "link": "https://securityonline.info/vivo-unveils-blueos-a-lightweight-open-source-os-kernel-built-with-rust/",
+        "published": "Tue, 29 Jul 2025 00:10:11 +0000"
+    },
+    {
+        "title": "Tea Dating App Hacked: 72,000 Images, Including Selfies & IDs, Leaked on 4Chan",
+        "link": "https://securityonline.info/tea-dating-app-hacked-72000-images-including-selfies-ids-leaked-on-4chan/",
+        "published": "Tue, 29 Jul 2025 00:04:07 +0000"
+    },
+    {
+        "title": "Windows 11 24H2 Now Fully Compatible with Easy Anti-Cheat: Update Block Lifted for Gamers",
+        "link": "https://securityonline.info/windows-11-24h2-now-fully-compatible-with-easy-anti-cheat-update-block-lifted-for-gamers/",
+        "published": "Tue, 29 Jul 2025 00:00:15 +0000"
     }
 ]
