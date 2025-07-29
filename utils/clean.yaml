@@ -1125,3 +1125,6 @@ clean_list:
 - ToolShellFinder
 - CVE-2025-32429-Checker-
 - CVE-2025-32429-Checker
+- Blackash-CVE-2025-47227
+- OurSharePoint-CVE-2025-53770
+- CVE-2025-54352
