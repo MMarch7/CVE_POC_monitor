@@ -1128,3 +1128,4 @@ clean_list:
 - Blackash-CVE-2025-47227
 - OurSharePoint-CVE-2025-53770
 - CVE-2025-54352
+- SharePoint-CVE-2025-53770-POC
