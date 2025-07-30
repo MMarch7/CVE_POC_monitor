@@ -15488,5 +15488,105 @@
         "title": "SquareX Discloses Architectural Limitations of Browser DevTools in Debugging Malicious Extensions",
         "link": "https://securityonline.info/squarex-discloses-architectural-limitations-of-browser-devtools-in-debugging-malicious-extensions/",
         "published": "Tue, 29 Jul 2025 13:00:39 +0000"
+    },
+    {
+        "title": "Dropbox Passwords Is Shutting Down: Export Your Data by October 28, 2025, or Lose Everything",
+        "link": "https://securityonline.info/dropbox-passwords-is-shutting-down-export-your-data-by-october-28-2025-or-lose-everything/",
+        "published": "Wed, 30 Jul 2025 02:24:09 +0000"
+    },
+    {
+        "title": "OneNote Gains Cell Merging & “Paste Text Only” for Windows, Mac & iPad Insiders",
+        "link": "https://securityonline.info/onenote-gains-cell-merging-paste-text-only-for-windows-mac-ipad-insiders/",
+        "published": "Wed, 30 Jul 2025 02:19:04 +0000"
+    },
+    {
+        "title": "Google NotebookLM Unleashes “Video Overviews”: AI Transforms Documents into Narrated Presentations",
+        "link": "https://securityonline.info/google-notebooklm-unleashes-video-overviews-ai-transforms-documents-into-narrated-presentations/",
+        "published": "Wed, 30 Jul 2025 02:06:09 +0000"
+    },
+    {
+        "title": "ChatGPT Launches “Study Mode”: AI Assistant Shifts from Giving Answers to Guiding Learning",
+        "link": "https://securityonline.info/chatgpt-launches-study-mode-ai-assistant-shifts-from-giving-answers-to-guiding-learning/",
+        "published": "Wed, 30 Jul 2025 02:01:12 +0000"
+    },
+    {
+        "title": "Critical BentoML SSRF (CVSS 9.9) Exposes AI Applications to Unauthenticated Network Recon & Cloud Credential Theft",
+        "link": "https://securityonline.info/critical-bentoml-ssrf-cvss-9-9-exposes-ai-applications-to-unauthenticated-network-recon-cloud-credential-theft/",
+        "published": "Wed, 30 Jul 2025 01:55:59 +0000"
+    },
+    {
+        "title": "Global Cyber Authorities Warn of Escalating Threat from Scattered Spider Group",
+        "link": "https://securityonline.info/global-cyber-authorities-warn-of-escalating-threat-from-scattered-spider-group/",
+        "published": "Wed, 30 Jul 2025 01:46:37 +0000"
+    },
+    {
+        "title": "Critical Flaw in Wix’s New AI Platform Base44 Allowed Unauthorized Access to Private Enterprise Apps",
+        "link": "https://securityonline.info/critical-flaw-in-wixs-new-ai-platform-base44-allowed-unauthorized-access-to-private-enterprise-apps/",
+        "published": "Wed, 30 Jul 2025 00:42:47 +0000"
+    },
+    {
+        "title": "Critical RCE Flaw (CVE-2025-5394) in “Alone” WordPress Theme Actively Exploited, Allowing Full Site Takeover",
+        "link": "https://securityonline.info/critical-rce-flaw-cve-2025-5394-in-alone-wordpress-theme-actively-exploited-allowing-full-site-takeover/",
+        "published": "Wed, 30 Jul 2025 00:34:12 +0000"
+    },
+    {
+        "title": "Gunra Ransomware Expands to Linux: New Variant Unleashes 100-Thread Encryption & Stealthy Tactics",
+        "link": "https://securityonline.info/gunra-ransomware-expands-to-linux-new-variant-unleashes-100-thread-encryption-stealthy-tactics/",
+        "published": "Wed, 30 Jul 2025 00:30:07 +0000"
+    },
+    {
+        "title": "Seychelles Commercial Bank Hacked: Customer Data Compromised, Suspected Espionage Disguised as Cybercrime",
+        "link": "https://securityonline.info/seychelles-commercial-bank-hacked-customer-data-compromised-suspected-espionage-disguised-as-cybercrime/",
+        "published": "Wed, 30 Jul 2025 00:22:57 +0000"
+    },
+    {
+        "title": "TP-Link Archer C50 (EOL) Exposed: Hardcoded DES Key Allows Sensitive Config Decryption (CVE-2025-6982)",
+        "link": "https://securityonline.info/tp-link-archer-c50-eol-exposed-hardcoded-des-key-allows-sensitive-config-decryption-cve-2025-6982/",
+        "published": "Wed, 30 Jul 2025 00:22:45 +0000"
+    },
+    {
+        "title": "0bj3ctivityStealer: Stealthy Info-Stealer Uses Steganography & PowerShell to Evade Detection",
+        "link": "https://securityonline.info/0bj3ctivitystealer-stealthy-info-stealer-uses-steganography-powershell-to-evade-detection/",
+        "published": "Wed, 30 Jul 2025 00:18:04 +0000"
+    },
+    {
+        "title": "BeyondTrust Privilege Management for Windows: Two High-Severity Flaws Allow Local Privilege Escalation",
+        "link": "https://securityonline.info/beyondtrust-privilege-management-for-windows-two-high-severity-flaws-allow-local-privilege-escalation/",
+        "published": "Wed, 30 Jul 2025 00:17:00 +0000"
+    },
+    {
+        "title": "Raven Stealer: New MaaS Infostealer Plunders Data via Reflective Process Hollowing & Telegram Exfil",
+        "link": "https://securityonline.info/raven-stealer-new-maas-infostealer-plunders-data-via-reflective-process-hollowing-telegram-exfil/",
+        "published": "Wed, 30 Jul 2025 00:13:38 +0000"
+    },
+    {
+        "title": "ChatGPT Agent Bypasses Cloudflare Turnstile: AI Outsmarts “Human Verification” Systems",
+        "link": "https://securityonline.info/chatgpt-agent-bypasses-cloudflare-turnstile-ai-outsmarts-human-verification-systems/",
+        "published": "Wed, 30 Jul 2025 00:10:23 +0000"
+    },
+    {
+        "title": "SonicWall Alert: Critical SSL VPN Flaw (CVE-2025-40600) Allows Remote DoS Attack on Firewalls",
+        "link": "https://securityonline.info/sonicwall-alert-critical-ssl-vpn-flaw-cve-2025-40600-allows-remote-dos-attack-on-firewalls/",
+        "published": "Wed, 30 Jul 2025 00:07:18 +0000"
+    },
+    {
+        "title": "Windows 11 Search Gets Visual: New Image Previews Arrive in Local Results",
+        "link": "https://securityonline.info/windows-11-search-gets-visual-new-image-previews-arrive-in-local-results/",
+        "published": "Wed, 30 Jul 2025 00:06:47 +0000"
+    },
+    {
+        "title": "Linux Kernel Eyes AI Code: New Guidelines & “Co-developed-by” Tag Proposed for AI-Assisted Patches",
+        "link": "https://securityonline.info/linux-kernel-eyes-ai-code-new-guidelines-co-developed-by-tag-proposed-for-ai-assisted-patches/",
+        "published": "Wed, 30 Jul 2025 00:02:10 +0000"
+    },
+    {
+        "title": "Chrome Update: Google Patches High-Severity Use-After-Free in Media Stream (CVE-2025-8292)",
+        "link": "https://securityonline.info/chrome-update-google-patches-high-severity-use-after-free-in-media-stream-cve-2025-8292/",
+        "published": "Wed, 30 Jul 2025 00:00:13 +0000"
+    },
+    {
+        "title": "Wi-Fi 8: Qualcomm’s “Ultra High Reliability” Standard Promises Wired-Like Stability for AI & IoT",
+        "link": "https://securityonline.info/wi-fi-8-qualcomms-ultra-high-reliability-standard-promises-wired-like-stability-for-ai-iot/",
+        "published": "Wed, 30 Jul 2025 00:00:09 +0000"
     }
 ]

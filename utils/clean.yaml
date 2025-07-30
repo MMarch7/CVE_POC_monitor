@@ -1129,3 +1129,4 @@ clean_list:
 - OurSharePoint-CVE-2025-53770
 - CVE-2025-54352
 - SharePoint-CVE-2025-53770-POC
+- CVE-2025-50472
