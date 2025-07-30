@@ -1135,3 +1135,4 @@ clean_list:
 - ecs_checker
 - CVE-2025-29824-Exploit
 - CVE-2025
+- Honeypot-Logs-CVE-2025-5777
