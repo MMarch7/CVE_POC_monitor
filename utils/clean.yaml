@@ -1132,3 +1132,4 @@ clean_list:
 - CVE-2025-50472
 - CVE-2025-50460
 - CVE-2024-39211
+- ecs_checker
