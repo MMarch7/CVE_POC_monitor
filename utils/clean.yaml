@@ -1140,3 +1140,7 @@ clean_list:
 - CVE-2025-54769
 - ansible-role-cve_2024_3094
 - Axelor-vulnerability-CVE-2025-50341
+- challenge-cve-2024-3552
+- CVE-2025-50754-PoC
+- SOGo_web_mail-vulnerability-CVE-2025-50340
+- Letta-CVE-2025-51482-RCE
