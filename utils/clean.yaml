@@ -1138,3 +1138,4 @@ clean_list:
 - Honeypot-Logs-CVE-2025-5777
 - CVE-2025-48384-2
 - CVE-2025-54769
+- ansible-role-cve_2024_3094
