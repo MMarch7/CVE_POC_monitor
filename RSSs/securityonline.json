@@ -15703,5 +15703,10 @@
         "title": "Lazarus Group’s Covert Supply Chain Attack: North Korean APT Poisons Open Source to Steal Developer Secrets",
         "link": "https://securityonline.info/lazarus-groups-covert-supply-chain-attack-north-korean-apt-poisons-open-source-to-steal-developer-secrets/",
         "published": "Thu, 31 Jul 2025 02:33:30 +0000"
+    },
+    {
+        "title": "Critical Rtpengine Flaws (CVE-2025-53399) Allow Audio Interception and Injection in VoIP Calls, PoC Publishes",
+        "link": "https://securityonline.info/critical-rtpengine-flaws-cve-2025-53399-allow-audio-interception-and-injection-in-voip-calls-poc-publishes/",
+        "published": "Thu, 31 Jul 2025 09:03:06 +0000"
     }
 ]
