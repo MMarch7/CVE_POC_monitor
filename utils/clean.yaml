@@ -1139,3 +1139,4 @@ clean_list:
 - CVE-2025-48384-2
 - CVE-2025-54769
 - ansible-role-cve_2024_3094
+- Axelor-vulnerability-CVE-2025-50341
