@@ -1147,3 +1147,5 @@ clean_list:
 - CVE-2025-48384-Git-RCE-PoC
 - CVE-2025-33073-checker
 - cve-2025-zharkaron
+- CVE-2025-52289
+- CVE-2025-5394
