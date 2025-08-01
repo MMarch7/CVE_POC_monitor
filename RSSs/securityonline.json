@@ -15753,5 +15753,45 @@
         "title": "FunkSec Ransomware Decryptor Released Free: Victims Can Now Recover Files After Group Goes Dormant",
         "link": "https://securityonline.info/funksec-ransomware-decryptor-released-free-victims-can-now-recover-files-after-group-goes-dormant/",
         "published": "Fri, 01 Aug 2025 00:00:08 +0000"
+    },
+    {
+        "title": "NVIDIA Extends Windows 10 Driver Support to October 2026, Offering Gamers a One-Year Reprieve",
+        "link": "https://securityonline.info/nvidia-extends-windows-10-driver-support-to-october-2026-offering-gamers-a-one-year-reprieve/",
+        "published": "Fri, 01 Aug 2025 03:56:02 +0000"
+    },
+    {
+        "title": "Apple’s Q2 Results Soar: $94B Revenue Fueled by iPhone & Mac Sales, AI Investment Surges",
+        "link": "https://securityonline.info/apples-q2-results-soar-94b-revenue-fueled-by-iphone-mac-sales-ai-investment-surges/",
+        "published": "Fri, 01 Aug 2025 03:50:09 +0000"
+    },
+    {
+        "title": "ChatGPT Exposed: OpenAI’s Sharing Feature Leaks Private Conversations to Google Search",
+        "link": "https://securityonline.info/chatgpt-exposed-openais-sharing-feature-leaks-private-conversations-to-google-search/",
+        "published": "Fri, 01 Aug 2025 03:45:01 +0000"
+    },
+    {
+        "title": "NVIDIA Ends Feature Support for GTX 7XX, 9XX, 10XX GPUs, Capping Driver Updates in October",
+        "link": "https://securityonline.info/nvidia-ends-feature-support-for-gtx-7xx-9xx-10xx-gpus-capping-driver-updates-in-october/",
+        "published": "Fri, 01 Aug 2025 03:37:23 +0000"
+    },
+    {
+        "title": "CoinDCX Engineer Arrested in $44M Crypto Heist: Moonlighting on Work Laptop Linked to Breach",
+        "link": "https://securityonline.info/coindcx-engineer-arrested-in-44m-crypto-heist-moonlighting-on-work-laptop-linked-to-breach/",
+        "published": "Fri, 01 Aug 2025 03:31:41 +0000"
+    },
+    {
+        "title": "CISA Alert: Critical Flaw (CVE-2025-8286) in Güralp FMUS Seismic Devices Allows Unauthenticated Takeover, No Patch!",
+        "link": "https://securityonline.info/cisa-alert-critical-flaw-cve-2025-8286-in-guralp-fmus-seismic-devices-allows-unauthenticated-takeover-no-patch/",
+        "published": "Fri, 01 Aug 2025 03:20:56 +0000"
+    },
+    {
+        "title": "The Trust Trap: Phishing Attacks Weaponize Security Tools by Abusing Proofpoint & Intermedia Link Wrapping",
+        "link": "https://securityonline.info/the-trust-trap-phishing-attacks-weaponize-security-tools-by-abusing-proofpoint-intermedia-link-wrapping/",
+        "published": "Fri, 01 Aug 2025 03:03:11 +0000"
+    },
+    {
+        "title": "Russian State Hackers Spy on Moscow Embassies via ISP-Level AiTM Attacks",
+        "link": "https://securityonline.info/russian-state-hackers-spy-on-moscow-embassies-via-isp-level-aitm-attacks/",
+        "published": "Fri, 01 Aug 2025 02:53:35 +0000"
     }
 ]
