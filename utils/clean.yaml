@@ -1152,3 +1152,4 @@ clean_list:
 - CVE-2024-55555
 - CVE-2025-50420
 - CVE-2025-50422
+- SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517-
