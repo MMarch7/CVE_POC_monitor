@@ -1149,3 +1149,4 @@ clean_list:
 - cve-2025-zharkaron
 - CVE-2025-52289
 - CVE-2025-5394
+- CVE-2024-55555

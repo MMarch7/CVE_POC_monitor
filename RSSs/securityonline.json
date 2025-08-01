@@ -15708,5 +15708,50 @@
         "title": "Critical Rtpengine Flaws (CVE-2025-53399) Allow Audio Interception and Injection in VoIP Calls, PoC Publishes",
         "link": "https://securityonline.info/critical-rtpengine-flaws-cve-2025-53399-allow-audio-interception-and-injection-in-voip-calls-poc-publishes/",
         "published": "Thu, 31 Jul 2025 09:03:06 +0000"
+    },
+    {
+        "title": "Cisco Talos Q2 Report: Phishing & Ransomware Dominate, with Qilin Using Deprecated PowerShell 1.0",
+        "link": "https://securityonline.info/cisco-talos-q2-report-phishing-ransomware-dominate-with-qilin-using-deprecated-powershell-1-0/",
+        "published": "Fri, 01 Aug 2025 02:40:19 +0000"
+    },
+    {
+        "title": "LockBit Ransomware Evolves: New Stealthy Tactics Use DLL Sideloading & Masquerading to Bypass Defenses",
+        "link": "https://securityonline.info/lockbit-ransomware-evolves-new-stealthy-tactics-use-dll-sideloading-masquerading-to-bypass-defenses/",
+        "published": "Fri, 01 Aug 2025 02:30:41 +0000"
+    },
+    {
+        "title": "Google’s “Virtual Satellite” is Here: New AI Model AlphaEarth Foundations Maps the Planet with Unprecedented Detail",
+        "link": "https://securityonline.info/googles-virtual-satellite-is-here-new-ai-model-alphaearth-foundations-maps-the-planet-with-unprecedented-detail/",
+        "published": "Fri, 01 Aug 2025 02:22:57 +0000"
+    },
+    {
+        "title": "Palo Alto Networks Acquires CyberArk for $25B, Enters Identity Security Market",
+        "link": "https://securityonline.info/palo-alto-networks-acquires-cyberark-for-25b-enters-identity-security-market/",
+        "published": "Fri, 01 Aug 2025 02:18:27 +0000"
+    },
+    {
+        "title": "Qualcomm Thrives Amid Apple Chip Shift, Diversifies Beyond Mobile with Strong Q2 Results",
+        "link": "https://securityonline.info/qualcomm-thrives-amid-apple-chip-shift-diversifies-beyond-mobile-with-strong-q2-results/",
+        "published": "Fri, 01 Aug 2025 02:13:45 +0000"
+    },
+    {
+        "title": "Proton Launches Standalone Authenticator: Separating MFA from Passwords for Ultimate Security",
+        "link": "https://securityonline.info/proton-launches-standalone-authenticator-separating-mfa-from-passwords-for-ultimate-security/",
+        "published": "Fri, 01 Aug 2025 02:10:06 +0000"
+    },
+    {
+        "title": "Arm Considers Shifting to Chip Development, Competing with Qualcomm & NVIDIA",
+        "link": "https://securityonline.info/arm-considers-shifting-to-chip-development-competing-with-qualcomm-nvidia/",
+        "published": "Fri, 01 Aug 2025 02:05:42 +0000"
+    },
+    {
+        "title": "RMM Tools Weaponized: Stealthy Campaign Embeds Legitimate Remote Monitoring Software in PDFs to Target European Orgs",
+        "link": "https://securityonline.info/rmm-tools-weaponized-stealthy-campaign-embeds-legitimate-remote-monitoring-software-in-pdfs-to-target-european-orgs/",
+        "published": "Fri, 01 Aug 2025 00:06:51 +0000"
+    },
+    {
+        "title": "FunkSec Ransomware Decryptor Released Free: Victims Can Now Recover Files After Group Goes Dormant",
+        "link": "https://securityonline.info/funksec-ransomware-decryptor-released-free-victims-can-now-recover-files-after-group-goes-dormant/",
+        "published": "Fri, 01 Aug 2025 00:00:08 +0000"
     }
 ]
