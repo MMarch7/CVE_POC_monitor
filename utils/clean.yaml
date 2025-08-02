@@ -1160,3 +1160,4 @@ clean_list:
 - CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC
 - CVE-2025-34100-demo
 - CVE-2025-7847-POC
+- CVE-2025-54135
