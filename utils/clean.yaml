@@ -1156,3 +1156,4 @@ clean_list:
 - SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517
 - CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass
 - QuarkPoC
+- CVE-2025-53770-SharePoint-Deserialization-RCE-PoC
