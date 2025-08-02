@@ -1157,3 +1157,5 @@ clean_list:
 - CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass
 - QuarkPoC
 - CVE-2025-53770-SharePoint-Deserialization-RCE-PoC
+- CVE-2025-7847---Wordpress-Plugin-Authenticated-Subscriber-Arbitrary-File-Upload-POC
+- CVE-2025-34100-demo
