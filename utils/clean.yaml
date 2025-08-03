@@ -1167,3 +1167,5 @@ clean_list:
 - CVE-Guvenlik-Acigi-Analiz-Paneli
 - cve-2024-0684
 - CVE-2025-24893-RCE-PoC
+- POC_CVE-2024-4367
+- CVE-2025-24893
