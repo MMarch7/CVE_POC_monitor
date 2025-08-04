@@ -15918,5 +15918,20 @@
         "title": "Critical HashiCorp Vault Flaw (CVE-2025-6000) Allows Code Execution for Privileged Users",
         "link": "https://securityonline.info/critical-hashicorp-vault-flaw-cve-2025-6000-allows-code-execution-for-privileged-users/",
         "published": "Mon, 04 Aug 2025 00:01:19 +0000"
+    },
+    {
+        "title": "MediaTek Chipset Flaws: Out-of-Bounds Write Vulnerabilities Expose Smartphones & IoT Devices",
+        "link": "https://securityonline.info/mediatek-chipset-flaws-out-of-bounds-write-vulnerabilities-expose-smartphones-iot-devices/",
+        "published": "Mon, 04 Aug 2025 08:00:44 +0000"
+    },
+    {
+        "title": "macOS Sequoia Unleashes Native Linux Containers: Kali Linux Now Runs Natively on Apple Silicon",
+        "link": "https://securityonline.info/macos-sequoia-unleashes-native-linux-containers-kali-linux-now-runs-natively-on-apple-silicon/",
+        "published": "Mon, 04 Aug 2025 07:45:54 +0000"
+    },
+    {
+        "title": "Update Now or Lose AI: Microsoft 365 ‘Intelligent Services’ to Stop Working on Old Versions",
+        "link": "https://securityonline.info/update-now-or-lose-ai-microsoft-365-intelligent-services-to-stop-working-on-old-versions/",
+        "published": "Mon, 04 Aug 2025 07:40:16 +0000"
     }
 ]
