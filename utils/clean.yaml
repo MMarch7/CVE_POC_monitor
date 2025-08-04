@@ -1173,3 +1173,4 @@ clean_list:
 - CVE-2025-51820
 - CVE-2025-54962
 - CVE-2025-54424
+- WordPress-HT-Contact-CVE-2025-7340-RCE
