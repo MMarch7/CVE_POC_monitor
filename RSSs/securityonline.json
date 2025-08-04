@@ -15833,5 +15833,90 @@
         "title": "SEC Launches “Project Crypto”: A Sweeping Overhaul of US Digital Asset Regulation to Modernize and Reshore the Industry",
         "link": "https://securityonline.info/sec-launches-project-crypto-a-sweeping-overhaul-of-us-digital-asset-regulation-to-modernize-and-reshore-the-industry/",
         "published": "Sat, 02 Aug 2025 06:45:25 +0000"
+    },
+    {
+        "title": "PyPitfall: Python’s Hidden Vulnerabilities Propagate Through 145K+ Packages",
+        "link": "https://securityonline.info/pypitfall-pythons-hidden-vulnerabilities-propagate-through-145k-packages/",
+        "published": "Mon, 04 Aug 2025 02:23:04 +0000"
+    },
+    {
+        "title": "APT37 Escalates Cyber-Espionage on South Korea: New RoKRAT Backdoor Uses Stealthy LNK Files & Steganography",
+        "link": "https://securityonline.info/apt37-escalates-cyber-espionage-on-south-korea-new-rokrat-backdoor-uses-stealthy-lnk-files-steganography/",
+        "published": "Mon, 04 Aug 2025 02:01:17 +0000"
+    },
+    {
+        "title": "Apple Forms New “Answers” Team to Build a ChatGPT Rival, Reshaping AI Search",
+        "link": "https://securityonline.info/apple-forms-new-answers-team-to-build-a-chatgpt-rival-reshaping-ai-search/",
+        "published": "Mon, 04 Aug 2025 01:47:44 +0000"
+    },
+    {
+        "title": "YouTube Tests Instagram-Style Collaboration: New Feature Lets Creators Co-Tag Videos and Share Audiences",
+        "link": "https://securityonline.info/youtube-tests-instagram-style-collaboration-new-feature-lets-creators-co-tag-videos-and-share-audiences/",
+        "published": "Mon, 04 Aug 2025 01:44:34 +0000"
+    },
+    {
+        "title": "Samsung Unveils Exynos 2600: The World’s First 2nm GAA Chip to Power the Galaxy S26",
+        "link": "https://securityonline.info/samsung-unveils-exynos-2600-the-worlds-first-2nm-gaa-chip-to-power-the-galaxy-s26/",
+        "published": "Mon, 04 Aug 2025 01:40:49 +0000"
+    },
+    {
+        "title": "ShadowSyndicate’s Global Ransomware Empire Blurs Lines Between Cybercrime and Geopolitical Espionage",
+        "link": "https://securityonline.info/shadowsyndicates-global-ransomware-empire-blurs-lines-between-cybercrime-and-geopolitical-espionage/",
+        "published": "Mon, 04 Aug 2025 00:36:29 +0000"
+    },
+    {
+        "title": "Critical Flaws Found in Partner Software: Default Admin Passwords & XSS Allow RCE on Government Systems",
+        "link": "https://securityonline.info/critical-flaws-found-in-partner-software-default-admin-passwords-xss-allow-rce-on-government-systems/",
+        "published": "Mon, 04 Aug 2025 00:33:29 +0000"
+    },
+    {
+        "title": "Critical RCE Flaw (CVE-2025-54782) in NestJS DevTools Allows Remote Code Execution",
+        "link": "https://securityonline.info/critical-rce-flaw-cve-2025-54782-in-nestjs-devtools-allows-remote-code-execution-via-malicious-websites/",
+        "published": "Mon, 04 Aug 2025 00:30:32 +0000"
+    },
+    {
+        "title": "The Telecom Threat: Liminal Panda’s Covert Campaign Targets Southwest Asian Critical Infrastructure",
+        "link": "https://securityonline.info/the-telecom-threat-liminal-pandas-covert-campaign-targets-southwest-asian-critical-infrastructure/",
+        "published": "Mon, 04 Aug 2025 00:28:50 +0000"
+    },
+    {
+        "title": "Prompt Injection to Code Execution: Cursor Code Editor Hit by Critical MCP Vulnerabilities (CVE-2025-54135 & CVE-2025-54136)",
+        "link": "https://securityonline.info/prompt-injection-to-code-execution-cursor-code-editor-hit-by-critical-mcp-vulnerabilities-cve-2025-54135-cve-2025-54136/",
+        "published": "Mon, 04 Aug 2025 00:21:56 +0000"
+    },
+    {
+        "title": "Storm-2603: Chinese APT Deploys Warlock & LockBit with AK47C2 Framework",
+        "link": "https://securityonline.info/storm-2603-chinese-apt-deploys-warlock-lockbit-with-ak47c2-framework/",
+        "published": "Mon, 04 Aug 2025 00:18:32 +0000"
+    },
+    {
+        "title": "Critical Squid Vulnerability (CVE-2025-54574) Allows Remote Code Execution & Data Leakage",
+        "link": "https://securityonline.info/critical-squid-vulnerability-cve-2025-54574-allows-remote-code-execution-data-leakage/",
+        "published": "Mon, 04 Aug 2025 00:11:37 +0000"
+    },
+    {
+        "title": "Google Reverses goo.gl Shutdown, Grants “Second Life” to Active Links",
+        "link": "https://securityonline.info/google-reverses-goo-gl-shutdown-grants-second-life-to-active-links/",
+        "published": "Mon, 04 Aug 2025 00:09:09 +0000"
+    },
+    {
+        "title": "T-Mobile Acquires UScellular for $4.3B, Dumps DEI Programs for FCC Approval",
+        "link": "https://securityonline.info/t-mobile-acquires-uscellular-for-4-3b-dumps-dei-programs-for-fcc-approval/",
+        "published": "Mon, 04 Aug 2025 00:07:59 +0000"
+    },
+    {
+        "title": "APT36 Escalates Cyber-Espionage on India: Poseidon Backdoor Targets Railways, Oil & Government",
+        "link": "https://securityonline.info/apt36-escalates-cyber-espionage-on-india-poseidon-backdoor-targets-railways-oil-government/",
+        "published": "Mon, 04 Aug 2025 00:06:36 +0000"
+    },
+    {
+        "title": "The AI Cold War: Anthropic Revokes OpenAI’s Claude API Access Over Terms of Service Dispute",
+        "link": "https://securityonline.info/the-ai-cold-war-anthropic-revokes-openais-claude-api-access-over-terms-of-service-dispute/",
+        "published": "Mon, 04 Aug 2025 00:03:20 +0000"
+    },
+    {
+        "title": "Critical HashiCorp Vault Flaw (CVE-2025-6000) Allows Code Execution for Privileged Users",
+        "link": "https://securityonline.info/critical-hashicorp-vault-flaw-cve-2025-6000-allows-code-execution-for-privileged-users/",
+        "published": "Mon, 04 Aug 2025 00:01:19 +0000"
     }
 ]
