@@ -78,5 +78,15 @@
         "title": "Chollima APT Group Targets Job Seekers and Organizations with JavaScript-Based Malware",
         "link": "https://gbhackers.com/chollima-apt-group-targets-job-seekers-and-organizations/",
         "published": "Tue, 05 Aug 2025 08:55:22 +0000"
+    },
+    {
+        "title": "Critical Flaw in ADOdb SQLite3 Driver Allows Arbitrary SQL Execution",
+        "link": "https://gbhackers.com/critical-flaw-in-adodb-sqlite3-driver/",
+        "published": "Tue, 05 Aug 2025 10:21:39 +0000"
+    },
+    {
+        "title": "Raspberry Robin Malware Targets Windows Systems via New CLFS Driver Exploit",
+        "link": "https://gbhackers.com/raspberry-robin-malware-targets-windows-systems/",
+        "published": "Tue, 05 Aug 2025 10:00:00 +0000"
     }
 ]
