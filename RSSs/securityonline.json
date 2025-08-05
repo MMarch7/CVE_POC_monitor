@@ -16008,5 +16008,15 @@
         "title": "Kimsuky APT Escalates Cyberespionage with Stealthy LNK Files & Reflective Malware Payloads",
         "link": "https://securityonline.info/kimsuky-apt-escalates-cyberespionage-with-stealthy-lnk-files-reflective-malware-payloads/",
         "published": "Tue, 05 Aug 2025 00:01:08 +0000"
+    },
+    {
+        "title": "OpenAI Introduces “Take a Break” Reminders to ChatGPT, Refines Responses for High-Stakes Decisions",
+        "link": "https://securityonline.info/openai-introduces-take-a-break-reminders-to-chatgpt-refines-responses-for-high-stakes-decisions/",
+        "published": "Tue, 05 Aug 2025 02:47:54 +0000"
+    },
+    {
+        "title": "Critical ADOdb Flaw (CVE-2025-54119, CVSS 10.0) in SQLite3 Driver Allows SQL Injection",
+        "link": "https://securityonline.info/critical-adodb-flaw-cve-2025-54119-cvss-10-0-in-sqlite3-driver-allows-sql-injection/",
+        "published": "Tue, 05 Aug 2025 02:43:34 +0000"
     }
 ]
