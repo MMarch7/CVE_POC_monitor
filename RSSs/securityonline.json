@@ -15938,5 +15938,75 @@
         "title": "Urgent Zero-Day Warning: SonicWall VPNs Under Attack, Akira Ransomware Deployed Within Hours",
         "link": "https://securityonline.info/urgent-zero-day-warning-sonicwall-vpns-under-attack-akira-ransomware-deployed-within-hours/",
         "published": "Mon, 04 Aug 2025 23:24:09 +0000"
+    },
+    {
+        "title": "Amazon Overhauls Wondery Podcast Network, Shifts Focus to Audible and Creator-Led Content",
+        "link": "https://securityonline.info/amazon-overhauls-wondery-podcast-network-shifts-focus-to-audible-and-creator-led-content/",
+        "published": "Tue, 05 Aug 2025 02:24:46 +0000"
+    },
+    {
+        "title": "Broadcom’s Jericho4 Unleashed: The 3nm Switch-Router Connecting a Million XPUs for Distributed AI",
+        "link": "https://securityonline.info/broadcoms-jericho4-unleashed-the-3nm-switch-router-connecting-a-million-xpus-for-distributed-ai/",
+        "published": "Tue, 05 Aug 2025 02:15:47 +0000"
+    },
+    {
+        "title": "Meta Eyes Pika Labs: A Potential $500M Acquisition to Accelerate AI Video Generation",
+        "link": "https://securityonline.info/meta-eyes-pika-labs-a-potential-500m-acquisition-to-accelerate-ai-video-generation/",
+        "published": "Tue, 05 Aug 2025 02:07:15 +0000"
+    },
+    {
+        "title": "Elon Musk Files “MacroHard” Trademark, Reigniting Rivalry with Microsoft",
+        "link": "https://securityonline.info/elon-musk-files-macrohard-trademark-reigniting-rivalry-with-microsoft/",
+        "published": "Tue, 05 Aug 2025 02:02:22 +0000"
+    },
+    {
+        "title": "Android Security Update: Critical RCE Flaw (CVE-2025-48530) in System Component Patched",
+        "link": "https://securityonline.info/android-security-update-critical-rce-flaw-cve-2025-48530-in-system-component-patched/",
+        "published": "Tue, 05 Aug 2025 01:35:02 +0000"
+    },
+    {
+        "title": "New Android Malware Impersonates Indian Banks to Steal Data & Secretly Mine Monero",
+        "link": "https://securityonline.info/new-android-malware-impersonates-indian-banks-to-steal-data-secretly-mine-monero/",
+        "published": "Tue, 05 Aug 2025 00:40:07 +0000"
+    },
+    {
+        "title": "Critical Triton Flaws (CVSS 9.8) Expose AI Servers to Remote Takeover – Patch Now!",
+        "link": "https://securityonline.info/critical-triton-flaws-cvss-9-8-expose-ai-servers-to-remote-takeover-patch-now/",
+        "published": "Tue, 05 Aug 2025 00:35:13 +0000"
+    },
+    {
+        "title": "PlayPraetor: New Android RAT Infects 11,000+ Devices with Real-Time On-Device Fraud",
+        "link": "https://securityonline.info/playpraetor-new-android-rat-infects-11000-devices-with-real-time-on-device-fraud/",
+        "published": "Tue, 05 Aug 2025 00:28:42 +0000"
+    },
+    {
+        "title": "APT36 Targets Indian Government with Sophisticated Phishing, Bypassing MFA with Real-Time OTP Harvest",
+        "link": "https://securityonline.info/apt36-targets-indian-government-with-sophisticated-phishing-bypassing-mfa-with-real-time-otp-harvest/",
+        "published": "Tue, 05 Aug 2025 00:26:08 +0000"
+    },
+    {
+        "title": "New PXA Stealer Campaign Hits 62 Countries with Stealthy DLL Sideloading and Telegram Exfiltration",
+        "link": "https://securityonline.info/new-pxa-stealer-campaign-hits-62-countries-with-stealthy-dll-sideloading-and-telegram-exfiltration/",
+        "published": "Tue, 05 Aug 2025 00:21:09 +0000"
+    },
+    {
+        "title": "Critical Dell DD OS Flaw (CVSS 9.8) Allows Unauthenticated Remote Access",
+        "link": "https://securityonline.info/critical-dell-dd-os-flaw-cvss-9-8-allows-unauthenticated-remote-access/",
+        "published": "Tue, 05 Aug 2025 00:16:34 +0000"
+    },
+    {
+        "title": "The Evolution of Evasion: Raspberry Robin Malware Upgrades with New Encryption & UAC Bypass Exploit",
+        "link": "https://securityonline.info/the-evolution-of-evasion-raspberry-robin-malware-upgrades-with-new-encryption-uac-bypass-exploit/",
+        "published": "Tue, 05 Aug 2025 00:10:15 +0000"
+    },
+    {
+        "title": "Beavertail Malware Returns: North Korean Hackers Use NPM Packages to Steal Crypto & Secrets",
+        "link": "https://securityonline.info/beavertail-malware-returns-north-korean-hackers-use-npm-packages-to-steal-crypto-secrets/",
+        "published": "Tue, 05 Aug 2025 00:06:14 +0000"
+    },
+    {
+        "title": "Kimsuky APT Escalates Cyberespionage with Stealthy LNK Files & Reflective Malware Payloads",
+        "link": "https://securityonline.info/kimsuky-apt-escalates-cyberespionage-with-stealthy-lnk-files-reflective-malware-payloads/",
+        "published": "Tue, 05 Aug 2025 00:01:08 +0000"
     }
 ]
