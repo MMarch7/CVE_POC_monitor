@@ -16018,5 +16018,20 @@
         "title": "Critical ADOdb Flaw (CVE-2025-54119, CVSS 10.0) in SQLite3 Driver Allows SQL Injection",
         "link": "https://securityonline.info/critical-adodb-flaw-cve-2025-54119-cvss-10-0-in-sqlite3-driver-allows-sql-injection/",
         "published": "Tue, 05 Aug 2025 02:43:34 +0000"
+    },
+    {
+        "title": "Meta Unveils 3mm Holographic VR Headset Prototype, Revolutionizing XR with Stanford Partnership",
+        "link": "https://securityonline.info/meta-unveils-3mm-holographic-vr-headset-prototype-revolutionizing-xr-with-stanford-partnership/",
+        "published": "Tue, 05 Aug 2025 07:17:03 +0000"
+    },
+    {
+        "title": "iOS Update: Proton Authenticator Bug Leaked TOTP Secrets in Plaintext Logs",
+        "link": "https://securityonline.info/ios-update-proton-authenticator-bug-leaked-totp-secrets-in-plaintext-logs/",
+        "published": "Tue, 05 Aug 2025 07:12:32 +0000"
+    },
+    {
+        "title": "Cloudflare Accuses Perplexity AI of Evading Blocks and Impersonating Chrome to Scrape Websites",
+        "link": "https://securityonline.info/cloudflare-accuses-perplexity-ai-of-evading-blocks-and-impersonating-chrome-to-scrape-websites/",
+        "published": "Tue, 05 Aug 2025 07:08:33 +0000"
     }
 ]

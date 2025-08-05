@@ -63,5 +63,10 @@
         "title": "WAF Protections Bypassed via JS Injection and Parameter Pollution for XSS Attacks",
         "link": "https://gbhackers.com/waf-protections-bypassed/",
         "published": "Tue, 05 Aug 2025 06:42:05 +0000"
+    },
+    {
+        "title": "Streamlit Vulnerability Exposes Users to Cloud Account Takeover Attacks",
+        "link": "https://gbhackers.com/streamlit-vulnerability/",
+        "published": "Tue, 05 Aug 2025 07:29:22 +0000"
     }
 ]
