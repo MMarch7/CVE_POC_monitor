@@ -31,5 +31,9 @@
     "watchtowr":{
         "url": "https://labs.watchtowr.com/rss",
         "file": "watchtowr.json"
+    },
+	"gbhackers":{
+        "url": "https://gbhackers.com/feed/",
+        "file": "gbhackers.json"
     }
 }
