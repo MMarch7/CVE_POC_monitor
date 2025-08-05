@@ -1178,3 +1178,4 @@ clean_list:
 - cve-2024-4577-scanner
 - CVE-2025-50286
 - CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation
+- kartlanpwn
