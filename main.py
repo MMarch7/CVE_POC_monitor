@@ -116,7 +116,7 @@ def parse_rss_feed(feed_url,file):
                     categories = [tag.term for tag in entry.tags]
                 elif 'category' in entry:
                     categories = entry.category if isinstance(entry.category, list) else [entry.category]
-                if "Vulnerability" not in categories or "Vulnerabilities" not in categories:
+                if not any(cat in ["Vulnerability", "Vulnerabilities"] for cat in categories):
                     all_content_have_cve = False   
             all_entries.append({
                     'title': entry.title,
