@@ -1179,3 +1179,4 @@ clean_list:
 - CVE-2025-50286
 - CVE-2024-32019-Netdata-ndsudo-PATH-Vulnerability-Privilege-Escalation
 - kartlanpwn
+- CVE-2025-50675-GPMAW-Permissions
