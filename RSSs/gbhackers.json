@@ -178,5 +178,10 @@
         "title": "CISA Alerts on Ongoing Exploits Targeting D-Link Device Vulnerabilities",
         "link": "https://gbhackers.com/cisa-alerts-d-link-device-vulnerabilities/",
         "published": "Wed, 06 Aug 2025 06:00:33 +0000"
+    },
+    {
+        "title": "Threat Actors Weaponizing RMM Tools to Gain System Control and Exfiltrate Data",
+        "link": "https://gbhackers.com/threat-actors-weaponizing-rmm-tools/",
+        "published": "Wed, 06 Aug 2025 07:13:00 +0000"
     }
 ]
