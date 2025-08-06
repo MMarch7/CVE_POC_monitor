@@ -203,5 +203,15 @@
         "title": "Adobe AEM Forms 0-Day Vulnerability Allows Attackers to Run Arbitrary Code",
         "link": "https://gbhackers.com/adobe-aem-forms-0-day-vulnerability-allows-attackers-to-run-arbitrary-code/",
         "published": "Wed, 06 Aug 2025 08:47:19 +0000"
+    },
+    {
+        "title": "Threat Actors Poison Bing Search Results to Distribute Bumblebee Malware via ‘ManageEngine OpManager’ Queries",
+        "link": "https://gbhackers.com/threat-actors-poison-bing-search-results/",
+        "published": "Wed, 06 Aug 2025 10:22:00 +0000"
+    },
+    {
+        "title": "Chinese Hackers Exploit SharePoint Flaws to Deploy Backdoors, Ransomware, and Loaders",
+        "link": "https://gbhackers.com/chinese-hackers-exploit-sharepoint-flaws/",
+        "published": "Wed, 06 Aug 2025 09:45:00 +0000"
     }
 ]

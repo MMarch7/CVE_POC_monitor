@@ -1184,3 +1184,4 @@ clean_list:
 - CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back
 - firewall.
 - firewall
+- Blackash-CVE-2025-54253

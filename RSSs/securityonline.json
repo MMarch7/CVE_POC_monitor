@@ -16123,5 +16123,10 @@
         "title": "Anthropic Unveils Claude Opus 4.1: The New Flagship Model for Coding and Agentic Tasks",
         "link": "https://securityonline.info/anthropic-unveils-claude-opus-4-1-the-new-flagship-model-for-coding-and-agentic-tasks/",
         "published": "Wed, 06 Aug 2025 07:45:32 +0000"
+    },
+    {
+        "title": "VirtualBox VM Escape: Integer Overflow Flaw Allows Full Host Takeover, PoC Published",
+        "link": "https://securityonline.info/virtualbox-vm-escape-integer-overflow-flaw-allows-full-host-takeover-poc-published/",
+        "published": "Wed, 06 Aug 2025 10:14:36 +0000"
     }
 ]
