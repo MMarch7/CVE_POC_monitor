@@ -168,5 +168,15 @@
         "title": "MCPoison Attack Abuses Cursor IDE to Run Arbitrary System Commands",
         "link": "https://gbhackers.com/mcpoison-attack-abuses-cursor-ide/",
         "published": "Wed, 06 Aug 2025 05:24:40 +0000"
+    },
+    {
+        "title": "Millions of Dell PCs at Risk from Broadcom Vulnerability Enabling Remote Hijack",
+        "link": "https://gbhackers.com/millions-of-dell-pcs-at-risk-from-broadcom-vulnerability/",
+        "published": "Wed, 06 Aug 2025 06:05:30 +0000"
+    },
+    {
+        "title": "CISA Alerts on Ongoing Exploits Targeting D-Link Device Vulnerabilities",
+        "link": "https://gbhackers.com/cisa-alerts-d-link-device-vulnerabilities/",
+        "published": "Wed, 06 Aug 2025 06:00:33 +0000"
     }
 ]
