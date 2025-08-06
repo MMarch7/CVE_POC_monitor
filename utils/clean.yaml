@@ -1183,3 +1183,4 @@ clean_list:
 - POC-CVE-2025-48621
 - CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back
 - firewall.
+- firewall
