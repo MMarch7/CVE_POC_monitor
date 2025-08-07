@@ -303,5 +303,30 @@
         "title": "HTTP/1.1 Vulnerability Could Let Attackers Hijack Millions of Sites",
         "link": "https://gbhackers.com/http-1-1-vulnerability/",
         "published": "Thu, 07 Aug 2025 07:14:22 +0000"
+    },
+    {
+        "title": "‘Ghost Calls’ Attack Exploits Web Conferencing as Hidden Command-and-Control Channel",
+        "link": "https://gbhackers.com/ghost-calls-attack-exploits-web-conferencing/",
+        "published": "Thu, 07 Aug 2025 08:33:44 +0000"
+    },
+    {
+        "title": "HeartCrypt-Packed ‘AVKiller’ Tool Actively Deployed in Ransomware Attacks to Disable EDR",
+        "link": "https://gbhackers.com/heartcrypt-packed-avkiller-tool-actively-deployed/",
+        "published": "Thu, 07 Aug 2025 08:28:00 +0000"
+    },
+    {
+        "title": "New Active Directory Attack Method Bypasses Authentication to Steal Data",
+        "link": "https://gbhackers.com/new-active-directory-attack-method/",
+        "published": "Thu, 07 Aug 2025 08:19:55 +0000"
+    },
+    {
+        "title": "Nvidia Denies Presence of Backdoors, Kill Switches, or Spyware in Its Chips",
+        "link": "https://gbhackers.com/nvidia-denies-presence-of-backdoors-in-its-chips/",
+        "published": "Thu, 07 Aug 2025 08:02:52 +0000"
+    },
+    {
+        "title": "SocGholish Uses Parrot and Keitaro TDS to Spread Malware via Fake Updates",
+        "link": "https://gbhackers.com/socgholish-uses-parrot-and-keitaro-tds/",
+        "published": "Thu, 07 Aug 2025 07:53:16 +0000"
     }
 ]
