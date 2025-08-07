@@ -358,5 +358,15 @@
         "title": "CISA Warns of ‘ToolShell’ Exploitation Chain Targeting SharePoint Servers; IOCs and Detections Released",
         "link": "https://gbhackers.com/cisa-warns-of-toolshell-exploitation-chain/",
         "published": "Thu, 07 Aug 2025 13:25:00 +0000"
+    },
+    {
+        "title": "Weaponized npm Packages Target WhatsApp Developers with Remote Kill Switch",
+        "link": "https://gbhackers.com/weaponized-npm-packages-target-whatsapp-developers/",
+        "published": "Thu, 07 Aug 2025 14:30:00 +0000"
+    },
+    {
+        "title": "Weaponizing Microsoft 365 Direct Send to Bypass Email Security Defenses",
+        "link": "https://gbhackers.com/weaponizing-microsoft-365-direct-send/",
+        "published": "Thu, 07 Aug 2025 13:58:00 +0000"
     }
 ]
