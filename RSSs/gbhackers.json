@@ -388,5 +388,15 @@
         "title": "Hackers Exploit SVG Files with Embedded JavaScript to Deploy Malware on Windows Systems",
         "link": "https://gbhackers.com/hackers-exploit-svg-files-with-embedded-javascript/",
         "published": "Thu, 07 Aug 2025 17:52:06 +0000"
+    },
+    {
+        "title": "How Machine Learning Detects Living off the Land (LotL) Attacks",
+        "link": "https://gbhackers.com/how-machine-learning-detects-living-off-the-land-lotl-attacks/",
+        "published": "Thu, 07 Aug 2025 19:14:43 +0000"
+    },
+    {
+        "title": "HashiCorp Vault 0-Day Flaws Enable Remote Code Execution Attacks",
+        "link": "https://gbhackers.com/hashicorp-vault-0-day-flaws/",
+        "published": "Thu, 07 Aug 2025 18:58:00 +0000"
     }
 ]
