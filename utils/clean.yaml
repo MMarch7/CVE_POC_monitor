@@ -1193,3 +1193,5 @@ clean_list:
 - CVE-2025-54253-e
 - CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch
 - CVE-2025-54948
+- cve-2025-24893-poc
+- CVE-2025-24893-XWiki-Platform-Remote-Code-Execution
