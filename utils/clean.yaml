@@ -1191,3 +1191,5 @@ clean_list:
 - CVE-2025-4126
 - test-mcp
 - CVE-2025-54253-e
+- CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch
+- CVE-2025-54948
