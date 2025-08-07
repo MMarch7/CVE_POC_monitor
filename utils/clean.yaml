@@ -1189,3 +1189,4 @@ clean_list:
 - CVE-2024-32167
 - CVE-2025-7769
 - CVE-2025-4126
+- test-mcp
