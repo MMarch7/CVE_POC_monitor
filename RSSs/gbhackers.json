@@ -428,5 +428,20 @@
         "title": "Over 60 Malicious RubyGems Packages Used to Steal Social Media and Marketing Credentials",
         "link": "https://gbhackers.com/over-60-malicious-rubygems-packages-used/",
         "published": "Fri, 08 Aug 2025 07:21:23 +0000"
+    },
+    {
+        "title": "US Confirms Takedown of BlackSuit Ransomware Behind 450+ Hacks",
+        "link": "https://gbhackers.com/us-confirms-takedown-of-blacksuit-ransomware/",
+        "published": "Fri, 08 Aug 2025 08:38:34 +0000"
+    },
+    {
+        "title": "Amazon ECS Internal Protocol Exploited to Steal AWS Credentials from Other Tasks",
+        "link": "https://gbhackers.com/amazon-ecs-internal-protocol-exploited/",
+        "published": "Fri, 08 Aug 2025 08:09:23 +0000"
+    },
+    {
+        "title": "Malicious Go Packages Used by Threat Actors to Deploy Obfuscated Remote Payloads",
+        "link": "https://gbhackers.com/malicious-go-packages-used-by-threat-actors/",
+        "published": "Fri, 08 Aug 2025 07:55:00 +0000"
     }
 ]
