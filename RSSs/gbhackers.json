@@ -518,5 +518,15 @@
         "title": "ChromeAlone – A Browser Based Cobalt Strike Like C2 Tool That Turns Chrome Into a Hacker’s Playground",
         "link": "https://gbhackers.com/chromealone/",
         "published": "Sat, 09 Aug 2025 07:22:35 +0000"
+    },
+    {
+        "title": "Over 28,000 Microsoft Exchange Servers Exposed Online to CVE-2025-53786 Vulnerability",
+        "link": "https://gbhackers.com/over-28000-microsoft-exchange-servers-exposed/",
+        "published": "Sat, 09 Aug 2025 09:59:08 +0000"
+    },
+    {
+        "title": "Critical Linux Kernel Vulnerability Allows Attackers Gain Full Kernel-Level Control From Chrome Sandbox",
+        "link": "https://gbhackers.com/linux-kernel-vulnerability-allows-attackers-to-gain-full-kernel-level-control/",
+        "published": "Sat, 09 Aug 2025 09:54:37 +0000"
     }
 ]
