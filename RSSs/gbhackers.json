@@ -528,5 +528,10 @@
         "title": "Critical Linux Kernel Vulnerability Allows Attackers Gain Full Kernel-Level Control From Chrome Sandbox",
         "link": "https://gbhackers.com/linux-kernel-vulnerability-allows-attackers-to-gain-full-kernel-level-control/",
         "published": "Sat, 09 Aug 2025 09:54:37 +0000"
+    },
+    {
+        "title": "Multiple Zero-Day Exploits Discover That Bypass BitLocker, Exposing All Encrypted Data",
+        "link": "https://gbhackers.com/researchers-discover-multiple-zero-day-exploits-that-bypass-bitlocker/",
+        "published": "Sat, 09 Aug 2025 10:42:55 +0000"
     }
 ]
