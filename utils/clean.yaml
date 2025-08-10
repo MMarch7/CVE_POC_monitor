@@ -1205,3 +1205,4 @@ clean_list:
 - Blackash-CVE-2025-21298
 - CVE-2024-0000-PoC
 - Zygotroller
+- sudo-CVE-2025-Toolkit
