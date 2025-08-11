@@ -16488,5 +16488,10 @@
         "title": "Firefox’s New AI Feature Is Causing Major CPU Spikes and Draining Batteries",
         "link": "https://securityonline.info/firefoxs-new-ai-feature-is-causing-major-cpu-spikes-and-draining-batteries/",
         "published": "Mon, 11 Aug 2025 07:35:00 +0000"
+    },
+    {
+        "title": "Critical macOS Flaw (CVSS 9.8) Bypasses TCC Without Root Access: PoC Published",
+        "link": "https://securityonline.info/critical-macos-flaw-cvss-9-8-bypasses-tcc-without-root-access-poc-published/",
+        "published": "Mon, 11 Aug 2025 10:31:51 +0000"
     }
 ]
