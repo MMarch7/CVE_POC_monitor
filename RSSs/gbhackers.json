@@ -533,5 +533,55 @@
         "title": "Multiple Zero-Day Exploits Discover That Bypass BitLocker, Exposing All Encrypted Data",
         "link": "https://gbhackers.com/researchers-discover-multiple-zero-day-exploits-that-bypass-bitlocker/",
         "published": "Sat, 09 Aug 2025 10:42:55 +0000"
+    },
+    {
+        "title": "Windows RPC Protocol Exploited to Launch Server Spoofing Attacks",
+        "link": "https://gbhackers.com/windows-rpc-protocol-exploited/",
+        "published": "Mon, 11 Aug 2025 08:23:29 +0000"
+    },
+    {
+        "title": "INE Named to Training Industry’s 2025 Top 20 Online Learning Library List",
+        "link": "https://gbhackers.com/ine-named-to-training-industrys-2025-top-20-online-learning-library-list/",
+        "published": "Mon, 11 Aug 2025 08:11:21 +0000"
+    },
+    {
+        "title": "AI Coding Assistant: Creating the Perfect Blueprint for Attackers",
+        "link": "https://gbhackers.com/creating-the-perfect-blueprint-for-attackers/",
+        "published": "Mon, 11 Aug 2025 08:00:15 +0000"
+    },
+    {
+        "title": "SSHamble: New Open-Source Tool Targets SSH Protocol Flaws",
+        "link": "https://gbhackers.com/sshamble-new-open-source-tool/",
+        "published": "Mon, 11 Aug 2025 07:14:25 +0000"
+    },
+    {
+        "title": "Efimer Trojan Targets Crypto Wallets Using Phony Legal Notices and Booby-Trapped Torrents",
+        "link": "https://gbhackers.com/efimer-trojan-targets-crypto-wallets/",
+        "published": "Mon, 11 Aug 2025 06:56:45 +0000"
+    },
+    {
+        "title": "Xerox FreeFlow Flaws Enable SSRF and Remote Code Execution",
+        "link": "https://gbhackers.com/xerox-freeflow-flaws/",
+        "published": "Mon, 11 Aug 2025 06:02:24 +0000"
+    },
+    {
+        "title": "GPT-5 Compromised Using Echo Chamber and Storytelling Exploits",
+        "link": "https://gbhackers.com/gpt-5-compromised-using-echo-chamber/",
+        "published": "Mon, 11 Aug 2025 05:20:21 +0000"
+    },
+    {
+        "title": "7-Zip Vulnerability Lets Hackers Write Files and Run Malicious Code",
+        "link": "https://gbhackers.com/7-zip-vulnerability-3/",
+        "published": "Mon, 11 Aug 2025 05:05:40 +0000"
+    },
+    {
+        "title": "Google Hacked – Approx 2.5 Million Records of Google Ads Customer Data Leaked",
+        "link": "https://gbhackers.com/google-hacked/",
+        "published": "Sun, 10 Aug 2025 19:29:00 +0000"
+    },
+    {
+        "title": "ClickFix macOS Malware Targets User Login Credentials",
+        "link": "https://gbhackers.com/clickfix-macos-malware/",
+        "published": "Sun, 10 Aug 2025 12:00:33 +0000"
     }
 ]
