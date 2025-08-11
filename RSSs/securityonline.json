@@ -16368,5 +16368,75 @@
         "title": "Tesla Scraps Dojo Supercomputer Project, Shifts AI Strategy",
         "link": "https://securityonline.info/tesla-scraps-dojo-supercomputer-project-shifts-ai-strategy/",
         "published": "Sat, 09 Aug 2025 07:28:29 +0000"
+    },
+    {
+        "title": "CISA Alert: Critical Flaw (CVE-2025-8284) in Packet Power Devices Allows Unauthenticated Remote Takeover",
+        "link": "https://securityonline.info/cisa-alert-critical-flaw-cve-2025-8284-in-packet-power-devices-allows-unauthenticated-remote-takeover/",
+        "published": "Mon, 11 Aug 2025 03:40:57 +0000"
+    },
+    {
+        "title": "MacBook Pro with OLED Display Is Delayed, but a New Design Is Coming",
+        "link": "https://securityonline.info/macbook-pro-with-oled-display-is-delayed-but-a-new-design-is-coming/",
+        "published": "Mon, 11 Aug 2025 02:38:30 +0000"
+    },
+    {
+        "title": "CVE-2025-55188: 7-Zip Arbitrary File Write Flaw Could Lead to Code Execution",
+        "link": "https://securityonline.info/cve-2025-55188-7-zip-arbitrary-file-write-flaw-could-lead-to-code-execution/",
+        "published": "Mon, 11 Aug 2025 02:14:38 +0000"
+    },
+    {
+        "title": "“Voice-First” Revolution: Apple Integrates Uber, Amazon, & YouTube with App Intents Framework",
+        "link": "https://securityonline.info/voice-first-revolution-apple-integrates-uber-amazon-youtube-with-app-intents-framework/",
+        "published": "Mon, 11 Aug 2025 01:49:21 +0000"
+    },
+    {
+        "title": "Japan’s New Law to Force Apple to Allow Non-WebKit Browsers on iPhones",
+        "link": "https://securityonline.info/japans-new-law-to-force-apple-to-allow-non-webkit-browsers-on-iphones/",
+        "published": "Mon, 11 Aug 2025 01:43:23 +0000"
+    },
+    {
+        "title": "Urgent Xerox FreeFlow Core Patch: Critical Flaws (CVSS 9.8) Allow RCE and SSRF",
+        "link": "https://securityonline.info/urgent-xerox-freeflow-core-patch-critical-flaws-cvss-9-8-allow-rce-and-ssrf/",
+        "published": "Mon, 11 Aug 2025 00:40:56 +0000"
+    },
+    {
+        "title": "CVE-2025-5095 (CVSS 9.8): Critical Flaw in ARC Solo Broadcasting Devices Allows Unauthenticated Takeover",
+        "link": "https://securityonline.info/cve-2025-5095-cvss-9-8-critical-flaw-in-arc-solo-broadcasting-devices-allows-unauthenticated-takeover/",
+        "published": "Mon, 11 Aug 2025 00:36:15 +0000"
+    },
+    {
+        "title": "Efimer Trojan: New Crypto-Stealer Hijacks Wallets via Fake Legal Threats & Malicious Torrents",
+        "link": "https://securityonline.info/efimer-trojan-new-crypto-stealer-hijacks-wallets-via-fake-legal-threats-malicious-torrents/",
+        "published": "Mon, 11 Aug 2025 00:33:03 +0000"
+    },
+    {
+        "title": "CastleBot: The New MaaS Framework Fueling Info-Stealer & Ransomware Attacks",
+        "link": "https://securityonline.info/castlebot-the-new-maas-framework-fueling-info-stealer-ransomware-attacks/",
+        "published": "Mon, 11 Aug 2025 00:25:51 +0000"
+    },
+    {
+        "title": "Linux Kernel Flaw (CVE-2025-38236): Privilege Escalation Risk, PoC Code Available",
+        "link": "https://securityonline.info/linux-kernel-flaw-privilege-escalation-risk-poc-code-available/",
+        "published": "Mon, 11 Aug 2025 00:21:58 +0000"
+    },
+    {
+        "title": "GreedyBear Unmasked: How Stealthy Firefox Extensions and Fake Sites Stole $1M in Crypto",
+        "link": "https://securityonline.info/greedybear-unmasked-how-stealthy-firefox-extensions-and-fake-sites-stole-1m-in-crypto/",
+        "published": "Mon, 11 Aug 2025 00:16:53 +0000"
+    },
+    {
+        "title": "ScarCruft APT Deploys VCD Ransomware, Uses PubNub & New Malware in Espionage Campaign",
+        "link": "https://securityonline.info/scarcruft-apt-deploys-vcd-ransomware-uses-pubnub-new-malware-in-espionage-campaign/",
+        "published": "Mon, 11 Aug 2025 00:11:57 +0000"
+    },
+    {
+        "title": "WinRAR Update: Zero-Day Path Traversal Flaw (CVE-2025-8088) Actively Exploited to Deliver Malware",
+        "link": "https://securityonline.info/winrar-update-zero-day-path-traversal-flaw-cve-2025-8088-actively-exploited-to-deliver-malware/",
+        "published": "Mon, 11 Aug 2025 00:07:35 +0000"
+    },
+    {
+        "title": "DarkCloud Rises: New Fileless Stealer Uses PowerShell & Process Hollowing to Evade Detection",
+        "link": "https://securityonline.info/darkcloud-rises-new-fileless-stealer-uses-powershell-process-hollowing-to-evade-detection/",
+        "published": "Mon, 11 Aug 2025 00:01:00 +0000"
     }
 ]
