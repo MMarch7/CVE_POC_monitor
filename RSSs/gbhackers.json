@@ -638,5 +638,10 @@
         "title": "UAC-0099 Tactics, Techniques, Procedures and Attack Methods Revealed",
         "link": "https://gbhackers.com/uac-0099-tactics-techniques-procedures/",
         "published": "Mon, 11 Aug 2025 14:58:00 +0000"
+    },
+    {
+        "title": "Erlang/OTP SSH RCE Vulnerability Actively Exploited to Target OT Networks",
+        "link": "https://gbhackers.com/erlang-otp-ssh-rce-vulnerability-actively-exploited/",
+        "published": "Mon, 11 Aug 2025 16:13:35 +0000"
     }
 ]
