@@ -593,5 +593,25 @@
         "title": "Multiple Critical Flaws Hit Zero Trust Products from Check Point, Zscaler, and Netskope",
         "link": "https://gbhackers.com/multiple-critical-flaws-hit-zero-trust-products/",
         "published": "Mon, 11 Aug 2025 09:06:17 +0000"
+    },
+    {
+        "title": "Linux Webcams Weaponized to Inject Keystrokes and Execute Attacks",
+        "link": "https://gbhackers.com/linux-webcams-weaponized/",
+        "published": "Mon, 11 Aug 2025 11:19:31 +0000"
+    },
+    {
+        "title": "Legitimate System Functions Exploited to Steal Secrets in Shared Linux Setups",
+        "link": "https://gbhackers.com/legitimate-system-functions-exploited/",
+        "published": "Mon, 11 Aug 2025 10:56:56 +0000"
+    },
+    {
+        "title": "Report Reveals Tool Overload Driving Fatigue and Missed Threats in MSPs",
+        "link": "https://gbhackers.com/report-reveals-tool-overload-driving-fatigue/",
+        "published": "Mon, 11 Aug 2025 10:52:32 +0000"
+    },
+    {
+        "title": "SoupDealer Malware Evades Sandboxes, AVs, and EDR/XDR in Real-World Attacks",
+        "link": "https://gbhackers.com/soupdealer-malware-evades-sandboxes-avs-and-edr-xdr/",
+        "published": "Mon, 11 Aug 2025 10:22:14 +0000"
     }
 ]
