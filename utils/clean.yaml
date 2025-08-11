@@ -1206,3 +1206,4 @@ clean_list:
 - CVE-2024-0000-PoC
 - Zygotroller
 - sudo-CVE-2025-Toolkit
+- CVE-2025-8088
