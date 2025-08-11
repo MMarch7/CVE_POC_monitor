@@ -613,5 +613,20 @@
         "title": "SoupDealer Malware Evades Sandboxes, AVs, and EDR/XDR in Real-World Attacks",
         "link": "https://gbhackers.com/soupdealer-malware-evades-sandboxes-avs-and-edr-xdr/",
         "published": "Mon, 11 Aug 2025 10:22:14 +0000"
+    },
+    {
+        "title": "Silent Watcher Targets Windows Systems, Steals Data via Discord Webhooks",
+        "link": "https://gbhackers.com/silent-watcher-targets-windows-systems/",
+        "published": "Mon, 11 Aug 2025 12:21:21 +0000"
+    },
+    {
+        "title": "Smart Bus System Flaw Allows Hackers to Remotely Track and Control Vehicles",
+        "link": "https://gbhackers.com/smart-bus-system-flaw/",
+        "published": "Mon, 11 Aug 2025 11:52:49 +0000"
+    },
+    {
+        "title": "CastleLoader Malware Hits 400+ Devices via Cloudflare-Themed ClickFix Phishing Attack",
+        "link": "https://gbhackers.com/castleloader-malware-hits-400-devices/",
+        "published": "Mon, 11 Aug 2025 11:29:56 +0000"
     }
 ]
