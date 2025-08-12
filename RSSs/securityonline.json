@@ -16553,5 +16553,10 @@
         "title": "Apache bRPC Flaw (CVE-2025-54472) Allows Remote Denial-of-Service Attack",
         "link": "https://securityonline.info/apache-brpc-flaw-cve-2025-54472-allows-remote-denial-of-service-attack/",
         "published": "Tue, 12 Aug 2025 02:53:09 +0000"
+    },
+    {
+        "title": "SAP Patch Day August 2025: Critical Code Injection Flaws Threaten Core ERP Systems",
+        "link": "https://securityonline.info/sap-patch-day-august-2025-critical-code-injection-flaws-threaten-core-erp-systems/",
+        "published": "Tue, 12 Aug 2025 07:25:20 +0000"
     }
 ]
