@@ -738,5 +738,75 @@
         "title": "Unauthenticated SQL injection in GUI",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-151",
         "published": "Tue, 08 Jul 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Arbitrary file overwrite in FGFMd",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-473",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Authentication bypass via invalid parameter",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-448",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Command injection in CLI",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-150",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Command injection in CLI command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-253",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Double free in automation-stitch",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-209",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Incorrect Privilege Assignment in Security Fabric",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-173",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Integer Overflow on SSL-VPN bookmarks",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-364",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injections via GET request parameter",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-501",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Path traversal in Solution Pack upload",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-421",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Path traversal vulnerability in CLI",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-309",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Remote unauthenticated command injection",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-152",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Stack buffer overflow in CLI command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-383",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Weak authentication - FGFM protocol",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-042",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "XSS in service requests",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-513",
+        "published": "Tue, 12 Aug 2025 00:00:00 -0700"
     }
 ]
