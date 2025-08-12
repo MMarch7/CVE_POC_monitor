@@ -16493,5 +16493,50 @@
         "title": "Critical macOS Flaw (CVSS 9.8) Bypasses TCC Without Root Access: PoC Published",
         "link": "https://securityonline.info/critical-macos-flaw-cvss-9-8-bypasses-tcc-without-root-access-poc-published/",
         "published": "Mon, 11 Aug 2025 10:31:51 +0000"
+    },
+    {
+        "title": "Airbnb CEO on AI: ‘Not the New Google’ But a Key to Customer Service",
+        "link": "https://securityonline.info/airbnb-ceo-on-ai-not-the-new-google-but-a-key-to-customer-service/",
+        "published": "Tue, 12 Aug 2025 02:09:48 +0000"
+    },
+    {
+        "title": "Microsoft Launches ‘Windows 365 Reserve’ for Cloud PC Disaster Recovery",
+        "link": "https://securityonline.info/microsoft-launches-windows-365-reserve-for-cloud-pc-disaster-recovery/",
+        "published": "Tue, 12 Aug 2025 02:07:09 +0000"
+    },
+    {
+        "title": "Claude Gets a Memory: Anthropic Adds Long-Awaited Context Feature to Its AI",
+        "link": "https://securityonline.info/claude-gets-a-memory-anthropic-adds-long-awaited-context-feature-to-its-ai/",
+        "published": "Tue, 12 Aug 2025 02:04:14 +0000"
+    },
+    {
+        "title": "Reddit Blocks Internet Archive to Stop AI Companies from Scraping Data for Free",
+        "link": "https://securityonline.info/reddit-blocks-internet-archive-to-stop-ai-companies-from-scraping-data-for-free/",
+        "published": "Tue, 12 Aug 2025 01:59:19 +0000"
+    },
+    {
+        "title": "Microsoft Sued Over Windows 10 End of Support, Accused of Forcing AI PC Upgrades",
+        "link": "https://securityonline.info/microsoft-sued-over-windows-10-end-of-support-accused-of-forcing-ai-pc-upgrades/",
+        "published": "Tue, 12 Aug 2025 01:56:20 +0000"
+    },
+    {
+        "title": "GitHub CEO Resigns as Microsoft Integrates the Platform into Its CoreAI Division",
+        "link": "https://securityonline.info/github-ceo-resigns-as-microsoft-integrates-the-platform-into-its-coreai-division/",
+        "published": "Tue, 12 Aug 2025 01:52:10 +0000"
+    },
+    {
+        "title": "Record-Breaking Payout: Google Awards $250,000 for a Critical Chrome Flaw (CVE-2025-4609)",
+        "link": "https://securityonline.info/record-breaking-payout-google-awards-250000-for-a-critical-chrome-flaw-cve-2025-4609/",
+        "published": "Tue, 12 Aug 2025 01:48:31 +0000"
+    },
+    {
+        "title": "BadCam: Critical Flaws in Lenovo Linux Webcams Allow Remote BadUSB Attacks and Persistent Infections",
+        "link": "https://securityonline.info/badcam-critical-flaws-in-lenovo-linux-webcams-allow-remote-badusb-attacks-and-persistent-infections/",
+        "published": "Tue, 12 Aug 2025 00:05:11 +0000"
+    },
+    {
+        "title": "EPM Poisoning (CVE-2025-49760): New Windows RPC Exploit Hijacks Services, Allowing Full Active Directory Compromise, PoC Releases",
+        "link": "https://securityonline.info/epm-poisoning-cve-2025-49760-new-windows-rpc-exploit-hijacks-services-allowing-full-active-directory-compromise-poc-releases/",
+        "published": "Tue, 12 Aug 2025 00:01:59 +0000"
     }
 ]

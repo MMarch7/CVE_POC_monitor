@@ -1208,3 +1208,4 @@ clean_list:
 - sudo-CVE-2025-Toolkit
 - CVE-2025-8088
 - CVE-2025-55188-7z-exploit
+- CVE-2024-7591-PoC
