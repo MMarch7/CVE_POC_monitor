@@ -16538,5 +16538,20 @@
         "title": "EPM Poisoning (CVE-2025-49760): New Windows RPC Exploit Hijacks Services, Allowing Full Active Directory Compromise, PoC Releases",
         "link": "https://securityonline.info/epm-poisoning-cve-2025-49760-new-windows-rpc-exploit-hijacks-services-allowing-full-active-directory-compromise-poc-releases/",
         "published": "Tue, 12 Aug 2025 00:01:59 +0000"
+    },
+    {
+        "title": "The Win-DDoS Epidemic: New Flaws Weaponize Windows Domain Controllers for Massive DoS Attacks, PoC Releases",
+        "link": "https://securityonline.info/the-win-ddos-epidemic-new-flaws-weaponize-windows-domain-controllers-for-massive-dos-attacks-poc-releases/",
+        "published": "Tue, 12 Aug 2025 03:20:49 +0000"
+    },
+    {
+        "title": "Critical Erlang/OTP Flaw (CVE-2025-32433) Under Active Exploitation, Allowing Unauthenticated RCE on OT Networks",
+        "link": "https://securityonline.info/critical-erlang-otp-flaw-cve-2025-32433-under-active-exploitation-allowing-unauthenticated-rce-on-ot-networks/",
+        "published": "Tue, 12 Aug 2025 03:00:24 +0000"
+    },
+    {
+        "title": "Apache bRPC Flaw (CVE-2025-54472) Allows Remote Denial-of-Service Attack",
+        "link": "https://securityonline.info/apache-brpc-flaw-cve-2025-54472-allows-remote-denial-of-service-attack/",
+        "published": "Tue, 12 Aug 2025 02:53:09 +0000"
     }
 ]
