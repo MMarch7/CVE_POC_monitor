@@ -658,5 +658,10 @@
         "title": "Win-DoS’ Zero-Click Exploit Could Weaponize Windows Infrastructure for DDoS Attacks",
         "link": "https://gbhackers.com/win-dos-zero-click-exploit/",
         "published": "Mon, 11 Aug 2025 17:53:13 +0000"
+    },
+    {
+        "title": "Apache bRPC Vulnerability Lets Attackers Crash Services Remotely via Network",
+        "link": "https://gbhackers.com/apache-brpc-vulnerability/",
+        "published": "Tue, 12 Aug 2025 05:09:47 +0000"
     }
 ]
