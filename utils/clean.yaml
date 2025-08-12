@@ -1210,3 +1210,4 @@ clean_list:
 - CVE-2025-55188-7z-exploit
 - CVE-2024-7591-PoC
 - CVE-2025-55188-PoC
+- PDFJS
