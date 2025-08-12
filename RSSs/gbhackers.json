@@ -733,5 +733,10 @@
         "title": "1,500 Jenkins Servers Vulnerable to Command Injection via Git Parameter Plugin",
         "link": "https://gbhackers.com/1500-jenkins-servers-vulnerable/",
         "published": "Tue, 12 Aug 2025 14:50:00 +0000"
+    },
+    {
+        "title": "ShinyHunters Claims BreachForums Seized by Law Enforcement, Now a Honeypot",
+        "link": "https://gbhackers.com/shinyhunters-claims-breachforums-seized/",
+        "published": "Tue, 12 Aug 2025 15:59:02 +0000"
     }
 ]
