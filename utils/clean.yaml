@@ -1220,3 +1220,4 @@ clean_list:
 - CVE-2025-53770-Checker
 - CVE-2024-47533-Cobbler-XMLRPC-Authentication-Bypass-RCE-Exploit-POC
 - cve-2024-37388
+- CVE-2025-32433-PoC
