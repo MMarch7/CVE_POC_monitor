@@ -403,5 +403,35 @@
         "title": "CVE-2025-2179 GlobalProtect App: Non Admin User Can Disable the GlobalProtect App (Severity: MEDIUM)",
         "link": "https://security.paloaltonetworks.com/CVE-2025-2179",
         "published": "2025-07-28T19:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2184 Cortex XDR Broker VM: Secrets Shared Across Multiple Broker VM Images (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2184",
+        "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2182 PAN-OS: Firewall Clusters using the MACsec Protocol Expose the Connectivity Association Key (CAK) (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2182",
+        "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2183 GlobalProtect App: Improper Certificate Validation Leads to Privilege Escalation  (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2183",
+        "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2181 Checkov by Prisma Cloud: Cleartext Exposure of Credentials (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2181",
+        "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-2180 Checkov by Prisma Cloud: Unsafe Deserialization of Terraform Files Allows Code Execution (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-2180",
+        "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0014 Chromium: Monthly Vulnerability Update (August 2025) (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0014",
+        "published": "2025-08-13T16:00:00.000Z"
     }
 ]
