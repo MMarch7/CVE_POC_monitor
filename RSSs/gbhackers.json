@@ -788,5 +788,10 @@
         "title": "Malicious npm Package Lures Job Seekers and Exfiltrates Sensitive Data",
         "link": "https://gbhackers.com/malicious-npm-package-lures-job-seekers/",
         "published": "Wed, 13 Aug 2025 07:24:36 +0000"
+    },
+    {
+        "title": "New Charon Ransomware Uses DLL Sideloading and Anti-EDR Tactics in Targeted Attacks",
+        "link": "https://gbhackers.com/new-charon-ransomware-uses-dll-sideloading-and-anti-edr-tactics/",
+        "published": "Wed, 13 Aug 2025 08:30:00 +0000"
     }
 ]
