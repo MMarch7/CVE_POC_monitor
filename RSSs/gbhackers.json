@@ -768,5 +768,20 @@
         "title": "Microsoft Teams RCE Flaw Allows Hackers to Read, Modify, and Delete Messages",
         "link": "https://gbhackers.com/microsoft-teams-rce-flaw/",
         "published": "Wed, 13 Aug 2025 04:51:58 +0000"
+    },
+    {
+        "title": "Chrome Security Update Fixes High-Severity Flaws Allowing Arbitrary Code Execution",
+        "link": "https://gbhackers.com/chrome-security-update-fixes-high-severity-flaws/",
+        "published": "Wed, 13 Aug 2025 05:53:29 +0000"
+    },
+    {
+        "title": "FortiWeb Authentication Bypass Vulnerability Allows Logins as Any Existing User",
+        "link": "https://gbhackers.com/fortiweb-authentication-bypass-vulnerability/",
+        "published": "Wed, 13 Aug 2025 05:44:30 +0000"
+    },
+    {
+        "title": "Critical FortiSIEM Vulnerability Allows Attackers to Execute Malicious Commands, PoC Found in the Wild",
+        "link": "https://gbhackers.com/critical-fortisiem-vulnerability/",
+        "published": "Wed, 13 Aug 2025 05:33:57 +0000"
     }
 ]
