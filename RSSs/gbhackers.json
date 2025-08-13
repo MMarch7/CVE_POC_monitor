@@ -798,5 +798,40 @@
         "title": "GitHub Copilot RCE Vulnerability via Prompt Injection Enables Full System Compromise",
         "link": "https://gbhackers.com/github-copilot-rce-vulnerability/",
         "published": "Wed, 13 Aug 2025 10:29:12 +0000"
+    },
+    {
+        "title": "Web DDoS and App Exploitation Attacks Surge in First Half of 2025",
+        "link": "https://gbhackers.com/web-ddos-and-app-exploitation-attacks/",
+        "published": "Wed, 13 Aug 2025 12:52:00 +0000"
+    },
+    {
+        "title": "VexTrio Hackers Use Fake CAPTCHAs and Malicious Apps on Google Play & App Store to Target Users",
+        "link": "https://gbhackers.com/vextrio-hackers-use-fake-captchas-and-malicious-apps/",
+        "published": "Wed, 13 Aug 2025 11:50:00 +0000"
+    },
+    {
+        "title": "Multiple GitLab Vulnerabilities Allow Account Takeover and Stored XSS Attacks",
+        "link": "https://gbhackers.com/multiple-gitlab-vulnerabilities-2/",
+        "published": "Wed, 13 Aug 2025 11:41:31 +0000"
+    },
+    {
+        "title": "Microsoft Office Vulnerabilities Allow Attackers to Execute Remote Code",
+        "link": "https://gbhackers.com/microsoft-office-vulnerabilities-3/",
+        "published": "Wed, 13 Aug 2025 11:25:34 +0000"
+    },
+    {
+        "title": "Microsoft Exchange Server Flaws Allow Network-Based Spoofing and Data Tampering",
+        "link": "https://gbhackers.com/microsoft-exchange-server-flaws/",
+        "published": "Wed, 13 Aug 2025 10:57:29 +0000"
+    },
+    {
+        "title": "Windows Remote Desktop Services Flaw Allows Network-Based Denial-of-Service Attacks",
+        "link": "https://gbhackers.com/windows-remote-desktop-services-flaw/",
+        "published": "Wed, 13 Aug 2025 10:45:14 +0000"
+    },
+    {
+        "title": "‘Curly COMrades’ APT Hackers Target Critical Organizations Across Multiple Countries",
+        "link": "https://gbhackers.com/curly-comrades-apt-hackers-target-critical-organizations/",
+        "published": "Wed, 13 Aug 2025 10:40:46 +0000"
     }
 ]

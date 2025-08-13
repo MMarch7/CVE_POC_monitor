@@ -16643,5 +16643,15 @@
         "title": "Microsoft and Amazon Pull the Plug: Windows Subsystem for Android and Appstore to be Discontinued",
         "link": "https://securityonline.info/microsoft-and-amazon-pull-the-plug-windows-subsystem-for-android-and-appstore-to-be-discontinued/",
         "published": "Wed, 13 Aug 2025 08:21:02 +0000"
+    },
+    {
+        "title": "New Zero-Click Flaw Bypasses Microsoft’s Patch, Leaking NTLM Credentials, PoC Available",
+        "link": "https://securityonline.info/new-zero-click-flaw-bypasses-microsofts-patch-leaking-ntlm-credentials-poc-available/",
+        "published": "Wed, 13 Aug 2025 11:14:18 +0000"
+    },
+    {
+        "title": "GitLab Patches High-Severity Flaws: Update Now to Prevent XSS and Account Takeover",
+        "link": "https://securityonline.info/gitlab-patches-high-severity-flaws-update-now-to-prevent-xss-and-account-takeover/",
+        "published": "Wed, 13 Aug 2025 10:49:39 +0000"
     }
 ]

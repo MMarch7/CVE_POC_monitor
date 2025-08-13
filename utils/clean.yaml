@@ -1223,3 +1223,5 @@ clean_list:
 - CVE-2025-32433-PoC
 - CVE-2025-50154
 - badsub
+- CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-
+- ToolShell-CVE-2025-53770-SharePoint-Exploit-Lab-LetsDefend
