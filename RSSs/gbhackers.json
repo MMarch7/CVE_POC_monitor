@@ -793,5 +793,10 @@
         "title": "New Charon Ransomware Uses DLL Sideloading and Anti-EDR Tactics in Targeted Attacks",
         "link": "https://gbhackers.com/new-charon-ransomware-uses-dll-sideloading-and-anti-edr-tactics/",
         "published": "Wed, 13 Aug 2025 08:30:00 +0000"
+    },
+    {
+        "title": "GitHub Copilot RCE Vulnerability via Prompt Injection Enables Full System Compromise",
+        "link": "https://gbhackers.com/github-copilot-rce-vulnerability/",
+        "published": "Wed, 13 Aug 2025 10:29:12 +0000"
     }
 ]
