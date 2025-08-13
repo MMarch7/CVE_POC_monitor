@@ -1222,3 +1222,4 @@ clean_list:
 - cve-2024-37388
 - CVE-2025-32433-PoC
 - CVE-2025-50154
+- badsub
