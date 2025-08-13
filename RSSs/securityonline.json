@@ -16558,5 +16558,70 @@
         "title": "SAP Patch Day August 2025: Critical Code Injection Flaws Threaten Core ERP Systems",
         "link": "https://securityonline.info/sap-patch-day-august-2025-critical-code-injection-flaws-threaten-core-erp-systems/",
         "published": "Tue, 12 Aug 2025 07:25:20 +0000"
+    },
+    {
+        "title": "Critical XZ Backdoor Still Lurks in Docker Images, Posing Supply Chain Risk",
+        "link": "https://securityonline.info/critical-xz-backdoor-still-lurks-in-docker-images-posing-supply-chain-risk/",
+        "published": "Wed, 13 Aug 2025 02:18:53 +0000"
+    },
+    {
+        "title": "Google’s Chrome Browser Faces an Uncertain Future: Perplexity AI Makes a Bid",
+        "link": "https://securityonline.info/googles-chrome-browser-faces-an-uncertain-future-perplexity-ai-makes-a-bid/",
+        "published": "Wed, 13 Aug 2025 02:11:44 +0000"
+    },
+    {
+        "title": "Google’s “Preferred Sources” Feature Is Here: Take Control of Your Search Results",
+        "link": "https://securityonline.info/googles-preferred-sources-feature-is-here-take-control-of-your-search-results/",
+        "published": "Wed, 13 Aug 2025 02:06:41 +0000"
+    },
+    {
+        "title": "Epic vs. Apple & Google: Australia Court Finds App Stores Lacked Fair Competition",
+        "link": "https://securityonline.info/epic-vs-apple-google-australia-court-finds-app-stores-lacked-fair-competition/",
+        "published": "Wed, 13 Aug 2025 02:03:20 +0000"
+    },
+    {
+        "title": "Apple Sues Apple Cinemas: The Legal Battle Over a Name Heats Up",
+        "link": "https://securityonline.info/apple-sues-apple-cinemas-the-legal-battle-over-a-name-heats-up/",
+        "published": "Wed, 13 Aug 2025 01:59:29 +0000"
+    },
+    {
+        "title": "Microsoft’s August Patch Tuesday: Zero-Day Kerberos Flaw Threatens Domain Admins",
+        "link": "https://securityonline.info/microsofts-august-patch-tuesday-zero-day-kerberos-flaw-threatens-domain-admins/",
+        "published": "Wed, 13 Aug 2025 01:54:03 +0000"
+    },
+    {
+        "title": "Zoom Patches Critical Flaw (CVE-2025-49457): Windows Users Face Privilege Escalation Risk",
+        "link": "https://securityonline.info/zoom-patches-critical-flaw-cve-2025-49457-windows-users-face-privilege-escalation-risk/",
+        "published": "Wed, 13 Aug 2025 01:46:38 +0000"
+    },
+    {
+        "title": "Charon Ransomware Emerges: APT-Style Precision Meets Destructive Encryption",
+        "link": "https://securityonline.info/charon-ransomware-emerges-apt-style-precision-meets-destructive-encryption/",
+        "published": "Wed, 13 Aug 2025 01:40:49 +0000"
+    },
+    {
+        "title": "Click-to-Compromise: PowerShell-Only RAT Campaign Targets Israeli Organizations",
+        "link": "https://securityonline.info/click-to-compromise-powershell-only-rat-campaign-targets-israeli-organizations/",
+        "published": "Wed, 13 Aug 2025 00:38:34 +0000"
+    },
+    {
+        "title": "PoisonSeed’s MFA-Resistant Phishing Kit Exposed: A Deep Dive into Precision-Validated Credential Theft",
+        "link": "https://securityonline.info/poisonseeds-mfa-resistant-phishing-kit-exposed-a-deep-dive-into-precision-validated-credential-theft/",
+        "published": "Wed, 13 Aug 2025 00:30:56 +0000"
+    },
+    {
+        "title": "GitHub Malware Campaign: SmartLoader Poses as Game Cheats to Steal Data",
+        "link": "https://securityonline.info/github-malware-campaign-smartloader-poses-as-game-cheats-to-steal-data/",
+        "published": "Wed, 13 Aug 2025 00:23:56 +0000"
+    },
+    {
+        "title": "Chrome Stable Update 139 Blocks High-Severity Exploits in V8, libaom, and ANGLE",
+        "link": "https://securityonline.info/chrome-stable-update-139-blocks-high-severity-exploits-in-v8-libaom-and-angle/",
+        "published": "Wed, 13 Aug 2025 00:17:08 +0000"
+    },
+    {
+        "title": "FortiSIEM CVE-2025-25256 (CVSS 9.8): Remote Unauthenticated Command Injection with Exploit in the Wild",
+        "link": "https://securityonline.info/fortisiem-cve-2025-25256-cvss-9-8-remote-unauthenticated-command-injection-with-exploit-in-the-wild/",
+        "published": "Wed, 13 Aug 2025 00:10:28 +0000"
     }
 ]
