@@ -758,5 +758,15 @@
         "title": "Law Enforcement Seizes BlackSuit Ransomware Servers Targeting U.S. Critical Infrastructure",
         "link": "https://gbhackers.com/law-enforcement-seizes-blacksuit-ransomware/",
         "published": "Tue, 12 Aug 2025 19:00:00 +0000"
+    },
+    {
+        "title": "New Zero-Click NTLM Credential Leak Exploit Bypasses Microsoft Patch for CVE-2025-24054",
+        "link": "https://gbhackers.com/new-zero-click-ntlm-credential-leak-exploit/",
+        "published": "Wed, 13 Aug 2025 05:23:16 +0000"
+    },
+    {
+        "title": "Microsoft Teams RCE Flaw Allows Hackers to Read, Modify, and Delete Messages",
+        "link": "https://gbhackers.com/microsoft-teams-rce-flaw/",
+        "published": "Wed, 13 Aug 2025 04:51:58 +0000"
     }
 ]
