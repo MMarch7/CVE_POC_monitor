@@ -783,5 +783,10 @@
         "title": "Critical FortiSIEM Vulnerability Allows Attackers to Execute Malicious Commands, PoC Found in the Wild",
         "link": "https://gbhackers.com/critical-fortisiem-vulnerability/",
         "published": "Wed, 13 Aug 2025 05:33:57 +0000"
+    },
+    {
+        "title": "Malicious npm Package Lures Job Seekers and Exfiltrates Sensitive Data",
+        "link": "https://gbhackers.com/malicious-npm-package-lures-job-seekers/",
+        "published": "Wed, 13 Aug 2025 07:24:36 +0000"
     }
 ]
