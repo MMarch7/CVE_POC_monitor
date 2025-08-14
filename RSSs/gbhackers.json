@@ -963,5 +963,10 @@
         "title": "PS1Bot: Multi-Stage Malware Framework Targeting Windows Systems",
         "link": "https://gbhackers.com/ps1bot-multi-stage-malware-framework/",
         "published": "Thu, 14 Aug 2025 18:30:00 +0000"
+    },
+    {
+        "title": "Threat Actors Leverage CrossC2 to Extend Cobalt Strike to Linux and macOS",
+        "link": "https://gbhackers.com/threat-actors-leverage-crossc2/",
+        "published": "Thu, 14 Aug 2025 19:22:00 +0000"
     }
 ]
