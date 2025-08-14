@@ -113,5 +113,10 @@
         "title": "CVE-2025-22227 - Medium - CVE-2025-22227: Authentication Leak On Redirect With Reactor Netty HTTP Client",
         "link": "https://spring.io/security/cve-2025-22227",
         "published": "Tue, 15 Jul 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41242 - Medium - CVE-2025-41242: Path traversal vulnerability on non-compliant Servlet containers",
+        "link": "https://spring.io/security/cve-2025-41242",
+        "published": "Thu, 14 Aug 2025 00:00:00 GMT"
     }
 ]
