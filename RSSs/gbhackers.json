@@ -883,5 +883,10 @@
         "title": "CISA Alerts on N-able N-Central Deserialization and Injection Flaw Under Active Exploitation",
         "link": "https://gbhackers.com/cisa-alerts-on-n-able-n-central-deserialization-and-injection-flaw/",
         "published": "Thu, 14 Aug 2025 04:44:10 +0000"
+    },
+    {
+        "title": "Xerox FreeFlow Core Vulnerability Allows Remote Code Execution — PoC Now Public",
+        "link": "https://gbhackers.com/xerox-freeflow-core-vulnerability/",
+        "published": "Thu, 14 Aug 2025 05:38:43 +0000"
     }
 ]
