@@ -16653,5 +16653,65 @@
         "title": "GitLab Patches High-Severity Flaws: Update Now to Prevent XSS and Account Takeover",
         "link": "https://securityonline.info/gitlab-patches-high-severity-flaws-update-now-to-prevent-xss-and-account-takeover/",
         "published": "Wed, 13 Aug 2025 10:49:39 +0000"
+    },
+    {
+        "title": "“Curly COMrades” Group Unmasked: Russian Threat Actors Deploy New Backdoor in Geopolitical Espionage Campaign",
+        "link": "https://securityonline.info/curly-comrades-group-unmasked-russian-threat-actors-deploy-new-backdoor-in-geopolitical-espionage-campaign/",
+        "published": "Thu, 14 Aug 2025 00:35:32 +0000"
+    },
+    {
+        "title": "Critical WordPress Plugin Flaw (CVE-2025-7384, CVSS 9.8) Exposes 70,000+ Sites to RCE and Data Loss",
+        "link": "https://securityonline.info/critical-wordpress-plugin-flaw-cve-2025-7384-cvss-9-8-exposes-70000-sites-to-rce-and-data-loss/",
+        "published": "Thu, 14 Aug 2025 00:30:34 +0000"
+    },
+    {
+        "title": "Phishing-Resistant No More? New Attack Bypasses FIDO Passkeys with Downgrade Trick",
+        "link": "https://securityonline.info/phishing-resistant-no-more-new-attack-bypasses-fido-passkeys-with-downgrade-trick/",
+        "published": "Thu, 14 Aug 2025 00:28:19 +0000"
+    },
+    {
+        "title": "PS1Bot Malware Campaign Unleashes Modular PowerShell Framework with Stealthy New Tricks",
+        "link": "https://securityonline.info/ps1bot-malware-campaign-unleashes-modular-powershell-framework-with-stealthy-new-tricks/",
+        "published": "Thu, 14 Aug 2025 00:21:27 +0000"
+    },
+    {
+        "title": "CVE-2025-40746: Critical Vulnerability Found in Siemens SIMATIC RTLS Locating Manager",
+        "link": "https://securityonline.info/cve-2025-40746-critical-vulnerability-found-in-siemens-simatic-rtls-locating-manager/",
+        "published": "Thu, 14 Aug 2025 00:19:57 +0000"
+    },
+    {
+        "title": "Unmasking VexTrio: A 15-Year Cybercrime Empire of Scams, Spam, and Fake Apps",
+        "link": "https://securityonline.info/unmasking-vextrio-a-15-year-cybercrime-empire-of-scams-spam-and-fake-apps/",
+        "published": "Thu, 14 Aug 2025 00:13:47 +0000"
+    },
+    {
+        "title": "Microsoft Pushes New Companion Apps to Windows 11 Taskbar for 365 Subscribers",
+        "link": "https://securityonline.info/microsoft-pushes-new-companion-apps-to-windows-11-taskbar-for-365-subscribers/",
+        "published": "Thu, 14 Aug 2025 00:11:09 +0000"
+    },
+    {
+        "title": "Google Tightens Free AI Pro Plan: Students Must Verify Identity or Lose Access",
+        "link": "https://securityonline.info/google-tightens-free-ai-pro-plan-students-must-verify-identity-or-lose-access/",
+        "published": "Thu, 14 Aug 2025 00:09:07 +0000"
+    },
+    {
+        "title": "Kimsuky Hacked: Hackers Leak 8.9GB of Stolen Data and Tools from North Korean Group",
+        "link": "https://securityonline.info/kimsuky-hacked-hackers-leak-8-9gb-of-stolen-data-and-tools-from-north-korean-group/",
+        "published": "Thu, 14 Aug 2025 00:06:18 +0000"
+    },
+    {
+        "title": "Monero Under Fire: Qubic Mining Pool Executes Successful 51% Attack, Rocking Crypto World",
+        "link": "https://securityonline.info/monero-under-fire-qubic-mining-pool-executes-successful-51-attack-rocking-crypto-world/",
+        "published": "Thu, 14 Aug 2025 00:05:25 +0000"
+    },
+    {
+        "title": "Claude Sonnet 4 Gets a Massive 1-Million-Token Context Window for Enterprise Developers",
+        "link": "https://securityonline.info/claude-sonnet-4-gets-a-massive-1-million-token-context-window-for-enterprise-developers/",
+        "published": "Thu, 14 Aug 2025 00:02:00 +0000"
+    },
+    {
+        "title": "Windows 11 Update Triggers “Pluton” Error, Microsoft Says to Disregard It",
+        "link": "https://securityonline.info/windows-11-update-triggers-pluton-error-microsoft-says-to-disregard-it/",
+        "published": "Thu, 14 Aug 2025 00:00:37 +0000"
     }
 ]
