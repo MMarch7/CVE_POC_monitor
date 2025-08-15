@@ -978,5 +978,10 @@
         "title": "Cisco Secure Firewall Vulnerability Lets Attackers Execute Remote Shell Commands",
         "link": "https://gbhackers.com/cisco-secure-firewall-vulnerability/",
         "published": "Fri, 15 Aug 2025 05:13:02 +0000"
+    },
+    {
+        "title": "HTTP/2 MadeYouReset Vulnerability Enables Massive DDoS Attacks",
+        "link": "https://gbhackers.com/http-2-madeyoureset-vulnerability/",
+        "published": "Fri, 15 Aug 2025 06:06:25 +0000"
     }
 ]
