@@ -16738,5 +16738,55 @@
         "title": "NGINX Makes HTTPS Easier Than Ever with New ACME Module",
         "link": "https://securityonline.info/nginx-makes-https-easier-than-ever-with-new-acme-module/",
         "published": "Thu, 14 Aug 2025 08:16:07 +0000"
+    },
+    {
+        "title": "Critical Cisco RCE Flaw (CVE-2025-20265, CVSS 10): Unauthenticated Attackers Can Hijack Firewalls",
+        "link": "https://securityonline.info/critical-cisco-rce-flaw-cve-2025-20265-cvss-10-unauthenticated-attackers-can-hijack-firewalls/",
+        "published": "Fri, 15 Aug 2025 02:11:56 +0000"
+    },
+    {
+        "title": "PhantomCard: The New Android Trojan That Steals Your Contactless Payments",
+        "link": "https://securityonline.info/phantomcard-the-new-android-trojan-that-steals-your-contactless-payments/",
+        "published": "Fri, 15 Aug 2025 00:22:19 +0000"
+    },
+    {
+        "title": "A New Threat: Unmasking Crypto24 Ransomware’s Stealthy Toolkit",
+        "link": "https://securityonline.info/a-new-threat-unmasking-crypto24-ransomwares-stealthy-toolkit/",
+        "published": "Fri, 15 Aug 2025 00:20:15 +0000"
+    },
+    {
+        "title": "Patch Now: Apache Tomcat Fixes Session Fixation and ‘MadeYouReset’ Flaws",
+        "link": "https://securityonline.info/patch-now-apache-tomcat-fixes-session-fixation-and-madeyoureset-flaws/",
+        "published": "Fri, 15 Aug 2025 00:17:09 +0000"
+    },
+    {
+        "title": "MadeYouReset: New HTTP/2 Flaw Threatens to Cripple Servers with DDoS Attacks",
+        "link": "https://securityonline.info/madeyoureset-new-http-2-flaw-threatens-to-cripple-servers-with-ddos-attacks/",
+        "published": "Fri, 15 Aug 2025 00:13:59 +0000"
+    },
+    {
+        "title": "Google Play Cracks Down: New Policy Requires Licenses for Crypto Wallet Apps",
+        "link": "https://securityonline.info/google-play-cracks-down-new-policy-requires-licenses-for-crypto-wallet-apps/",
+        "published": "Fri, 15 Aug 2025 00:10:15 +0000"
+    },
+    {
+        "title": "A Farewell to PowerShell 2.0: Microsoft’s Legacy Tool Is Gone from Windows 11",
+        "link": "https://securityonline.info/a-farewell-to-powershell-2-0-microsofts-legacy-tool-is-gone-from-windows-11/",
+        "published": "Fri, 15 Aug 2025 00:08:05 +0000"
+    },
+    {
+        "title": "An Ethereum Dev’s Wallet Drained by a Fake AI Extension",
+        "link": "https://securityonline.info/an-ethereum-devs-wallet-drained-by-a-fake-ai-extension/",
+        "published": "Fri, 15 Aug 2025 00:06:02 +0000"
+    },
+    {
+        "title": "A Blast from the Past: Why a 2017 Office Flaw Still Haunts Enterprises Today",
+        "link": "https://securityonline.info/a-blast-from-the-past-why-a-2017-office-flaw-still-haunts-enterprises-today/",
+        "published": "Fri, 15 Aug 2025 00:02:04 +0000"
+    },
+    {
+        "title": "Secure Your Print Jobs: Microsoft Rolls Out Universal Print Anywhere for Everyone",
+        "link": "https://securityonline.info/secure-your-print-jobs-microsoft-rolls-out-universal-print-anywhere-for-everyone/",
+        "published": "Fri, 15 Aug 2025 00:00:03 +0000"
     }
 ]
