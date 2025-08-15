@@ -1234,3 +1234,5 @@ clean_list:
 - EventON-Lite-CVE-Report
 - CVE-2025-50461
 - cve2025-20265
+- CVE-2024-5932-web-ui
+- cve_2025_53766
