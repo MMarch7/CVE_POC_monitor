@@ -1023,5 +1023,10 @@
         "title": "Phishing Campaign Exploits Japanese Character “ん” to Imitate Forward Slash",
         "link": "https://gbhackers.com/phishing-campaign-exploits-japanese-character/",
         "published": "Fri, 15 Aug 2025 11:41:52 +0000"
+    },
+    {
+        "title": "F5 Fixes HTTP/2 Flaw Affecting Multiple Products in Massive DoS Attacks",
+        "link": "https://gbhackers.com/f5-fixes-http-2-flaw/",
+        "published": "Fri, 15 Aug 2025 13:04:00 +0000"
     }
 ]
