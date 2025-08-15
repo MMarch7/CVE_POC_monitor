@@ -16788,5 +16788,15 @@
         "title": "Secure Your Print Jobs: Microsoft Rolls Out Universal Print Anywhere for Everyone",
         "link": "https://securityonline.info/secure-your-print-jobs-microsoft-rolls-out-universal-print-anywhere-for-everyone/",
         "published": "Fri, 15 Aug 2025 00:00:03 +0000"
+    },
+    {
+        "title": "CVE-2025-7972: Rockwell Automation Patches Critical Security Bypass in FactoryTalk Linx",
+        "link": "https://securityonline.info/cve-2025-7972-rockwell-automation-patches-critical-security-bypass-in-factorytalk-linx/",
+        "published": "Fri, 15 Aug 2025 02:47:25 +0000"
+    },
+    {
+        "title": "ImageMagick Patches Multiple Flaws: High-Severity Memory Bugs Fixed",
+        "link": "https://securityonline.info/imagemagick-patches-multiple-flaws-high-severity-memory-bugs-fixed/",
+        "published": "Fri, 15 Aug 2025 02:39:49 +0000"
     }
 ]
