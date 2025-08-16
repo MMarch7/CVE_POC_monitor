@@ -1053,5 +1053,10 @@
         "title": "Threat Actors Abuse npm Developer Accounts Hijacked to Spread Malicious Packages",
         "link": "https://gbhackers.com/threat-actors-abuse-npm-developer-accounts-hijacked/",
         "published": "Sat, 16 Aug 2025 11:00:00 +0000"
+    },
+    {
+        "title": "PoC Released for Fortinet FortiSIEM Command Injection Flaw",
+        "link": "https://gbhackers.com/fortinet-fortisiem-command-injection-flaw/",
+        "published": "Sat, 16 Aug 2025 16:10:09 +0000"
     }
 ]
