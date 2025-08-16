@@ -1241,3 +1241,4 @@ clean_list:
 - CVE-2025-50154-Aggressor-Script
 - -CVE-2025-54352
 - CVE-2025-8088-Multi-Document
+- CVE-2025-49667
