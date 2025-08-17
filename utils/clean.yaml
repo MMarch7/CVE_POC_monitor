@@ -1243,3 +1243,4 @@ clean_list:
 - CVE-2025-8088-Multi-Document
 - CVE-2025-49667
 - cve-2024-32019-PoC
+- CVE-2024-28397-command-execution-poc
