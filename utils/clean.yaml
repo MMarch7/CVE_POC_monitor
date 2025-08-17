@@ -1244,3 +1244,5 @@ clean_list:
 - CVE-2025-49667
 - cve-2024-32019-PoC
 - CVE-2024-28397-command-execution-poc
+- CVE-2025-32778
+- WinRAR-CVE-2025-8088-Path-Traversal-PoC
