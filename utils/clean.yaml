@@ -1247,3 +1247,4 @@ clean_list:
 - CVE-2025-32778
 - WinRAR-CVE-2025-8088-Path-Traversal-PoC
 - apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0
+- sap-0day-CVE-2025-31324
