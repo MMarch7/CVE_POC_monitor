@@ -1058,5 +1058,10 @@
         "title": "PoC Released for Fortinet FortiSIEM Command Injection Flaw",
         "link": "https://gbhackers.com/fortinet-fortisiem-command-injection-flaw/",
         "published": "Sat, 16 Aug 2025 16:10:09 +0000"
+    },
+    {
+        "title": "Elastic EDR 0-Day Flaw Lets Hackers Evade Detection, Run Malware, and Trigger BSOD",
+        "link": "https://gbhackers.com/elastic-edr-0-day-flaw/",
+        "published": "Sun, 17 Aug 2025 13:42:07 +0000"
     }
 ]
