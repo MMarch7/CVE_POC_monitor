@@ -1252,3 +1252,4 @@ clean_list:
 - exploit-js2py
 - CVE-2025-54253-Exploit-Demo
 - CVE-2025-7771
+- CVE-2025-26788
