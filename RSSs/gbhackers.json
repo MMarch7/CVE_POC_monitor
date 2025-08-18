@@ -1138,5 +1138,10 @@
         "title": "Weaponized Python Package “termncolor” Uses Windows Run Key for Persistence",
         "link": "https://gbhackers.com/weaponized-python-package-termncolor/",
         "published": "Mon, 18 Aug 2025 17:08:00 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit Microsoft Help Index File to Deploy PipeMagic Malware",
+        "link": "https://gbhackers.com/threat-actors-exploit-microsoft-help-index-file/",
+        "published": "Mon, 18 Aug 2025 18:14:00 +0000"
     }
 ]
