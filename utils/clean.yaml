@@ -1250,3 +1250,4 @@ clean_list:
 - sap-0day-CVE-2025-31324
 - CVE-2024-40094
 - exploit-js2py
+- CVE-2025-54253-Exploit-Demo
