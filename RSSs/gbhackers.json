@@ -1123,5 +1123,10 @@
         "title": "Linux Kernel Netfilter Flaw Enables Privilege Escalation",
         "link": "https://gbhackers.com/linux-kernel-netfilter-flaw/",
         "published": "Mon, 18 Aug 2025 12:45:53 +0000"
+    },
+    {
+        "title": "Technical Details of SAP 0-Day Exploitation Script for RCE Revealed",
+        "link": "https://gbhackers.com/sap-0-day-exploitation-script-for-rce-revealed/",
+        "published": "Mon, 18 Aug 2025 15:02:01 +0000"
     }
 ]
