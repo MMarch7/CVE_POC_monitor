@@ -16843,5 +16843,85 @@
         "title": "Phishing Attack on Popular npm Package Triggers Supply Chain Compromise",
         "link": "https://securityonline.info/phishing-attack-on-popular-npm-package-triggers-supply-chain-compromise/",
         "published": "Sat, 16 Aug 2025 00:01:30 +0000"
+    },
+    {
+        "title": "Windows 11 Finally Fixes Dark Mode Inconsistencies",
+        "link": "https://securityonline.info/windows-11-finally-fixes-dark-mode-inconsistencies/",
+        "published": "Mon, 18 Aug 2025 01:37:18 +0000"
+    },
+    {
+        "title": "Beyond GPT-5: Inside Sam Altman’s Multibillion-Dollar Plan to Build an AI Empire",
+        "link": "https://securityonline.info/beyond-gpt-5-inside-sam-altmans-multibillion-dollar-plan-to-build-an-ai-empire/",
+        "published": "Mon, 18 Aug 2025 01:31:52 +0000"
+    },
+    {
+        "title": "New Firmware Flaw in AMI Aptio UEFI Threatens Persistent System Compromise",
+        "link": "https://securityonline.info/new-firmware-flaw-in-ami-aptio-uefi-threatens-persistent-system-compromise/",
+        "published": "Mon, 18 Aug 2025 00:46:21 +0000"
+    },
+    {
+        "title": "Inside UAT-7237, a Chinese APT Group Targeting Taiwan",
+        "link": "https://securityonline.info/inside-uat-7237-a-chinese-apt-group-targeting-taiwan/",
+        "published": "Mon, 18 Aug 2025 00:42:55 +0000"
+    },
+    {
+        "title": "CVE-2025-48387: Critical tar-fs Vulnerability Exposes Millions to Arbitrary File Writes",
+        "link": "https://securityonline.info/cve-2025-48387-critical-tar-fs-vulnerability-exposes-millions-to-arbitrary-file-writes/",
+        "published": "Mon, 18 Aug 2025 00:40:37 +0000"
+    },
+    {
+        "title": "CrossC2 and ReadNimeLoader: Inside the Multi-Stage Intrusions Targeting Linux and Windows Environments",
+        "link": "https://securityonline.info/crossc2-and-readnimeloader-inside-the-multi-stage-intrusions-targeting-linux-and-windows-environments/",
+        "published": "Mon, 18 Aug 2025 00:34:34 +0000"
+    },
+    {
+        "title": "PostgreSQL Issues Urgent Security Fixes for High-Severity RCE Flaws in Core Utilities",
+        "link": "https://securityonline.info/postgresql-issues-urgent-security-fixes-for-high-severity-rce-flaws-in-core-utilities/",
+        "published": "Mon, 18 Aug 2025 00:30:36 +0000"
+    },
+    {
+        "title": "Beyond Phishing: How AI and Deepfakes Are Powering a New Generation of Scams",
+        "link": "https://securityonline.info/beyond-phishing-how-ai-and-deepfakes-are-powering-a-new-generation-of-scams/",
+        "published": "Mon, 18 Aug 2025 00:28:32 +0000"
+    },
+    {
+        "title": "REVENANT: The Experimental Framework That Infects AI Models and Evades Traditional Defenses",
+        "link": "https://securityonline.info/revenant-the-experimental-framework-that-infects-ai-models-and-evades-traditional-defenses/",
+        "published": "Mon, 18 Aug 2025 00:20:25 +0000"
+    },
+    {
+        "title": "CVE-2025-7353 (CVSS 9.8): Rockwell Automation Issues Urgent Warning for ControlLogix Modules",
+        "link": "https://securityonline.info/cve-2025-7353-cvss-9-8-rockwell-automation-issues-urgent-warning-for-controllogix-modules/",
+        "published": "Mon, 18 Aug 2025 00:16:00 +0000"
+    },
+    {
+        "title": "Pakistan Under Cyberattack: Unmasking the Blue Locker Ransomware Campaign",
+        "link": "https://securityonline.info/pakistan-under-cyberattack-unmasking-the-blue-locker-ransomware-campaign/",
+        "published": "Mon, 18 Aug 2025 00:12:02 +0000"
+    },
+    {
+        "title": "Google Uses AI to Fight Ad Fraud, Reducing Invalid Traffic by 40%",
+        "link": "https://securityonline.info/google-uses-ai-to-fight-ad-fraud-reducing-invalid-traffic-by-40/",
+        "published": "Mon, 18 Aug 2025 00:09:21 +0000"
+    },
+    {
+        "title": "Dodi Repacks Malware: Why Your Adblocker Won’t Save You",
+        "link": "https://securityonline.info/dodi-repacks-malware-why-your-adblocker-wont-save-you/",
+        "published": "Mon, 18 Aug 2025 00:08:41 +0000"
+    },
+    {
+        "title": "Android’s Call Screen Just Got a Major Upgrade: Meet Google’s New Calling Cards",
+        "link": "https://securityonline.info/androids-call-screen-just-got-a-major-upgrade-meet-googles-new-calling-cards/",
+        "published": "Mon, 18 Aug 2025 00:05:54 +0000"
+    },
+    {
+        "title": "Microsoft Unlocks Gaming on Windows on Arm: Xbox App Now Supports Native Downloads",
+        "link": "https://securityonline.info/microsoft-unlocks-gaming-on-windows-on-arm-xbox-app-now-supports-native-downloads/",
+        "published": "Mon, 18 Aug 2025 00:02:58 +0000"
+    },
+    {
+        "title": "Meet Gemma 3 270M: Google’s Most Lightweight AI Model Yet",
+        "link": "https://securityonline.info/meet-gemma-3-270m-googles-most-lightweight-ai-model-yet/",
+        "published": "Mon, 18 Aug 2025 00:00:25 +0000"
     }
 ]
