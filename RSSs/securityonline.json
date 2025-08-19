@@ -16993,5 +16993,20 @@
         "title": "PyPI Fights Back: New Security Feature Prevents Account Takeovers via Expired Domains",
         "link": "https://securityonline.info/pypi-fights-back-new-security-feature-prevents-account-takeovers-via-expired-domains/",
         "published": "Tue, 19 Aug 2025 02:16:55 +0000"
+    },
+    {
+        "title": "Apple’s New iOS 26 Feature Extends Battery Life, But at a Cost",
+        "link": "https://securityonline.info/apples-new-ios-26-feature-extends-battery-life-but-at-a-cost/",
+        "published": "Tue, 19 Aug 2025 04:15:32 +0000"
+    },
+    {
+        "title": "A German Court Just Revived a Lawsuit That Could Make Ad Blockers Illegal",
+        "link": "https://securityonline.info/a-german-court-just-revived-a-lawsuit-that-could-make-ad-blockers-illegal/",
+        "published": "Tue, 19 Aug 2025 04:11:02 +0000"
+    },
+    {
+        "title": "CVE-2025-55205: Critical Flaw in Capsule Kubernetes Exposes Clusters to Cross-Tenant Attacks",
+        "link": "https://securityonline.info/cve-2025-55205-critical-flaw-in-capsule-kubernetes-exposes-clusters-to-cross-tenant-attacks/",
+        "published": "Tue, 19 Aug 2025 03:18:53 +0000"
     }
 ]
