@@ -1256,3 +1256,4 @@ clean_list:
 - CVE-2025-49132_poc
 - CVE-2024-0520_try
 - CVE-2025-49113-Roundcube-RCE-PHP
+- CVE-2024-53900
