@@ -1263,3 +1263,4 @@ clean_list:
 - CVE-2025-31324-Exploits
 - cve-2025-34036
 - CVE-2025-8088-Winrar-Tool-Gui
+- Leantime-POC
