@@ -138,5 +138,10 @@
         "title": "Should Security Solutions Be Secure? Maybe We're All Wrong - Fortinet FortiSIEM Pre-Auth Command Injection (CVE-2025-25256)",
         "link": "https://labs.watchtowr.com/should-security-solutions-be-secure-maybe-were-all-wrong-fortinet-fortisiem-pre-auth-command-injection-cve-2025-25256/",
         "published": "Fri, 15 Aug 2025 16:14:48 GMT"
+    },
+    {
+        "title": "Guess Who Would Be Stupid Enough To Rob The Same Vault Twice? Pre-Auth RCE Chains in Commvault",
+        "link": "https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/",
+        "published": "Wed, 20 Aug 2025 10:31:07 GMT"
     }
 ]
