@@ -1288,5 +1288,15 @@
         "title": "CodeRabbit RCE Flaw Gives Attackers Write Access to 1M Repositories",
         "link": "https://gbhackers.com/coderabbit-rce-flaw/",
         "published": "Wed, 20 Aug 2025 09:59:02 +0000"
+    },
+    {
+        "title": "Lenovo AI Chatbot Flaw Allows Remote Script Execution on Corporate Systems",
+        "link": "https://gbhackers.com/lenovo-ai-chatbot-flaw/",
+        "published": "Wed, 20 Aug 2025 10:49:59 +0000"
+    },
+    {
+        "title": "Microsoft Issues Emergency Patch for Windows Reset and Recovery Bug",
+        "link": "https://gbhackers.com/microsoft-issues-emergency-patch-2/",
+        "published": "Wed, 20 Aug 2025 10:38:02 +0000"
     }
 ]
