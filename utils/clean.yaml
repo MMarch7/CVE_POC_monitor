@@ -1261,3 +1261,4 @@ clean_list:
 - CVE-2025-8723
 - Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927
 - CVE-2025-31324-Exploits
+- cve-2025-34036
