@@ -1453,5 +1453,10 @@
         "title": "Threat Actors Abuse Internet Archive to Host Stealthy JScript Loader",
         "link": "https://gbhackers.com/threat-actors-abuse-internet-archive/",
         "published": "Thu, 21 Aug 2025 16:24:00 +0000"
+    },
+    {
+        "title": "Warlock Ransomware Exploits SharePoint Flaws for Initial Access and Credential Theft",
+        "link": "https://gbhackers.com/warlock-ransomware-exploits-sharepoint-flaws/",
+        "published": "Thu, 21 Aug 2025 17:11:00 +0000"
     }
 ]
