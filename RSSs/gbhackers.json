@@ -1368,5 +1368,10 @@
         "title": "Critical Flaw in Apache Tika PDF Parser Exposes Sensitive Data to Attackers",
         "link": "https://gbhackers.com/critical-flaw-in-apache-tika-pdf-parser/",
         "published": "Thu, 21 Aug 2025 05:56:15 +0000"
+    },
+    {
+        "title": "CISA Issues Four ICS Advisories on Vulnerabilities and Exploits",
+        "link": "https://gbhackers.com/cisa-issues-four-ics-advisories/",
+        "published": "Thu, 21 Aug 2025 07:19:06 +0000"
     }
 ]
