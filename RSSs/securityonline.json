@@ -17138,5 +17138,75 @@
         "title": "Apple Issues Urgent Patch for Zero-Day Vulnerability CVE-2025-43300 Exploited in the Wild",
         "link": "https://securityonline.info/apple-issues-urgent-patch-for-zero-day-vulnerability-cve-2025-43300-exploited-in-the-wild/",
         "published": "Wed, 20 Aug 2025 22:41:56 +0000"
+    },
+    {
+        "title": "Beyond Google Assistant: Gemini for Home Brings a New AI Experience—and Subscriptions",
+        "link": "https://securityonline.info/beyond-google-assistant-gemini-for-home-brings-a-new-ai-experience-and-subscriptions/",
+        "published": "Thu, 21 Aug 2025 01:52:46 +0000"
+    },
+    {
+        "title": "Warlock Ransomware: How a New Group Is Weaponizing Unpatched SharePoint Servers",
+        "link": "https://securityonline.info/warlock-ransomware-how-a-new-group-is-weaponizing-unpatched-sharepoint-servers/",
+        "published": "Thu, 21 Aug 2025 00:40:02 +0000"
+    },
+    {
+        "title": "AI’s Dark Side: How a New Website Builder Is Fueling a Surge in Cybercrime",
+        "link": "https://securityonline.info/ais-dark-side-how-a-new-website-builder-is-fueling-a-surge-in-cybercrime/",
+        "published": "Thu, 21 Aug 2025 00:35:42 +0000"
+    },
+    {
+        "title": "A Decade of Espionage: How a Russian APT Exploited Cisco Devices (CVE-2018-0171) for Years",
+        "link": "https://securityonline.info/a-decade-of-espionage-how-a-russian-apt-exploited-cisco-devices-cve-2018-0171-for-years/",
+        "published": "Thu, 21 Aug 2025 00:31:49 +0000"
+    },
+    {
+        "title": "IBM X-Force Exposes the Stealthy QuirkyLoader Malware",
+        "link": "https://securityonline.info/ibm-x-force-exposes-the-stealthy-quirkyloader-malware/",
+        "published": "Thu, 21 Aug 2025 00:29:19 +0000"
+    },
+    {
+        "title": "Inside the “Traffer” Economy: How a Thriving Cybercrime Ecosystem Professionalized Data Theft",
+        "link": "https://securityonline.info/inside-the-traffer-economy-how-a-thriving-cybercrime-ecosystem-professionalized-data-theft/",
+        "published": "Thu, 21 Aug 2025 00:25:18 +0000"
+    },
+    {
+        "title": "Kudelski Security Exposes Critical CodeRabbit Vulnerability: RCE, Secret Leaks, and Access to 1M Repositories",
+        "link": "https://securityonline.info/kudelski-security-exposes-critical-coderabbit-vulnerability-rce-secret-leaks-and-access-to-1m-repositories/",
+        "published": "Thu, 21 Aug 2025 00:20:06 +0000"
+    },
+    {
+        "title": "How Attackers Exploit and Then Patch a Vulnerability to Hide in Linux Systems",
+        "link": "https://securityonline.info/how-attackers-exploit-and-then-patch-a-vulnerability-to-hide-in-linux-systems/",
+        "published": "Thu, 21 Aug 2025 00:16:35 +0000"
+    },
+    {
+        "title": "Mandiant Uncovers USB-Borne Malware Campaign Deploying Cryptocurrency Miners",
+        "link": "https://securityonline.info/mandiant-uncovers-usb-borne-malware-campaign-deploying-cryptocurrency-miners/",
+        "published": "Thu, 21 Aug 2025 00:11:52 +0000"
+    },
+    {
+        "title": "CVE-2025-54988: Critical XXE Vulnerability in Apache Tika PDF Parser Exposes Sensitive Data",
+        "link": "https://securityonline.info/cve-2025-54988-critical-xxe-vulnerability-in-apache-tika-pdf-parser-exposes-sensitive-data/",
+        "published": "Thu, 21 Aug 2025 00:11:23 +0000"
+    },
+    {
+        "title": "A Trojan in Disguise: New Python Package on PyPI Hides a Multi-Stage Malware Operation",
+        "link": "https://securityonline.info/a-trojan-in-disguise-new-python-package-on-pypi-hides-a-multi-stage-malware-operation/",
+        "published": "Thu, 21 Aug 2025 00:06:17 +0000"
+    },
+    {
+        "title": "Beyond the Inbox: How a Cyber-Espionage Group Is Exploiting Two WinRAR Vulnerabilities",
+        "link": "https://securityonline.info/beyond-the-inbox-how-a-cyber-espionage-group-is-exploiting-two-winrar-vulnerabilities/",
+        "published": "Thu, 21 Aug 2025 00:00:15 +0000"
+    },
+    {
+        "title": "Beyond Cellular: Qualcomm’s New Wearable Chips Bring Satellite Communication to Your Wrist",
+        "link": "https://securityonline.info/beyond-cellular-qualcomms-new-wearable-chips-bring-satellite-communication-to-your-wrist/",
+        "published": "Wed, 20 Aug 2025 23:58:45 +0000"
+    },
+    {
+        "title": "Google Unveils the Pixel 10 Series: New Tensor G5, AI Features, and a Magnetic Interface",
+        "link": "https://securityonline.info/google-unveils-the-pixel-10-series-new-tensor-g5-ai-features-and-a-magnetic-interface/",
+        "published": "Wed, 20 Aug 2025 23:55:25 +0000"
     }
 ]
