@@ -1378,5 +1378,20 @@
         "title": "22-year-old Operator of ‘Rapper Bot’ Botnet Charged for Launching 3 Tbps DDoS Attack",
         "link": "https://gbhackers.com/operator-of-rapper-bot-ddos-botnet-faces-charges/",
         "published": "Thu, 21 Aug 2025 07:54:23 +0000"
+    },
+    {
+        "title": "MITM6 + NTLM Relay Attack Enables Full Domain Compromise",
+        "link": "https://gbhackers.com/mitm6-ntlm-relay-attack/",
+        "published": "Thu, 21 Aug 2025 09:46:34 +0000"
+    },
+    {
+        "title": "New Campaign Uses Active Directory Federation Services to Steal M365 Credentials",
+        "link": "https://gbhackers.com/new-campaign-uses-active-directory-federation-services/",
+        "published": "Thu, 21 Aug 2025 09:43:22 +0000"
+    },
+    {
+        "title": "QUIC-LEAK Vulnerability Allows Attackers to Drain Server Memory and Cause DoS",
+        "link": "https://gbhackers.com/quic-leak-vulnerability/",
+        "published": "Thu, 21 Aug 2025 09:36:44 +0000"
     }
 ]
