@@ -1267,3 +1267,5 @@ clean_list:
 - CVE-2025-24071_PoCExtra
 - CVE-2024-3721---POC
 - cve-2025-22235-demo
+- glibcs
+- CVE-2025-25256-PoC
