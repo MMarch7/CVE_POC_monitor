@@ -1269,3 +1269,4 @@ clean_list:
 - cve-2025-22235-demo
 - glibcs
 - CVE-2025-25256-PoC
+- CVE-2025-43300
