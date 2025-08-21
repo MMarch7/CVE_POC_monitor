@@ -1433,5 +1433,20 @@
         "title": "FBI Warns Russian State Hackers Targeting Critical Infrastructure Networking Devices",
         "link": "https://gbhackers.com/fbi-warns-russian-state-hackers/",
         "published": "Thu, 21 Aug 2025 13:38:00 +0000"
+    },
+    {
+        "title": "MuddyWater APT Targets CFOs via OpenSSH; Enables RDP and Scheduled Tasks",
+        "link": "https://gbhackers.com/muddywater-apt-targets-cfos-via-openssh/",
+        "published": "Thu, 21 Aug 2025 15:22:22 +0000"
+    },
+    {
+        "title": "Paper Werewolf Exploits WinRAR Zero-Day Vulnerability to Deliver Malware",
+        "link": "https://gbhackers.com/paper-werewolf-exploits-winrar-zero-day-vulnerability/",
+        "published": "Thu, 21 Aug 2025 15:21:54 +0000"
+    },
+    {
+        "title": "Threat Actors Weaponize PDF Editor Trojan to Convert Devices into Proxies",
+        "link": "https://gbhackers.com/threat-actors-weaponize-pdf-editor-trojan/",
+        "published": "Thu, 21 Aug 2025 14:49:00 +0000"
     }
 ]
