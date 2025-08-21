@@ -1264,3 +1264,5 @@ clean_list:
 - cve-2025-34036
 - CVE-2025-8088-Winrar-Tool-Gui
 - Leantime-POC
+- CVE-2025-24071_PoCExtra
+- CVE-2024-3721---POC
