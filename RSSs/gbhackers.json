@@ -1353,5 +1353,10 @@
         "title": "RingReaper Malware Targets Linux Servers, Stealthily Evading EDR Solutions",
         "link": "https://gbhackers.com/ringreaper-malware-targets-linux-servers/",
         "published": "Wed, 20 Aug 2025 21:08:00 +0000"
+    },
+    {
+        "title": "PromptFix Exploit Forces AI Browsers to Execute Hidden Malicious Commands",
+        "link": "https://gbhackers.com/promptfix-exploit/",
+        "published": "Thu, 21 Aug 2025 05:17:50 +0000"
     }
 ]
