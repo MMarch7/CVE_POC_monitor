@@ -1278,3 +1278,4 @@ clean_list:
 - CVE-2025-27519
 - CVE-2025-43300-exp
 - CVE-2025-55230-Exploit
+- CVE-2024-37054-MLflow-RCE
