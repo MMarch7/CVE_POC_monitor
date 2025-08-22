@@ -1276,3 +1276,4 @@ clean_list:
 - CVE.py
 - CVE-2025-43300-Exploit
 - CVE-2025-27519
+- CVE-2025-43300-exp
