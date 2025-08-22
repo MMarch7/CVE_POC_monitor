@@ -1498,5 +1498,20 @@
         "title": "NIST Releases New Control Overlays to Manage Cybersecurity Risks in AI Systems",
         "link": "https://gbhackers.com/nist-releases-new-control-overlays/",
         "published": "Fri, 22 Aug 2025 06:54:17 +0000"
+    },
+    {
+        "title": "Stealth Threat Unpacked: Weaponized RAR Files Deliver VShell Backdoor on Linux Systems",
+        "link": "https://gbhackers.com/stealth-threat-unpacked-weaponized-rar-files/",
+        "published": "Fri, 22 Aug 2025 08:36:06 +0000"
+    },
+    {
+        "title": "Azure Default API Connection Flaw Enables Full Cross-Tenant Compromise",
+        "link": "https://gbhackers.com/azure-default-api-connection-flaw/",
+        "published": "Fri, 22 Aug 2025 08:03:27 +0000"
+    },
+    {
+        "title": "Colt Confirms Ransomware Attack Resulted in Customer Data Theft",
+        "link": "https://gbhackers.com/colt-confirms-ransomware-attack/",
+        "published": "Fri, 22 Aug 2025 07:43:15 +0000"
     }
 ]

@@ -1274,3 +1274,5 @@ clean_list:
 - CVE-2025-1337-PoC
 - EXP-for-CVE-2025-24893
 - CVE.py
+- CVE-2025-43300-Exploit
+- CVE-2025-27519
