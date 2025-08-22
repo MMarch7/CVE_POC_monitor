@@ -17238,5 +17238,45 @@
         "title": "Privacy Fail: Grok Chatbot Exposes 370,000 Private Conversations",
         "link": "https://securityonline.info/privacy-fail-grok-chatbot-exposes-370000-private-conversations/",
         "published": "Thu, 21 Aug 2025 10:48:35 +0000"
+    },
+    {
+        "title": "CVE-2025-34158 (CVSS 10): Plex Media Server Users Warned to Patch Critical Vulnerability Now",
+        "link": "https://securityonline.info/cve-2025-34158-cvss-10-plex-media-server-users-warned-to-patch-critical-vulnerability-now/",
+        "published": "Fri, 22 Aug 2025 01:02:59 +0000"
+    },
+    {
+        "title": "CVE-2025-55746: Critical Directus Flaw Exposes Servers to Unauthenticated File Upload and RCE",
+        "link": "https://securityonline.info/cve-2025-55746-critical-directus-flaw-exposes-servers-to-unauthenticated-file-upload-and-rce/",
+        "published": "Fri, 22 Aug 2025 00:30:05 +0000"
+    },
+    {
+        "title": "CVE-2024-36401 Exploited in Stealthy Bandwidth-Monetization Campaign",
+        "link": "https://securityonline.info/cve-2024-36401-exploited-in-stealthy-bandwidth-monetization-campaign/",
+        "published": "Fri, 22 Aug 2025 00:28:54 +0000"
+    },
+    {
+        "title": "UAC-0057 Targets Ukraine and Poland with Weaponized Archives and Evolving Implants",
+        "link": "https://securityonline.info/uac-0057-targets-ukraine-and-poland-with-weaponized-archives-and-evolving-implants/",
+        "published": "Fri, 22 Aug 2025 00:23:53 +0000"
+    },
+    {
+        "title": "CVE-2025-9288: Critical Flaw in Popular JavaScript Library Threatens Global Web Security",
+        "link": "https://securityonline.info/cve-2025-9288-critical-flaw-in-popular-javascript-library-threatens-global-web-security/",
+        "published": "Fri, 22 Aug 2025 00:18:55 +0000"
+    },
+    {
+        "title": "ClickFix and CORNFLAKE.V3: Mandiant Uncovers a New Wave of Access-as-a-Service Campaigns",
+        "link": "https://securityonline.info/clickfix-and-cornflake-v3-mandiant-uncovers-a-new-wave-of-access-as-a-service-campaigns/",
+        "published": "Fri, 22 Aug 2025 00:11:05 +0000"
+    },
+    {
+        "title": "DDoS Onslaught: Hacktivists and Botnets Drive Massive Surge in Cyber Attacks",
+        "link": "https://securityonline.info/ddos-onslaught-hacktivists-and-botnets-drive-massive-surge-in-cyber-attacks/",
+        "published": "Fri, 22 Aug 2025 00:05:28 +0000"
+    },
+    {
+        "title": "Spear-Phishing Campaign Targets CFOs with Sophisticated Multi-Stage Intrusion",
+        "link": "https://securityonline.info/spear-phishing-campaign-targets-cfos-with-sophisticated-multi-stage-intrusion/",
+        "published": "Fri, 22 Aug 2025 00:00:22 +0000"
     }
 ]
