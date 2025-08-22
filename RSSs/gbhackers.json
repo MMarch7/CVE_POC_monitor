@@ -1548,5 +1548,15 @@
         "title": "Rogue Go Module Doubles as Fast SSH Brute-Forcer, Sends Stolen Passwords via Telegram",
         "link": "https://gbhackers.com/rogue-go-module-doubles-as-fast-ssh-brute-forcer/",
         "published": "Fri, 22 Aug 2025 11:42:00 +0000"
+    },
+    {
+        "title": "BQTLOCK Ransomware-as-a-Service Emerges, Boasting Sophisticated Evasion Tactics",
+        "link": "https://gbhackers.com/bqtlock-ransomware-as-a-service-emerges/",
+        "published": "Fri, 22 Aug 2025 14:26:00 +0000"
+    },
+    {
+        "title": "ClickFix Exploit Emerges: Microsoft Flags Cross-Platform Attacks Targeting Windows and macOS",
+        "link": "https://gbhackers.com/clickfix-exploit-emerges-microsoft-flags-cross-platform-attacks/",
+        "published": "Fri, 22 Aug 2025 13:39:00 +0000"
     }
 ]
