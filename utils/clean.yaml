@@ -1283,3 +1283,5 @@ clean_list:
 - CVE-2025-53632
 - CVE-2025-33053_PoC
 - glass-cage-ios18-cve-2025-24085-cve-2025-24201
+- Authentication-Bypass-in-FortiWeb-CVE-2025-52970-
+- FortiWeb-CVE-2025-52970-Authentication-Bypass
