@@ -1282,3 +1282,4 @@ clean_list:
 - POC-for-CVE-2025-24893
 - CVE-2025-53632
 - CVE-2025-33053_PoC
+- glass-cage-ios18-cve-2025-24085-cve-2025-24201
