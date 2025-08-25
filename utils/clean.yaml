@@ -1291,3 +1291,4 @@ clean_list:
 - CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat
 - CVE_2024_28397---js2py-RCE
 - POC-for-CVE-2024-32019
+- CVE-2025-9074
