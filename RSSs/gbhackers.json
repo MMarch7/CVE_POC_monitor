@@ -1613,5 +1613,20 @@
         "title": "PoC Exploit and Technical Analysis Published for Apple 0-Day RCE Vulnerability",
         "link": "https://gbhackers.com/poc-exploit-published-for-apple-0-day-rce-vulnerability/",
         "published": "Mon, 25 Aug 2025 04:51:43 +0000"
+    },
+    {
+        "title": "Hackers Steal Windows Secrets and Credentials Undetected by EDR Detection",
+        "link": "https://gbhackers.com/windows-secrets-and-credentials-exposed/",
+        "published": "Mon, 25 Aug 2025 06:37:58 +0000"
+    },
+    {
+        "title": "NIST Releases Lightweight Cryptography Standard for IoT Security",
+        "link": "https://gbhackers.com/nist-releases-lightweight-cryptography-standard/",
+        "published": "Mon, 25 Aug 2025 06:34:33 +0000"
+    },
+    {
+        "title": "Microsoft Copilot Agent Policy Flaw Lets Any User Access AI Agents",
+        "link": "https://gbhackers.com/microsoft-copilot-agent-policy-flaw/",
+        "published": "Mon, 25 Aug 2025 06:20:27 +0000"
     }
 ]
