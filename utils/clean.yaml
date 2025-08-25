@@ -1289,3 +1289,4 @@ clean_list:
 - CVE-2025-30406-CentreStack-Triofox-Deserialization-RCE
 - CVE-2025-43960
 - CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat
+- CVE_2024_28397---js2py-RCE
