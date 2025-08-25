@@ -1643,5 +1643,25 @@
         "title": "New macOS Installer Boasts Lightning-Fast Data Theft, Marketed on Dark Web",
         "link": "https://gbhackers.com/new-macos-installer-boasts-lightning-fast-data-theft/",
         "published": "Mon, 25 Aug 2025 08:50:00 +0000"
+    },
+    {
+        "title": "Microsoft Confirms August 2025 Patch Slows Down Windows 11 24H2 and Windows 10",
+        "link": "https://gbhackers.com/microsoft-confirms-august-2025-patch-slows-down/",
+        "published": "Mon, 25 Aug 2025 10:04:57 +0000"
+    },
+    {
+        "title": "Chinese Hacker Sentenced for Kill Switch Attack on Ohio Firm’s Global Network",
+        "link": "https://gbhackers.com/chinese-hacker-sentenced-for-kill-switch-attack/",
+        "published": "Mon, 25 Aug 2025 09:41:15 +0000"
+    },
+    {
+        "title": "Unmasking KorPlug Malware: TTPs, Control Flow, and Exposed IOCs",
+        "link": "https://gbhackers.com/unmasking-korplug-malware/",
+        "published": "Mon, 25 Aug 2025 09:40:00 +0000"
+    },
+    {
+        "title": "Hackers Abuse Python eval/exec Calls to Run Malicious Code",
+        "link": "https://gbhackers.com/hackers-abuse-python-eval-exec-calls/",
+        "published": "Mon, 25 Aug 2025 09:33:22 +0000"
     }
 ]
