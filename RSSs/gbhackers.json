@@ -1668,5 +1668,35 @@
         "title": "Threat Actors Exploit Windows Scheduled Tasks for Stealthy Persistence Without Additional Tools",
         "link": "https://gbhackers.com/threat-actors-exploit-windows-scheduled-tasks/",
         "published": "Mon, 25 Aug 2025 10:35:00 +0000"
+    },
+    {
+        "title": "Attaxion Releases Agentless Traffic Monitoring for Immediate Risk Prioritization",
+        "link": "https://gbhackers.com/attaxion-releases-agentless-traffic-monitoring-for-immediate-risk-prioritization/",
+        "published": "Mon, 25 Aug 2025 12:56:18 +0000"
+    },
+    {
+        "title": "Hackers Use AI-Generated Summaries to Deliver Ransomware Payloads",
+        "link": "https://gbhackers.com/hackers-use-ai-generated-summaries-deliver-ransomware/",
+        "published": "Mon, 25 Aug 2025 12:46:13 +0000"
+    },
+    {
+        "title": "New Android Spyware Masquerading as Antivirus Targets Business Executives",
+        "link": "https://gbhackers.com/new-android-spyware-masquerading-as-antivirus/",
+        "published": "Mon, 25 Aug 2025 12:38:00 +0000"
+    },
+    {
+        "title": "Multiple vtenext Flaws Allow Attackers to Bypass Authentication and Run Remote Code",
+        "link": "https://gbhackers.com/multiple-vtenext-flaws/",
+        "published": "Mon, 25 Aug 2025 12:33:09 +0000"
+    },
+    {
+        "title": "Arch Linux Services Hit by Week-Long DDoS Attack",
+        "link": "https://gbhackers.com/arch-linux-services-ddos-attack/",
+        "published": "Mon, 25 Aug 2025 11:43:31 +0000"
+    },
+    {
+        "title": "Kimsuky APT Exposed: GPKI Certificates, Rootkits, and Cobalt Strike Assets Uncovered",
+        "link": "https://gbhackers.com/kimsuky-apt-exposed/",
+        "published": "Mon, 25 Aug 2025 11:40:35 +0000"
     }
 ]
