@@ -1295,3 +1295,4 @@ clean_list:
 - cve-2025-38001
 - CVE-2024-49369
 - Odoo_PDFjs_CVE-2024-4367.pdf
+- ctf-cve-2024-4577
