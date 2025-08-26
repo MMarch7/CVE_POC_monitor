@@ -1296,3 +1296,6 @@ clean_list:
 - CVE-2024-49369
 - Odoo_PDFjs_CVE-2024-4367.pdf
 - ctf-cve-2024-4577
+- CVE-2025-34030-PoC
+- CVE-2024-0762
+- CVE-2025-8088-WinRAR-Startup-PoC
