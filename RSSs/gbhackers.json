@@ -1773,5 +1773,25 @@
         "title": "Chinese UNC6384 Hackers Use Valid Code-Signing Certificates to Evade Detection",
         "link": "https://gbhackers.com/chinese-unc6384-hackers-use-valid-code-signing-certificates/",
         "published": "Tue, 26 Aug 2025 10:21:11 +0000"
+    },
+    {
+        "title": "Threat Actors Update Android Droppers to Remain Effective with Even Simple Malware",
+        "link": "https://gbhackers.com/threat-actors-update-android-droppers/",
+        "published": "Tue, 26 Aug 2025 11:20:00 +0000"
+    },
+    {
+        "title": "CISA Alerts on Git Arbitrary File Write Flaw Actively Exploited",
+        "link": "https://gbhackers.com/cisa-alerts-on-git-arbitrary-file-write-flaw/",
+        "published": "Tue, 26 Aug 2025 11:19:27 +0000"
+    },
+    {
+        "title": "PhpSpreadsheet Library Vulnerability Lets Attackers Inject Malicious HTML Input",
+        "link": "https://gbhackers.com/phpspreadsheet-library-vulnerability/",
+        "published": "Tue, 26 Aug 2025 11:09:41 +0000"
+    },
+    {
+        "title": "Users of WhatsApp Desktop on Windows Face Code Execution Risk Via Python",
+        "link": "https://gbhackers.com/users-of-whatsapp-desktop-on-windows-face-code-execution-risk/",
+        "published": "Tue, 26 Aug 2025 10:59:42 +0000"
     }
 ]

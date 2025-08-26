@@ -1299,3 +1299,4 @@ clean_list:
 - CVE-2025-34030-PoC
 - CVE-2024-0762
 - CVE-2025-8088-WinRAR-Startup-PoC
+- CVE-2025-24893_HackTheBox-Editor-Writeup
