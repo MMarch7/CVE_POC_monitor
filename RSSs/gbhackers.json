@@ -1873,5 +1873,20 @@
         "title": "DOGE Allegedly Uploaded SSA’s Live Numident Database to Unsecured Cloud Server",
         "link": "https://gbhackers.com/doge-allegedly-uploaded-database-to-unsecured-cloud-server/",
         "published": "Wed, 27 Aug 2025 08:33:08 +0000"
+    },
+    {
+        "title": "IPFire Firewall Admin Panel Vulnerability Enables Persistent JavaScript Injection",
+        "link": "https://gbhackers.com/ipfire-firewall-admin-panel-vulnerability/",
+        "published": "Wed, 27 Aug 2025 09:05:07 +0000"
+    },
+    {
+        "title": "CISA Issues New ICS Advisories on Critical Vulnerabilities and Exploits",
+        "link": "https://gbhackers.com/cisa-issues-new-ics-advisories-2/",
+        "published": "Wed, 27 Aug 2025 08:55:01 +0000"
+    },
+    {
+        "title": "New Cache Deception Attack Exploits Miscommunication Between Cache and Web Server",
+        "link": "https://gbhackers.com/new-cache-deception-attack-exploits/",
+        "published": "Wed, 27 Aug 2025 08:44:56 +0000"
     }
 ]
