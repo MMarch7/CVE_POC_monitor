@@ -1858,5 +1858,15 @@
         "title": "Citrix NetScaler ADC and Gateway Hit by Ongoing Attacks Exploiting 0-Day RCE",
         "link": "https://gbhackers.com/citrix-netscaler-adc-and-gateway-0-day-rce/",
         "published": "Wed, 27 Aug 2025 04:58:22 +0000"
+    },
+    {
+        "title": "Critical Chrome Use-After-Free Flaw Enables Arbitrary Code Execution",
+        "link": "https://gbhackers.com/critical-chrome-use-after-free-flaw/",
+        "published": "Wed, 27 Aug 2025 06:12:16 +0000"
+    },
+    {
+        "title": "Hackers Abuse Compromised OAuth Tokens to Access and Steal Salesforce Corporate Data",
+        "link": "https://gbhackers.com/hackers-abuse-compromised-oauth-tokens/",
+        "published": "Wed, 27 Aug 2025 06:01:26 +0000"
     }
 ]
