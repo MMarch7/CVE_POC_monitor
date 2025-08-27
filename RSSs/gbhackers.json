@@ -1928,5 +1928,10 @@
         "title": "Cephalus Ransomware Exploits RDP for Initial Access in Latest Attack Campaign",
         "link": "https://gbhackers.com/cephalus-ransomware-exploits-rdp-for-initial-access/",
         "published": "Wed, 27 Aug 2025 16:26:27 +0000"
+    },
+    {
+        "title": "Critical Zip Slip Bug Enables Malicious File Manipulation on Unzip",
+        "link": "https://gbhackers.com/critical-zip-slip-bug/",
+        "published": "Wed, 27 Aug 2025 20:22:00 +0000"
     }
 ]
