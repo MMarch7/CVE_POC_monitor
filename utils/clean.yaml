@@ -1305,3 +1305,4 @@ clean_list:
 - totallynotsuspicious
 - best-CVE-2025-8088
 - langdroid-CVE-2025-46724
+- CVE-2025-32433-Detection
