@@ -143,5 +143,10 @@
         "title": "Guess Who Would Be Stupid Enough To Rob The Same Vault Twice? Pre-Auth RCE Chains in Commvault",
         "link": "https://labs.watchtowr.com/guess-who-would-be-stupid-enough-to-rob-the-same-vault-twice-pre-auth-rce-chains-in-commvault/",
         "published": "Wed, 20 Aug 2025 10:31:07 GMT"
+    },
+    {
+        "title": "The One Where We Just Steal The Vulnerabilities (CrushFTP CVE-2025-54309)",
+        "link": "https://labs.watchtowr.com/the-one-where-we-just-steal-the-vulnerabilities-crushftp-cve-2025-54309/",
+        "published": "Wed, 27 Aug 2025 04:51:44 GMT"
     }
 ]
