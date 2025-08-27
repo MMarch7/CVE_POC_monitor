@@ -1301,3 +1301,4 @@ clean_list:
 - CVE-2025-8088-WinRAR-Startup-PoC
 - CVE-2025-24893_HackTheBox-Editor-Writeup
 - Blackash-CVE-2025-57773
+- CVE-2025-38676
