@@ -17798,5 +17798,45 @@
         "title": "Parallels Desktop 26 Arrives, Optimized for macOS Tahoe and Windows 11",
         "link": "https://securityonline.info/parallels-desktop-26-arrives-optimized-for-macos-tahoe-and-windows-11/",
         "published": "Thu, 28 Aug 2025 02:14:17 +0000"
+    },
+    {
+        "title": "A CVSS 9.6 Remote Flaw Allows Unauthenticated Attackers to Bypass Dell ThinOS",
+        "link": "https://securityonline.info/a-cvss-9-6-remote-flaw-allows-unauthenticated-attackers-to-bypass-dell-thinos/",
+        "published": "Thu, 28 Aug 2025 04:27:26 +0000"
+    },
+    {
+        "title": "PromptLock: A New AI-Powered Ransomware Strain Creates Unique, Elusive Scripts",
+        "link": "https://securityonline.info/promptlock-a-new-ai-powered-ransomware-strain-creates-unique-elusive-scripts/",
+        "published": "Thu, 28 Aug 2025 04:10:42 +0000"
+    },
+    {
+        "title": "Tencent Cloud’s Misconfiguration Exposed Internal Source Code and Credentials",
+        "link": "https://securityonline.info/tencent-clouds-misconfiguration-exposed-internal-source-code-and-credentials/",
+        "published": "Thu, 28 Aug 2025 04:07:42 +0000"
+    },
+    {
+        "title": "Apple Revokes a Torrent Client’s Notarization, Sparking a New EU Dispute",
+        "link": "https://securityonline.info/apple-revokes-a-torrent-clients-notarization-sparking-a-new-eu-dispute/",
+        "published": "Thu, 28 Aug 2025 04:01:56 +0000"
+    },
+    {
+        "title": "An Espionage System: NSA, CISA, & Partners Expose Chinese APT Groups",
+        "link": "https://securityonline.info/an-espionage-system-nsa-cisa-partners-expose-chinese-apt-groups/",
+        "published": "Thu, 28 Aug 2025 03:44:31 +0000"
+    },
+    {
+        "title": "OFAC Sanctions North Korean IT Worker Network Funding Weapons Programs",
+        "link": "https://securityonline.info/ofac-sanctions-north-korean-it-worker-network-funding-weapons-programs/",
+        "published": "Thu, 28 Aug 2025 03:33:51 +0000"
+    },
+    {
+        "title": "A Single Packet Can Crash a DHCP Server: High-Severity Flaw CVE-2025-40779 Found in Kea",
+        "link": "https://securityonline.info/a-single-packet-can-crash-a-dhcp-server-high-severity-flaw-cve-2025-40779-found-in-kea/",
+        "published": "Thu, 28 Aug 2025 03:26:11 +0000"
+    },
+    {
+        "title": "Beyond the Terminal: Zed Editor Integrates Google Gemini for AI-Powered Coding",
+        "link": "https://securityonline.info/beyond-the-terminal-zed-editor-integrates-google-gemini-for-ai-powered-coding/",
+        "published": "Thu, 28 Aug 2025 03:20:51 +0000"
     }
 ]
