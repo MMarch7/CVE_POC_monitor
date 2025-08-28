@@ -2048,5 +2048,15 @@
         "title": "Threat Actors Exploit Velociraptor Incident Response Tool for Remote Access",
         "link": "https://gbhackers.com/threat-actors-exploit-velociraptor-incident-response-tool/",
         "published": "Thu, 28 Aug 2025 15:48:00 +0000"
+    },
+    {
+        "title": "Cisco UCS Manager Software Flaw Allows Attackers to Inject Malicious Commands",
+        "link": "https://gbhackers.com/cisco-ucs-manager-software-flaw/",
+        "published": "Thu, 28 Aug 2025 16:49:21 +0000"
+    },
+    {
+        "title": "Cisco IMC Virtual Keyboard Vulnerability Allows Attackers to Redirect Users to Malicious Websites",
+        "link": "https://gbhackers.com/cisco-imc-virtual-keyboard-vulnerability/",
+        "published": "Thu, 28 Aug 2025 16:49:03 +0000"
     }
 ]
