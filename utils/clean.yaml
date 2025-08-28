@@ -1307,3 +1307,4 @@ clean_list:
 - langdroid-CVE-2025-46724
 - CVE-2025-32433-Detection
 - CVE-2024-5083
+- CVE-2025-7775

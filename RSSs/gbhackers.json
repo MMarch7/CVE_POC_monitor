@@ -1943,5 +1943,10 @@
         "title": "Over 28,000 Citrix Servers at Risk from Active 0-Day RCE Exploit",
         "link": "https://gbhackers.com/over-28000-citrix-servers-at-risk/",
         "published": "Thu, 28 Aug 2025 05:05:42 +0000"
+    },
+    {
+        "title": "Microsoft Teams Flaw Prevents Users From Accessing Embedded Office Files",
+        "link": "https://gbhackers.com/microsoft-teams-flaw/",
+        "published": "Thu, 28 Aug 2025 05:37:18 +0000"
     }
 ]
