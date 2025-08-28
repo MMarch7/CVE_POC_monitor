@@ -1968,5 +1968,15 @@
         "title": "New TamperedChef Attack Uses Weaponized PDF Editor to Steal Sensitive Data and Login Credentials",
         "link": "https://gbhackers.com/new-tamperedchef-attack-uses-weaponized-pdf-editor/",
         "published": "Thu, 28 Aug 2025 07:43:45 +0000"
+    },
+    {
+        "title": "BadSuccessor After Patch: Using dMSAs for Credential Theft and Lateral Movement in AD",
+        "link": "https://gbhackers.com/badsuccessor-after-patch/",
+        "published": "Thu, 28 Aug 2025 10:00:18 +0000"
+    },
+    {
+        "title": "Microsoft Unveils Storm-0501’s Cloud-Based Ransomware Deployment Tactics",
+        "link": "https://gbhackers.com/microsoft-unveils-storm-0501s-cloud-based-ransomware/",
+        "published": "Thu, 28 Aug 2025 09:55:09 +0000"
     }
 ]
