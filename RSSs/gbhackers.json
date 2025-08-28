@@ -1958,5 +1958,15 @@
         "title": "CISA Issues Alert on Citrix NetScaler 0-Day RCE Exploited in the Wild",
         "link": "https://gbhackers.com/cisa-issues-alert-on-citrix-netscaler-0-day-rce-exploited/",
         "published": "Thu, 28 Aug 2025 07:05:01 +0000"
+    },
+    {
+        "title": "New Research and PoC Reveal Security Risks in LLM-Based Coding",
+        "link": "https://gbhackers.com/new-research-and-poc-reveal-security-risks-in-llm/",
+        "published": "Thu, 28 Aug 2025 07:55:50 +0000"
+    },
+    {
+        "title": "New TamperedChef Attack Uses Weaponized PDF Editor to Steal Sensitive Data and Login Credentials",
+        "link": "https://gbhackers.com/new-tamperedchef-attack-uses-weaponized-pdf-editor/",
+        "published": "Thu, 28 Aug 2025 07:43:45 +0000"
     }
 ]
