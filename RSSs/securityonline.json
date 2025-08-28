@@ -17853,5 +17853,10 @@
         "title": "Cisco Warns of High-Severity DoS Flaw (CVE-2025-20241) in Nexus Switches",
         "link": "https://securityonline.info/cisco-warns-of-high-severity-dos-flaw-cve-2025-20241-in-nexus-switches/",
         "published": "Thu, 28 Aug 2025 09:07:07 +0000"
+    },
+    {
+        "title": "Breaking the Passkey Promise: SquareX Discloses Major Passkey Vulnerability at DEF CON 33",
+        "link": "https://securityonline.info/breaking-the-passkey-promise-squarex-discloses-major-passkey-vulnerability-at-def-con-33/",
+        "published": "Thu, 28 Aug 2025 13:00:10 +0000"
     }
 ]
