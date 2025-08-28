@@ -1948,5 +1948,15 @@
         "title": "Microsoft Teams Flaw Prevents Users From Accessing Embedded Office Files",
         "link": "https://gbhackers.com/microsoft-teams-flaw/",
         "published": "Thu, 28 Aug 2025 05:37:18 +0000"
+    },
+    {
+        "title": "CISA Releases Guide to Hunt and Mitigate Chinese State-Sponsored Threats",
+        "link": "https://gbhackers.com/cisa-releases-guide-to-hunt-and-mitigate-chinese-threats/",
+        "published": "Thu, 28 Aug 2025 07:19:13 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Citrix NetScaler 0-Day RCE Exploited in the Wild",
+        "link": "https://gbhackers.com/cisa-issues-alert-on-citrix-netscaler-0-day-rce-exploited/",
+        "published": "Thu, 28 Aug 2025 07:05:01 +0000"
     }
 ]

@@ -1308,3 +1308,4 @@ clean_list:
 - CVE-2025-32433-Detection
 - CVE-2024-5083
 - CVE-2025-7775
+- CVE-2025-7775-PoC
