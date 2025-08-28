@@ -1311,3 +1311,5 @@ clean_list:
 - CVE-2025-7775-PoC
 - CVE-2024-28397-js2py-Sandbox-Escape
 - CVE-2025-7955
+- CVE-2025-34161
+- CVE-2025-31200
