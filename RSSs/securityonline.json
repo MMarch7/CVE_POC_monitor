@@ -17958,5 +17958,15 @@
         "title": "Multi Flaws Found in HikCentral, Including a Bypass for Admin Access (CVE-2025-39247)",
         "link": "https://securityonline.info/multi-flaws-found-in-hikcentral-including-a-bypass-for-admin-access-cve-2025-39247/",
         "published": "Fri, 29 Aug 2025 09:35:54 +0000"
+    },
+    {
+        "title": "QNAP Patches Critical Flaw (CVE-2025-52856) with CVSS 9.3",
+        "link": "https://securityonline.info/qnap-patches-critical-flaw-cve-2025-52856-with-cvss-9-3/",
+        "published": "Fri, 29 Aug 2025 18:15:32 +0000"
+    },
+    {
+        "title": "A Critical Zero-Click WhatsApp Flaw, CVE-2025-55177, Was Exploited in Zero-Day Attacks",
+        "link": "https://securityonline.info/a-critical-zero-click-whatsapp-flaw-cve-2025-55177-was-exploited-in-zero-day-attacks/",
+        "published": "Fri, 29 Aug 2025 17:58:34 +0000"
     }
 ]
