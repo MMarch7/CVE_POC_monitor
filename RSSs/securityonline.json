@@ -17858,5 +17858,55 @@
         "title": "Breaking the Passkey Promise: SquareX Discloses Major Passkey Vulnerability at DEF CON 33",
         "link": "https://securityonline.info/breaking-the-passkey-promise-squarex-discloses-major-passkey-vulnerability-at-def-con-33/",
         "published": "Thu, 28 Aug 2025 13:00:10 +0000"
+    },
+    {
+        "title": "CVE-2025-50979: SQL Injection Flaw in NodeBB Forum Software, PoC Available",
+        "link": "https://securityonline.info/cve-2025-50979-sql-injection-flaw-in-nodebb-forum-software-poc-available/",
+        "published": "Fri, 29 Aug 2025 00:35:54 +0000"
+    },
+    {
+        "title": "Is This a Rebrand? New Sinobi Ransomware Group Shows Code Overlap with Lynx",
+        "link": "https://securityonline.info/is-this-a-rebrand-new-sinobi-ransomware-group-shows-code-overlap-with-lynx/",
+        "published": "Fri, 29 Aug 2025 00:33:02 +0000"
+    },
+    {
+        "title": "Anthropic Report: Criminals Are Weaponizing AI to Automate Cyberattacks at Scale",
+        "link": "https://securityonline.info/anthropic-report-criminals-are-weaponizing-ai-to-automate-cyberattacks-at-scale/",
+        "published": "Fri, 29 Aug 2025 00:30:27 +0000"
+    },
+    {
+        "title": "Malware-less Ransomware: How Storm-0501 is Pivoting to Cloud-Native Attacks",
+        "link": "https://securityonline.info/malware-less-ransomware-how-storm-0501-is-pivoting-to-cloud-native-attacks/",
+        "published": "Fri, 29 Aug 2025 00:24:09 +0000"
+    },
+    {
+        "title": "A Deceptive AI Lure Is Hiding ScreenConnect & XWorm RAT to Hijack Your PC",
+        "link": "https://securityonline.info/a-deceptive-ai-lure-is-hiding-screenconnect-xworm-rat-to-hijack-your-pc/",
+        "published": "Fri, 29 Aug 2025 00:20:42 +0000"
+    },
+    {
+        "title": "Beyond Email: Why Your Microsoft Teams Chat Is Now a Phishing Danger Zone",
+        "link": "https://securityonline.info/beyond-email-why-your-microsoft-teams-chat-is-now-a-phishing-danger-zone/",
+        "published": "Fri, 29 Aug 2025 00:14:46 +0000"
+    },
+    {
+        "title": "Kaspersky Report: Vulnerabilities Are Exploding, and Attackers Are Adapting",
+        "link": "https://securityonline.info/kaspersky-report-vulnerabilities-are-exploding-and-attackers-are-adapting/",
+        "published": "Fri, 29 Aug 2025 00:10:04 +0000"
+    },
+    {
+        "title": "ShadowSilk Unmasked: The Hybrid Espionage Group Targeting Central Asian Governments",
+        "link": "https://securityonline.info/shadowsilk-unmasked-the-hybrid-espionage-group-targeting-central-asian-governments/",
+        "published": "Fri, 29 Aug 2025 00:05:31 +0000"
+    },
+    {
+        "title": "After 21 Years, the Typepad Blogging Platform Is Shutting Down",
+        "link": "https://securityonline.info/after-21-years-the-typepad-blogging-platform-is-shutting-down/",
+        "published": "Fri, 29 Aug 2025 00:02:15 +0000"
+    },
+    {
+        "title": "Copilot Is Coming to Your Living Room with New Samsung Smart TV Partnership",
+        "link": "https://securityonline.info/copilot-is-coming-to-your-living-room-with-new-samsung-smart-tv-partnership/",
+        "published": "Fri, 29 Aug 2025 00:00:24 +0000"
     }
 ]
