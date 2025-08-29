@@ -148,5 +148,10 @@
         "title": "The One Where We Just Steal The Vulnerabilities (CrushFTP CVE-2025-54309)",
         "link": "https://labs.watchtowr.com/the-one-where-we-just-steal-the-vulnerabilities-crushftp-cve-2025-54309/",
         "published": "Wed, 27 Aug 2025 04:51:44 GMT"
+    },
+    {
+        "title": "Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)",
+        "link": "https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/",
+        "published": "Fri, 29 Aug 2025 10:00:41 GMT"
     }
 ]
