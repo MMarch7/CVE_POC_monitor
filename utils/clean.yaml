@@ -1323,3 +1323,4 @@ clean_list:
 - CVE-2025-55579
 - CVE-2025-57819-ioc-check
 - UpSkope
+- glass-cage-i18-2025-24085-and-cve-2025-24201
