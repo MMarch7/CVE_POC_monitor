@@ -1328,3 +1328,5 @@ clean_list:
 - CVE-2025-7775-vulnerable-lab
 - Reflected-XSS-in-Vvveb-CMS-v1.0.7.2
 - Apache-GOExploiter
+- CVE-2024-48307POC
+- ThrottleStopPoC
