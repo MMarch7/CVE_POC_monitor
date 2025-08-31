@@ -2148,5 +2148,20 @@
         "title": "Google Urges 2.5B Gmail Users to Reset Passwords After Salesforce Breach",
         "link": "https://gbhackers.com/gmail-users-reset-passwords/",
         "published": "Sat, 30 Aug 2025 12:13:43 +0000"
+    },
+    {
+        "title": "AI Waifu RAT Exploits Users with Advanced Social Engineering Tactics",
+        "link": "https://gbhackers.com/ai-waifu-rat-exploits-users/",
+        "published": "Sun, 31 Aug 2025 14:57:29 +0000"
+    },
+    {
+        "title": "Vulnerabilities in Sitecore CMS Platform Allow Excute Arbitrary Code Remotely",
+        "link": "https://gbhackers.com/vulnerabilities-in-sitecore-cms-platform/",
+        "published": "Sun, 31 Aug 2025 14:57:18 +0000"
+    },
+    {
+        "title": "Netskope Windows Client Vulnerability Enables Privilege Escalation via Rogue Server",
+        "link": "https://gbhackers.com/netskope-windows-client-vulnerability/",
+        "published": "Sun, 31 Aug 2025 14:57:09 +0000"
     }
 ]

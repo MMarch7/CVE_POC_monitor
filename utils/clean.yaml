@@ -1331,3 +1331,5 @@ clean_list:
 - CVE-2024-48307POC
 - ThrottleStopPoC
 - From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack
+- CVE-2025-8714-POC
+- CVE-2025-55349
