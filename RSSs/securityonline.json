@@ -17993,5 +17993,10 @@
         "title": "Trojan Horse: A Fake PDF Editor Is Actually a Malware-Laden Backdoor",
         "link": "https://securityonline.info/trojan-horse-a-fake-pdf-editor-is-actually-a-malware-laden-backdoor/",
         "published": "Sun, 31 Aug 2025 02:23:46 +0000"
+    },
+    {
+        "title": "IBM watsonx Orchestrate Vulnerability (CVE-2025-0165) Exposes Systems to SQL Injection Attacks",
+        "link": "https://securityonline.info/ibm-watsonx-orchestrate-vulnerability-cve-2025-0165-exposes-systems-to-sql-injection-attacks/",
+        "published": "Sun, 31 Aug 2025 03:31:03 +0000"
     }
 ]

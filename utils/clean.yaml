@@ -1326,3 +1326,4 @@ clean_list:
 - glass-cage-i18-2025-24085-and-cve-2025-24201
 - ExampleRAT-CVE2025
 - CVE-2025-7775-vulnerable-lab
+- Reflected-XSS-in-Vvveb-CMS-v1.0.7.2
