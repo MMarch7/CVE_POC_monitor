@@ -2163,5 +2163,15 @@
         "title": "Netskope Windows Client Vulnerability Enables Privilege Escalation via Rogue Server",
         "link": "https://gbhackers.com/netskope-windows-client-vulnerability/",
         "published": "Sun, 31 Aug 2025 14:57:09 +0000"
+    },
+    {
+        "title": "Linux UDisks Daemon Vulnerability Lets Attackers Access Privileged User Files",
+        "link": "https://gbhackers.com/linux-udisks-daemon-vulnerability/",
+        "published": "Mon, 01 Sep 2025 05:19:20 +0000"
+    },
+    {
+        "title": "Hackers Exploit Windows Defender Policies to Shut Down EDR Agents",
+        "link": "https://gbhackers.com/hackers-exploit-windows-defender-policies/",
+        "published": "Mon, 01 Sep 2025 05:03:00 +0000"
     }
 ]
