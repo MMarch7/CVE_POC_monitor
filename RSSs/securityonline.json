@@ -18043,5 +18043,100 @@
         "title": "Xbox’s New ‘Play History Sync’ Feature is a Game-Changer",
         "link": "https://securityonline.info/xboxs-new-play-history-sync-feature-is-a-game-changer/",
         "published": "Sun, 31 Aug 2025 06:50:26 +0000"
+    },
+    {
+        "title": "South Korea Fines SK Telecom $96.5M Over Massive Data Breach",
+        "link": "https://securityonline.info/south-korea-fines-sk-telecom-96-5m-over-massive-data-breach/",
+        "published": "Mon, 01 Sep 2025 02:14:36 +0000"
+    },
+    {
+        "title": "Elon Musk’s xAI Sues Ex-Engineer Over Stolen Grok AI Secrets",
+        "link": "https://securityonline.info/elon-musks-xai-sues-ex-engineer-over-stolen-grok-ai-secrets/",
+        "published": "Mon, 01 Sep 2025 02:09:53 +0000"
+    },
+    {
+        "title": "Is Gmail’s Spam Filter Politically Biased? The FTC Investigates",
+        "link": "https://securityonline.info/is-gmails-spam-filter-politically-biased-the-ftc-investigates/",
+        "published": "Mon, 01 Sep 2025 02:04:53 +0000"
+    },
+    {
+        "title": "Microsoft Urges OEMs to Fix Windows 11 USB-C Problems",
+        "link": "https://securityonline.info/microsoft-urges-oems-to-fix-windows-11-usb-c-problems/",
+        "published": "Mon, 01 Sep 2025 02:00:22 +0000"
+    },
+    {
+        "title": "Grok’s New Code Model Is Here to Revolutionize Development",
+        "link": "https://securityonline.info/groks-new-code-model-is-here-to-revolutionize-development/",
+        "published": "Mon, 01 Sep 2025 01:55:01 +0000"
+    },
+    {
+        "title": "Another Ryzen 9000 CPU Burnout: What’s Really Going On?",
+        "link": "https://securityonline.info/another-ryzen-9000-cpu-burnout-whats-really-going-on/",
+        "published": "Mon, 01 Sep 2025 01:51:26 +0000"
+    },
+    {
+        "title": "Why Meta Is Turning to Its Rivals to Win the AI Race",
+        "link": "https://securityonline.info/why-meta-is-turning-to-its-rivals-to-win-the-ai-race/",
+        "published": "Mon, 01 Sep 2025 01:45:41 +0000"
+    },
+    {
+        "title": "Malicious npm Package Masquerades as Nodemailer, Drains Crypto Wallets",
+        "link": "https://securityonline.info/malicious-npm-package-masquerades-as-nodemailer-drains-crypto-wallets/",
+        "published": "Mon, 01 Sep 2025 00:41:02 +0000"
+    },
+    {
+        "title": "Beyond Defense: New Report Exposes How Russian Cyber Firms Aid the Kremlin’s War",
+        "link": "https://securityonline.info/beyond-defense-new-report-exposes-how-russian-cyber-firms-aid-the-kremlins-war/",
+        "published": "Mon, 01 Sep 2025 00:39:05 +0000"
+    },
+    {
+        "title": "CVE-2025-8077 (CVSS 9.8): CRITICAL Flaw in NeuVector Exposes Kubernetes Clusters to Full Takeover",
+        "link": "https://securityonline.info/cve-2025-8077-cvss-9-8-critical-flaw-in-neuvector-exposes-kubernetes-clusters-to-full-takeover/",
+        "published": "Mon, 01 Sep 2025 00:33:44 +0000"
+    },
+    {
+        "title": "Deepfakes and Deception: North Korean IT Workers Infiltrating Companies to Fund Regime",
+        "link": "https://securityonline.info/deepfakes-and-deception-north-korean-it-workers-infiltrating-companies-to-fund-regime/",
+        "published": "Mon, 01 Sep 2025 00:31:59 +0000"
+    },
+    {
+        "title": "Unraveling a Phishing Spree That Abuses Email Marketing and Cloud Services",
+        "link": "https://securityonline.info/unraveling-a-phishing-spree-that-abuses-email-marketing-and-cloud-services/",
+        "published": "Mon, 01 Sep 2025 00:28:49 +0000"
+    },
+    {
+        "title": "CVE-2024-58259: DoS Flaw in Rancher Manager Allows Unauthenticated  Attackers to Crash Servers",
+        "link": "https://securityonline.info/cve-2024-58259-dos-flaw-in-rancher-manager-allows-unauthenticated-attackers-to-crash-servers/",
+        "published": "Mon, 01 Sep 2025 00:23:47 +0000"
+    },
+    {
+        "title": "TAOTH Campaign: Hijacked Software Updates Are Spreading Malware Across Asia",
+        "link": "https://securityonline.info/taoth-campaign-hijacked-software-updates-are-spreading-malware-across-asia/",
+        "published": "Mon, 01 Sep 2025 00:20:37 +0000"
+    },
+    {
+        "title": "Fraudulent Scholarship Apps: A New Malware Campaign Targets Students in Bangladesh",
+        "link": "https://securityonline.info/fraudulent-scholarship-apps-a-new-malware-campaign-targets-students-in-bangladesh/",
+        "published": "Mon, 01 Sep 2025 00:15:38 +0000"
+    },
+    {
+        "title": "A Dangerous Loophole in the VS Code Marketplace Is Allowing Malicious Extensions",
+        "link": "https://securityonline.info/a-dangerous-loophole-in-the-vs-code-marketplace-is-allowing-malicious-extensions/",
+        "published": "Mon, 01 Sep 2025 00:10:49 +0000"
+    },
+    {
+        "title": "Silver Fox APT Exploits Microsoft-Signed Driver to Deploy ValleyRAT Backdoor",
+        "link": "https://securityonline.info/silver-fox-apt-exploits-microsoft-signed-driver-to-deploy-valleyrat-backdoor/",
+        "published": "Mon, 01 Sep 2025 00:04:12 +0000"
+    },
+    {
+        "title": "PoC Exploit Released for Nagios XI RCE Flaw Allows Attackers to Hijack Servers",
+        "link": "https://securityonline.info/poc-exploit-released-for-nagios-xi-rce-flaw-allows-attackers-to-hijack-servers/",
+        "published": "Mon, 01 Sep 2025 00:00:47 +0000"
+    },
+    {
+        "title": "CVE-2025-8067: Linux Privilege Escalation Flaw Found in UDisks Daemon, PoC Releases",
+        "link": "https://securityonline.info/cve-2025-8067-linux-privilege-escalation-flaw-found-in-udisks-daemon-poc-releases/",
+        "published": "Mon, 01 Sep 2025 00:00:13 +0000"
     }
 ]

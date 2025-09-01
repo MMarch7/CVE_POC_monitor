@@ -1333,3 +1333,4 @@ clean_list:
 - From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack
 - CVE-2025-8714-POC
 - CVE-2025-55349
+- CVE-2025-50565
