@@ -18138,5 +18138,15 @@
         "title": "CVE-2025-8067: Linux Privilege Escalation Flaw Found in UDisks Daemon, PoC Releases",
         "link": "https://securityonline.info/cve-2025-8067-linux-privilege-escalation-flaw-found-in-udisks-daemon-poc-releases/",
         "published": "Mon, 01 Sep 2025 00:00:13 +0000"
+    },
+    {
+        "title": "CVE-2024-52284: SUSE Fleet Vulnerability Exposes Sensitive Helm Values in Plain Text",
+        "link": "https://securityonline.info/cve-2024-52284-suse-fleet-vulnerability-exposes-sensitive-helm-values-in-plain-text/",
+        "published": "Mon, 01 Sep 2025 03:04:27 +0000"
+    },
+    {
+        "title": "CVE-2025-57803: Critical Flaw in ImageMagick Could Lead to Remote Code Execution",
+        "link": "https://securityonline.info/cve-2025-57803-critical-flaw-in-imagemagick-could-lead-to-remote-code-execution/",
+        "published": "Mon, 01 Sep 2025 02:43:02 +0000"
     }
 ]
