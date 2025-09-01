@@ -1338,3 +1338,5 @@ clean_list:
 - CVE-2024-6536
 - CVE-2025-27480-The-Silent-Gateway-Risk
 - below-log-race-poc
+- CVE-2025-53693
+- CVE-2025-34300POC
