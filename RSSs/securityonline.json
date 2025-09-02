@@ -18233,5 +18233,20 @@
         "title": "Anatomy of an Attack: New Report Exposes Ukrainian Networks Fueling Global Brute-Force Campaigns",
         "link": "https://securityonline.info/anatomy-of-an-attack-new-report-exposes-ukrainian-networks-fueling-global-brute-force-campaigns/",
         "published": "Tue, 02 Sep 2025 00:00:36 +0000"
+    },
+    {
+        "title": "CVE-2025-57808: ESPHome Web Server Authentication Bypass Exposes Smart Devices",
+        "link": "https://securityonline.info/cve-2025-57808-esphome-web-server-authentication-bypass-exposes-smart-devices/",
+        "published": "Tue, 02 Sep 2025 02:54:53 +0000"
+    },
+    {
+        "title": "TinkyWinkey: A Stealthy New Keylogger Is Hunting for Credentials on Windows",
+        "link": "https://securityonline.info/tinkywinkey-a-stealthy-new-keylogger-is-hunting-for-credentials-on-windows/",
+        "published": "Tue, 02 Sep 2025 02:41:52 +0000"
+    },
+    {
+        "title": "Beyond the Terminal: Anthropic Launches a Web-Based Editor for Claude Code",
+        "link": "https://securityonline.info/beyond-the-terminal-anthropic-launches-a-web-based-editor-for-claude-code/",
+        "published": "Tue, 02 Sep 2025 02:06:35 +0000"
     }
 ]
