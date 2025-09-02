@@ -1346,3 +1346,5 @@ clean_list:
 - CVE-2025-53691
 - CVE2CAPEC
 - CVE-2024-45590
+- CVE-2024-53677-POC
+- CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template

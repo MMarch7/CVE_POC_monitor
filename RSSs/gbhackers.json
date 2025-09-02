@@ -2303,5 +2303,10 @@
         "title": "Lazarus Hackers Exploit 0-Day to Deploy Three Remote Access Trojans",
         "link": "https://gbhackers.com/lazarus-hackers-exploit-0-day/",
         "published": "Tue, 02 Sep 2025 06:47:04 +0000"
+    },
+    {
+        "title": "HashiCorp Vault Vulnerability Allows Attackers to Crash Servers",
+        "link": "https://gbhackers.com/hashicorp-vault-vulnerability/",
+        "published": "Tue, 02 Sep 2025 07:39:24 +0000"
     }
 ]
