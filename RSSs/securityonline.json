@@ -18173,5 +18173,65 @@
         "title": "MediaTek September 2025 Security Bulletin: High-Severity Modem Flaws Could Enable Remote Attacks",
         "link": "https://securityonline.info/mediatek-september-2025-security-bulletin-high-severity-modem-flaws-could-enable-remote-attacks/",
         "published": "Mon, 01 Sep 2025 08:40:06 +0000"
+    },
+    {
+        "title": "A New Era for AI Coding: OpenAI’s Codex Gets a Major Update",
+        "link": "https://securityonline.info/a-new-era-for-ai-coding-openais-codex-gets-a-major-update/",
+        "published": "Tue, 02 Sep 2025 02:02:19 +0000"
+    },
+    {
+        "title": "Lazarus Subgroup Deploys Three Custom RATs in Targeted Crypto Attacks",
+        "link": "https://securityonline.info/lazarus-subgroup-deploys-three-custom-rats-in-targeted-crypto-attacks/",
+        "published": "Tue, 02 Sep 2025 01:42:28 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-21483 & CVE-2025-27034 in Qualcomm Modems Score CVSS 9.8",
+        "link": "https://securityonline.info/critical-cve-2025-21483-cve-2025-27034-in-qualcomm-modems-score-cvss-9-8/",
+        "published": "Tue, 02 Sep 2025 01:31:24 +0000"
+    },
+    {
+        "title": "The Master Key: Exposed JSON File Gives Attackers Full Control of Azure AD",
+        "link": "https://securityonline.info/the-master-key-exposed-json-file-gives-attackers-full-control-of-azure-ad/",
+        "published": "Tue, 02 Sep 2025 01:18:22 +0000"
+    },
+    {
+        "title": "CVE-2025-6203: DoS Flaw in HashiCorp Vault Allows Attackers to Crash Servers",
+        "link": "https://securityonline.info/cve-2025-6203-dos-flaw-in-hashicorp-vault-allows-attackers-to-crash-servers/",
+        "published": "Tue, 02 Sep 2025 01:05:55 +0000"
+    },
+    {
+        "title": "Operation HanKook Phantom: APT-37 Targets South Korean Institutions with LNK-Based Espionage Campaign",
+        "link": "https://securityonline.info/operation-hankook-phantom-apt-37-targets-south-korean-institutions-with-lnk-based-espionage-campaign/",
+        "published": "Tue, 02 Sep 2025 00:26:48 +0000"
+    },
+    {
+        "title": "A Deceptive Ad Campaign Is Stealing Credentials from the Hospitality Industry",
+        "link": "https://securityonline.info/a-deceptive-ad-campaign-is-stealing-credentials-from-the-hospitality-industry/",
+        "published": "Tue, 02 Sep 2025 00:24:54 +0000"
+    },
+    {
+        "title": "Beyond ClickFix: A New Attack Abuses Windows Search to Deliver MetaStealer",
+        "link": "https://securityonline.info/beyond-clickfix-a-new-attack-abuses-windows-search-to-deliver-metastealer/",
+        "published": "Tue, 02 Sep 2025 00:20:01 +0000"
+    },
+    {
+        "title": "AI Waifu RAT: A New Malware Masquerades as an AI Assistant to Hijack Your PC",
+        "link": "https://securityonline.info/ai-waifu-rat-a-new-malware-masquerades-as-an-ai-assistant-to-hijack-your-pc/",
+        "published": "Tue, 02 Sep 2025 00:15:12 +0000"
+    },
+    {
+        "title": "CVE-2025-58158 Flaw in Harness Gitness Allows Arbitrary File Write",
+        "link": "https://securityonline.info/cve-2025-58158-flaw-in-harness-gitness-allows-arbitrary-file-write/",
+        "published": "Tue, 02 Sep 2025 00:10:35 +0000"
+    },
+    {
+        "title": "Beyond Phishing: Iranian-Aligned Group Abuses Omani Mailbox to Spy on Diplomats",
+        "link": "https://securityonline.info/beyond-phishing-iranian-aligned-group-abuses-omani-mailbox-to-spy-on-diplomats/",
+        "published": "Tue, 02 Sep 2025 00:05:49 +0000"
+    },
+    {
+        "title": "Anatomy of an Attack: New Report Exposes Ukrainian Networks Fueling Global Brute-Force Campaigns",
+        "link": "https://securityonline.info/anatomy-of-an-attack-new-report-exposes-ukrainian-networks-fueling-global-brute-force-campaigns/",
+        "published": "Tue, 02 Sep 2025 00:00:36 +0000"
     }
 ]
