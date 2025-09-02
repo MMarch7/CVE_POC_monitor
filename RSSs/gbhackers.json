@@ -2288,5 +2288,20 @@
         "title": "Wireshark 4.4.9 Released With Critical Bug Fixes and Protocol Updates",
         "link": "https://gbhackers.com/wireshark-4-4-9-released/",
         "published": "Tue, 02 Sep 2025 05:46:53 +0000"
+    },
+    {
+        "title": "Azure AD Vulnerability Leaks Credentials, Lets Attackers Deploy Malicious Apps",
+        "link": "https://gbhackers.com/azure-ad-vulnerability-leaks-credentials/",
+        "published": "Tue, 02 Sep 2025 07:20:08 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit Windows Search in AnyDesk ClickFix Attack to Spread MetaStealer",
+        "link": "https://gbhackers.com/clickfix-attack/",
+        "published": "Tue, 02 Sep 2025 07:19:31 +0000"
+    },
+    {
+        "title": "Lazarus Hackers Exploit 0-Day to Deploy Three Remote Access Trojans",
+        "link": "https://gbhackers.com/lazarus-hackers-exploit-0-day/",
+        "published": "Tue, 02 Sep 2025 06:47:04 +0000"
     }
 ]
