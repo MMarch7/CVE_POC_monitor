@@ -18373,5 +18373,10 @@
         "title": "A Single Click Can Hijack Your PC: CVE-2025-58176 RCE Flaw Found in Dive Desktop App",
         "link": "https://securityonline.info/a-single-click-can-hijack-your-pc-cve-2025-58176-rce-flaw-found-in-dive-desktop-app/",
         "published": "Wed, 03 Sep 2025 04:44:36 +0000"
+    },
+    {
+        "title": "Chrome 140 Patches Six Vulnerabilities, Including High-Severity V8 Flaw (CVE-2025-9864)",
+        "link": "https://securityonline.info/chrome-140-patches-six-vulnerabilities-including-high-severity-v8-flaw-cve-2025-9864/",
+        "published": "Wed, 03 Sep 2025 07:22:47 +0000"
     }
 ]
