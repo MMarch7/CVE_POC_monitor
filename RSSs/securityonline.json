@@ -18288,5 +18288,35 @@
         "title": "The Largest DDoS Attack in History: Cloudflare Fights Back",
         "link": "https://securityonline.info/the-largest-ddos-attack-in-history-cloudflare-fights-back/",
         "published": "Tue, 02 Sep 2025 09:22:55 +0000"
+    },
+    {
+        "title": "DOJ Wins Landmark Antitrust Case Against Google, Orders Sweeping Remedies to Restore Competition",
+        "link": "https://securityonline.info/doj-wins-landmark-antitrust-case-against-google-orders-sweeping-remedies-to-restore-competition/",
+        "published": "Wed, 03 Sep 2025 00:52:28 +0000"
+    },
+    {
+        "title": "Android Security Bulletin – September 2025 Patches Actively Exploited Flaws (CVE-2025-38352 & CVE-2025-48543) and Critical RCE",
+        "link": "https://securityonline.info/android-security-bulletin-september-2025-patches-actively-exploited-flaws-cve-2025-38352-cve-2025-48543-and-critical-rce/",
+        "published": "Wed, 03 Sep 2025 00:40:46 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Flaw in SunPower Solar Inverters (CVE-2025-9696, CVSS 9.6)",
+        "link": "https://securityonline.info/cisa-warns-of-critical-flaw-in-sunpower-solar-inverters-cve-2025-9696-cvss-9-6/",
+        "published": "Wed, 03 Sep 2025 00:24:46 +0000"
+    },
+    {
+        "title": "CISA Flags Two Actively Exploited Vulnerabilities: TP-Link Router Reset Flaw and WhatsApp Zero-Day Chain",
+        "link": "https://securityonline.info/cisa-flags-two-actively-exploited-vulnerabilities-tp-link-router-reset-flaw-and-whatsapp-zero-day-chain/",
+        "published": "Wed, 03 Sep 2025 00:19:50 +0000"
+    },
+    {
+        "title": "Inf0s3c Stealer: A Stealthy Python Malware Is Abusing Discord to Steal Data",
+        "link": "https://securityonline.info/inf0s3c-stealer-a-stealthy-python-malware-is-abusing-discord-to-steal-data/",
+        "published": "Wed, 03 Sep 2025 00:05:58 +0000"
+    },
+    {
+        "title": "Predators for Hire: A New Report Exposes the Thriving Global Spyware Industry",
+        "link": "https://securityonline.info/predators-for-hire-a-new-report-exposes-the-thriving-global-spyware-industry/",
+        "published": "Wed, 03 Sep 2025 00:01:39 +0000"
     }
 ]
