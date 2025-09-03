@@ -1350,3 +1350,4 @@ clean_list:
 - CVE-2024-51568---CyberPanel-Command-Injection-Nuclei-Template
 - CVE-2025-23266
 - CVE-2024-47875-PhpSpreadsheet-XSS-PoC
+- CVE-2025-27480
