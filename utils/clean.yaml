@@ -1351,3 +1351,4 @@ clean_list:
 - CVE-2025-23266
 - CVE-2024-47875-PhpSpreadsheet-XSS-PoC
 - CVE-2025-27480
+- -CVE-2025-56435
