@@ -1356,3 +1356,6 @@ clean_list:
 - lab-cve-2025-3515
 - CVE-2025-55555-CVE
 - CVE-2025-5252-CVE-ivanti
+- cve-2025-2082-POV
+- CVE-2025-27591-below-
+- CVE-2025-22131-PoC
