@@ -2443,5 +2443,25 @@
         "title": "Google Cloud & Cloudflare Missed 3-Year Phishing Campaign",
         "link": "https://gbhackers.com/google-cloud-and-cloudflare/",
         "published": "Wed, 03 Sep 2025 09:29:25 +0000"
+    },
+    {
+        "title": "NVIDIA Patches Vulnerabilities Causing DoS, EoP, and Data Exposure",
+        "link": "https://gbhackers.com/nvidia-patches-vulnerabilities/",
+        "published": "Wed, 03 Sep 2025 11:17:28 +0000"
+    },
+    {
+        "title": "Chrome 140 Release Fixes Critical RCE Vulnerabilities",
+        "link": "https://gbhackers.com/chrome-140-release/",
+        "published": "Wed, 03 Sep 2025 11:06:39 +0000"
+    },
+    {
+        "title": "Empire Red Teaming Tool Updated With Enhanced Agents and API Support",
+        "link": "https://gbhackers.com/empire-red-teaming-tool-updated/",
+        "published": "Wed, 03 Sep 2025 10:56:55 +0000"
+    },
+    {
+        "title": "MystRodX: Weaponizing DNS and ICMP for Data Theft",
+        "link": "https://gbhackers.com/weaponizing-dns-and-icmp/",
+        "published": "Wed, 03 Sep 2025 10:54:24 +0000"
     }
 ]
