@@ -18388,5 +18388,10 @@
         "title": "OpenAI Acquires Statsig in $1.1B Deal, Shakes Up Leadership",
         "link": "https://securityonline.info/openai-acquires-statsig-in-1-1b-deal-shakes-up-leadership/",
         "published": "Wed, 03 Sep 2025 08:28:19 +0000"
+    },
+    {
+        "title": "Envoy Project Patches Two Flaws: DoS (CVE-2025-54588) and Session Hijacking (CVE-2025-55162) Risks",
+        "link": "https://securityonline.info/envoy-project-patches-two-flaws-dos-cve-2025-54588-and-session-hijacking-cve-2025-55162-risks/",
+        "published": "Wed, 03 Sep 2025 09:47:44 +0000"
     }
 ]
