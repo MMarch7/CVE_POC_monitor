@@ -2533,5 +2533,20 @@
         "title": "Google Alerts to Active Exploitation of Sitecore Zero-Day Flaw",
         "link": "https://gbhackers.com/google-alerts-sitecore-zero-day-flaw/",
         "published": "Thu, 04 Sep 2025 07:01:12 +0000"
+    },
+    {
+        "title": "US Announces $10M Bounty on FSB Hackers Behind Cisco Exploits",
+        "link": "https://gbhackers.com/us-announces-10m-bounty-on-fsb-hackers/",
+        "published": "Thu, 04 Sep 2025 08:28:04 +0000"
+    },
+    {
+        "title": "Django Web Vulnerability Allows Attackers to Execute SQL Injection",
+        "link": "https://gbhackers.com/django-web-vulnerability/",
+        "published": "Thu, 04 Sep 2025 08:19:23 +0000"
+    },
+    {
+        "title": "Chinese APT Groups Exploit Router Flaws to Breach Enterprises",
+        "link": "https://gbhackers.com/chinese-apt-groups-exploit-router-flaws/",
+        "published": "Thu, 04 Sep 2025 08:08:29 +0000"
     }
 ]
