@@ -1359,3 +1359,6 @@ clean_list:
 - cve-2025-2082-POV
 - CVE-2025-27591-below-
 - CVE-2025-22131-PoC
+- How-to-Patch-CVE-2025-32709
+- CVE-2025-52389
+- CVE-2025-6085

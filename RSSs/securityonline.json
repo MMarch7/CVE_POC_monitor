@@ -18398,5 +18398,45 @@
         "title": "Gemini Arrives: Is a New Era for the Smart Home Coming?",
         "link": "https://securityonline.info/gemini-arrives-is-a-new-era-for-the-smart-home-coming/",
         "published": "Wed, 03 Sep 2025 10:57:06 +0000"
+    },
+    {
+        "title": "CVE-2025-57833: A New SQL Injection Flaw Puts Django Web Applications at Risk",
+        "link": "https://securityonline.info/cve-2025-57833-a-new-sql-injection-flaw-puts-django-web-applications-at-risk/",
+        "published": "Thu, 04 Sep 2025 01:41:34 +0000"
+    },
+    {
+        "title": "A $15/Month Piracy Empire: New Report Exposes a Global IPTV Network",
+        "link": "https://securityonline.info/a-15-month-piracy-empire-new-report-exposes-a-global-iptv-network/",
+        "published": "Thu, 04 Sep 2025 01:32:21 +0000"
+    },
+    {
+        "title": "Crypto as a Weapon: Malicious npm Packages Use Ethereum Smart Contracts for C2",
+        "link": "https://securityonline.info/crypto-as-a-weapon-malicious-npm-packages-use-ethereum-smart-contracts-for-c2/",
+        "published": "Thu, 04 Sep 2025 00:49:09 +0000"
+    },
+    {
+        "title": "CVE-2025-53690: Mandiant and Sitecore Warn of Active Exploitation in ASP.NET Machine Key Configurations",
+        "link": "https://securityonline.info/cve-2025-53690-mandiant-and-sitecore-warn-of-active-exploitation-in-asp-net-machine-key-configurations/",
+        "published": "Thu, 04 Sep 2025 00:39:29 +0000"
+    },
+    {
+        "title": "Obscura: A Stealthy New Go-Based Ransomware Is Abusing Domain Controllers",
+        "link": "https://securityonline.info/obscura-a-stealthy-new-go-based-ransomware-is-abusing-domain-controllers/",
+        "published": "Thu, 04 Sep 2025 00:30:51 +0000"
+    },
+    {
+        "title": "CISA Warns: Actively Exploited TP-Link Router Flaws Added to KEV Catalog",
+        "link": "https://securityonline.info/cisa-warns-actively-exploited-tp-link-router-flaws-added-to-kev-catalog/",
+        "published": "Thu, 04 Sep 2025 00:21:19 +0000"
+    },
+    {
+        "title": "Frostbyte10: The Critical Flaws Threatening Global Supply Chains",
+        "link": "https://securityonline.info/frostbyte10-the-critical-flaws-threatening-global-supply-chains/",
+        "published": "Thu, 04 Sep 2025 00:05:04 +0000"
+    },
+    {
+        "title": "DireWolf: The New Ransomware Group Targeting Global Businesses",
+        "link": "https://securityonline.info/direwolf-the-new-ransomware-group-targeting-global-businesses/",
+        "published": "Thu, 04 Sep 2025 00:01:31 +0000"
     }
 ]
