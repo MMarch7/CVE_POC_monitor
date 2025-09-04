@@ -18458,5 +18458,25 @@
         "title": "A Critical Flaw Is Exposing the AI Supply Chain to “Model Namespace Reuse” Attacks",
         "link": "https://securityonline.info/a-critical-flaw-is-exposing-the-ai-supply-chain-to-model-namespace-reuse-attacks/",
         "published": "Thu, 04 Sep 2025 02:06:04 +0000"
+    },
+    {
+        "title": "CVE-2025-5086 (CVSS 9.0): A Critical RCE in DELMIA Apriso with Exploit Attempts Seen in the Wild",
+        "link": "https://securityonline.info/cve-2025-5086-cvss-9-0-a-critical-rce-in-delmia-apriso-with-exploit-attempts-seen-in-the-wild/",
+        "published": "Thu, 04 Sep 2025 04:18:41 +0000"
+    },
+    {
+        "title": "Apple and Google Are Partnering to Bring Gemini AI to Siri",
+        "link": "https://securityonline.info/apple-and-google-are-partnering-to-bring-gemini-ai-to-siri/",
+        "published": "Thu, 04 Sep 2025 04:00:15 +0000"
+    },
+    {
+        "title": "A Misissued Certificate Found for Cloudflare’s 1.1.1.1 DNS Service",
+        "link": "https://securityonline.info/a-misissued-certificate-found-for-cloudflares-1-1-1-1-dns-service/",
+        "published": "Thu, 04 Sep 2025 03:55:07 +0000"
+    },
+    {
+        "title": "CVSS 10.0 RCE in Popular Python Library (36M+ Monthly Downloads), PoC Available",
+        "link": "https://securityonline.info/cvss-10-0-rce-in-popular-python-library-36m-monthly-downloads-poc-available/",
+        "published": "Thu, 04 Sep 2025 03:37:50 +0000"
     }
 ]
