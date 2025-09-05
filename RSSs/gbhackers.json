@@ -2593,5 +2593,20 @@
         "title": "Chess.com Confirms Data Breach After Hackers Exploit External System",
         "link": "https://gbhackers.com/chess-com-confirms-data-breach/",
         "published": "Fri, 05 Sep 2025 05:03:55 +0000"
+    },
+    {
+        "title": "NightshadeC2 Botnet Exploits ‘UAC Prompt Bombing’ to Evade Windows Defender",
+        "link": "https://gbhackers.com/nightshadec2-botnet/",
+        "published": "Fri, 05 Sep 2025 06:15:07 +0000"
+    },
+    {
+        "title": "Windows Heap Buffer Overflow Vulnerability Allows Attackers to Gain Elevated Privileges",
+        "link": "https://gbhackers.com/windows-heap-buffer-overflow-vulnerability/",
+        "published": "Fri, 05 Sep 2025 06:02:09 +0000"
+    },
+    {
+        "title": "Colombian Malware Exploits SWF and SVG to Evade Detection",
+        "link": "https://gbhackers.com/colombian-malware/",
+        "published": "Fri, 05 Sep 2025 05:49:40 +0000"
     }
 ]
