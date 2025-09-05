@@ -2608,5 +2608,10 @@
         "title": "Colombian Malware Exploits SWF and SVG to Evade Detection",
         "link": "https://gbhackers.com/colombian-malware/",
         "published": "Fri, 05 Sep 2025 05:49:40 +0000"
+    },
+    {
+        "title": "Hackers Exploit Raw Disk Reads to Evade EDR and Steal Sensitive Files",
+        "link": "https://gbhackers.com/hackers-exploit-raw-disk-reads-to-evade-edr/",
+        "published": "Fri, 05 Sep 2025 06:55:02 +0000"
     }
 ]
