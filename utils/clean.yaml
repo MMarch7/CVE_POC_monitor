@@ -1372,3 +1372,4 @@ clean_list:
 - cve-2025-23266-migration-bypass
 - CVE-2025-58440
 - DWrwq
+- CVE-2025-57833
