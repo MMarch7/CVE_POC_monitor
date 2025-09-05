@@ -2613,5 +2613,10 @@
         "title": "Hackers Exploit Raw Disk Reads to Evade EDR and Steal Sensitive Files",
         "link": "https://gbhackers.com/hackers-exploit-raw-disk-reads-to-evade-edr/",
         "published": "Fri, 05 Sep 2025 06:55:02 +0000"
+    },
+    {
+        "title": "Hackers Exploit Google Calendar API with Serverless MeetC2 Framework",
+        "link": "https://gbhackers.com/google-calendar-api/",
+        "published": "Fri, 05 Sep 2025 07:57:43 +0000"
     }
 ]
