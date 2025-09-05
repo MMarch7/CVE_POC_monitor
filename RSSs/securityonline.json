@@ -18553,5 +18553,25 @@
         "title": "PoC Available: macOS Sequoia Flaw Allows Keychain Dump and TCC Bypass (CVSS 9.8)",
         "link": "https://securityonline.info/poc-available-macos-sequoia-flaw-allows-keychain-dump-and-tcc-bypass-cvss-9-8/",
         "published": "Fri, 05 Sep 2025 03:20:11 +0000"
+    },
+    {
+        "title": "A £100M Lawsuit: Tesco Sues Broadcom Over VMware License Dispute",
+        "link": "https://securityonline.info/a-100m-lawsuit-tesco-sues-broadcom-over-vmware-license-dispute/",
+        "published": "Fri, 05 Sep 2025 04:03:14 +0000"
+    },
+    {
+        "title": "Windows Update Is Causing Unexpected UAC Prompts and App Installation Issues",
+        "link": "https://securityonline.info/windows-update-is-causing-unexpected-uac-prompts-and-app-installation-issues/",
+        "published": "Fri, 05 Sep 2025 03:59:53 +0000"
+    },
+    {
+        "title": "Poke Is Back: Facebook Revives a Classic Feature with a Gamified Twist",
+        "link": "https://securityonline.info/poke-is-back-facebook-revives-a-classic-feature-with-a-gamified-twist/",
+        "published": "Fri, 05 Sep 2025 03:55:02 +0000"
+    },
+    {
+        "title": "Cloudflare 1.1.1.1 Hit by 12 Unauthorized Certificates: Fina CA’s Misissuance Raises Microsoft Trust Concerns",
+        "link": "https://securityonline.info/cloudflare-1-1-1-1-hit-by-12-unauthorized-certificates-fina-cas-misissuance-raises-microsoft-trust-concerns/",
+        "published": "Fri, 05 Sep 2025 03:50:47 +0000"
     }
 ]
