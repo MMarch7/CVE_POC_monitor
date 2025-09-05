@@ -2628,5 +2628,20 @@
         "title": "New Malware Exploits Windows Character Map to Evade Defender and Mine Crypto",
         "link": "https://gbhackers.com/malware-exploits-windows/",
         "published": "Fri, 05 Sep 2025 09:47:26 +0000"
+    },
+    {
+        "title": "CISA Warns: TP-Link Vulnerabilities Under Active Exploitation",
+        "link": "https://gbhackers.com/cisa-warns-tp-link-vulnerabilities/",
+        "published": "Fri, 05 Sep 2025 11:05:41 +0000"
+    },
+    {
+        "title": "New Exploit Bypasses Code Integrity to Backdoor Signal, 1Password, Slack, and More",
+        "link": "https://gbhackers.com/new-exploit-bypasses-code-integrity/",
+        "published": "Fri, 05 Sep 2025 11:01:53 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Android 0-Day Use-After-Free Vulnerability Under Active Exploitation",
+        "link": "https://gbhackers.com/cisa-issues-alert-on-android-0-day-use-after-free-vulnerability/",
+        "published": "Fri, 05 Sep 2025 10:51:14 +0000"
     }
 ]
