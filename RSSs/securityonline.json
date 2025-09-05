@@ -18548,5 +18548,10 @@
         "title": "Kimsuky APT Is Using Social Engineering and AppleSeed Malware to Spy on South Korea",
         "link": "https://securityonline.info/kimsuky-apt-is-using-social-engineering-and-appleseed-malware-to-spy-on-south-korea/",
         "published": "Fri, 05 Sep 2025 01:58:57 +0000"
+    },
+    {
+        "title": "PoC Available: macOS Sequoia Flaw Allows Keychain Dump and TCC Bypass (CVSS 9.8)",
+        "link": "https://securityonline.info/poc-available-macos-sequoia-flaw-allows-keychain-dump-and-tcc-bypass-cvss-9-8/",
+        "published": "Fri, 05 Sep 2025 03:20:11 +0000"
     }
 ]
