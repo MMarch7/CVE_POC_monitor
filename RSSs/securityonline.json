@@ -18523,5 +18523,30 @@
         "title": "NotDoor: A New Backdoor by Russia’s APT28 Is Hiding in Microsoft Outlook Macros",
         "link": "https://securityonline.info/notdoor-a-new-backdoor-by-russias-apt28-is-hiding-in-microsoft-outlook-macros/",
         "published": "Fri, 05 Sep 2025 00:00:07 +0000"
+    },
+    {
+        "title": "Argo CD Patches Critical CVSS 10 Vulnerability Exposing Repository Credentials (CVE-2025-55190)",
+        "link": "https://securityonline.info/argo-cd-patches-critical-cvss-10-vulnerability-exposing-repository-credentials-cve-2025-55190/",
+        "published": "Fri, 05 Sep 2025 03:00:09 +0000"
+    },
+    {
+        "title": "CISA Adds Three New Vulnerabilities to Catalog, Urges Immediate Patching",
+        "link": "https://securityonline.info/cisa-adds-three-new-vulnerabilities-to-catalog-urges-immediate-patching/",
+        "published": "Fri, 05 Sep 2025 02:35:06 +0000"
+    },
+    {
+        "title": "SentinelLABS Reveals How North Korean “Contagious Interview” Operators Abuse Threat Intel Platforms",
+        "link": "https://securityonline.info/sentinellabs-reveals-how-north-korean-contagious-interview-operators-abuse-threat-intel-platforms/",
+        "published": "Fri, 05 Sep 2025 02:18:56 +0000"
+    },
+    {
+        "title": "CVE-2025-56752: Remote Attackers Can Gain Full Administrative Access to Affected Ruijie Networks Devices Without Authentication",
+        "link": "https://securityonline.info/cve-2025-56752-remote-attackers-can-gain-full-administrative-access-to-affected-ruijie-networks-devices-without-authentication/",
+        "published": "Fri, 05 Sep 2025 02:09:55 +0000"
+    },
+    {
+        "title": "Kimsuky APT Is Using Social Engineering and AppleSeed Malware to Spy on South Korea",
+        "link": "https://securityonline.info/kimsuky-apt-is-using-social-engineering-and-appleseed-malware-to-spy-on-south-korea/",
+        "published": "Fri, 05 Sep 2025 01:58:57 +0000"
     }
 ]
