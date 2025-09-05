@@ -18498,5 +18498,30 @@
         "title": "Sendmarc appoints Rob Bowker as North American Region Lead",
         "link": "https://securityonline.info/sendmarc-appoints-rob-bowker-as-north-american-region-lead/",
         "published": "Thu, 04 Sep 2025 12:29:47 +0000"
+    },
+    {
+        "title": "A Massive Coordinated Attack Is Probing Cisco ASA Devices",
+        "link": "https://securityonline.info/a-massive-coordinated-attack-is-probing-cisco-asa-devices/",
+        "published": "Fri, 05 Sep 2025 01:51:23 +0000"
+    },
+    {
+        "title": "Acronis TRU Uncovers Surge in ScreenConnect Abuse with Dual-RAT Deployment",
+        "link": "https://securityonline.info/acronis-tru-uncovers-surge-in-screenconnect-abuse-with-dual-rat-deployment/",
+        "published": "Fri, 05 Sep 2025 01:41:39 +0000"
+    },
+    {
+        "title": "CVE-2025-53187: Critical RCE in ABB ASPECT BMS with CVSS 9.8, No Prior Authentication",
+        "link": "https://securityonline.info/cve-2025-53187-critical-rce-in-abb-aspect-bms-with-cvss-9-8-no-prior-authentication/",
+        "published": "Fri, 05 Sep 2025 01:34:46 +0000"
+    },
+    {
+        "title": "Beyond Simple Scripts: A New XWorm Campaign Uses Multi-Stage Stealth",
+        "link": "https://securityonline.info/beyond-simple-scripts-a-new-xworm-campaign-uses-multi-stage-stealth/",
+        "published": "Fri, 05 Sep 2025 00:05:39 +0000"
+    },
+    {
+        "title": "NotDoor: A New Backdoor by Russia’s APT28 Is Hiding in Microsoft Outlook Macros",
+        "link": "https://securityonline.info/notdoor-a-new-backdoor-by-russias-apt28-is-hiding-in-microsoft-outlook-macros/",
+        "published": "Fri, 05 Sep 2025 00:00:07 +0000"
     }
 ]
