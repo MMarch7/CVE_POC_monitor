@@ -1379,3 +1379,5 @@ clean_list:
 - CVE-2025-58780
 - CVE-2025-49388
 - Blackash-CVE-2025-53690
+- Form-Tools-3.1.1-RCE
+- SCRAPPED
