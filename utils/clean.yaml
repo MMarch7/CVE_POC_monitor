@@ -1385,3 +1385,4 @@ clean_list:
 - decrypted
 - Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-
 - EvilDroid
+- CVE-2025-10046
