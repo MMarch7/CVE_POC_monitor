@@ -18623,5 +18623,10 @@
         "title": "Azure Services Disrupted After Red Sea Submarine Cables Severed",
         "link": "https://securityonline.info/azure-services-disrupted-after-red-sea-submarine-cables-severed/",
         "published": "Sun, 07 Sep 2025 07:31:50 +0000"
+    },
+    {
+        "title": "CVE-2025-58179: Astro Cloudflare Adapter Vulnerability Enables SSRF",
+        "link": "https://securityonline.info/cve-2025-58179-astro-cloudflare-adapter-vulnerability-enables-ssrf/",
+        "published": "Sun, 07 Sep 2025 10:07:52 +0000"
     }
 ]

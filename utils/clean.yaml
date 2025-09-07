@@ -1388,3 +1388,4 @@ clean_list:
 - CVE-2025-10046
 - CVE-2025-53690-Analysis
 - CVE-2025-43300-1day
+- CVE-2025-47812_Lab_environment
