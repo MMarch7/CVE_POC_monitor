@@ -2753,5 +2753,10 @@
         "title": "macOS Under Attack: Atomic Stealer Hidden in Pirated Software",
         "link": "https://gbhackers.com/macos-under-attack/",
         "published": "Mon, 08 Sep 2025 08:55:39 +0000"
+    },
+    {
+        "title": "Web Application Firewall Bypassed via JS Injection with Parameter Pollution",
+        "link": "https://gbhackers.com/web-application-firewall/",
+        "published": "Mon, 08 Sep 2025 10:25:36 +0000"
     }
 ]
