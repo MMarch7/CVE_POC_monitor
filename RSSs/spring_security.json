@@ -118,5 +118,10 @@
         "title": "CVE-2025-41242 - Medium - CVE-2025-41242: Path traversal vulnerability on non-compliant Servlet containers",
         "link": "https://spring.io/security/cve-2025-41242",
         "published": "Thu, 14 Aug 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41243 - Critical - CVE-2025-41243: Spring Expression Language property modification using Spring Cloud Gateway Server WebFlux",
+        "link": "https://spring.io/security/cve-2025-41243",
+        "published": "Mon, 08 Sep 2025 00:00:00 GMT"
     }
 ]
