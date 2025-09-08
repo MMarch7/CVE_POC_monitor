@@ -1390,3 +1390,4 @@ clean_list:
 - CVE-2025-43300-1day
 - CVE-2025-47812_Lab_environment
 - ThrottleStop
+- CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability
