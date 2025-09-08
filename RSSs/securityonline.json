@@ -18708,5 +18708,20 @@
         "title": "CVE-2025-58782: Apache Jackrabbit Vulnerability Exposes Systems to JNDI Injection and RCE",
         "link": "https://securityonline.info/cve-2025-58782-apache-jackrabbit-vulnerability-exposes-systems-to-jndi-injection-and-rce/",
         "published": "Mon, 08 Sep 2025 02:22:02 +0000"
+    },
+    {
+        "title": "Mozilla Keeps Extending Firefox Support for Windows 7",
+        "link": "https://securityonline.info/mozilla-keeps-extending-firefox-support-for-windows-7/",
+        "published": "Mon, 08 Sep 2025 03:51:27 +0000"
+    },
+    {
+        "title": "PgAdmin Flaw Exposes Accounts to OAuth Hijacking Attacks",
+        "link": "https://securityonline.info/pgadmin-flaw-exposes-accounts-to-oauth-hijacking-attacks/",
+        "published": "Mon, 08 Sep 2025 03:45:20 +0000"
+    },
+    {
+        "title": "CVE-2025-57807: A Critical Flaw in ImageMagick Could Lead to RCE, PoC Available",
+        "link": "https://securityonline.info/cve-2025-57807-a-critical-flaw-in-imagemagick-could-lead-to-rce-poc-available/",
+        "published": "Mon, 08 Sep 2025 03:24:13 +0000"
     }
 ]

@@ -1391,3 +1391,4 @@ clean_list:
 - CVE-2025-47812_Lab_environment
 - ThrottleStop
 - CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability
+- Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914
