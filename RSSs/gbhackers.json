@@ -2758,5 +2758,10 @@
         "title": "Web Application Firewall Bypassed via JS Injection with Parameter Pollution",
         "link": "https://gbhackers.com/web-application-firewall/",
         "published": "Mon, 08 Sep 2025 10:25:36 +0000"
+    },
+    {
+        "title": "PgAdmin Vulnerability Allows Attackers to Gain Unauthorized Account Access",
+        "link": "https://gbhackers.com/pgadmin-vulnerability/",
+        "published": "Mon, 08 Sep 2025 10:54:06 +0000"
     }
 ]
