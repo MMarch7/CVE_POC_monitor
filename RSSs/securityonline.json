@@ -18628,5 +18628,65 @@
         "title": "CVE-2025-58179: Astro Cloudflare Adapter Vulnerability Enables SSRF",
         "link": "https://securityonline.info/cve-2025-58179-astro-cloudflare-adapter-vulnerability-enables-ssrf/",
         "published": "Sun, 07 Sep 2025 10:07:52 +0000"
+    },
+    {
+        "title": "Microsoft Gives U.S. University Students Free Microsoft 365 Personal",
+        "link": "https://securityonline.info/microsoft-gives-u-s-university-students-free-microsoft-365-personal/",
+        "published": "Mon, 08 Sep 2025 01:57:04 +0000"
+    },
+    {
+        "title": "iPhone 17 Air: A Beautifully Thin Phone, but with Major Compromises",
+        "link": "https://securityonline.info/iphone-17-air-a-beautifully-thin-phone-but-with-major-compromises/",
+        "published": "Mon, 08 Sep 2025 01:52:58 +0000"
+    },
+    {
+        "title": "Qualcomm CEO: Intel’s Foundry Is Not Ready for Our Chips",
+        "link": "https://securityonline.info/qualcomm-ceo-intels-foundry-is-not-ready-for-our-chips/",
+        "published": "Mon, 08 Sep 2025 01:49:13 +0000"
+    },
+    {
+        "title": "iOS 26 Finally Unlocks Full-Resolution Screen Recording",
+        "link": "https://securityonline.info/ios-26-finally-unlocks-full-resolution-screen-recording/",
+        "published": "Mon, 08 Sep 2025 01:39:22 +0000"
+    },
+    {
+        "title": "Noisy Bear: A New APT Group Is Spying on Kazakhstan’s Energy Sector",
+        "link": "https://securityonline.info/noisy-bear-a-new-apt-group-is-spying-on-kazakhstans-energy-sector/",
+        "published": "Mon, 08 Sep 2025 00:23:00 +0000"
+    },
+    {
+        "title": "Progress Patches Remote Command Execution Flaw in OpenEdge AdminServer (CVE-2025-7388)",
+        "link": "https://securityonline.info/progress-patches-remote-command-execution-flaw-in-openedge-adminserver-cve-2025-7388/",
+        "published": "Mon, 08 Sep 2025 00:20:20 +0000"
+    },
+    {
+        "title": "NightshadeC2: A New Botnet Is Using “UAC Prompt Bombing” to Bypass Windows Defender",
+        "link": "https://securityonline.info/nightshadec2-a-new-botnet-is-using-uac-prompt-bombing-to-bypass-windows-defender/",
+        "published": "Mon, 08 Sep 2025 00:16:12 +0000"
+    },
+    {
+        "title": "Podman Patches Symlink Traversal Vulnerability in kube play Command (CVE-2025-9566)",
+        "link": "https://securityonline.info/podman-patches-symlink-traversal-vulnerability-in-kube-play-command-cve-2025-9566/",
+        "published": "Mon, 08 Sep 2025 00:13:28 +0000"
+    },
+    {
+        "title": "50,000 Emails a Day: How a Cloud Flaw Is Fueling Phishing Campaigns",
+        "link": "https://securityonline.info/50000-emails-a-day-how-a-cloud-flaw-is-fueling-phishing-campaigns/",
+        "published": "Mon, 08 Sep 2025 00:10:06 +0000"
+    },
+    {
+        "title": "CVE-2025-57052: Critical JSON Parsing Flaw in cJSON With CVSS 9.8, PoC Available",
+        "link": "https://securityonline.info/cve-2025-57052-critical-json-parsing-flaw-in-cjson-with-cvss-9-8-poc-available/",
+        "published": "Mon, 08 Sep 2025 00:04:33 +0000"
+    },
+    {
+        "title": "Anthropic to Pay Authors $1.5B in Landmark AI Copyright Settlement",
+        "link": "https://securityonline.info/anthropic-to-pay-authors-1-5b-in-landmark-ai-copyright-settlement/",
+        "published": "Mon, 08 Sep 2025 00:02:04 +0000"
+    },
+    {
+        "title": "Google to Restrict Android Sideloading in New Security Push",
+        "link": "https://securityonline.info/google-to-restrict-android-sideloading-in-new-security-push/",
+        "published": "Mon, 08 Sep 2025 00:00:15 +0000"
     }
 ]
