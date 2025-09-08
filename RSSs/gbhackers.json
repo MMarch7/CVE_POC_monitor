@@ -2693,5 +2693,10 @@
         "title": "Wealthsimple Data Breach – User Information Leaked Online",
         "link": "https://gbhackers.com/wealthsimple-data-breach/",
         "published": "Mon, 08 Sep 2025 02:23:01 +0000"
+    },
+    {
+        "title": "Critical Argo CD API Flaw Exposes Repository Credentials to Attackers",
+        "link": "https://gbhackers.com/critical-argo-cd-api-flaw/",
+        "published": "Mon, 08 Sep 2025 05:00:12 +0000"
     }
 ]

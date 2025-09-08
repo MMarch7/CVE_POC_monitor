@@ -1392,3 +1392,4 @@ clean_list:
 - ThrottleStop
 - CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability
 - Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914
+- CVE_Datebase
