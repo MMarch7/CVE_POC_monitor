@@ -2763,5 +2763,15 @@
         "title": "PgAdmin Vulnerability Allows Attackers to Gain Unauthorized Account Access",
         "link": "https://gbhackers.com/pgadmin-vulnerability/",
         "published": "Mon, 08 Sep 2025 10:54:06 +0000"
+    },
+    {
+        "title": "Kimsuky Hackers’ Playbook Uncovered in Exposed ‘Kim’ Data Dump",
+        "link": "https://gbhackers.com/kimsuky-hackers/",
+        "published": "Mon, 08 Sep 2025 12:33:46 +0000"
+    },
+    {
+        "title": "Hackers Exploit Amazon SES to Blast Over 50,000 Malicious Emails Daily",
+        "link": "https://gbhackers.com/amazon-ses/",
+        "published": "Mon, 08 Sep 2025 12:04:25 +0000"
     }
 ]
