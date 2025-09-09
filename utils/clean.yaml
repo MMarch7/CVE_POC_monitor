@@ -1399,3 +1399,4 @@ clean_list:
 - CVE-2025-24204
 - CVE-2025-48384-Scanner
 - CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename
+- CVE-2024-28397

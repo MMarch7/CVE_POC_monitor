@@ -2833,5 +2833,15 @@
         "title": "New Malware Exploits Exposed Docker APIs to Gain Persistent Root SSH Access",
         "link": "https://gbhackers.com/docker-apis/",
         "published": "Tue, 09 Sep 2025 08:39:00 +0000"
+    },
+    {
+        "title": "New Cyber Attack Exploits DeskSoft to Spread Malware via RDP Command Execution",
+        "link": "https://gbhackers.com/cyber-attack-exploits-desksoft/",
+        "published": "Tue, 09 Sep 2025 10:25:37 +0000"
+    },
+    {
+        "title": "SpamGPT: New AI Email Attack Tool Fueling Massive Phishing Operations",
+        "link": "https://gbhackers.com/spamgpt-new-ai-email-attack-tool/",
+        "published": "Tue, 09 Sep 2025 10:18:34 +0000"
     }
 ]
