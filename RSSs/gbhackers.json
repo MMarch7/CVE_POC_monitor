@@ -2828,5 +2828,10 @@
         "title": "Dynatrace Data Breach Exposes Customer Information Stored in Salesforce",
         "link": "https://gbhackers.com/dynatrace-data-breach/",
         "published": "Tue, 09 Sep 2025 07:32:34 +0000"
+    },
+    {
+        "title": "New Malware Exploits Exposed Docker APIs to Gain Persistent Root SSH Access",
+        "link": "https://gbhackers.com/docker-apis/",
+        "published": "Tue, 09 Sep 2025 08:39:00 +0000"
     }
 ]
