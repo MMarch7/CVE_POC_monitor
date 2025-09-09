@@ -1398,3 +1398,4 @@ clean_list:
 - dockerCVE-2024-835
 - CVE-2025-24204
 - CVE-2025-48384-Scanner
+- CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename

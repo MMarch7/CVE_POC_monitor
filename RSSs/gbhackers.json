@@ -2808,5 +2808,25 @@
         "title": "APT37 Deploys New Rust and Python Malware Targeting Windows Systems",
         "link": "https://gbhackers.com/rust-and-python-malware/",
         "published": "Tue, 09 Sep 2025 07:00:53 +0000"
+    },
+    {
+        "title": "MostereRAT Exploits AnyDesk and TightVNC for Remote Access on Windows Systems",
+        "link": "https://gbhackers.com/mostererat-exploits/",
+        "published": "Tue, 09 Sep 2025 08:10:06 +0000"
+    },
+    {
+        "title": "Jaguar Land Rover Halts Operations Longer Due to Cyberattack Impact",
+        "link": "https://gbhackers.com/jaguar-land-rover-cyberattack/",
+        "published": "Tue, 09 Sep 2025 08:02:58 +0000"
+    },
+    {
+        "title": "New Exploitation Method Discovered for Linux Kernel Use-After-Free Vulnerability",
+        "link": "https://gbhackers.com/exploitation-method-discovered-for-linux-vulnerability/",
+        "published": "Tue, 09 Sep 2025 07:52:14 +0000"
+    },
+    {
+        "title": "Dynatrace Data Breach Exposes Customer Information Stored in Salesforce",
+        "link": "https://gbhackers.com/dynatrace-data-breach/",
+        "published": "Tue, 09 Sep 2025 07:32:34 +0000"
     }
 ]
