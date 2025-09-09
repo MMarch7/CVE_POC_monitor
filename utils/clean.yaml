@@ -1400,3 +1400,6 @@ clean_list:
 - CVE-2025-48384-Scanner
 - CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename
 - CVE-2024-28397
+- CVE-2025-58180
+- CVE-2024-21626-PoC
+- Django-faille-CVE-2025-57833_test
