@@ -808,5 +808,15 @@
         "title": "XSS in service requests",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-513",
         "published": "Tue, 12 Aug 2025 00:00:00 -0700"
+    },
+    {
+        "title": "OS command injection in CLI",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-344",
+        "published": "Tue, 09 Sep 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Path traversal in policy scripting",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-512",
+        "published": "Tue, 09 Sep 2025 00:00:00 -0700"
     }
 ]
