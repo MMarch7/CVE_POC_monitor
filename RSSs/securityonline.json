@@ -18738,5 +18738,40 @@
         "title": "The End of an Era? Nova Launcher’s Future Is Now in Doubt",
         "link": "https://securityonline.info/the-end-of-an-era-nova-launchers-future-is-now-in-doubt/",
         "published": "Mon, 08 Sep 2025 07:36:18 +0000"
+    },
+    {
+        "title": "MostereRAT: The New RAT That Is Bypassing Antivirus and EDR Solutions",
+        "link": "https://securityonline.info/mostererat-the-new-rat-that-is-bypassing-antivirus-and-edr-solutions/",
+        "published": "Tue, 09 Sep 2025 01:55:54 +0000"
+    },
+    {
+        "title": "Unmasking Salt Typhoon: A Report Exposes 45 New Domains from a Chinese APT Group",
+        "link": "https://securityonline.info/unmasking-salt-typhoon-a-report-exposes-45-new-domains-from-a-chinese-apt-group/",
+        "published": "Tue, 09 Sep 2025 01:42:28 +0000"
+    },
+    {
+        "title": "CVE-2025-41243 (CVSS 10): Critical Spring Cloud Gateway Server WebFlux Flaw Exposes Property Modification Risk",
+        "link": "https://securityonline.info/cve-2025-41243-cvss-10-critical-spring-cloud-gateway-server-webflux-flaw-exposes-property-modification-risk/",
+        "published": "Tue, 09 Sep 2025 01:30:16 +0000"
+    },
+    {
+        "title": "CVSS 9.8 Flaw in macOS Allows Apps to Access Protected User Data, PoC Available",
+        "link": "https://securityonline.info/cvss-9-8-flaw-in-macos-allows-apps-to-access-protected-user-data-poc-available/",
+        "published": "Tue, 09 Sep 2025 00:12:07 +0000"
+    },
+    {
+        "title": "Salat Stealer: A New Go-Based MaaS Is Hijacking Browsers and Crypto Wallets",
+        "link": "https://securityonline.info/salat-stealer-a-new-go-based-maas-is-hijacking-browsers-and-crypto-wallets/",
+        "published": "Tue, 09 Sep 2025 00:10:01 +0000"
+    },
+    {
+        "title": "Malicious npm Packages Impersonate Flashbots SDKs to Steal Ethereum Wallet Credentials",
+        "link": "https://securityonline.info/malicious-npm-packages-impersonate-flashbots-sdks-to-steal-ethereum-wallet-credentials/",
+        "published": "Tue, 09 Sep 2025 00:05:54 +0000"
+    },
+    {
+        "title": "From CastleLoader to CastleRAT: TAG-150’s Multi-Tiered Cyber Arsenal Expands",
+        "link": "https://securityonline.info/from-castleloader-to-castlerat-tag-150s-multi-tiered-cyber-arsenal-expands/",
+        "published": "Tue, 09 Sep 2025 00:00:02 +0000"
     }
 ]

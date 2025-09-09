@@ -1396,3 +1396,4 @@ clean_list:
 - Blackash-CVE-2025-57819
 - CVE-2025-24799
 - dockerCVE-2024-835
+- CVE-2025-24204
