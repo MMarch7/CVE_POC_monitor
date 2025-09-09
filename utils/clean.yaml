@@ -1397,3 +1397,4 @@ clean_list:
 - CVE-2025-24799
 - dockerCVE-2024-835
 - CVE-2025-24204
+- CVE-2025-48384-Scanner
