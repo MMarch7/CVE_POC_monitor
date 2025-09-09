@@ -18823,5 +18823,10 @@
         "title": "Plex Urges Password Reset After Data Breach",
         "link": "https://securityonline.info/plex-urges-password-reset-after-data-breach/",
         "published": "Tue, 09 Sep 2025 03:42:26 +0000"
+    },
+    {
+        "title": "SAP Security Patch Day Fixes Four Critical Flaws, Including a CVSS 10.0 RCE (CVE-2025-42944)",
+        "link": "https://securityonline.info/sap-security-patch-day-fixes-four-critical-flaws-including-a-cvss-10-0-rce-cve-2025-42944/",
+        "published": "Tue, 09 Sep 2025 07:00:50 +0000"
     }
 ]
