@@ -18773,5 +18773,20 @@
         "title": "From CastleLoader to CastleRAT: TAG-150’s Multi-Tiered Cyber Arsenal Expands",
         "link": "https://securityonline.info/from-castleloader-to-castlerat-tag-150s-multi-tiered-cyber-arsenal-expands/",
         "published": "Tue, 09 Sep 2025 00:00:02 +0000"
+    },
+    {
+        "title": "CVE-2025-58450: Critical SQL Injection Flaw in pREST Puts PostgreSQL Databases at Risk",
+        "link": "https://securityonline.info/cve-2025-58450-critical-sql-injection-flaw-in-prest-puts-postgresql-databases-at-risk/",
+        "published": "Tue, 09 Sep 2025 02:38:30 +0000"
+    },
+    {
+        "title": "Massive npm Supply Chain Attack: Qix’s Account Compromised, Billions of Weekly Downloads at Risk",
+        "link": "https://securityonline.info/massive-npm-supply-chain-attack-qixs-account-compromised-billions-of-weekly-downloads-at-risk/",
+        "published": "Tue, 09 Sep 2025 02:22:54 +0000"
+    },
+    {
+        "title": "Adobe Issues Emergency Patch for SessionReaper (CVE-2025-54236), One of Magento’s Most Critical Flaws",
+        "link": "https://securityonline.info/adobe-issues-emergency-patch-for-sessionreaper-cve-2025-54236-one-of-magentos-most-critical-flaws/",
+        "published": "Tue, 09 Sep 2025 02:10:04 +0000"
     }
 ]
