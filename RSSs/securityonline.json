@@ -18863,5 +18863,45 @@
         "title": "Ivanti Patches Two High-Severity RCE Flaws in Endpoint Manager",
         "link": "https://securityonline.info/ivanti-patches-two-high-severity-rce-flaws-in-endpoint-manager/",
         "published": "Tue, 09 Sep 2025 14:55:18 +0000"
+    },
+    {
+        "title": "Chrome 140 Released, Patches Critical (CVE-2025-10200) and High-Severity (CVE-2025-10201) Vulnerabilities",
+        "link": "https://securityonline.info/chrome-140-released-patches-critical-cve-2025-10200-and-high-severity-cve-2025-10201-vulnerabilities/",
+        "published": "Wed, 10 Sep 2025 01:34:18 +0000"
+    },
+    {
+        "title": "CVE-2025-40804: Critical Flaw in Siemens SIVaaS Exposes Network Share Without Authentication",
+        "link": "https://securityonline.info/cve-2025-40804-critical-flaw-in-siemens-sivaas-exposes-network-share-without-authentication/",
+        "published": "Wed, 10 Sep 2025 00:23:54 +0000"
+    },
+    {
+        "title": "Deepfakes and Deception: A New AI Scam Network Is Targeting India",
+        "link": "https://securityonline.info/deepfakes-and-deception-a-new-ai-scam-network-is-targeting-india/",
+        "published": "Wed, 10 Sep 2025 00:20:15 +0000"
+    },
+    {
+        "title": "Critical Flaws in Hiawatha Web Server Could Allow Authentication Bypass and RCE",
+        "link": "https://securityonline.info/critical-flaws-in-hiawatha-web-server-could-allow-authentication-bypass-and-rce/",
+        "published": "Wed, 10 Sep 2025 00:16:09 +0000"
+    },
+    {
+        "title": "GONEPOSTAL: New Outlook Backdoor by Russia’s APT28 Uses Email for C2",
+        "link": "https://securityonline.info/gonepostal-new-outlook-backdoor-by-russias-apt28-uses-email-for-c2/",
+        "published": "Wed, 10 Sep 2025 00:13:59 +0000"
+    },
+    {
+        "title": "Lazarus Group Is Exploiting CVE-2025-48384 in New Phishing Campaign",
+        "link": "https://securityonline.info/lazarus-group-is-exploiting-cve-2025-48384-in-new-phishing-campaign/",
+        "published": "Wed, 10 Sep 2025 00:10:11 +0000"
+    },
+    {
+        "title": "Beyond Cryptominers: A New Malware Strain Is Hijacking Exposed Docker APIs",
+        "link": "https://securityonline.info/beyond-cryptominers-a-new-malware-strain-is-hijacking-exposed-docker-apis/",
+        "published": "Wed, 10 Sep 2025 00:05:45 +0000"
+    },
+    {
+        "title": "APT37 Expands Arsenal with Rustonotto Backdoor, PowerShell Chinotto, and FadeStealer",
+        "link": "https://securityonline.info/apt37-expands-arsenal-with-rustonotto-backdoor-powershell-chinotto-and-fadestealer/",
+        "published": "Wed, 10 Sep 2025 00:01:29 +0000"
     }
 ]
