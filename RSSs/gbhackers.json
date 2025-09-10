@@ -2948,5 +2948,20 @@
         "title": "Gentlemen Ransomware Exploits Drivers and Group Policies to Breach Organizations",
         "link": "https://gbhackers.com/gentlemen-ransomware/",
         "published": "Wed, 10 Sep 2025 05:29:21 +0000"
+    },
+    {
+        "title": "GONEPOSTAL Malware Exploits Outlook for Stealthy Command-and-Control",
+        "link": "https://gbhackers.com/gonepostal-malware/",
+        "published": "Wed, 10 Sep 2025 07:25:46 +0000"
+    },
+    {
+        "title": "Windows BitLocker Flaw Allows Privilege Escalation by Attackers",
+        "link": "https://gbhackers.com/windows-bitlocker-flaw/",
+        "published": "Wed, 10 Sep 2025 07:10:40 +0000"
+    },
+    {
+        "title": "DarkSamural APT Group Deploys LNK/PDF Malware to Steal Critical Information",
+        "link": "https://gbhackers.com/darksamural-apt-group/",
+        "published": "Wed, 10 Sep 2025 06:40:55 +0000"
     }
 ]
