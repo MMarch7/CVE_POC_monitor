@@ -2933,5 +2933,20 @@
         "title": "Chrome Security Update Fixes Critical Remote Code Execution Flaw",
         "link": "https://gbhackers.com/chrome-security-update-fixes-critical-flaw/",
         "published": "Wed, 10 Sep 2025 05:16:08 +0000"
+    },
+    {
+        "title": "Critical SAP NetWeaver Flaw Allows Attackers to Execute Arbitrary Code",
+        "link": "https://gbhackers.com/critical-sap-netweaver-flaw/",
+        "published": "Wed, 10 Sep 2025 06:10:41 +0000"
+    },
+    {
+        "title": "GitHub Abused by Kimsuky Hackers Delivering Malware Through LNK Files",
+        "link": "https://gbhackers.com/github-abused/",
+        "published": "Wed, 10 Sep 2025 05:47:48 +0000"
+    },
+    {
+        "title": "Gentlemen Ransomware Exploits Drivers and Group Policies to Breach Organizations",
+        "link": "https://gbhackers.com/gentlemen-ransomware/",
+        "published": "Wed, 10 Sep 2025 05:29:21 +0000"
     }
 ]
