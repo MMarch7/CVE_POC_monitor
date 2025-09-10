@@ -1409,3 +1409,5 @@ clean_list:
 - CVE-2025-42957-SAP-S-4HANA-Under-Siege
 - day01-sessionreaper-lab
 - directus-preso
+- CVE-2025-55232-Exploit
+- PagSeguro-Connect-Para-WooCommerce-CVE-Report
