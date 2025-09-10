@@ -18953,5 +18953,15 @@
         "title": "Patch Tuesday: Microsoft Fixes 86 Flaws, Including 9 Critical and 2 Zero-Days (CVE-2025-55234 & CVE-2024-21907)",
         "link": "https://securityonline.info/patch-tuesday-microsoft-fixes-86-flaws-including-9-critical-and-2-zero-days-cve-2025-55234-cve-2024-21907/",
         "published": "Wed, 10 Sep 2025 01:57:10 +0000"
+    },
+    {
+        "title": "Voicemail Goldmine: A Data Exposure of 1.6M Audio Files Puts Gym Members at Risk",
+        "link": "https://securityonline.info/voicemail-goldmine-a-data-exposure-of-1-6m-audio-files-puts-gym-members-at-risk/",
+        "published": "Wed, 10 Sep 2025 04:14:53 +0000"
+    },
+    {
+        "title": "PoC Released: Django SQL Injection Flaw with Technical Details",
+        "link": "https://securityonline.info/poc-released-django-sql-injection-flaw-with-technical-details/",
+        "published": "Wed, 10 Sep 2025 04:04:16 +0000"
     }
 ]
