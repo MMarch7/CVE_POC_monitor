@@ -153,5 +153,10 @@
         "title": "Cache Me If You Can (Sitecore Experience Platform Cache Poisoning to RCE)",
         "link": "https://labs.watchtowr.com/cache-me-if-you-can-sitecore-experience-platform-cache-poisoning-to-rce/",
         "published": "Fri, 29 Aug 2025 10:00:41 GMT"
+    },
+    {
+        "title": "You Already Have Our Personal Data, Take Our Phone Calls Too (FreePBX CVE-2025-57819)",
+        "link": "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819/",
+        "published": "Wed, 10 Sep 2025 14:46:36 GMT"
     }
 ]
