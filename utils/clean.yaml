@@ -1411,3 +1411,5 @@ clean_list:
 - directus-preso
 - CVE-2025-55232-Exploit
 - PagSeguro-Connect-Para-WooCommerce-CVE-Report
+- xwiki-15.10.8-reverse-shell-cve-2025-24893
+- day03-jenkins-23897

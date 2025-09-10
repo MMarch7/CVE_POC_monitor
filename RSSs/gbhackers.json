@@ -3003,5 +3003,30 @@
         "title": "HackerOne Data Breach, Hackers Illegally Access Salesforce Environment",
         "link": "https://gbhackers.com/hackerone-data-breach/",
         "published": "Wed, 10 Sep 2025 10:31:47 +0000"
+    },
+    {
+        "title": "Multiple Vulnerabilities in GitLab Patched, Blocking DoS and SSRF Attack Vectors",
+        "link": "https://gbhackers.com/multiple-vulnerabilities-in-gitlab-patched/",
+        "published": "Wed, 10 Sep 2025 13:10:58 +0000"
+    },
+    {
+        "title": "AsyncRAT Leverages Fileless Techniques to Bypass Detection",
+        "link": "https://gbhackers.com/asyncrat-leverages/",
+        "published": "Wed, 10 Sep 2025 12:51:26 +0000"
+    },
+    {
+        "title": "Meta Verified Scam Ads on Facebook Steal User Account Details",
+        "link": "https://gbhackers.com/meta-verified-scam/",
+        "published": "Wed, 10 Sep 2025 12:15:34 +0000"
+    },
+    {
+        "title": "Apple CarPlay Vulnerability Allows Remote Code Execution to Gain Root Access",
+        "link": "https://gbhackers.com/apple-carplay-vulnerability/",
+        "published": "Wed, 10 Sep 2025 11:54:34 +0000"
+    },
+    {
+        "title": "Kikimora Announces Launch of Kikimora Agent: Accessible AI-Powered Cybersecurity Platform for SME Security",
+        "link": "https://gbhackers.com/kikimora-announces-launch-of-kikimora-agent-accessible-ai-powered-cybersecurity-platform-for-sme-security/",
+        "published": "Wed, 10 Sep 2025 11:37:18 +0000"
     }
 ]
