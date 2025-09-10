@@ -1406,3 +1406,4 @@ clean_list:
 - CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-
 - Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-
 - CVE-2025-56605
+- CVE-2025-42957-SAP-S-4HANA-Under-Siege
