@@ -433,5 +433,20 @@
         "title": "PAN-SA-2025-0014 Chromium: Monthly Vulnerability Update (August 2025) (Severity: MEDIUM)",
         "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0014",
         "published": "2025-08-13T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4235 User-ID Credential Agent: Cleartext Exposure of Service Account password (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4235",
+        "published": "2025-09-10T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4234 Cortex XDR Microsoft 365 Defender Pack: Cleartext Exposure of Credentials (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4234",
+        "published": "2025-09-10T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0015 Chromium: Monthly Vulnerability Update (September 2025) (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0015",
+        "published": "2025-09-10T16:00:00.000Z"
     }
 ]
