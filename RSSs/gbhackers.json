@@ -3153,5 +3153,10 @@
         "title": "Angular SSR Vulnerability Allows Attackers to Access Sensitive Data",
         "link": "https://gbhackers.com/angular-ssr-vulnerability/",
         "published": "Thu, 11 Sep 2025 13:08:10 +0000"
+    },
+    {
+        "title": "Threat Actors Leveraging Open-Source AdaptixC2 in Real-world Attacks",
+        "link": "https://gbhackers.com/open-source-adaptixc2/",
+        "published": "Thu, 11 Sep 2025 13:35:33 +0000"
     }
 ]
