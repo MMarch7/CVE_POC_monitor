@@ -3043,5 +3043,25 @@
         "title": "Reflected XSS Flaw Enables Attackers to Evade Amazon CloudFront Protection Using Safari",
         "link": "https://gbhackers.com/reflected-xss-flaw-evade-amazon-cloudfront/",
         "published": "Thu, 11 Sep 2025 05:06:19 +0000"
+    },
+    {
+        "title": "Chrome Extension Scam Exposed: Hackers Stealing Meta Accounts",
+        "link": "https://gbhackers.com/chrome-extension-scam/",
+        "published": "Thu, 11 Sep 2025 06:28:36 +0000"
+    },
+    {
+        "title": "ACSC Warns of Actively Exploited SonicWall Access Control Vulnerability",
+        "link": "https://gbhackers.com/acsc-warns-sonicwall-access-control-vulnerability/",
+        "published": "Thu, 11 Sep 2025 06:12:02 +0000"
+    },
+    {
+        "title": "Key Operators of LockerGoga, MegaCortex, and Nefilim Ransomware Gangs Arrested",
+        "link": "https://gbhackers.com/key-operators-of-lockergoga-gangs-arrested/",
+        "published": "Thu, 11 Sep 2025 06:09:20 +0000"
+    },
+    {
+        "title": "Hackers Reap Minimal Gains from Massive npm Supply Chain Breach",
+        "link": "https://gbhackers.com/npm-supply-chain/",
+        "published": "Thu, 11 Sep 2025 05:37:09 +0000"
     }
 ]
