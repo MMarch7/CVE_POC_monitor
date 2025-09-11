@@ -1416,3 +1416,4 @@ clean_list:
 - day04-nexus-4956
 - CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC
 - CVE-2025-42944
+- CVE-2025-8570

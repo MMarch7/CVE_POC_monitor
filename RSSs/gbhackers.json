@@ -3118,5 +3118,35 @@
         "title": "kkRAT Exploits Network Protocols to Exfiltrate Clipboard Data",
         "link": "https://gbhackers.com/kkrat-exploits-network/",
         "published": "Thu, 11 Sep 2025 11:03:06 +0000"
+    },
+    {
+        "title": "Massive L7 DDoS Botnet Exploits 5.76M Hijacked Devices for Record Attacks",
+        "link": "https://gbhackers.com/l7-ddos-botnet/",
+        "published": "Thu, 11 Sep 2025 12:46:05 +0000"
+    },
+    {
+        "title": "CoreDNS Vulnerability Allows Attackers to Poison DNS Cache and Block Updates",
+        "link": "https://gbhackers.com/coredns-vulnerability-2/",
+        "published": "Thu, 11 Sep 2025 12:32:26 +0000"
+    },
+    {
+        "title": "Kenyan Filmmakers Targeted with FlexiSPY Spyware Tracking Messages and Social Media",
+        "link": "https://gbhackers.com/flexispy-spyware/",
+        "published": "Thu, 11 Sep 2025 12:14:18 +0000"
+    },
+    {
+        "title": "Attackers Abuse Kubernetes DNS to Extract Git Credentials from ArgoCD",
+        "link": "https://gbhackers.com/attackers-abuse-kubernetes-dns/",
+        "published": "Thu, 11 Sep 2025 12:06:11 +0000"
+    },
+    {
+        "title": "EggStreme Malware Emerges With Fileless Techniques and DLL Sideloading Payloads",
+        "link": "https://gbhackers.com/eggstreme-malware/",
+        "published": "Thu, 11 Sep 2025 11:38:42 +0000"
+    },
+    {
+        "title": "Cyber Attack Exposes LNER Train Passengers’ Personal Data",
+        "link": "https://gbhackers.com/cyber-attack-exposes-lner-train/",
+        "published": "Thu, 11 Sep 2025 11:34:12 +0000"
     }
 ]
