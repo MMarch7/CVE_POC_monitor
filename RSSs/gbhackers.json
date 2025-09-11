@@ -3073,5 +3073,25 @@
         "title": "ChillyHell macOS Malware: Three Methods of Compromise and Persistence",
         "link": "https://gbhackers.com/chillyhell-macos-malware/",
         "published": "Thu, 11 Sep 2025 07:04:53 +0000"
+    },
+    {
+        "title": "Wyden Urges FTC to Investigate Microsoft Over Weak RC4 Encryption Enabling Kerberoasting",
+        "link": "https://gbhackers.com/wyden-ftc-to-investigate-microsoft-encryption/",
+        "published": "Thu, 11 Sep 2025 08:32:54 +0000"
+    },
+    {
+        "title": "1.5 Billion Packets Per Second DDoS Attack Detected with FastNetMon",
+        "link": "https://gbhackers.com/1-5-billion-packets-per-second-ddos-attack-detected/",
+        "published": "Thu, 11 Sep 2025 08:18:55 +0000"
+    },
+    {
+        "title": "Cursor AI Code Editor RCE Flaw Allows Malicious Code to Autorun on Machines",
+        "link": "https://gbhackers.com/cursor-ai-code-editor-rce-flaw/",
+        "published": "Thu, 11 Sep 2025 08:08:24 +0000"
+    },
+    {
+        "title": "Top 10 Best External Penetration Testing Companies in 2025",
+        "link": "https://gbhackers.com/best-external-penetration-testing-companies/",
+        "published": "Thu, 11 Sep 2025 07:41:00 +0000"
     }
 ]
