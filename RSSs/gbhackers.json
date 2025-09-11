@@ -3108,5 +3108,15 @@
         "title": "PoisonSeed Threat Actor Strengthens Credential Theft Operations with New Domains",
         "link": "https://gbhackers.com/poisonseed-threat-actor/",
         "published": "Thu, 11 Sep 2025 09:49:00 +0000"
+    },
+    {
+        "title": "Palo Alto Networks User-ID Agent Flaw Leaks Passwords in Cleartext",
+        "link": "https://gbhackers.com/palo-alto-networks-user-id-agent-flaw/",
+        "published": "Thu, 11 Sep 2025 11:21:39 +0000"
+    },
+    {
+        "title": "kkRAT Exploits Network Protocols to Exfiltrate Clipboard Data",
+        "link": "https://gbhackers.com/kkrat-exploits-network/",
+        "published": "Thu, 11 Sep 2025 11:03:06 +0000"
     }
 ]

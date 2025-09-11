@@ -19088,5 +19088,10 @@
         "title": "PlayStation Launches Family App for Mobile Parental Controls",
         "link": "https://securityonline.info/playstation-launches-family-app-for-mobile-parental-controls/",
         "published": "Thu, 11 Sep 2025 08:45:56 +0000"
+    },
+    {
+        "title": "Angular SSR Flaw (CVE-2025-59052) Exposes User Data: What Developers Need to Know",
+        "link": "https://securityonline.info/angular-ssr-flaw-cve-2025-59052-exposes-user-data-what-developers-need-to-know/",
+        "published": "Thu, 11 Sep 2025 10:56:53 +0000"
     }
 ]
