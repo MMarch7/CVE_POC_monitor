@@ -3063,5 +3063,15 @@
         "title": "Hackers Reap Minimal Gains from Massive npm Supply Chain Breach",
         "link": "https://gbhackers.com/npm-supply-chain/",
         "published": "Thu, 11 Sep 2025 05:37:09 +0000"
+    },
+    {
+        "title": "DDoS Mitigation Provider Hit by Massive 1.5 Billion Packets Per Second Attack",
+        "link": "https://gbhackers.com/ddos-mitigation-provider-hit-by-massive-1-5-billion-packets/",
+        "published": "Thu, 11 Sep 2025 07:07:44 +0000"
+    },
+    {
+        "title": "ChillyHell macOS Malware: Three Methods of Compromise and Persistence",
+        "link": "https://gbhackers.com/chillyhell-macos-malware/",
+        "published": "Thu, 11 Sep 2025 07:04:53 +0000"
     }
 ]
