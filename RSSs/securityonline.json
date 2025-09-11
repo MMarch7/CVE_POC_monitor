@@ -19033,5 +19033,20 @@
         "title": "Luno: A “Self-Healing” Linux Botnet That Mines Crypto and Launches DDoS Attacks",
         "link": "https://securityonline.info/luno-a-self-healing-linux-botnet-that-mines-crypto-and-launches-ddos-attacks/",
         "published": "Thu, 11 Sep 2025 00:00:47 +0000"
+    },
+    {
+        "title": "CVE-2025-8696: DoS Flaw in Stork UI Allows Unauthenticated Attackers to Crash Servers",
+        "link": "https://securityonline.info/cve-2025-8696-dos-flaw-in-stork-ui-allows-unauthenticated-attackers-to-crash-servers/",
+        "published": "Thu, 11 Sep 2025 02:42:04 +0000"
+    },
+    {
+        "title": "ChillyHell: A New macOS Backdoor Bypassed Apple Notarization for Years",
+        "link": "https://securityonline.info/chillyhell-a-new-macos-backdoor-bypassed-apple-notarization-for-years/",
+        "published": "Thu, 11 Sep 2025 02:24:31 +0000"
+    },
+    {
+        "title": "ACSC Warns of Active Exploitation of SonicWall SSL VPN Vulnerability (CVE-2024-40766)",
+        "link": "https://securityonline.info/acsc-warns-of-active-exploitation-of-sonicwall-ssl-vpn-vulnerability-cve-2024-40766/",
+        "published": "Thu, 11 Sep 2025 02:09:39 +0000"
     }
 ]
