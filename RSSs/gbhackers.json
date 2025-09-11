@@ -3033,5 +3033,15 @@
         "title": "CyberVolk Ransomware Targets Windows Systems in Critical Infrastructure and Research Institutions",
         "link": "https://gbhackers.com/cybervolk-ransomware/",
         "published": "Wed, 10 Sep 2025 13:36:58 +0000"
+    },
+    {
+        "title": "Dell PowerProtect Data Manager Flaw Allows System Compromise by Attackers",
+        "link": "https://gbhackers.com/dell-powerprotect-data-manager-flaw/",
+        "published": "Thu, 11 Sep 2025 05:08:32 +0000"
+    },
+    {
+        "title": "Reflected XSS Flaw Enables Attackers to Evade Amazon CloudFront Protection Using Safari",
+        "link": "https://gbhackers.com/reflected-xss-flaw-evade-amazon-cloudfront/",
+        "published": "Thu, 11 Sep 2025 05:06:19 +0000"
     }
 ]
