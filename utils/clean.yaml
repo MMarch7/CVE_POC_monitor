@@ -1414,3 +1414,4 @@ clean_list:
 - xwiki-15.10.8-reverse-shell-cve-2025-24893
 - day03-jenkins-23897
 - day04-nexus-4956
+- CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC
