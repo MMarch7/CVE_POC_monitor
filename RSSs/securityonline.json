@@ -19093,5 +19093,30 @@
         "title": "Angular SSR Flaw (CVE-2025-59052) Exposes User Data: What Developers Need to Know",
         "link": "https://securityonline.info/angular-ssr-flaw-cve-2025-59052-exposes-user-data-what-developers-need-to-know/",
         "published": "Thu, 11 Sep 2025 10:56:53 +0000"
+    },
+    {
+        "title": "PyInstaller Flaw : Are Your Python Apps Vulnerable to Hijacking?",
+        "link": "https://securityonline.info/pyinstaller-flaw-are-your-python-apps-vulnerable-to-hijacking/",
+        "published": "Fri, 12 Sep 2025 00:17:34 +0000"
+    },
+    {
+        "title": "EggStreme: New Fileless Malware from a Chinese APT Targets Philippine Military",
+        "link": "https://securityonline.info/eggstreme-new-fileless-malware-from-a-chinese-apt-targets-philippine-military/",
+        "published": "Fri, 12 Sep 2025 00:14:30 +0000"
+    },
+    {
+        "title": "BlackNevas Ransomware: A Persistent Global Threat With Impossible-to-Decrypt Payloads",
+        "link": "https://securityonline.info/blacknevas-ransomware-a-persistent-global-threat-with-impossible-to-decrypt-payloads/",
+        "published": "Fri, 12 Sep 2025 00:10:44 +0000"
+    },
+    {
+        "title": "ToneShell Backdoor Evolves With Anti-Analysis Tricks, Continues Targeting Myanmar",
+        "link": "https://securityonline.info/toneshell-backdoor-evolves-with-anti-analysis-tricks-continues-targeting-myanmar/",
+        "published": "Fri, 12 Sep 2025 00:06:53 +0000"
+    },
+    {
+        "title": "kkRAT: A New Malware Blends Crypto Hijacking with Legitimate RMM Tools",
+        "link": "https://securityonline.info/kkrat-a-new-malware-blends-crypto-hijacking-with-legitimate-rmm-tools/",
+        "published": "Fri, 12 Sep 2025 00:01:08 +0000"
     }
 ]
