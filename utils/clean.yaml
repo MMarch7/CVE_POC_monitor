@@ -1418,3 +1418,4 @@ clean_list:
 - CVE-2025-42944
 - CVE-2025-8570
 - viber-desktop-html-injection
+- CVE-2024-4701-POC
