@@ -1422,3 +1422,5 @@ clean_list:
 - Grafana-CVE-2025-4123-POC
 - Hyper-V-CVE-2025-21333-Analysis
 - Reproducing-CVE-2025-21333-
+- CVE-2025-8571
+- CVE-2025-51006
