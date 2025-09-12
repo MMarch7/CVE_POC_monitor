@@ -3268,5 +3268,10 @@
         "title": "New Malvertising Campaign Exploits GitHub Repositories to Distribute Malware",
         "link": "https://gbhackers.com/github-repositories/",
         "published": "Fri, 12 Sep 2025 11:33:37 +0000"
+    },
+    {
+        "title": "HybridPetya Exploits UEFI Vulnerability to Bypass Secure Boot on Legacy Systems",
+        "link": "https://gbhackers.com/uefi-vulnerability/",
+        "published": "Fri, 12 Sep 2025 13:28:39 +0000"
     }
 ]
