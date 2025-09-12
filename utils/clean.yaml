@@ -1420,3 +1420,4 @@ clean_list:
 - viber-desktop-html-injection
 - CVE-2024-4701-POC
 - Grafana-CVE-2025-4123-POC
+- Hyper-V-CVE-2025-21333-Analysis
