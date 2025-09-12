@@ -1417,3 +1417,4 @@ clean_list:
 - CVE-2024-32019-Netdata-ndsudo-Privilege-Escalation-PoC
 - CVE-2025-42944
 - CVE-2025-8570
+- viber-desktop-html-injection
