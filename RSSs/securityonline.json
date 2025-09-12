@@ -19128,5 +19128,20 @@
         "title": "Unveiling VoidProxy: The Phishing-as-a-Service That Bypasses MFA",
         "link": "https://securityonline.info/unveiling-voidproxy-the-phishing-as-a-service-that-bypasses-mfa/",
         "published": "Fri, 12 Sep 2025 02:32:32 +0000"
+    },
+    {
+        "title": "FTC Launches Investigation into AI Chatbots and Their Effect on Kids",
+        "link": "https://securityonline.info/ftc-launches-investigation-into-ai-chatbots-and-their-effect-on-kids/",
+        "published": "Fri, 12 Sep 2025 03:31:23 +0000"
+    },
+    {
+        "title": "CVE-2025-10127 (CVSS 9.8): Critical Daikin Flaw Could Give Hackers Full System Access",
+        "link": "https://securityonline.info/cve-2025-10127-cvss-9-8-critical-daikin-flaw-could-give-hackers-full-system-access/",
+        "published": "Fri, 12 Sep 2025 03:24:42 +0000"
+    },
+    {
+        "title": "CVE-2025-58754: Axios Vulnerability Puts Node.js Processes at Risk of DoS Attacks",
+        "link": "https://securityonline.info/cve-2025-58754-axios-vulnerability-puts-node-js-processes-at-risk-of-dos-attacks/",
+        "published": "Fri, 12 Sep 2025 03:14:46 +0000"
     }
 ]
