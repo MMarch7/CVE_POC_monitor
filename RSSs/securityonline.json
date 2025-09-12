@@ -19118,5 +19118,15 @@
         "title": "kkRAT: A New Malware Blends Crypto Hijacking with Legitimate RMM Tools",
         "link": "https://securityonline.info/kkrat-a-new-malware-blends-crypto-hijacking-with-legitimate-rmm-tools/",
         "published": "Fri, 12 Sep 2025 00:01:08 +0000"
+    },
+    {
+        "title": "CISA Urges Immediate Patching: Critical Dassault Systèmes Flaw (CVE-2025-5086) Actively Exploited",
+        "link": "https://securityonline.info/cisa-urges-immediate-patching-critical-dassault-systemes-flaw-cve-2025-5086-actively-exploited/",
+        "published": "Fri, 12 Sep 2025 02:43:10 +0000"
+    },
+    {
+        "title": "Unveiling VoidProxy: The Phishing-as-a-Service That Bypasses MFA",
+        "link": "https://securityonline.info/unveiling-voidproxy-the-phishing-as-a-service-that-bypasses-mfa/",
+        "published": "Fri, 12 Sep 2025 02:32:32 +0000"
     }
 ]
