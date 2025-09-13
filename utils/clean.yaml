@@ -1425,3 +1425,4 @@ clean_list:
 - CVE-2025-8571
 - CVE-2025-51006
 - Noregressh
+- CVE-2025-55234
