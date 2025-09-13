@@ -1432,3 +1432,4 @@ clean_list:
 - CVE-2025-9776
 - CrushFTP_CVE-2025-54309
 - cve-2025-2945-poc
+- sharepoint-CVE-2025-53770
