@@ -1435,3 +1435,4 @@ clean_list:
 - sharepoint-CVE-2025-53770
 - CVE-2025-55891
 - CVE-2025-8088-Exploit
+- CVE-2025-57819_FreePBX-PoC
