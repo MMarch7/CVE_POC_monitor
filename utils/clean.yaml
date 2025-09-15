@@ -1438,3 +1438,5 @@ clean_list:
 - CVE-2025-57819_FreePBX-PoC
 - ElkStack-Secured-From-Logs-to-CVEs
 - Patch-the-Path-CVE-2025-55234-Detection-Defense
+- KSMBDrain
+- Inspector-xss-poc
