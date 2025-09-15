@@ -19193,5 +19193,75 @@
         "title": "FTC Probes Google, Amazon Over ‘Opaque’ Ad Practices",
         "link": "https://securityonline.info/ftc-probes-google-amazon-over-opaque-ad-practices/",
         "published": "Sun, 14 Sep 2025 07:00:28 +0000"
+    },
+    {
+        "title": "FBI Alert: Two Cybercriminal Groups Are Actively Compromising Salesforce",
+        "link": "https://securityonline.info/fbi-alert-two-cybercriminal-groups-are-actively-compromising-salesforce/",
+        "published": "Mon, 15 Sep 2025 01:58:00 +0000"
+    },
+    {
+        "title": "AI Content War: Penske Media Sues Google Over AI Overviews",
+        "link": "https://securityonline.info/ai-content-war-penske-media-sues-google-over-ai-overviews/",
+        "published": "Mon, 15 Sep 2025 01:34:25 +0000"
+    },
+    {
+        "title": "VaultGemma: Google’s New AI Model Is the First with Differential Privacy",
+        "link": "https://securityonline.info/vaultgemma-googles-new-ai-model-is-the-first-with-differential-privacy/",
+        "published": "Mon, 15 Sep 2025 01:31:47 +0000"
+    },
+    {
+        "title": "Digiever NVR Flaws (CVE-2025-10264, CVE-2025-10265) Let Hackers Steal Credentials & Take Control",
+        "link": "https://securityonline.info/digiever-nvr-flaws-cve-2025-10264-cve-2025-10265-let-hackers-steal-credentials-take-control/",
+        "published": "Mon, 15 Sep 2025 00:30:30 +0000"
+    },
+    {
+        "title": "Unveiling BaoLoader: How One Malware Family Abuses Trust for 7 Years",
+        "link": "https://securityonline.info/unveiling-baoloader-how-one-malware-family-abuses-trust-for-7-years/",
+        "published": "Mon, 15 Sep 2025 00:30:09 +0000"
+    },
+    {
+        "title": "CVE-2025-9556 (CVSS 9.8):Critical Vulnerability in LangChainGo Puts LLM Apps at Risk",
+        "link": "https://securityonline.info/cve-2025-9556-cvss-9-8critical-vulnerability-in-langchaingo-puts-llm-apps-at-risk/",
+        "published": "Mon, 15 Sep 2025 00:24:19 +0000"
+    },
+    {
+        "title": "Phishing Wave Hits U.S. Energy Giants: Chevron, ConocoPhillips Targeted",
+        "link": "https://securityonline.info/phishing-wave-hits-u-s-energy-giants-chevron-conocophillips-targeted/",
+        "published": "Mon, 15 Sep 2025 00:20:54 +0000"
+    },
+    {
+        "title": "China-Aligned Hackers Unleash Upgraded Toneshell and New USB Worm",
+        "link": "https://securityonline.info/china-aligned-hackers-unleash-upgraded-toneshell-and-new-usb-worm/",
+        "published": "Mon, 15 Sep 2025 00:16:04 +0000"
+    },
+    {
+        "title": "VMScape (CVE-2025-40300): A New CPU Flaw Threatens Cloud Security",
+        "link": "https://securityonline.info/vmscape-cve-2025-40300-a-new-cpu-flaw-threatens-cloud-security/",
+        "published": "Mon, 15 Sep 2025 00:11:51 +0000"
+    },
+    {
+        "title": "EvilAI Malware Campaign Exploits Trust in AI Tools to Infiltrate Global Industries",
+        "link": "https://securityonline.info/evilai-malware-campaign-exploits-trust-in-ai-tools-to-infiltrate-global-industries/",
+        "published": "Mon, 15 Sep 2025 00:08:32 +0000"
+    },
+    {
+        "title": "Apple’s N1 Chip Has a Major Wi-Fi 7 Limitation",
+        "link": "https://securityonline.info/apples-n1-chip-has-a-major-wi-fi-7-limitation/",
+        "published": "Mon, 15 Sep 2025 00:05:45 +0000"
+    },
+    {
+        "title": "Apple Watch Series 11 Unveils FDA-Approved Hypertension Alerts",
+        "link": "https://securityonline.info/apple-watch-series-11-unveils-fda-approved-hypertension-alerts/",
+        "published": "Mon, 15 Sep 2025 00:03:58 +0000"
+    },
+    {
+        "title": "CUPS Flaws Allow Linux Remote DoS (CVE-2025-58364) and Authentication Bypass (CVE-2025-58060)",
+        "link": "https://securityonline.info/cups-flaws-allow-linux-remote-dos-cve-2025-58364-and-authentication-bypass-cve-2025-58060/",
+        "published": "Mon, 15 Sep 2025 00:00:54 +0000"
+    },
+    {
+        "title": "Windows 11’s New Full-Screen Prompts for Microsoft 365",
+        "link": "https://securityonline.info/windows-11s-new-full-screen-prompts-for-microsoft-365/",
+        "published": "Mon, 15 Sep 2025 00:00:50 +0000"
     }
 ]
