@@ -123,5 +123,15 @@
         "title": "CVE-2025-41243 - Critical - CVE-2025-41243: Spring Expression Language property modification using Spring Cloud Gateway Server WebFlux",
         "link": "https://spring.io/security/cve-2025-41243",
         "published": "Mon, 08 Sep 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41248 - Medium - CVE-2025-41248: Spring Security authorization bypass for method security annotations on parameterized types",
+        "link": "https://spring.io/security/cve-2025-41248",
+        "published": "Mon, 15 Sep 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41249 - Medium - CVE-2025-41249: Spring Framework Annotation Detection Vulnerability",
+        "link": "https://spring.io/security/cve-2025-41249",
+        "published": "Mon, 15 Sep 2025 00:00:00 GMT"
     }
 ]
