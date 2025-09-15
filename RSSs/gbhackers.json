@@ -3333,5 +3333,25 @@
         "title": "AppSuite-PDF, PDF Editor Operators Exploited 26 Code-Signing Certificates to Fake Legitimacy",
         "link": "https://gbhackers.com/appsuite-pdf/",
         "published": "Mon, 15 Sep 2025 07:39:24 +0000"
+    },
+    {
+        "title": "Hackers using generative AI “ChatGPT” to evade anti-virus defenses",
+        "link": "https://gbhackers.com/ai-chatgpt/",
+        "published": "Mon, 15 Sep 2025 10:05:31 +0000"
+    },
+    {
+        "title": "BlackNevas Ransomware Encrypts Files, Exfiltrates Corporate Data",
+        "link": "https://gbhackers.com/blacknevas-ransomware/",
+        "published": "Mon, 15 Sep 2025 09:12:58 +0000"
+    },
+    {
+        "title": "LangChainGo Vulnerability Allows Malicious Prompt Injection to Access Sensitive Data",
+        "link": "https://gbhackers.com/langchaingo-vulnerability/",
+        "published": "Mon, 15 Sep 2025 08:55:13 +0000"
+    },
+    {
+        "title": "FBI Releases IOCs on Cyber Threats Exploiting Salesforce for Data Theft",
+        "link": "https://gbhackers.com/fbi-releases-iocs/",
+        "published": "Mon, 15 Sep 2025 08:49:40 +0000"
     }
 ]
