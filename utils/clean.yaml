@@ -1445,3 +1445,4 @@ clean_list:
 - CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates
 - CVE-2025-50110
 - CVE-2025-50944
+- CVE-2025-46408
