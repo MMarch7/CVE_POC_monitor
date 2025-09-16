@@ -3423,5 +3423,10 @@
         "title": "Spring Framework Security Flaws Allow Authorization Bypass and Annotation Detection Issues",
         "link": "https://gbhackers.com/spring-framework-security-flaws/",
         "published": "Tue, 16 Sep 2025 06:42:06 +0000"
+    },
+    {
+        "title": "AISURU Botnet Fuels Record-Breaking 11.5 Tbps DDoS Attack With 300,000 Hijacked Routers",
+        "link": "https://gbhackers.com/aisuru-botnet/",
+        "published": "Tue, 16 Sep 2025 08:08:54 +0000"
     }
 ]
