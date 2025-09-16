@@ -19303,5 +19303,45 @@
         "title": "Qualcomm Unveils the Snapdragon 8 Elite Gen 5, Launching First with Xiaomi",
         "link": "https://securityonline.info/qualcomm-unveils-the-snapdragon-8-elite-gen-5-launching-first-with-xiaomi/",
         "published": "Mon, 15 Sep 2025 10:35:55 +0000"
+    },
+    {
+        "title": "CVE-2025-5821: Critical Authentication Bypass in WordPress Case Theme User Plugin Exploited in the Wild",
+        "link": "https://securityonline.info/cve-2025-5821-critical-authentication-bypass-in-wordpress-case-theme-user-plugin-exploited-in-the-wild/",
+        "published": "Tue, 16 Sep 2025 02:35:58 +0000"
+    },
+    {
+        "title": "HijackLoader: The Stealthy Malware Loader Powering Modern Cyberattacks",
+        "link": "https://securityonline.info/hijackloader-the-stealthy-malware-loader-powering-modern-cyberattacks/",
+        "published": "Tue, 16 Sep 2025 02:00:32 +0000"
+    },
+    {
+        "title": "Maranhão Stealer: A New Malware Hijacks Gamers’ PCs Through Pirated Games",
+        "link": "https://securityonline.info/maranhao-stealer-a-new-malware-hijacks-gamers-pcs-through-pirated-games/",
+        "published": "Tue, 16 Sep 2025 01:53:31 +0000"
+    },
+    {
+        "title": "Spring Framework and Spring Security Vulnerabilities Expose Authorization Bypass Risks (CVE-2025-41248 & CVE-2025-41249)",
+        "link": "https://securityonline.info/spring-framework-and-spring-security-vulnerabilities-expose-authorization-bypass-risks-cve-2025-41248-cve-2025-41249/",
+        "published": "Tue, 16 Sep 2025 01:40:47 +0000"
+    },
+    {
+        "title": "PoC Published: Linux Kernel 0-Click RCE Vulnerability Found in ksmbd",
+        "link": "https://securityonline.info/poc-published-linux-kernel-0-click-rce-exploit-found-in-ksmbd/",
+        "published": "Tue, 16 Sep 2025 00:15:57 +0000"
+    },
+    {
+        "title": "Kimsuky Group Weaponizes AI Deepfakes in New Spear-Phishing Campaign",
+        "link": "https://securityonline.info/kimsuky-group-weaponizes-ai-deepfakes-in-new-spear-phishing-campaign/",
+        "published": "Tue, 16 Sep 2025 00:10:09 +0000"
+    },
+    {
+        "title": "Yurei: The New Ransomware Group Using Open-Source Code to Target Businesses",
+        "link": "https://securityonline.info/yurei-the-new-ransomware-group-using-open-source-code-to-target-businesses/",
+        "published": "Tue, 16 Sep 2025 00:06:38 +0000"
+    },
+    {
+        "title": "A Digital Trojan Horse: A New Campaign Is Using SEO to Deliver Malware",
+        "link": "https://securityonline.info/a-digital-trojan-horse-a-new-campaign-is-using-seo-to-deliver-malware/",
+        "published": "Tue, 16 Sep 2025 00:01:20 +0000"
     }
 ]
