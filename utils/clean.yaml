@@ -1449,3 +1449,4 @@ clean_list:
 - Vulnerable-CVE-2025-27210
 - CVE-2025-21692-poc
 - CVE-2025-24799-scanner
+- CVE-2025-54106
