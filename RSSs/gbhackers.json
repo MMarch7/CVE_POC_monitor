@@ -3433,5 +3433,10 @@
         "title": "New Phoenix Rowhammer Attack Bypasses DDR5 Chip Protections",
         "link": "https://gbhackers.com/new-phoenix-rowhammer-attack/",
         "published": "Tue, 16 Sep 2025 08:49:36 +0000"
+    },
+    {
+        "title": "SmokeLoader Employs Optional Plugins to Steal Data and Launch DoS Attacks",
+        "link": "https://gbhackers.com/optional-plugins/",
+        "published": "Tue, 16 Sep 2025 10:02:15 +0000"
     }
 ]
