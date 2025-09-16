@@ -1443,3 +1443,5 @@ clean_list:
 - CVE-Requests-1896609
 - js2py-Sandbox-Escape-CVE-2024-28397-RCE
 - CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates
+- CVE-2025-50110
+- CVE-2025-50944
