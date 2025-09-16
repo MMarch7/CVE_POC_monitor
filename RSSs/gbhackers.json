@@ -3458,5 +3458,30 @@
         "title": "Threat Actors Exploit MCP Servers to Steal Sensitive Data",
         "link": "https://gbhackers.com/mcp-servers/",
         "published": "Tue, 16 Sep 2025 10:34:28 +0000"
+    },
+    {
+        "title": "APT28 Exploits Signal Messenger to Deploy eardShell and Covenant Malware",
+        "link": "https://gbhackers.com/signal-messenger/",
+        "published": "Tue, 16 Sep 2025 12:52:32 +0000"
+    },
+    {
+        "title": "CrowdStrike npm Packages Hit by Supply Chain Attack",
+        "link": "https://gbhackers.com/crowdstrike-npm-packages-supply-chain-attack/",
+        "published": "Tue, 16 Sep 2025 12:52:04 +0000"
+    },
+    {
+        "title": "FinWise Data Breach: 700K Customer Records Accessed by Ex-Employee",
+        "link": "https://gbhackers.com/finwise-data-breach/",
+        "published": "Tue, 16 Sep 2025 12:39:19 +0000"
+    },
+    {
+        "title": "Millions of Customer Records Stolen in Cyberattack on Gucci, Balenciaga, and Alexander McQueen",
+        "link": "https://gbhackers.com/records-stolen-gucci-balenciaga-alexander-mcqueen/",
+        "published": "Tue, 16 Sep 2025 12:22:12 +0000"
+    },
+    {
+        "title": "AWSDoor: New Persistence Technique Attackers Use to Hide in AWS Cloud Environments",
+        "link": "https://gbhackers.com/awsdoor-new-persistence-technique/",
+        "published": "Tue, 16 Sep 2025 11:24:52 +0000"
     }
 ]
