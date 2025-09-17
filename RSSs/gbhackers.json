@@ -3598,5 +3598,20 @@
         "title": "Hackers Exploit AdaptixC2, an Emerging Open-Source C2 Tool",
         "link": "https://gbhackers.com/adaptixc2/",
         "published": "Wed, 17 Sep 2025 10:33:57 +0000"
+    },
+    {
+        "title": "China-Aligned TA415 Exploits Google Sheets & Calendar for C2",
+        "link": "https://gbhackers.com/google-sheets-calendar/",
+        "published": "Wed, 17 Sep 2025 12:45:50 +0000"
+    },
+    {
+        "title": "New Magecart Attack Injects Malicious JavaScript to Steal Payment Data",
+        "link": "https://gbhackers.com/magecart-attack-2/",
+        "published": "Wed, 17 Sep 2025 12:26:03 +0000"
+    },
+    {
+        "title": "Apple Patches 0-Day Vulnerabilities in Older iPhones and iPads",
+        "link": "https://gbhackers.com/apple-patches-0-day-vulnerabilities/",
+        "published": "Wed, 17 Sep 2025 11:26:49 +0000"
     }
 ]
