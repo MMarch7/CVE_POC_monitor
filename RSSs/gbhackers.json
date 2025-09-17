@@ -3613,5 +3613,20 @@
         "title": "Apple Patches 0-Day Vulnerabilities in Older iPhones and iPads",
         "link": "https://gbhackers.com/apple-patches-0-day-vulnerabilities/",
         "published": "Wed, 17 Sep 2025 11:26:49 +0000"
+    },
+    {
+        "title": "MuddyWater Deploys Custom Multi-Stage Malware Hidden Behind Cloudflare",
+        "link": "https://gbhackers.com/muddywater/",
+        "published": "Wed, 17 Sep 2025 13:33:40 +0000"
+    },
+    {
+        "title": "Microsoft OneDrive Auto-Sync Flaw Leaks Enterprise Secrets from SharePoint Online",
+        "link": "https://gbhackers.com/microsoft-onedrive-auto-sync-flaw/",
+        "published": "Wed, 17 Sep 2025 13:25:30 +0000"
+    },
+    {
+        "title": "BeaverTail Malware Delivered Through Malicious Repositories Targets Retailers",
+        "link": "https://gbhackers.com/beavertail-malware/",
+        "published": "Wed, 17 Sep 2025 13:13:56 +0000"
     }
 ]
