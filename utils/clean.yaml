@@ -1454,3 +1454,4 @@ clean_list:
 - CVE-2024-42009
 - From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps
 - CVE-2024-28397-Js2Py-RCE
+- Cve-2025-8088-WinRar-vulnerability

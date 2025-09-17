@@ -3553,5 +3553,15 @@
         "title": "Python-Based “XillenStealer” Campaign Targets Windows Users’ Sensitive Data",
         "link": "https://gbhackers.com/xillenstealer-campaign/",
         "published": "Wed, 17 Sep 2025 06:52:16 +0000"
+    },
+    {
+        "title": "Kubernetes C# Client Flaw Exposes API Server to MiTM Attacks",
+        "link": "https://gbhackers.com/kubernetes-c-client-flaw/",
+        "published": "Wed, 17 Sep 2025 08:33:05 +0000"
+    },
+    {
+        "title": "PureHVNC RAT Developers Exploit GitHub to Spread Pure Malware Source Code",
+        "link": "https://gbhackers.com/purehvnc-rat/",
+        "published": "Wed, 17 Sep 2025 07:56:54 +0000"
     }
 ]
