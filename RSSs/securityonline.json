@@ -19508,5 +19508,10 @@
         "title": "CVE-2025-9242: Critical WatchGuard Flaw Allows Remote Code Execution",
         "link": "https://securityonline.info/cve-2025-9242-critical-watchguard-flaw-allows-remote-code-execution/",
         "published": "Wed, 17 Sep 2025 09:39:01 +0000"
+    },
+    {
+        "title": "New in Syteca Release 7.21: Agentless Access, Sensitive Data Masking, and Smooth Session Playback",
+        "link": "https://securityonline.info/new-in-syteca-release-7-21-agentless-access-sensitive-data-masking-and-smooth-session-playback/",
+        "published": "Wed, 17 Sep 2025 16:31:24 +0000"
     }
 ]
