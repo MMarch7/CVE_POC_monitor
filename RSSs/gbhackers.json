@@ -3588,5 +3588,15 @@
         "title": "Palo Alto Networks and Microsoft Featured in MITRE ATT&CK Evaluations 2026",
         "link": "https://gbhackers.com/palo-alto-networks-and-microsoft-featured-in-mitre/",
         "published": "Wed, 17 Sep 2025 09:33:35 +0000"
+    },
+    {
+        "title": "Chaos Mesh Critical Vulnerabilities Expose Kubernetes Clusters to Takeover",
+        "link": "https://gbhackers.com/chaos-mesh-critical-vulnerabilities/",
+        "published": "Wed, 17 Sep 2025 11:14:20 +0000"
+    },
+    {
+        "title": "Hackers Exploit AdaptixC2, an Emerging Open-Source C2 Tool",
+        "link": "https://gbhackers.com/adaptixc2/",
+        "published": "Wed, 17 Sep 2025 10:33:57 +0000"
     }
 ]
