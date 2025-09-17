@@ -1451,3 +1451,5 @@ clean_list:
 - CVE-2025-24799-scanner
 - CVE-2025-54106
 - woocommerce_scanner
+- CVE-2024-42009
+- From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps
