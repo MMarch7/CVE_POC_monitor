@@ -19413,5 +19413,45 @@
         "title": "3 Weeks Left Until the Start of the OpenSSL Conference 2025",
         "link": "https://securityonline.info/3-weeks-left-until-the-start-of-the-openssl-conference-2025/",
         "published": "Tue, 16 Sep 2025 18:17:45 +0000"
+    },
+    {
+        "title": "Kubernetes C# Client Flaw Exposes API to MITM Attacks (CVE-2025-9708)",
+        "link": "https://securityonline.info/kubernetes-c-client-flaw-exposes-api-to-mitm-attacks-cve-2025-9708/",
+        "published": "Wed, 17 Sep 2025 00:36:34 +0000"
+    },
+    {
+        "title": "RevengeHotels Strikes Back: AI-Generated Phishing and a New RAT Target Hotels",
+        "link": "https://securityonline.info/revengehotels-strikes-back-ai-generated-phishing-and-a-new-rat-target-hotels/",
+        "published": "Wed, 17 Sep 2025 00:30:35 +0000"
+    },
+    {
+        "title": "Shai-Hulud Supply Chain Attack Now Targets CrowdStrike’s npm Packages",
+        "link": "https://securityonline.info/shai-hulud-supply-chain-attack-now-targets-crowdstrikes-npm-packages/",
+        "published": "Wed, 17 Sep 2025 00:22:04 +0000"
+    },
+    {
+        "title": "KSMBDrain (CVE-2025-38501): Linux Kernel Flaw Allows Remote DoS Attacks, PoC Available",
+        "link": "https://securityonline.info/ksmbdrain-cve-2025-38501-linux-kernel-flaw-allows-remote-dos-attacks-poc-available/",
+        "published": "Wed, 17 Sep 2025 00:19:24 +0000"
+    },
+    {
+        "title": "APT28’s BeardShell Campaign: Steganography, Cloud Abuse, and Persistent Espionage",
+        "link": "https://securityonline.info/apt28s-beardshell-campaign-steganography-cloud-abuse-and-persistent-espionage/",
+        "published": "Wed, 17 Sep 2025 00:13:42 +0000"
+    },
+    {
+        "title": "SmokeLoader Rises From the Ashes with New, Evasive Variants",
+        "link": "https://securityonline.info/smokeloader-rises-from-the-ashes-with-new-evasive-variants/",
+        "published": "Wed, 17 Sep 2025 00:05:10 +0000"
+    },
+    {
+        "title": "PureHVNC RAT: Inside the HVNC Malware and the PureCoder Ecosystem",
+        "link": "https://securityonline.info/purehvnc-rat-inside-the-hvnc-malware-and-the-purecoder-ecosystem/",
+        "published": "Wed, 17 Sep 2025 00:03:20 +0000"
+    },
+    {
+        "title": "AISURU Botnet: From Record-Breaking DDoS to Residential Proxy Empire",
+        "link": "https://securityonline.info/aisuru-botnet-from-record-breaking-ddos-to-residential-proxy-empire/",
+        "published": "Wed, 17 Sep 2025 00:00:09 +0000"
     }
 ]

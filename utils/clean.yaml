@@ -1450,3 +1450,4 @@ clean_list:
 - CVE-2025-21692-poc
 - CVE-2025-24799-scanner
 - CVE-2025-54106
+- woocommerce_scanner
