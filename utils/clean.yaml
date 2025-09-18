@@ -1460,3 +1460,4 @@ clean_list:
 - day06-foxcms-rce
 - CVE-2025-8088-EXP
 - cve-2025-43300
+- CVE-2025-53772-
