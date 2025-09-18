@@ -3643,5 +3643,20 @@
         "title": "Google Chrome 0-Day Under Active Attack – Update Immediately",
         "link": "https://gbhackers.com/google-chrome-0-day-2/",
         "published": "Thu, 18 Sep 2025 04:47:39 +0000"
+    },
+    {
+        "title": "Malicious Typosquatted PyPI Packages Spreading SilentSync RAT",
+        "link": "https://gbhackers.com/pypi-packages-2/",
+        "published": "Thu, 18 Sep 2025 06:27:08 +0000"
+    },
+    {
+        "title": "Windows Greenshot Vulnerability Lets Attackers Execute Malicious Code – PoC Published",
+        "link": "https://gbhackers.com/windows-greenshot-vulnerability/",
+        "published": "Thu, 18 Sep 2025 06:14:03 +0000"
+    },
+    {
+        "title": "Raven Stealer Targets Google Chrome Users to Exfiltrate Sensitive Data",
+        "link": "https://gbhackers.com/raven-stealer/",
+        "published": "Thu, 18 Sep 2025 05:47:11 +0000"
     }
 ]
