@@ -1458,3 +1458,4 @@ clean_list:
 - CVE-2024-4157-SSRF-RCE-Reverse-Shell
 - Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover
 - day06-foxcms-rce
+- CVE-2025-8088-EXP
