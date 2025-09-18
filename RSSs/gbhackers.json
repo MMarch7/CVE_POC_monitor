@@ -3673,5 +3673,20 @@
         "title": "Critical WatchGuard Vulnerability Lets Unauthenticated Attackers Run Arbitrary Code",
         "link": "https://gbhackers.com/critical-watchguard-vulnerability/",
         "published": "Thu, 18 Sep 2025 07:43:48 +0000"
+    },
+    {
+        "title": "Warlock Ransomware Deployed via Compromised GOLD SALEM Networks and Bypassed Security Solutions",
+        "link": "https://gbhackers.com/warlock-ransomware/",
+        "published": "Thu, 18 Sep 2025 09:27:17 +0000"
+    },
+    {
+        "title": "Russian CopyCop Network Expands: 200+ Fake News Sites Target US, Canada, and France",
+        "link": "https://gbhackers.com/copycop-network/",
+        "published": "Thu, 18 Sep 2025 08:55:08 +0000"
+    },
+    {
+        "title": "PureVPN Vulnerability Reveals IPv6 Address While Reconnecting to Wi-Fi",
+        "link": "https://gbhackers.com/purevpn-vulnerability/",
+        "published": "Thu, 18 Sep 2025 08:41:51 +0000"
     }
 ]
