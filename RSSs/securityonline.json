@@ -19558,5 +19558,15 @@
         "title": "From Simple Bug to RCE: A Flaw (CVE-2025-21692) in the Linux Kernel, PoC Published",
         "link": "https://securityonline.info/from-simple-bug-to-rce-a-flaw-cve-2025-21692-in-the-linux-kernel-poc-published/",
         "published": "Thu, 18 Sep 2025 00:00:21 +0000"
+    },
+    {
+        "title": "SonicWall Security Incident: Exposed Backups Could Put Your Firewall at Risk",
+        "link": "https://securityonline.info/sonicwall-security-incident-exposed-backups-could-put-your-firewall-at-risk/",
+        "published": "Thu, 18 Sep 2025 02:42:43 +0000"
+    },
+    {
+        "title": "Jenkins Patches High-Severity Vulnerabilities, Including a DoS Flaw",
+        "link": "https://securityonline.info/jenkins-patches-high-severity-vulnerabilities-including-a-dos-flaw/",
+        "published": "Thu, 18 Sep 2025 02:07:21 +0000"
     }
 ]
