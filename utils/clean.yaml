@@ -1459,3 +1459,4 @@ clean_list:
 - Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover
 - day06-foxcms-rce
 - CVE-2025-8088-EXP
+- cve-2025-43300

@@ -3663,5 +3663,15 @@
         "title": "Researchers Expose Hidden Alliances Between Ransomware Groups",
         "link": "https://gbhackers.com/ransomware-groups/",
         "published": "Thu, 18 Sep 2025 06:55:53 +0000"
+    },
+    {
+        "title": "TP-Link Router Zero-Day Lets Attackers Execute Code by Bypassing ASLR",
+        "link": "https://gbhackers.com/tp-link-router-zero-day/",
+        "published": "Thu, 18 Sep 2025 07:58:51 +0000"
+    },
+    {
+        "title": "Critical WatchGuard Vulnerability Lets Unauthenticated Attackers Run Arbitrary Code",
+        "link": "https://gbhackers.com/critical-watchguard-vulnerability/",
+        "published": "Thu, 18 Sep 2025 07:43:48 +0000"
     }
 ]
