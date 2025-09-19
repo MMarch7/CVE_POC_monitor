@@ -19643,5 +19643,50 @@
         "title": "Palo Alto Networks Acknowledges SquareX Research on Limitations of SWGs Against Last Mile Reassembly Attacks",
         "link": "https://securityonline.info/palo-alto-networks-acknowledges-squarex-research-on-limitations-of-swgs-against-last-mile-reassembly-attacks/",
         "published": "Thu, 18 Sep 2025 13:00:19 +0000"
+    },
+    {
+        "title": "CISA Warns of Malicious Listener Malware Exploiting Ivanti Endpoint Manager Mobile",
+        "link": "https://securityonline.info/cisa-warns-of-malicious-listener-malware-exploiting-ivanti-endpoint-manager-mobile/",
+        "published": "Fri, 19 Sep 2025 01:55:09 +0000"
+    },
+    {
+        "title": "DOJ Charges UK National Linked to Scattered Spider in $115M Cyber Extortion Scheme",
+        "link": "https://securityonline.info/doj-charges-uk-national-linked-to-scattered-spider-in-115m-cyber-extortion-scheme/",
+        "published": "Fri, 19 Sep 2025 01:46:32 +0000"
+    },
+    {
+        "title": "CVE-2025-10035 (CVSS 10): Critical Deserialization Flaw in GoAnywhere MFT Exposes Enterprises to Remote Exploitation",
+        "link": "https://securityonline.info/cve-2025-10035-cvss-10-critical-deserialization-flaw-in-goanywhere-mft-exposes-enterprises-to-remote-exploitation/",
+        "published": "Fri, 19 Sep 2025 01:38:35 +0000"
+    },
+    {
+        "title": "ShinyHunters Expands With AI-Powered Vishing, Supply Chain Intrusions, and Insider Recruitment",
+        "link": "https://securityonline.info/shinyhunters-expands-with-ai-powered-vishing-supply-chain-intrusions-and-insider-recruitment/",
+        "published": "Fri, 19 Sep 2025 00:26:14 +0000"
+    },
+    {
+        "title": "MuddyWater APT Shifts Tactics to Custom Malware",
+        "link": "https://securityonline.info/muddywater-apt-shifts-tactics-to-custom-malware/",
+        "published": "Fri, 19 Sep 2025 00:22:57 +0000"
+    },
+    {
+        "title": "XillenStealer: New Open-Source Malware Lowers Cybercrime Barrier",
+        "link": "https://securityonline.info/xillenstealer-new-open-source-malware-lowers-cybercrime-barrier/",
+        "published": "Fri, 19 Sep 2025 00:18:58 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical Flaw in Delta DIALink: CVE-2025-58321 (CVSS 10.0)",
+        "link": "https://securityonline.info/cisa-warns-of-critical-flaw-in-delta-dialink-cve-2025-58321-cvss-10-0/",
+        "published": "Fri, 19 Sep 2025 00:11:06 +0000"
+    },
+    {
+        "title": "North Korean Hackers Evolve Tactics with New Malware Campaign",
+        "link": "https://securityonline.info/north-korean-hackers-evolve-tactics-with-new-malware-campaign/",
+        "published": "Fri, 19 Sep 2025 00:05:23 +0000"
+    },
+    {
+        "title": "The Adtech as a Threat Actor: How Vane Viper Is Hiding in Plain Sight",
+        "link": "https://securityonline.info/the-adtech-as-a-threat-actor-how-vane-viper-is-hiding-in-plain-sight/",
+        "published": "Fri, 19 Sep 2025 00:00:53 +0000"
     }
 ]
