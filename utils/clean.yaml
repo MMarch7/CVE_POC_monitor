@@ -1466,3 +1466,4 @@ clean_list:
 - CVE-2025-49113-exploit.php
 - CVE-2025-25968
 - CVE-2025-22964
+- Odoo-leq-8.0-20160726-and-9.0-Open-Redirect
