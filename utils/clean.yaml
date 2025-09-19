@@ -1462,3 +1462,7 @@ clean_list:
 - cve-2025-43300
 - CVE-2025-53772-
 - Header-Havoc-Cracking-CVE-2025-48799-in-Apache-Tomcat
+- CVE-2025-25967
+- CVE-2025-49113-exploit.php
+- CVE-2025-25968
+- CVE-2025-22964
