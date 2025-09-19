@@ -1468,3 +1468,4 @@ clean_list:
 - CVE-2025-22964
 - Odoo-leq-8.0-20160726-and-9.0-Open-Redirect
 - CVE-2025-49113_exploit_cookies
+- CVE-2025-55241-Internal-Audit
