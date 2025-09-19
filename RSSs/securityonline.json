@@ -19688,5 +19688,15 @@
         "title": "The Adtech as a Threat Actor: How Vane Viper Is Hiding in Plain Sight",
         "link": "https://securityonline.info/the-adtech-as-a-threat-actor-how-vane-viper-is-hiding-in-plain-sight/",
         "published": "Fri, 19 Sep 2025 00:00:53 +0000"
+    },
+    {
+        "title": "Nokia Patches Critical Flaws in CloudBand and NCS: CVE-2023-49564 and CVE-2023-49565",
+        "link": "https://securityonline.info/nokia-patches-critical-flaws-in-cloudband-and-ncs-cve-2023-49564-and-cve-2023-49565/",
+        "published": "Fri, 19 Sep 2025 03:05:31 +0000"
+    },
+    {
+        "title": "CVE-2025-59340: Critical HubSpot’s Jinjava Engine Flaw Exposes Thousands of Websites to RCE",
+        "link": "https://securityonline.info/cve-2025-59340-critical-hubspots-jinjava-engine-flaw-exposes-thousands-of-websites-to-rce/",
+        "published": "Fri, 19 Sep 2025 02:29:09 +0000"
     }
 ]
