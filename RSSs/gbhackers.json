@@ -3818,5 +3818,15 @@
         "title": "Nokia CBIS/NCS Manager API Vulnerability Allows Attackers to Bypass Authentication",
         "link": "https://gbhackers.com/nokia-cbis-ncs-manager/",
         "published": "Fri, 19 Sep 2025 10:48:05 +0000"
+    },
+    {
+        "title": "HubSpot’s Jinjava Engine Flaw Exposes Thousands of Sites to RCE Attacks",
+        "link": "https://gbhackers.com/hubspots-jinjava-engine-flaw/",
+        "published": "Fri, 19 Sep 2025 12:35:27 +0000"
+    },
+    {
+        "title": "AI-Driven Phishing Attacks: Deceptive Tactics to Bypass Security Systems",
+        "link": "https://gbhackers.com/ai-driven-phishing-attacks/",
+        "published": "Fri, 19 Sep 2025 12:31:03 +0000"
     }
 ]
