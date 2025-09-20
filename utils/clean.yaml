@@ -1473,3 +1473,4 @@ clean_list:
 - CVE-2025-57515
 - CVE-2025-10035
 - day08-CISCO-fmc-sim
+- -CVE-2024-3094-Vulnerability-Checker-Fixer-Public
