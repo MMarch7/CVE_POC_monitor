@@ -1470,3 +1470,4 @@ clean_list:
 - CVE-2025-49113_exploit_cookies
 - CVE-2025-55241-Internal-Audit
 - 2025hvv
+- CVE-2025-57515
