@@ -1481,3 +1481,4 @@ clean_list:
 - full-poc-CVE-2025_21298
 - CVE-2025-34157
 - CVE-2025-40677
+- day09-bentoml-deser-lab
