@@ -19783,5 +19783,75 @@
         "title": "Thinnest iPhone Ever: iFixit Teardown Reveals iPhone Air’s Secrets",
         "link": "https://securityonline.info/thinnest-iphone-ever-ifixit-teardown-reveals-iphone-airs-secrets/",
         "published": "Sun, 21 Sep 2025 06:26:59 +0000"
+    },
+    {
+        "title": "The iPhone Fold: What to Expect from Apple’s Groundbreaking New Device",
+        "link": "https://securityonline.info/the-iphone-fold-what-to-expect-from-apples-groundbreaking-new-device/",
+        "published": "Mon, 22 Sep 2025 01:55:00 +0000"
+    },
+    {
+        "title": "PoC Released for CVE-2025-41243 – A Spring Cloud Gateway Flaw with CVSS 10.0",
+        "link": "https://securityonline.info/poc-released-for-cve-2025-41243-a-spring-cloud-gateway-flaw-with-cvss-10-0/",
+        "published": "Mon, 22 Sep 2025 01:39:44 +0000"
+    },
+    {
+        "title": "CountLoader: A New Malware Loader Linked to Russian Ransomware Groups",
+        "link": "https://securityonline.info/countloader-a-new-malware-loader-linked-to-russian-ransomware-groups/",
+        "published": "Mon, 22 Sep 2025 00:40:24 +0000"
+    },
+    {
+        "title": "CVE-2025-55241: Microsoft Entra ID Flaw with CVSS 10.0 Could Have Compromised Every Tenant Worldwide",
+        "link": "https://securityonline.info/cve-2025-55241-microsoft-entra-id-flaw-with-cvss-10-0-could-have-compromised-every-tenant-worldwide/",
+        "published": "Mon, 22 Sep 2025 00:35:53 +0000"
+    },
+    {
+        "title": "BiDi Swap: A Decade-Old Unicode Flaw Still Enables URL Spoofing",
+        "link": "https://securityonline.info/bidi-swap-a-decade-old-unicode-flaw-still-enables-url-spoofing/",
+        "published": "Mon, 22 Sep 2025 00:32:50 +0000"
+    },
+    {
+        "title": "CopyCop Expands Its Disinformation Network With AI-Generated Content and Global Targets",
+        "link": "https://securityonline.info/copycop-expands-its-disinformation-network-with-ai-generated-content-and-global-targets/",
+        "published": "Mon, 22 Sep 2025 00:28:01 +0000"
+    },
+    {
+        "title": "BlackLock Ransomware: A New Cross-Platform Threat Spreading Rapidly",
+        "link": "https://securityonline.info/blacklock-ransomware-a-new-cross-platform-threat-spreading-rapidly/",
+        "published": "Mon, 22 Sep 2025 00:25:21 +0000"
+    },
+    {
+        "title": "PyPI Under Attack: New Malware ‘SilentSync’ Is Stealing Credentials",
+        "link": "https://securityonline.info/pypi-under-attack-new-malware-silentsync-is-stealing-credentials/",
+        "published": "Mon, 22 Sep 2025 00:20:49 +0000"
+    },
+    {
+        "title": "The Database Was the Door: A Ransomware Attack Began with an Exposed Oracle Serve",
+        "link": "https://securityonline.info/the-database-was-the-door-a-ransomware-attack-began-with-an-exposed-oracle-serve/",
+        "published": "Mon, 22 Sep 2025 00:15:32 +0000"
+    },
+    {
+        "title": "GOLD SALEM: A New Ransomware Group Is Exploiting SharePoint Flaws",
+        "link": "https://securityonline.info/gold-salem-a-new-ransomware-group-is-exploiting-sharepoint-flaws/",
+        "published": "Mon, 22 Sep 2025 00:11:16 +0000"
+    },
+    {
+        "title": "CVE-2025-9961: TP-Link Router Flaw Could Be Exploited for RCE, PoC Released",
+        "link": "https://securityonline.info/cve-2025-9961-tp-link-router-flaw-could-be-exploited-for-rce-poc-released/",
+        "published": "Mon, 22 Sep 2025 00:07:18 +0000"
+    },
+    {
+        "title": "Microsoft Launches Gaming Copilot on Windows & Xbox App",
+        "link": "https://securityonline.info/microsoft-launches-gaming-copilot-on-windows-xbox-app/",
+        "published": "Mon, 22 Sep 2025 00:05:00 +0000"
+    },
+    {
+        "title": "Meta Opens Smart Glasses Platform to Developers and AI",
+        "link": "https://securityonline.info/meta-opens-smart-glasses-platform-to-developers-and-ai/",
+        "published": "Mon, 22 Sep 2025 00:03:19 +0000"
+    },
+    {
+        "title": "Microsoft to Build the “World’s Most Powerful AI Data Center” in Wisconsin",
+        "link": "https://securityonline.info/microsoft-to-build-the-worlds-most-powerful-ai-data-center-in-wisconsin/",
+        "published": "Mon, 22 Sep 2025 00:00:43 +0000"
     }
 ]
