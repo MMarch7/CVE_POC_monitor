@@ -1488,3 +1488,4 @@ clean_list:
 - CVE-2025-51005
 - CVE2025
 - nextjs-middleware-auth-bypass
+- day10-nextjs-middleware-lab
