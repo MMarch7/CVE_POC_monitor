@@ -4018,5 +4018,20 @@
         "title": "SolarWinds Web Help Desk Vulnerability Enables Privilege Escalation",
         "link": "https://gbhackers.com/solarwinds-web-help-desk-vulnerability-2/",
         "published": "Tue, 23 Sep 2025 10:39:41 +0000"
+    },
+    {
+        "title": "Hackers Hijacking IIS Servers Using Malicious BadIIS Module to Serve Malicious Content",
+        "link": "https://gbhackers.com/iis-servers/",
+        "published": "Tue, 23 Sep 2025 12:39:00 +0000"
+    },
+    {
+        "title": "Microsoft Publishes Guide for Certificate-Based Authentication in Windows Admin Center",
+        "link": "https://gbhackers.com/microsoft-publishes-guide-for-certificate-based-authentication/",
+        "published": "Tue, 23 Sep 2025 12:06:18 +0000"
+    },
+    {
+        "title": "New npm Malware Steals Browser Passwords via Steganographic QR Code",
+        "link": "https://gbhackers.com/new-npm-malware/",
+        "published": "Tue, 23 Sep 2025 11:44:16 +0000"
     }
 ]
