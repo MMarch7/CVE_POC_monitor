@@ -19923,5 +19923,15 @@
         "title": "SystemBC Botnet Evolves Into High-Volume VPS Proxy Network, Powering Criminal Ecosystem",
         "link": "https://securityonline.info/systembc-botnet-evolves-into-high-volume-vps-proxy-network-powering-criminal-ecosystem/",
         "published": "Tue, 23 Sep 2025 00:01:01 +0000"
+    },
+    {
+        "title": "New Malware Found in npm Package “fezbox” Uses QR Codes to Steal Credentials",
+        "link": "https://securityonline.info/new-malware-found-in-npm-package-fezbox-uses-qr-codes-to-steal-credentials/",
+        "published": "Tue, 23 Sep 2025 02:17:33 +0000"
+    },
+    {
+        "title": "CVE-2025-9125: Cross-Site Scripting Flaw in Lectora Courses Puts E-Learning Platforms at Risk",
+        "link": "https://securityonline.info/cve-2025-9125-cross-site-scripting-flaw-in-lectora-courses-puts-e-learning-platforms-at-risk/",
+        "published": "Tue, 23 Sep 2025 02:04:48 +0000"
     }
 ]
