@@ -1487,3 +1487,4 @@ clean_list:
 - Email-exploit-Moniker-Link-CVE-2024-21413-
 - CVE-2025-51005
 - CVE2025
+- nextjs-middleware-auth-bypass
