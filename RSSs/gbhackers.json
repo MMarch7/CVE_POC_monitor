@@ -4108,5 +4108,20 @@
         "title": "Critical DNN Platform Vulnerability Let Attackers Execute Malicious Scripts",
         "link": "https://gbhackers.com/dnn-platform-vulnerability/",
         "published": "Wed, 24 Sep 2025 10:24:16 +0000"
+    },
+    {
+        "title": "Salesforce CLI Installer Flaw Lets Attackers Run Code and Gain SYSTEM-Level Access",
+        "link": "https://gbhackers.com/salesforce-cli-installer-flaw/",
+        "published": "Wed, 24 Sep 2025 10:56:59 +0000"
+    },
+    {
+        "title": "Banking Trojans Targeting Android Users Disguise as Government and Trusted Payment Apps",
+        "link": "https://gbhackers.com/banking-trojans/",
+        "published": "Wed, 24 Sep 2025 10:56:39 +0000"
+    },
+    {
+        "title": "CISA Reveals Hackers Breached U.S. Federal Agency via GeoServer RCE Flaw",
+        "link": "https://gbhackers.com/cisa-reveals-hackers-breached-u-s-federal-agency/",
+        "published": "Wed, 24 Sep 2025 10:41:38 +0000"
     }
 ]
