@@ -20058,5 +20058,20 @@
         "title": "New Malware “YiBackdoor” Linked to IcedID and Latrodectus",
         "link": "https://securityonline.info/new-malware-yibackdoor-linked-to-icedid-and-latrodectus/",
         "published": "Wed, 24 Sep 2025 01:58:56 +0000"
+    },
+    {
+        "title": "OpenSSF Warns: Open Source Software Is Not a Free Service",
+        "link": "https://securityonline.info/openssf-warns-open-source-software-is-not-a-free-service/",
+        "published": "Wed, 24 Sep 2025 03:34:20 +0000"
+    },
+    {
+        "title": "CVE-2025-9844: Salesforce CLI Installer Vulnerability Could Lead to SYSTEM-Level Compromise",
+        "link": "https://securityonline.info/cve-2025-9844-salesforce-cli-installer-vulnerability-could-lead-to-system-level-compromise/",
+        "published": "Wed, 24 Sep 2025 03:22:05 +0000"
+    },
+    {
+        "title": "CVE-2025-10184: Unpatched OnePlus Flaw Exposes SMS Data & Breaks MFA, PoC Available",
+        "link": "https://securityonline.info/cve-2025-10184-unpatched-oneplus-flaw-exposes-sms-data-breaks-mfa-no-patch/",
+        "published": "Wed, 24 Sep 2025 03:10:10 +0000"
     }
 ]
