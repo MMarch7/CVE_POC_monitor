@@ -4078,5 +4078,20 @@
         "title": "ShadowV2 Botnet Infects AWS Docker Containers to Launch DDoS Campaign",
         "link": "https://gbhackers.com/shadowv2-botnet/",
         "published": "Wed, 24 Sep 2025 06:11:20 +0000"
+    },
+    {
+        "title": "Kali Linux 2025.3 Launches With Fresh Features and 10 New Pentesting Tools",
+        "link": "https://gbhackers.com/kali-linux-2025-3-10-new-pentesting-tools/",
+        "published": "Wed, 24 Sep 2025 07:23:54 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Actively Exploited Google Chrome 0-Day Vulnerability",
+        "link": "https://gbhackers.com/cisa-issues-chrome-0-day-vulnerability/",
+        "published": "Wed, 24 Sep 2025 07:13:42 +0000"
+    },
+    {
+        "title": "SonicWall Issues Emergency Patch to Remove ‘OVERSTEP’ Rootkit Malware on SMA Devices",
+        "link": "https://gbhackers.com/sonicwall-issues-emergency-patch/",
+        "published": "Wed, 24 Sep 2025 07:04:54 +0000"
     }
 ]
