@@ -4098,5 +4098,10 @@
         "title": "North Korean IT Worker Gains Access to Organization’s Network Through Innocent Job Application",
         "link": "https://gbhackers.com/north-korean-it-worker/",
         "published": "Wed, 24 Sep 2025 07:48:36 +0000"
+    },
+    {
+        "title": "RainyDay, Turian and Naikon Malwares Abuse DLL Search Order to Execute Malicious Loaders",
+        "link": "https://gbhackers.com/dll-search-order/",
+        "published": "Wed, 24 Sep 2025 08:40:05 +0000"
     }
 ]

@@ -1494,3 +1494,4 @@ clean_list:
 - CVE-2025-34100
 - CVE-2025-55780
 - CVE-2025-32463-Sudo-Chroot-Escape
+- LetsDefend--SOC-342-CVE-2025-53770-SharePoint-Exploit-ToolShell
