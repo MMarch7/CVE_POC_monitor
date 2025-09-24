@@ -4123,5 +4123,25 @@
         "title": "CISA Reveals Hackers Breached U.S. Federal Agency via GeoServer RCE Flaw",
         "link": "https://gbhackers.com/cisa-reveals-hackers-breached-u-s-federal-agency/",
         "published": "Wed, 24 Sep 2025 10:41:38 +0000"
+    },
+    {
+        "title": "Russian Disinformation Campaign Targets Moldova’s Upcoming Elections",
+        "link": "https://gbhackers.com/moldovas-upcoming-elections/",
+        "published": "Wed, 24 Sep 2025 12:33:41 +0000"
+    },
+    {
+        "title": "Chromium-Based Browsers in Windows Domains Vulnerable to Arbitrary Extension Loads",
+        "link": "https://gbhackers.com/chromium-based-browsers-arbitrary-extension-loads/",
+        "published": "Wed, 24 Sep 2025 12:15:40 +0000"
+    },
+    {
+        "title": "OnePlus OxygenOS Vulnerability Lets Apps Access SMS Data Without User Permission",
+        "link": "https://gbhackers.com/oneplus-oxygenos-vulnerability/",
+        "published": "Wed, 24 Sep 2025 11:41:51 +0000"
+    },
+    {
+        "title": "Attackers Exploit BMC Firmware Vulnerabilities to Bypass Signature Verification",
+        "link": "https://gbhackers.com/bmc-firmware-vulnerabilities/",
+        "published": "Wed, 24 Sep 2025 11:37:25 +0000"
     }
 ]
