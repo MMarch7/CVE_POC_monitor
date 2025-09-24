@@ -4103,5 +4103,10 @@
         "title": "RainyDay, Turian and Naikon Malwares Abuse DLL Search Order to Execute Malicious Loaders",
         "link": "https://gbhackers.com/dll-search-order/",
         "published": "Wed, 24 Sep 2025 08:40:05 +0000"
+    },
+    {
+        "title": "Critical DNN Platform Vulnerability Let Attackers Execute Malicious Scripts",
+        "link": "https://gbhackers.com/dnn-platform-vulnerability/",
+        "published": "Wed, 24 Sep 2025 10:24:16 +0000"
     }
 ]
