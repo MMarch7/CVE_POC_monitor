@@ -4143,5 +4143,30 @@
         "title": "Attackers Exploit BMC Firmware Vulnerabilities to Bypass Signature Verification",
         "link": "https://gbhackers.com/bmc-firmware-vulnerabilities/",
         "published": "Wed, 24 Sep 2025 11:37:25 +0000"
+    },
+    {
+        "title": "Attackers Bypass EDR by Using In-Memory PE Loaders Delivered via Malicious Downloads",
+        "link": "https://gbhackers.com/attackers-bypass-edr-by-using-in-memory-pe-loaders/",
+        "published": "Wed, 24 Sep 2025 13:51:38 +0000"
+    },
+    {
+        "title": "UK Police Arrest Suspect Tied to Ransomware Attack on European Airports",
+        "link": "https://gbhackers.com/uk-police-arrest-suspect-on-european-airports/",
+        "published": "Wed, 24 Sep 2025 13:39:27 +0000"
+    },
+    {
+        "title": "Multiple Apps on Google’s Firebase Platform Exposing Sensitive Data",
+        "link": "https://gbhackers.com/googles-firebase-platform/",
+        "published": "Wed, 24 Sep 2025 13:34:33 +0000"
+    },
+    {
+        "title": "Attackers Use Domain Fronting to Tunnel Malicious Traffic via Google Meet, YouTube and Chrome Update Servers",
+        "link": "https://gbhackers.com/attackers-use-domain-fronting-to-tunnel-malicious-traffic/",
+        "published": "Wed, 24 Sep 2025 13:26:45 +0000"
+    },
+    {
+        "title": "Weaponized Malware: GitHub Hosts Malware from Malwarebytes, LastPass, Citibank, SentinelOne, and More",
+        "link": "https://gbhackers.com/weaponized-malware/",
+        "published": "Wed, 24 Sep 2025 13:01:10 +0000"
     }
 ]
