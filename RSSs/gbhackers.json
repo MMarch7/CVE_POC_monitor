@@ -4218,5 +4218,15 @@
         "title": "Gcore Radar Report Reveals 41% Surge in DDoS Attack Volumes",
         "link": "https://gbhackers.com/gcore-radar-report-reveals-41-surge-in-ddos-attack-volumes/",
         "published": "Thu, 25 Sep 2025 07:37:47 +0000"
+    },
+    {
+        "title": "Malware Deployment via Copyright Takedown Claims by Threat Actors",
+        "link": "https://gbhackers.com/malware-deployment/",
+        "published": "Thu, 25 Sep 2025 08:37:11 +0000"
+    },
+    {
+        "title": "SetupHijack Tool Abuses Race Conditions in Windows Installer to Hijack Setups",
+        "link": "https://gbhackers.com/setuphijack-tool-abuses-race-conditions-in-windows/",
+        "published": "Thu, 25 Sep 2025 08:36:47 +0000"
     }
 ]
