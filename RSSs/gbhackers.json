@@ -4228,5 +4228,10 @@
         "title": "SetupHijack Tool Abuses Race Conditions in Windows Installer to Hijack Setups",
         "link": "https://gbhackers.com/setuphijack-tool-abuses-race-conditions-in-windows/",
         "published": "Thu, 25 Sep 2025 08:36:47 +0000"
+    },
+    {
+        "title": "New Phishing Scam Aims at PyPI Maintainers to Steal Login Information",
+        "link": "https://gbhackers.com/phishing-scam/",
+        "published": "Thu, 25 Sep 2025 09:59:33 +0000"
     }
 ]
