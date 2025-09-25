@@ -4168,5 +4168,15 @@
         "title": "Weaponized Malware: GitHub Hosts Malware from Malwarebytes, LastPass, Citibank, SentinelOne, and More",
         "link": "https://gbhackers.com/weaponized-malware/",
         "published": "Wed, 24 Sep 2025 13:01:10 +0000"
+    },
+    {
+        "title": "NVIDIA Merlin Flaw Enables Remote Code Execution with Root Access",
+        "link": "https://gbhackers.com/nvidia-merlin-flaw-enables-remote-code-execution/",
+        "published": "Thu, 25 Sep 2025 05:08:09 +0000"
+    },
+    {
+        "title": "Cisco IOS 0-Day RCE Vulnerability Actively Targeted",
+        "link": "https://gbhackers.com/cisco-ios-0-day-rce-vulnerability/",
+        "published": "Thu, 25 Sep 2025 04:53:10 +0000"
     }
 ]
