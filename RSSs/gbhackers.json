@@ -4193,5 +4193,15 @@
         "title": "COLDRIVER APT Group Uses ClickFix to Deliver New PowerShell-Based Backdoor BAITSWITCH",
         "link": "https://gbhackers.com/coldriver-apt-group/",
         "published": "Thu, 25 Sep 2025 05:41:01 +0000"
+    },
+    {
+        "title": "LNK Malware Leverages Legit Windows Files to Slip Past Defenses",
+        "link": "https://gbhackers.com/lnk-malware/",
+        "published": "Thu, 25 Sep 2025 07:26:02 +0000"
+    },
+    {
+        "title": "Hackers Exploit Hikvision Camera Flaw to Steal Sensitive Data",
+        "link": "https://gbhackers.com/hackers-exploit-hikvision-camera-flaw/",
+        "published": "Thu, 25 Sep 2025 07:10:42 +0000"
     }
 ]
