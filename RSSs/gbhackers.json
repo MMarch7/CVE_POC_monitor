@@ -4178,5 +4178,20 @@
         "title": "Cisco IOS 0-Day RCE Vulnerability Actively Targeted",
         "link": "https://gbhackers.com/cisco-ios-0-day-rce-vulnerability/",
         "published": "Thu, 25 Sep 2025 04:53:10 +0000"
+    },
+    {
+        "title": "BRICKSTORM Backdoor Hits Tech and Legal Firms with Stealthy New Campaign",
+        "link": "https://gbhackers.com/brickstorm-backdoor/",
+        "published": "Thu, 25 Sep 2025 06:23:51 +0000"
+    },
+    {
+        "title": "Linux Kernel ksmbd Flaw Lets Remote Attackers Execute Arbitrary Code",
+        "link": "https://gbhackers.com/linux-kernel-ksmbd-flaw-2/",
+        "published": "Thu, 25 Sep 2025 05:50:25 +0000"
+    },
+    {
+        "title": "COLDRIVER APT Group Uses ClickFix to Deliver New PowerShell-Based Backdoor BAITSWITCH",
+        "link": "https://gbhackers.com/coldriver-apt-group/",
+        "published": "Thu, 25 Sep 2025 05:41:01 +0000"
     }
 ]
