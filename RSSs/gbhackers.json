@@ -4303,5 +4303,15 @@
         "title": "New XCSSET Malware Variant Targets macOS App Developers",
         "link": "https://gbhackers.com/xcsset-malware/",
         "published": "Fri, 26 Sep 2025 06:44:35 +0000"
+    },
+    {
+        "title": "Hackers Exploit Cisco ASA 0-Day to Deploy RayInitiator and LINE VIPER Malware",
+        "link": "https://gbhackers.com/hackers-exploit-cisco-asa-0-day/",
+        "published": "Fri, 26 Sep 2025 08:30:01 +0000"
+    },
+    {
+        "title": "LAMEHUG: An LLM-Driven Malware for Dynamic Reconnaissance and Data Exfiltration",
+        "link": "https://gbhackers.com/llm-driven-malware/",
+        "published": "Fri, 26 Sep 2025 07:41:05 +0000"
     }
 ]
