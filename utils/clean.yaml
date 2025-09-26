@@ -1505,3 +1505,4 @@ clean_list:
 - codeql-workshop
 - CVE-2025-51591-Pandoc-SSRF-POC
 - cve
+- CrafterCMS-CVE-2025-6384
