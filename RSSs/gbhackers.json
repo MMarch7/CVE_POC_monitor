@@ -4313,5 +4313,20 @@
         "title": "LAMEHUG: An LLM-Driven Malware for Dynamic Reconnaissance and Data Exfiltration",
         "link": "https://gbhackers.com/llm-driven-malware/",
         "published": "Fri, 26 Sep 2025 07:41:05 +0000"
+    },
+    {
+        "title": "Hackers Breach Active Directory, Steal NTDS.dit for Full Domain Compromise",
+        "link": "https://gbhackers.com/hackers-breach-active-directory-steal-ntds-dit/",
+        "published": "Fri, 26 Sep 2025 09:08:01 +0000"
+    },
+    {
+        "title": "Unveiling LummaStealer’s Technical Details Through ML-Based Detection Approach",
+        "link": "https://gbhackers.com/lummastealers-details/",
+        "published": "Fri, 26 Sep 2025 08:47:47 +0000"
+    },
+    {
+        "title": "Cisco ASA 0-Day RCE Flaw Actively Exploited in the Wild",
+        "link": "https://gbhackers.com/cisco-asa-0-day-rce-flaw/",
+        "published": "Fri, 26 Sep 2025 08:41:47 +0000"
     }
 ]
