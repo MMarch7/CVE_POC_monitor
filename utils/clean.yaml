@@ -1504,3 +1504,4 @@ clean_list:
 - CVE-2022-35583-Pandoc-SSRF-POC
 - codeql-workshop
 - CVE-2025-51591-Pandoc-SSRF-POC
+- cve

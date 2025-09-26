@@ -20188,5 +20188,60 @@
         "title": "Living Security Unveils HRMCon 2025 Speakers as Report Finds Firms Detect Just 19% of Human Risk",
         "link": "https://securityonline.info/living-security-unveils-hrmcon-2025-speakers-as-report-finds-firms-detect-just-19-of-human-risk/",
         "published": "Thu, 25 Sep 2025 17:57:00 +0000"
+    },
+    {
+        "title": "CRITICAL Cisco Zero-Day (CVE-2025-20333, CVSS 9.9) Under Active Attack: VPN Flaw Allows Root RCE",
+        "link": "https://securityonline.info/critical-cisco-zero-day-cve-2025-20333-cvss-9-9-under-active-attack-vpn-flaw-allows-root-rce/",
+        "published": "Fri, 26 Sep 2025 00:44:29 +0000"
+    },
+    {
+        "title": "Cisco Warns of Critical RCE Flaw (CVE-2025-20363) Affecting Firewall and Router Software",
+        "link": "https://securityonline.info/cisco-warns-of-critical-rce-flaw-cve-2025-20363-affecting-firewall-and-router-software/",
+        "published": "Fri, 26 Sep 2025 00:38:55 +0000"
+    },
+    {
+        "title": "Supply Chain Attack: Malicious Rust Crates Steal Solana and Ethereum Private Keys",
+        "link": "https://securityonline.info/supply-chain-attack-malicious-rust-crates-steal-solana-and-ethereum-private-keys/",
+        "published": "Fri, 26 Sep 2025 00:32:26 +0000"
+    },
+    {
+        "title": "Cisco Zero-Day CVE-2025-20362 Under Attack: VPN Flaw in ASA/FTD Exposes Restricted Resources",
+        "link": "https://securityonline.info/cisco-zero-day-cve-2025-20362-under-attack-vpn-flaw-in-asa-ftd-exposes-restricted-resources/",
+        "published": "Fri, 26 Sep 2025 00:30:49 +0000"
+    },
+    {
+        "title": "CVE-2025-54831: Apache Airflow Bug Exposes Sensitive Connection Passwords to Read-Only Users",
+        "link": "https://securityonline.info/cve-2025-54831-apache-airflow-bug-exposes-sensitive-connection-passwords-to-read-only-users/",
+        "published": "Fri, 26 Sep 2025 00:29:41 +0000"
+    },
+    {
+        "title": "BRICKSTORM Malware: China-Linked Hackers Stealthily Target US Tech and Legal Firms for 393 Days",
+        "link": "https://securityonline.info/brickstorm-malware-china-linked-hackers-stealthily-target-us-tech-and-legal-firms-for-393-days/",
+        "published": "Fri, 26 Sep 2025 00:23:03 +0000"
+    },
+    {
+        "title": "GitLab Fixes High-Severity DoS Flaws: Unauthenticated Attackers Could Crash Instances",
+        "link": "https://securityonline.info/gitlab-fixes-high-severity-dos-flaws-unauthenticated-attackers-could-crash-instances/",
+        "published": "Fri, 26 Sep 2025 00:16:12 +0000"
+    },
+    {
+        "title": "NVIDIA Patches High-Severity Code Injection Flaws in Megatron-LM AI Framework",
+        "link": "https://securityonline.info/nvidia-patches-high-severity-code-injection-flaws-in-megatron-lm-ai-framework/",
+        "published": "Fri, 26 Sep 2025 00:12:36 +0000"
+    },
+    {
+        "title": "AI vs. AI: Microsoft Blocks Phishing Attack Using LLM-Generated Obfuscated Code",
+        "link": "https://securityonline.info/ai-vs-ai-microsoft-blocks-phishing-attack-using-llm-generated-obfuscated-code/",
+        "published": "Fri, 26 Sep 2025 00:10:38 +0000"
+    },
+    {
+        "title": "New Lone None Stealer Malware Hijacks Crypto Wallets via Fake Copyright Takedown Notices",
+        "link": "https://securityonline.info/new-lone-none-stealer-malware-hijacks-crypto-wallets-via-fake-copyright-takedown-notices/",
+        "published": "Fri, 26 Sep 2025 00:05:04 +0000"
+    },
+    {
+        "title": "LNK Stomping: Attackers Bypass Windows Security by Stripping the ‘Mark of the Web’",
+        "link": "https://securityonline.info/lnk-stomping-attackers-bypass-windows-security-by-stripping-the-mark-of-the-web/",
+        "published": "Fri, 26 Sep 2025 00:00:41 +0000"
     }
 ]
