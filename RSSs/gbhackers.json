@@ -4338,5 +4338,15 @@
         "title": "New Botnet ‘Loader-as-a-Service’ Turns Home Routers and IoT into Mirai Farms",
         "link": "https://gbhackers.com/botnet-loader-as-a-service/",
         "published": "Fri, 26 Sep 2025 10:48:36 +0000"
+    },
+    {
+        "title": "Apache Airflow Vulnerability Lets Read-Only Users Access Sensitive Data",
+        "link": "https://gbhackers.com/apache-airflow-vulnerability/",
+        "published": "Fri, 26 Sep 2025 12:41:30 +0000"
+    },
+    {
+        "title": "Malware Gangs Enlist Covert North Korean IT Workers in Corporate Attacks",
+        "link": "https://gbhackers.com/malware-gangs/",
+        "published": "Fri, 26 Sep 2025 11:40:55 +0000"
     }
 ]
