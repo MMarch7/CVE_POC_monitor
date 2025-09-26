@@ -4293,5 +4293,15 @@
         "title": "LockBit 5.0 Ransomware Targets Windows, Linux, and VMware ESXi Systems",
         "link": "https://gbhackers.com/lockbit-5-0-ransomware-targets-windows/",
         "published": "Fri, 26 Sep 2025 05:17:12 +0000"
+    },
+    {
+        "title": "Critical Cisco Flaw Lets Remote Attackers Execute Code on Firewalls and Routers",
+        "link": "https://gbhackers.com/critical-cisco-flaw/",
+        "published": "Fri, 26 Sep 2025 07:14:35 +0000"
+    },
+    {
+        "title": "New XCSSET Malware Variant Targets macOS App Developers",
+        "link": "https://gbhackers.com/xcsset-malware/",
+        "published": "Fri, 26 Sep 2025 06:44:35 +0000"
     }
 ]

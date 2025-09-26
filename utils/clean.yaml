@@ -1506,3 +1506,4 @@ clean_list:
 - CVE-2025-51591-Pandoc-SSRF-POC
 - cve
 - CrafterCMS-CVE-2025-6384
+- CVE-2025-56383-Proof-of-Concept
