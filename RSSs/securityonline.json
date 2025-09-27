@@ -20313,5 +20313,10 @@
         "title": "Meta is Building an “Android of Robotics” to Power the Next Generation of Humanoid AI",
         "link": "https://securityonline.info/meta-is-building-an-android-of-robotics-to-power-the-next-generation-of-humanoid-ai/",
         "published": "Sat, 27 Sep 2025 08:17:56 +0000"
+    },
+    {
+        "title": "CVE-2025-59934: Critical Flaw in Formbricks Allows Unauthorized Password Resets via Forged JWT Tokens",
+        "link": "https://securityonline.info/cve-2025-59934-critical-flaw-in-formbricks-allows-unauthorized-password-resets-via-forged-jwt-tokens/",
+        "published": "Sat, 27 Sep 2025 08:44:17 +0000"
     }
 ]

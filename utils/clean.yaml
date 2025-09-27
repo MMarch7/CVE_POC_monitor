@@ -1513,3 +1513,4 @@ clean_list:
 - CrushFTP-auth-bypass-CVE-2025-31161
 - ExploitScript
 - CVE-2025-39596
+- CVE-2025-10035_GoAnywhere
