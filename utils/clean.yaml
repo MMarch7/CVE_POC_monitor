@@ -1508,3 +1508,5 @@ clean_list:
 - CrafterCMS-CVE-2025-6384
 - CVE-2025-56383-Proof-of-Concept
 - io_uring-n-day
+- CVE-2025-5304
+- CVE-2025-59843-CVE-2025-59932
