@@ -1512,3 +1512,4 @@ clean_list:
 - CVE-2025-59843-CVE-2025-59932
 - CrushFTP-auth-bypass-CVE-2025-31161
 - ExploitScript
+- CVE-2025-39596
