@@ -1517,3 +1517,4 @@ clean_list:
 - CVE-2025-Xss
 - rtty_CVE-2025-56708-CVE-2025-56709
 - CVE-2025-59251
+- CVE-2025-56764-trivision-nc227wf
