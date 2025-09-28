@@ -1514,3 +1514,4 @@ clean_list:
 - ExploitScript
 - CVE-2025-39596
 - CVE-2025-10035_GoAnywhere
+- CVE-2025-Xss
