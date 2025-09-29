@@ -1520,3 +1520,4 @@ clean_list:
 - CVE-2025-56764-trivision-nc227wf
 - POC-CVE-2025-8088
 - CVE-2024-47051
+- Demo_CVE-2025-3248
