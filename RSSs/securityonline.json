@@ -20318,5 +20318,70 @@
         "title": "CVE-2025-59934: Critical Flaw in Formbricks Allows Unauthorized Password Resets via Forged JWT Tokens",
         "link": "https://securityonline.info/cve-2025-59934-critical-flaw-in-formbricks-allows-unauthorized-password-resets-via-forged-jwt-tokens/",
         "published": "Sat, 27 Sep 2025 08:44:17 +0000"
+    },
+    {
+        "title": "Meta Launches ‘Vibes’: A New AI-Generated Short-Video Platform to Rival TikTok",
+        "link": "https://securityonline.info/meta-launches-vibes-a-new-ai-generated-short-video-platform-to-rival-tiktok/",
+        "published": "Mon, 29 Sep 2025 01:59:06 +0000"
+    },
+    {
+        "title": "New Google Mandate: All Android Apps Must Support 16KB Page Size by November 1, 2025",
+        "link": "https://securityonline.info/new-google-mandate-all-android-apps-must-support-16kb-page-size-by-november-1-2025/",
+        "published": "Mon, 29 Sep 2025 01:49:47 +0000"
+    },
+    {
+        "title": "TamperedChef Malware Rises: Deceptive Apps Use Signed Binaries and SEO Poisoning to Hijack Browsers",
+        "link": "https://securityonline.info/tamperedchef-malware-rises-deceptive-apps-use-signed-binaries-and-seo-poisoning-to-hijack-browsers/",
+        "published": "Mon, 29 Sep 2025 00:36:46 +0000"
+    },
+    {
+        "title": "New Phishing Campaign Impersonates Ukrainian Police to Deliver Amatera Stealer and PureMiner",
+        "link": "https://securityonline.info/new-phishing-campaign-impersonates-ukrainian-police-to-deliver-amatera-stealer-and-pureminer/",
+        "published": "Mon, 29 Sep 2025 00:30:06 +0000"
+    },
+    {
+        "title": "DarkCloud Stealer Evolves: New VB6 Obfuscation and Crypto Wallet Theft Make Malware More Dangerous Than Ever",
+        "link": "https://securityonline.info/darkcloud-stealer-evolves-new-vb6-obfuscation-and-crypto-wallet-theft-make-malware-more-dangerous-than-ever/",
+        "published": "Mon, 29 Sep 2025 00:26:21 +0000"
+    },
+    {
+        "title": "Trinity of Chaos: How LAPSUS$, Scattered Spider, and ShinyHunters Forged a Cybercrime Alliance",
+        "link": "https://securityonline.info/trinity-of-chaos-how-lapsus-scattered-spider-and-shinyhunters-forged-a-cybercrime-alliance/",
+        "published": "Mon, 29 Sep 2025 00:23:12 +0000"
+    },
+    {
+        "title": "Akira Ransomware Exploits SonicWall VPN Accounts With Lightning-Fast Intrusions",
+        "link": "https://securityonline.info/akira-ransomware-exploits-sonicwall-vpn-accounts-with-lightning-fast-intrusions/",
+        "published": "Mon, 29 Sep 2025 00:20:51 +0000"
+    },
+    {
+        "title": "RedNovember: Chinese APT Expands Global Espionage to U.S. Defense, Aerospace, and Tech Firms",
+        "link": "https://securityonline.info/rednovember-chinese-apt-expands-global-espionage-to-u-s-defense-aerospace-and-tech-firms/",
+        "published": "Mon, 29 Sep 2025 00:16:23 +0000"
+    },
+    {
+        "title": "From Infostealer to Full RAT: Huntress Uncovers a Multi-Stage Malware Attack Deploying PureRAT",
+        "link": "https://securityonline.info/from-infostealer-to-full-rat-huntress-uncovers-a-multi-stage-malware-attack-deploying-purerat/",
+        "published": "Mon, 29 Sep 2025 00:13:27 +0000"
+    },
+    {
+        "title": "XCSSET macOS Malware Evolves: New Variant Targets Firefox, Hijacks Clipboard for Crypto Theft",
+        "link": "https://securityonline.info/xcsset-macos-malware-evolves-new-variant-targets-firefox-hijacks-clipboard-for-crypto-theft/",
+        "published": "Mon, 29 Sep 2025 00:10:32 +0000"
+    },
+    {
+        "title": "Morte Botnet Unveiled: A Rapidly Growing Loader-as-a-Service Campaign Exploiting Routers and Enterprise Apps",
+        "link": "https://securityonline.info/morte-botnet-unveiled-a-rapidly-growing-loader-as-a-service-campaign-exploiting-routers-and-enterprise-apps/",
+        "published": "Mon, 29 Sep 2025 00:05:46 +0000"
+    },
+    {
+        "title": "DLL Hijacking Flaw (CVE-2025-56383) Found in Notepad++, Allowing Arbitrary Code Execution, PoC Available",
+        "link": "https://securityonline.info/dll-hijacking-flaw-cve-2025-56383-found-in-notepad-allowing-arbitrary-code-execution-poc-available/",
+        "published": "Mon, 29 Sep 2025 00:02:15 +0000"
+    },
+    {
+        "title": "Russia-Linked COLDRIVER Group Expands Toolset, Using New Malware in ClickFix Espionage Campaign",
+        "link": "https://securityonline.info/russia-linked-coldriver-group-expands-toolset-using-new-malware-in-clickfix-espionage-campaign/",
+        "published": "Mon, 29 Sep 2025 00:00:29 +0000"
     }
 ]
