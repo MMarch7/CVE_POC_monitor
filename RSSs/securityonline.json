@@ -20473,5 +20473,20 @@
         "title": "Olymp Loader: New Assembly-Based MaaS Is a Turnkey Solution for Low-Tier Cybercriminals",
         "link": "https://securityonline.info/olymp-loader-new-assembly-based-maas-is-a-turnkey-solution-for-low-tier-cybercriminals/",
         "published": "Tue, 30 Sep 2025 00:01:23 +0000"
+    },
+    {
+        "title": "Zero-Day PoC Published: Privilege Escalation Flaw in VMware Tools Used by Chinese APT",
+        "link": "https://securityonline.info/zero-day-poc-published-privilege-escalation-flaw-in-vmware-tools-used-by-chinese-apt/",
+        "published": "Tue, 30 Sep 2025 02:28:52 +0000"
+    },
+    {
+        "title": "CVE-2025-30247: Critical Command Injection Flaw in Western Digital My Cloud NAS Devices",
+        "link": "https://securityonline.info/cve-2025-30247-critical-command-injection-flaw-in-western-digital-my-cloud-nas-devices/",
+        "published": "Tue, 30 Sep 2025 02:12:41 +0000"
+    },
+    {
+        "title": "Broadcom Fixes Multiple VMware vCenter and NSX Vulnerabilities",
+        "link": "https://securityonline.info/broadcom-fixes-multiple-vmware-vcenter-and-nsx-vulnerabilities/",
+        "published": "Tue, 30 Sep 2025 02:04:18 +0000"
     }
 ]
