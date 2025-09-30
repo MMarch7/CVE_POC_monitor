@@ -20428,5 +20428,50 @@
         "title": "Elon Musk Says Tesla’s Optimus Robot Could Be Worth 80% of the Company’s Value",
         "link": "https://securityonline.info/elon-musk-says-teslas-optimus-robot-could-be-worth-80-of-the-companys-value/",
         "published": "Mon, 29 Sep 2025 07:38:49 +0000"
+    },
+    {
+        "title": "Critical RCE Flaw in Apache Fory’s Python Module (CVE-2025-61622)",
+        "link": "https://securityonline.info/critical-rce-flaw-in-apache-forys-python-module-cve-2025-61622/",
+        "published": "Tue, 30 Sep 2025 01:55:41 +0000"
+    },
+    {
+        "title": "CVE-2025-58384 (CVSS 10): Critical RCE Flaw Found in Watchdoc Print Management Software",
+        "link": "https://securityonline.info/cve-2025-58384-cvss-10-critical-rce-flaw-found-in-watchdoc-print-management-software/",
+        "published": "Tue, 30 Sep 2025 01:49:43 +0000"
+    },
+    {
+        "title": "Broadcom Patches VMware Flaws: Privilege Escalation and Info Disclosure Vulnerabilities Affect VMware Tools and Aria Operations",
+        "link": "https://securityonline.info/broadcom-patches-vmware-flaws-privilege-escalation-and-info-disclosure-vulnerabilities-affect-vmware-tools-and-aria-operations/",
+        "published": "Tue, 30 Sep 2025 01:42:23 +0000"
+    },
+    {
+        "title": "Under the Hood of a Kernel Crash: PoC Exposes Race Condition in Qualcomm’s Driver",
+        "link": "https://securityonline.info/under-the-hood-of-a-kernel-crash-poc-exposes-race-condition-in-qualcomms-driver/",
+        "published": "Tue, 30 Sep 2025 00:25:46 +0000"
+    },
+    {
+        "title": "Ongoing APT35 Phishing Campaign Uncovered: Iranian Group Impersonates Video Conferencing Services",
+        "link": "https://securityonline.info/ongoing-apt35-phishing-campaign-uncovered-iranian-group-impersonates-video-conferencing-services/",
+        "published": "Tue, 30 Sep 2025 00:20:58 +0000"
+    },
+    {
+        "title": "NCSC Exposes Advanced Bootkit: RayInitiator and LINE VIPER Malware Found on Cisco ASA Devices",
+        "link": "https://securityonline.info/ncsc-exposes-advanced-bootkit-rayinitiator-and-line-viper-malware-found-on-cisco-asa-devices/",
+        "published": "Tue, 30 Sep 2025 00:15:24 +0000"
+    },
+    {
+        "title": "Rent-a-Domain: Report Details How APTs and Cybercriminals Abuse DDNS Services for Malicious Infrastructure",
+        "link": "https://securityonline.info/rent-a-domain-report-details-how-apts-and-cybercriminals-abuse-ddns-services-for-malicious-infrastructure/",
+        "published": "Tue, 30 Sep 2025 00:10:09 +0000"
+    },
+    {
+        "title": "Acreed: The New Infostealer Using BNB Smart Chain and Steam Profiles for Stealthy C2",
+        "link": "https://securityonline.info/acreed-the-new-infostealer-using-bnb-smart-chain-and-steam-profiles-for-stealthy-c2/",
+        "published": "Tue, 30 Sep 2025 00:05:58 +0000"
+    },
+    {
+        "title": "Olymp Loader: New Assembly-Based MaaS Is a Turnkey Solution for Low-Tier Cybercriminals",
+        "link": "https://securityonline.info/olymp-loader-new-assembly-based-maas-is-a-turnkey-solution-for-low-tier-cybercriminals/",
+        "published": "Tue, 30 Sep 2025 00:01:23 +0000"
     }
 ]
