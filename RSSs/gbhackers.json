@@ -4503,5 +4503,10 @@
         "title": "Threat Actors Exploiting MS-SQL Servers to Deploy XiebroC2 Framework",
         "link": "https://gbhackers.com/ms-sql-servers/",
         "published": "Tue, 30 Sep 2025 09:15:35 +0000"
+    },
+    {
+        "title": "Researchers Publish Technical Analysis of Linux Sudo Privilege Escalation",
+        "link": "https://gbhackers.com/technical-analysis-of-linux-sudo-privilege-escalation/",
+        "published": "Tue, 30 Sep 2025 10:22:30 +0000"
     }
 ]
