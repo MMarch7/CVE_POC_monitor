@@ -4548,5 +4548,15 @@
         "title": "Hackers Use Cellular Router API to Send Malicious SMS with Weaponized Links",
         "link": "https://gbhackers.com/cellular-router-api/",
         "published": "Tue, 30 Sep 2025 13:05:42 +0000"
+    },
+    {
+        "title": "Patchwork APT: Leveraging PowerShell to Create Scheduled Tasks and Deploy Final Payload",
+        "link": "https://gbhackers.com/patchwork-apt/",
+        "published": "Tue, 30 Sep 2025 14:26:23 +0000"
+    },
+    {
+        "title": "New Chinese Nexus APT Group Targeting Organizations to Deploy NET-STAR Malware Suite",
+        "link": "https://gbhackers.com/nexus-apt-group/",
+        "published": "Tue, 30 Sep 2025 14:07:53 +0000"
     }
 ]
