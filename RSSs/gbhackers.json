@@ -4508,5 +4508,15 @@
         "title": "Researchers Publish Technical Analysis of Linux Sudo Privilege Escalation",
         "link": "https://gbhackers.com/technical-analysis-of-linux-sudo-privilege-escalation/",
         "published": "Tue, 30 Sep 2025 10:22:30 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Actively Exploited Libraesva ESG Command Injection Vulnerability",
+        "link": "https://gbhackers.com/libraesva-esg/",
+        "published": "Tue, 30 Sep 2025 11:11:13 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Active Exploitation of Linux and Unix Sudo Flaw",
+        "link": "https://gbhackers.com/cisa-issues-alert-on-linux-and-unix-sudo-flaw/",
+        "published": "Tue, 30 Sep 2025 10:43:01 +0000"
     }
 ]
