@@ -4483,5 +4483,20 @@
         "title": "Veeam RCE Exploit Allegedly Listed for Sale on Dark Web",
         "link": "https://gbhackers.com/veeam-rce-exploit/",
         "published": "Tue, 30 Sep 2025 07:01:24 +0000"
+    },
+    {
+        "title": "APT35 Hackers Targeting Government and Military to Steal Login Credentials",
+        "link": "https://gbhackers.com/apt35-hackers/",
+        "published": "Tue, 30 Sep 2025 08:31:25 +0000"
+    },
+    {
+        "title": "VMware Tools and Aria 0-Day Under Active Exploitation for Privilege Escalation",
+        "link": "https://gbhackers.com/vmware-tools-and-aria-0-day/",
+        "published": "Tue, 30 Sep 2025 07:43:02 +0000"
+    },
+    {
+        "title": "Malicious Code in Fake Postmark MCP Server Steals Thousands of Emails",
+        "link": "https://gbhackers.com/fake-postmark-mcp-server/",
+        "published": "Tue, 30 Sep 2025 07:35:01 +0000"
     }
 ]
