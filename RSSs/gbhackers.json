@@ -4643,5 +4643,15 @@
         "title": "Multiple NVIDIA Flaws Allow Attackers to Escalate Privileges on Systems",
         "link": "https://gbhackers.com/multiple-nvidia-flaws/",
         "published": "Wed, 01 Oct 2025 11:53:22 +0000"
+    },
+    {
+        "title": "Ukraine Warns of Weaponized XLL Files Delivering CABINETRAT Malware via Zip Archives",
+        "link": "https://gbhackers.com/cabinetrat-malware/",
+        "published": "Wed, 01 Oct 2025 13:34:35 +0000"
+    },
+    {
+        "title": "Chinese State-Sponsored Hackers Exploiting Network Edge Devices to Harvest Sensitive Data",
+        "link": "https://gbhackers.com/network-edge-devices/",
+        "published": "Wed, 01 Oct 2025 13:11:27 +0000"
     }
 ]
