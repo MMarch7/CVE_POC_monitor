@@ -20528,5 +20528,30 @@
         "title": "Hackers Hijack Industrial Cellular Routers to Launch Widespread Smishing Campaigns Across Europe",
         "link": "https://securityonline.info/hackers-hijack-industrial-cellular-routers-to-launch-widespread-smishing-campaigns-across-europe/",
         "published": "Wed, 01 Oct 2025 01:41:07 +0000"
+    },
+    {
+        "title": "Apache Kylin Flaw: Authentication Bypass and SSRF Vulnerabilities Found in Big Data Platform",
+        "link": "https://securityonline.info/apache-kylin-flaw-authentication-bypass-and-ssrf-vulnerabilities-found-in-big-data-platform/",
+        "published": "Wed, 01 Oct 2025 03:11:04 +0000"
+    },
+    {
+        "title": "Backdoor Disguised as SOCKS5 Proxy: Malicious PyPI Package SoopSocks Grants Root Access",
+        "link": "https://securityonline.info/backdoor-disguised-as-socks5-proxy-malicious-pypi-package-soopsocks-grants-root-access/",
+        "published": "Wed, 01 Oct 2025 03:01:21 +0000"
+    },
+    {
+        "title": "CVE-2025-7493: Critical Flaw in FreeIPA Allows Host Users to Escalate to Domain Administrator",
+        "link": "https://securityonline.info/cve-2025-7493-critical-flaw-in-freeipa-allows-host-users-to-escalate-to-domain-administrator/",
+        "published": "Wed, 01 Oct 2025 02:54:11 +0000"
+    },
+    {
+        "title": "Phantom Taurus: New Chinese APT Emerges with Fileless NET-STAR Backdoor Targeting Global Governments and Telecoms",
+        "link": "https://securityonline.info/phantom-taurus-new-chinese-apt-emerges-with-fileless-net-star-backdoor-targeting-global-governments-and-telecoms/",
+        "published": "Wed, 01 Oct 2025 02:32:34 +0000"
+    },
+    {
+        "title": "Patchwork APT Resurfaces: Stealthy Espionage Campaign Exploits DLL Sideloading and Layered Obfuscation",
+        "link": "https://securityonline.info/patchwork-apt-resurfaces-stealthy-espionage-campaign-exploits-dll-sideloading-and-layered-obfuscation/",
+        "published": "Wed, 01 Oct 2025 02:17:48 +0000"
     }
 ]
