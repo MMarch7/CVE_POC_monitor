@@ -20553,5 +20553,30 @@
         "title": "Patchwork APT Resurfaces: Stealthy Espionage Campaign Exploits DLL Sideloading and Layered Obfuscation",
         "link": "https://securityonline.info/patchwork-apt-resurfaces-stealthy-espionage-campaign-exploits-dll-sideloading-and-layered-obfuscation/",
         "published": "Wed, 01 Oct 2025 02:17:48 +0000"
+    },
+    {
+        "title": "CVE-2025-10725 (CVSS 9.9): Red Hat OpenShift AI Privilege Escalation Flaw Could Lead to Full Cluster Compromise",
+        "link": "https://securityonline.info/cve-2025-10725-cvss-9-9-red-hat-openshift-ai-privilege-escalation-flaw-could-lead-to-full-cluster-compromise/",
+        "published": "Wed, 01 Oct 2025 04:07:40 +0000"
+    },
+    {
+        "title": "NVIDIA Patches Multi Flaws in Delegated License Service, Allows Unauthenticated Access and DoS",
+        "link": "https://securityonline.info/nvidia-patches-multi-flaws-in-delegated-license-service-allows-unauthenticated-access-and-dos/",
+        "published": "Wed, 01 Oct 2025 03:59:05 +0000"
+    },
+    {
+        "title": "Alexa+ Unveiled: Amazon’s AI Assistant Redefines Smart Living",
+        "link": "https://securityonline.info/alexa-unveiled-amazons-ai-assistant-redefines-smart-living/",
+        "published": "Wed, 01 Oct 2025 03:29:48 +0000"
+    },
+    {
+        "title": "OpenAI Launches Sora: New AI-Powered Short-Video Platform to Rival TikTok",
+        "link": "https://securityonline.info/openai-launches-sora-new-ai-powered-short-video-platform-to-rival-tiktok/",
+        "published": "Wed, 01 Oct 2025 03:27:02 +0000"
+    },
+    {
+        "title": "OpenAI Launches Instant Checkout in ChatGPT, Teaming with Stripe to Reshape E-commerce",
+        "link": "https://securityonline.info/openai-launches-instant-checkout-in-chatgpt-teaming-with-stripe-to-reshape-e-commerce/",
+        "published": "Wed, 01 Oct 2025 03:18:48 +0000"
     }
 ]
