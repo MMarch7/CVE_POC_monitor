@@ -4588,5 +4588,20 @@
         "title": "48+ Cisco Firewalls Hit by Actively Exploited 0-Day Vulnerability",
         "link": "https://gbhackers.com/48-cisco-firewalls-hit-by-actively-exploited/",
         "published": "Wed, 01 Oct 2025 06:40:46 +0000"
+    },
+    {
+        "title": "Red Hat OpenShift AI Vulnerability Lets Attackers Seize Infrastructure Control",
+        "link": "https://gbhackers.com/red-hat-openshift-ai-vulnerability/",
+        "published": "Wed, 01 Oct 2025 08:24:41 +0000"
+    },
+    {
+        "title": "Google Publishes Security Hardening Guide to Counter UNC6040 Threats",
+        "link": "https://gbhackers.com/security-hardening-guide/",
+        "published": "Wed, 01 Oct 2025 07:48:32 +0000"
+    },
+    {
+        "title": "Battering RAM Exploit Bypasses Modern Protections in Intel, AMD Cloud Processors",
+        "link": "https://gbhackers.com/battering-ram-exploit-bypasses-intel-amd-cloud-processors/",
+        "published": "Wed, 01 Oct 2025 07:41:24 +0000"
     }
 ]
