@@ -4613,5 +4613,10 @@
         "title": "New DNS Malware ‘Detour Dog’ Uses TXT Records to Deliver Strela Stealer",
         "link": "https://gbhackers.com/new-dns-malware/",
         "published": "Wed, 01 Oct 2025 10:05:26 +0000"
+    },
+    {
+        "title": "New FlipSwitch Hooking Method Overcomes Linux Kernel Defenses",
+        "link": "https://gbhackers.com/flipswitch-hooking/",
+        "published": "Wed, 01 Oct 2025 11:04:02 +0000"
     }
 ]
