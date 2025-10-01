@@ -4603,5 +4603,10 @@
         "title": "Battering RAM Exploit Bypasses Modern Protections in Intel, AMD Cloud Processors",
         "link": "https://gbhackers.com/battering-ram-exploit-bypasses-intel-amd-cloud-processors/",
         "published": "Wed, 01 Oct 2025 07:41:24 +0000"
+    },
+    {
+        "title": "Hackers Abuse EV Certificates to Sign Completely Undetectable DMG Malware",
+        "link": "https://gbhackers.com/ev-certificates/",
+        "published": "Wed, 01 Oct 2025 09:18:42 +0000"
     }
 ]
