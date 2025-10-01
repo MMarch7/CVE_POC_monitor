@@ -4608,5 +4608,10 @@
         "title": "Hackers Abuse EV Certificates to Sign Completely Undetectable DMG Malware",
         "link": "https://gbhackers.com/ev-certificates/",
         "published": "Wed, 01 Oct 2025 09:18:42 +0000"
+    },
+    {
+        "title": "New DNS Malware ‘Detour Dog’ Uses TXT Records to Deliver Strela Stealer",
+        "link": "https://gbhackers.com/new-dns-malware/",
+        "published": "Wed, 01 Oct 2025 10:05:26 +0000"
     }
 ]

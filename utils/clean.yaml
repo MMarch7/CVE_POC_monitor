@@ -1531,3 +1531,6 @@ clean_list:
 - CVE-2025-57389
 - CVE-2025-58788
 - CVE-2025-58789
+- cs50-cyber-paloalto-oauth
+- CVE-2025-57926
+- CVE-2025-54677
