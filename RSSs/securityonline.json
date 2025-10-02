@@ -20578,5 +20578,40 @@
         "title": "OpenAI Launches Instant Checkout in ChatGPT, Teaming with Stripe to Reshape E-commerce",
         "link": "https://securityonline.info/openai-launches-instant-checkout-in-chatgpt-teaming-with-stripe-to-reshape-e-commerce/",
         "published": "Wed, 01 Oct 2025 03:18:48 +0000"
+    },
+    {
+        "title": "Splunk Fixes Six Flaws, Including Unauthenticated SSRF and XSS Vulnerabilities in Enterprise Platform",
+        "link": "https://securityonline.info/splunk-fixes-six-flaws-including-unauthenticated-ssrf-and-xss-vulnerabilities-in-enterprise-platform/",
+        "published": "Thu, 02 Oct 2025 01:44:12 +0000"
+    },
+    {
+        "title": "Django Security Alert: High-Severity SQL Injection Flaw (CVE-2025-59681) Fixed in Latest Updates",
+        "link": "https://securityonline.info/django-security-alert-high-severity-sql-injection-flaw-cve-2025-59681-fixed-in-latest-updates/",
+        "published": "Thu, 02 Oct 2025 01:31:46 +0000"
+    },
+    {
+        "title": "Rhadamanthys Stealer v0.9.2 Drops: New PNG Payloads and Anti-Analysis Tricks Make Malware Deadlier",
+        "link": "https://securityonline.info/rhadamanthys-stealer-v0-9-2-drops-new-png-payloads-and-anti-analysis-tricks-make-malware-deadlier/",
+        "published": "Thu, 02 Oct 2025 00:20:45 +0000"
+    },
+    {
+        "title": "DoS Flaws in Argo CD: Unauthenticated Attackers Can Crash Kubernetes Server with Single Request",
+        "link": "https://securityonline.info/dos-flaws-in-argo-cd-unauthenticated-attackers-can-crash-kubernetes-server-with-single-request/",
+        "published": "Thu, 02 Oct 2025 00:15:42 +0000"
+    },
+    {
+        "title": "Detour Dog: Stealthy DNS Malware Uses TXT Records for Command and Control",
+        "link": "https://securityonline.info/detour-dog-stealthy-dns-malware-uses-txt-records-for-command-and-control/",
+        "published": "Thu, 02 Oct 2025 00:10:11 +0000"
+    },
+    {
+        "title": "Russian-Speaking Lunar Spider Group Launches New Ransomware Wave with Latrodectus V2 Loader",
+        "link": "https://securityonline.info/russian-speaking-lunar-spider-group-launches-new-ransomware-wave-with-latrodectus-v2-loader/",
+        "published": "Thu, 02 Oct 2025 00:05:41 +0000"
+    },
+    {
+        "title": "CISA Warns of Critical RCE Flaw (CVE-2025-10659, CVSS 9.8) in Megasys Telenium Online Web Application",
+        "link": "https://securityonline.info/cisa-warns-of-critical-rce-flaw-cve-2025-10659-cvss-9-8-in-megasys-telenium-online-web-application/",
+        "published": "Thu, 02 Oct 2025 00:00:57 +0000"
     }
 ]
