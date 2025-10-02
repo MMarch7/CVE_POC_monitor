@@ -4678,5 +4678,10 @@
         "title": "Microsoft Outlook Bug on Windows Devices Results in Repeated Email Crashes",
         "link": "https://gbhackers.com/microsoft-outlook-bug-on-windows-devices/",
         "published": "Thu, 02 Oct 2025 05:29:48 +0000"
+    },
+    {
+        "title": "Termix Docker Image Leaking SSH Credentials (CVE-2025-59951)",
+        "link": "https://gbhackers.com/termix-docker-image-leaking-ssh/",
+        "published": "Thu, 02 Oct 2025 08:22:12 +0000"
     }
 ]
