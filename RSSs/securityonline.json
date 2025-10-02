@@ -20613,5 +20613,35 @@
         "title": "CISA Warns of Critical RCE Flaw (CVE-2025-10659, CVSS 9.8) in Megasys Telenium Online Web Application",
         "link": "https://securityonline.info/cisa-warns-of-critical-rce-flaw-cve-2025-10659-cvss-9-8-in-megasys-telenium-online-web-application/",
         "published": "Thu, 02 Oct 2025 00:00:57 +0000"
+    },
+    {
+        "title": "Privacy Alert: Meta to Use User-AI Conversations to Target Ads Across Facebook and Instagram",
+        "link": "https://securityonline.info/privacy-alert-meta-to-use-user-ai-conversations-to-target-ads-across-facebook-and-instagram/",
+        "published": "Thu, 02 Oct 2025 02:50:56 +0000"
+    },
+    {
+        "title": "Google Replaces Assistant with Gemini for Home AI and Unveils New Speakers & Nest Cams",
+        "link": "https://securityonline.info/google-replaces-assistant-with-gemini-for-home-ai-and-unveils-new-speakers-nest-cams/",
+        "published": "Thu, 02 Oct 2025 02:47:32 +0000"
+    },
+    {
+        "title": "Qualcomm Wins “Complete Victory” Over Arm in Major Chip Licensing Lawsuit",
+        "link": "https://securityonline.info/qualcomm-wins-complete-victory-over-arm-in-major-chip-licensing-lawsuit/",
+        "published": "Thu, 02 Oct 2025 02:43:23 +0000"
+    },
+    {
+        "title": "Critical Flaw in Termix Docker Image (CVE-2025-59951) Leaks SSH Credentials Without Authentication",
+        "link": "https://securityonline.info/critical-flaw-in-termix-docker-image-cve-2025-59951-leaks-ssh-credentials-without-authentication/",
+        "published": "Thu, 02 Oct 2025 02:35:49 +0000"
+    },
+    {
+        "title": "Chrome 141 Stable Channel Update Patches High-Severity Vulnerabilities (CVE-2025-11205 & CVE-2025-11206)",
+        "link": "https://securityonline.info/chrome-141-stable-channel-update-patches-high-severity-vulnerabilities-cve-2025-11205-cve-2025-11206/",
+        "published": "Thu, 02 Oct 2025 02:14:28 +0000"
+    },
+    {
+        "title": "Critical Flaw CVE-2025-52906 (CVSS 9.3) Allows Unauthenticated RCE on TOTOLINK X6000R Routers",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-52906-cvss-9-3-allows-unauthenticated-rce-on-totolink-x6000r-routers/",
+        "published": "Thu, 02 Oct 2025 01:59:29 +0000"
     }
 ]
