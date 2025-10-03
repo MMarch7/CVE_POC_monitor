@@ -4758,5 +4758,20 @@
         "title": "SideWinder Hacker Group Targets Users with Fake Outlook/Zimbra Portals to Steal Login Credentials",
         "link": "https://gbhackers.com/sidewinder-hacker-group/",
         "published": "Fri, 03 Oct 2025 10:39:54 +0000"
+    },
+    {
+        "title": "DrayOS Router Flaw Allows Remote Code Execution by Attackers",
+        "link": "https://gbhackers.com/drayos-router-flaw/",
+        "published": "Fri, 03 Oct 2025 12:32:36 +0000"
+    },
+    {
+        "title": "New XWorm V6 Variant Embeds Malicious Code into Trusted Windows Applications",
+        "link": "https://gbhackers.com/xworm-v6-variant/",
+        "published": "Fri, 03 Oct 2025 12:17:21 +0000"
+    },
+    {
+        "title": "GhostSocks Malware-as-a-Service Turns Compromised Devices into Proxies for Threat Actors",
+        "link": "https://gbhackers.com/ghostsocks-malware-as-a-service/",
+        "published": "Fri, 03 Oct 2025 11:28:47 +0000"
     }
 ]

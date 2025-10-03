@@ -168,5 +168,10 @@
         "title": "It Is Bad (Exploitation of Fortra GoAnywhere MFT CVE-2025-10035) - Part 2",
         "link": "https://labs.watchtowr.com/it-is-bad-exploitation-of-fortra-goanywhere-mft-cve-2025-10035-part-2/",
         "published": "Thu, 25 Sep 2025 19:26:04 GMT"
+    },
+    {
+        "title": "It's Never Simple Until It Is (Dell UnityVSA Pre-Auth Command Injection CVE-2025-36604)",
+        "link": "https://labs.watchtowr.com/its-never-simple-until-it-is-dell-unityvsa-pre-auth-command-injection-cve-2025-36604/",
+        "published": "Fri, 03 Oct 2025 12:44:44 GMT"
     }
 ]
