@@ -20683,5 +20683,10 @@
         "title": "Researcher Details Zero-Day Linux/Android Kernel Flaw (CVE-2025-38352)",
         "link": "https://securityonline.info/researcher-details-zero-day-linux-android-kernel-flaw-cve-2025-38352/",
         "published": "Fri, 03 Oct 2025 00:01:49 +0000"
+    },
+    {
+        "title": "GreyNoise Detects Coordinated Surge Exploiting Grafana Path Traversal Flaw (CVE-2021-43798)",
+        "link": "https://securityonline.info/greynoise-detects-coordinated-surge-exploiting-grafana-path-traversal-flaw-cve-2021-43798/",
+        "published": "Fri, 03 Oct 2025 02:13:40 +0000"
     }
 ]
