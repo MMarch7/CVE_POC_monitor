@@ -4688,5 +4688,10 @@
         "title": "TOTOLINK X6000R Routers Hit by Three Vulnerabilities Allowing Remote Code Execution",
         "link": "https://gbhackers.com/totolink-x6000r-routers-hit-by-three-vulnerabilities/",
         "published": "Thu, 02 Oct 2025 08:36:42 +0000"
+    },
+    {
+        "title": "New Obex Tools Blocks Runtime Loading of EDR Dynamic Libraries",
+        "link": "https://gbhackers.com/new-obex-tools-blocks-edr-dynamic-libraries/",
+        "published": "Fri, 03 Oct 2025 04:53:18 +0000"
     }
 ]
