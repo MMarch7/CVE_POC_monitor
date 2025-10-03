@@ -1543,3 +1543,5 @@ clean_list:
 - Meteor
 - CVE-2025-9286
 - product-security
+- CVE-2025-60787
+- CVE-2025-7558-PoC
