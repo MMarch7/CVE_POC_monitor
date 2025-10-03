@@ -20688,5 +20688,15 @@
         "title": "GreyNoise Detects Coordinated Surge Exploiting Grafana Path Traversal Flaw (CVE-2021-43798)",
         "link": "https://securityonline.info/greynoise-detects-coordinated-surge-exploiting-grafana-path-traversal-flaw-cve-2021-43798/",
         "published": "Fri, 03 Oct 2025 02:13:40 +0000"
+    },
+    {
+        "title": "Actively Exploited: Critical Flaw CVE-2025-6388 (CVSS 9.8) Allows Authentication Bypass in WordPress Plugin",
+        "link": "https://securityonline.info/actively-exploited-critical-flaw-cve-2025-6388-cvss-9-8-allows-authentication-bypass-in-wordpress-plugin/",
+        "published": "Fri, 03 Oct 2025 03:24:41 +0000"
+    },
+    {
+        "title": "Yoast SEO Premium Flaw: Stored XSS Bug (CVE-2025-11241) Exposes Millions of WordPress Sites",
+        "link": "https://securityonline.info/yoast-seo-premium-flaw-stored-xss-bug-cve-2025-11241-exposes-millions-of-wordpress-sites/",
+        "published": "Fri, 03 Oct 2025 03:13:05 +0000"
     }
 ]
