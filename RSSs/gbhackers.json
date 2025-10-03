@@ -4748,5 +4748,10 @@
         "title": "New ‘Point-and-Click’ Phishing Kit Evades Security Filters to Deliver Malicious Payloads",
         "link": "https://gbhackers.com/point-and-click-phishing/",
         "published": "Fri, 03 Oct 2025 08:48:40 +0000"
+    },
+    {
+        "title": "Hackers Exploit Grafana Vulnerability Allowing Arbitrary File Reads",
+        "link": "https://gbhackers.com/hackers-exploit-grafana-vulnerability/",
+        "published": "Fri, 03 Oct 2025 10:06:55 +0000"
     }
 ]
