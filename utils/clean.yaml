@@ -1548,3 +1548,4 @@ clean_list:
 - middleforce
 - CVE-2025-10184-PoC
 - CVE-2024-36401
+- CVE-2024-7627
