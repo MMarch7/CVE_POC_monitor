@@ -1552,3 +1552,4 @@ clean_list:
 - WP-CVE-2025-6934
 - exploit-CVE-2025-39946
 - CVE-2025-56132---LiquidFiles-User-Enumeration-POC
+- CVE-2025-56132-Liquidfiles
