@@ -20733,5 +20733,65 @@
         "title": "Red Hat Confirms Breach of GitLab Instance, Customer Network Blueprints Stolen",
         "link": "https://securityonline.info/red-hat-confirms-breach-of-gitlab-instance-customer-network-blueprints-stolen/",
         "published": "Sun, 05 Oct 2025 06:58:10 +0000"
+    },
+    {
+        "title": "OpenAI Acquires AI Investment App Roi, Signaling ChatGPT’s Pivot to Personalized Financial Advice",
+        "link": "https://securityonline.info/openai-acquires-ai-investment-app-roi-signaling-chatgpts-pivot-to-personalized-financial-advice/",
+        "published": "Mon, 06 Oct 2025 01:34:45 +0000"
+    },
+    {
+        "title": "TamperedChef Malware: Fake PDF Editor Stole Credentials After Two Months of Covert Operation",
+        "link": "https://securityonline.info/tamperedchef-malware-fake-pdf-editor-stole-credentials-after-two-months-of-covert-operation/",
+        "published": "Mon, 06 Oct 2025 00:33:41 +0000"
+    },
+    {
+        "title": "CVE-2025-27237: Zabbix Agent Flaw Allows Local Privilege Escalation via OpenSSL DLL Injection",
+        "link": "https://securityonline.info/cve-2025-27237-zabbix-agent-flaw-allows-local-privilege-escalation-via-openssl-dll-injection/",
+        "published": "Mon, 06 Oct 2025 00:30:36 +0000"
+    },
+    {
+        "title": "Trinity of Chaos: New Alliance of Hackers Extorts 39 Firms, Leaking Data Stolen from Cisco, Google, and Global Airlines",
+        "link": "https://securityonline.info/trinity-of-chaos-new-alliance-of-hackers-extorts-39-firms-leaking-data-stolen-from-cisco-google-and-global-airlines/",
+        "published": "Mon, 06 Oct 2025 00:26:24 +0000"
+    },
+    {
+        "title": "RCE Flaw CVE-2025-10547 in DrayTek Vigor Routers Allows Unauthenticated Root Access",
+        "link": "https://securityonline.info/rce-flaw-cve-2025-10547-in-draytek-vigor-routers-allows-unauthenticated-root-access/",
+        "published": "Mon, 06 Oct 2025 00:22:26 +0000"
+    },
+    {
+        "title": "CVE-2025-61882 (CVSS 9.8): Critical RCE Flaw in Oracle E-Business Suite",
+        "link": "https://securityonline.info/cve-2025-61882-cvss-9-8-critical-rce-flaw-in-oracle-e-business-suite/",
+        "published": "Mon, 06 Oct 2025 00:16:53 +0000"
+    },
+    {
+        "title": "WhatsApp Worm: New SORVEPOTEL Malware Hijacks Sessions to Spread Aggressively Across Brazil",
+        "link": "https://securityonline.info/whatsapp-worm-new-sorvepotel-malware-hijacks-sessions-to-spread-aggressively-across-brazil/",
+        "published": "Mon, 06 Oct 2025 00:13:12 +0000"
+    },
+    {
+        "title": "QNAP Fixes High-Severity Flaws: NetBak Replicator RCE and SQL Injection in Qsync Central",
+        "link": "https://securityonline.info/qnap-fixes-high-severity-flaws-netbak-replicator-rce-and-sql-injection-in-qsync-central/",
+        "published": "Mon, 06 Oct 2025 00:08:57 +0000"
+    },
+    {
+        "title": "Apple’s Indian Supply Chain Expands: 350,000 Jobs Created and Full iPhone 17 Assembly Planned",
+        "link": "https://securityonline.info/apples-indian-supply-chain-expands-350000-jobs-created-and-full-iphone-17-assembly-planned/",
+        "published": "Mon, 06 Oct 2025 00:05:33 +0000"
+    },
+    {
+        "title": "Sora Reverses Copyright Policy: OpenAI to Share Revenue and Allow Opt-In Controls for Character IP",
+        "link": "https://securityonline.info/sora-reverses-copyright-policy-openai-to-share-revenue-and-allow-opt-in-controls-for-character-ip/",
+        "published": "Mon, 06 Oct 2025 00:02:41 +0000"
+    },
+    {
+        "title": "Critical Flaw CVE-2025-49844 (CVSS 10.0) Allows Remote Code Execution in Redis",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-49844-cvss-10-0-allows-remote-code-execution-in-redis/",
+        "published": "Mon, 06 Oct 2025 00:01:10 +0000"
+    },
+    {
+        "title": "Cloudflare Unveils New Policy to Let Creators Control How AI Bots Use Their Content",
+        "link": "https://securityonline.info/cloudflare-unveils-new-policy-to-let-creators-control-how-ai-bots-use-their-content/",
+        "published": "Mon, 06 Oct 2025 00:00:08 +0000"
     }
 ]

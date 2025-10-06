@@ -1554,3 +1554,4 @@ clean_list:
 - CVE-2025-56132---LiquidFiles-User-Enumeration-POC
 - CVE-2025-56132-Liquidfiles
 - POC-CVE-2025-52970
+- CVE-2025-41244-PoC
