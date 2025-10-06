@@ -4843,5 +4843,15 @@
         "title": "Yurei Ransomware leverages SMB shares and removable drives to Encrypt Files",
         "link": "https://gbhackers.com/yurei-ransomware-2/",
         "published": "Mon, 06 Oct 2025 09:59:14 +0000"
+    },
+    {
+        "title": "Integrate Gemini CLI into Your Kali Terminal to Speed Up Pentesting Tasks",
+        "link": "https://gbhackers.com/integrate-gemini-cli-into-your-kali-terminal/",
+        "published": "Mon, 06 Oct 2025 11:14:48 +0000"
+    },
+    {
+        "title": "Technical Details and Exploit Released for Chrome Remote Code Execution Flaw",
+        "link": "https://gbhackers.com/technical-details-and-exploit-released-for-chrome-flaw/",
+        "published": "Mon, 06 Oct 2025 10:50:12 +0000"
     }
 ]

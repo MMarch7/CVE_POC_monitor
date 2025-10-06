@@ -1561,3 +1561,4 @@ clean_list:
 - cve-2024-30088-binary
 - Lenovo-CVE-2025-8061
 - CVE-2025-51586-PrestaShop-PoC
+- POC-CVE-2024-38820
