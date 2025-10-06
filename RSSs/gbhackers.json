@@ -4823,5 +4823,15 @@
         "title": "WARMCOOKIE Malware Operators Introduce Advanced Capabilities",
         "link": "https://gbhackers.com/warmcookie-malware/",
         "published": "Mon, 06 Oct 2025 05:28:46 +0000"
+    },
+    {
+        "title": "Ransomware Gangs Exploit Remote Access Tools to Stay Hidden and Maintain Control",
+        "link": "https://gbhackers.com/ransomware-gangs/",
+        "published": "Mon, 06 Oct 2025 07:26:41 +0000"
+    },
+    {
+        "title": "Redis Server Use-After-Free Vulnerability Allows Remote Code Execution",
+        "link": "https://gbhackers.com/redis-server-use-after-free-vulnerability/",
+        "published": "Mon, 06 Oct 2025 06:45:04 +0000"
     }
 ]
