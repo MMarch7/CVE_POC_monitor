@@ -20803,5 +20803,10 @@
         "title": "Critical Denial-of-Service Vulnerability Discovered in HAProxy",
         "link": "https://securityonline.info/critical-denial-of-service-vulnerability-discovered-in-haproxy/",
         "published": "Mon, 06 Oct 2025 03:11:38 +0000"
+    },
+    {
+        "title": "Unity Flaw CVE-2025-59489 Allows Local Code Execution in Millions of Games",
+        "link": "https://securityonline.info/unity-flaw-cve-2025-59489-allows-local-code-execution-in-millions-of-games/",
+        "published": "Mon, 06 Oct 2025 03:41:54 +0000"
     }
 ]
