@@ -1558,3 +1558,4 @@ clean_list:
 - exploit-CVE-2024-11972
 - CVE-2025-61882
 - CVE-2025-59489-POC
+- cve-2024-30088-binary

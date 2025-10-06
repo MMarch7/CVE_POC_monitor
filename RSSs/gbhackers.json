@@ -4803,5 +4803,25 @@
         "title": "PoC Published for Sudo Flaw Lets Attackers Escalate to Root",
         "link": "https://gbhackers.com/poc-published-for-sudo-flaw-lets-attackers-escalate-to-root/",
         "published": "Mon, 06 Oct 2025 05:24:11 +0000"
+    },
+    {
+        "title": "Asgard Malware Protector Reversed: Researchers Expose Its Antivirus Bypass Methods",
+        "link": "https://gbhackers.com/asgard-malware-protector/",
+        "published": "Mon, 06 Oct 2025 06:19:48 +0000"
+    },
+    {
+        "title": "QNAP NetBak Replicator Vulnerability Allow Malicious Code Execution",
+        "link": "https://gbhackers.com/qnap-netbak-replicator-vulnerability/",
+        "published": "Mon, 06 Oct 2025 06:18:31 +0000"
+    },
+    {
+        "title": "Hackers Turn AWS X-Ray into Command-and-Control Platform",
+        "link": "https://gbhackers.com/hackers-turn-aws-x-ray-into-command-and-control-platform/",
+        "published": "Mon, 06 Oct 2025 06:05:18 +0000"
+    },
+    {
+        "title": "WARMCOOKIE Malware Operators Introduce Advanced Capabilities",
+        "link": "https://gbhackers.com/warmcookie-malware/",
+        "published": "Mon, 06 Oct 2025 05:28:46 +0000"
     }
 ]
