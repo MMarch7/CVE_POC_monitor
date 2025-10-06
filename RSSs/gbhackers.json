@@ -4868,5 +4868,10 @@
         "title": "Zabbix Agent/Agent2 for Windows Vulnerability Could Allow Privilege Escalation",
         "link": "https://gbhackers.com/zabbix-agent-agent2-for-windows-vulnerability/",
         "published": "Mon, 06 Oct 2025 11:37:32 +0000"
+    },
+    {
+        "title": "New ‘Fully Undetectable’ Android RAT Discovered on GitHub",
+        "link": "https://gbhackers.com/android-rat-2/",
+        "published": "Mon, 06 Oct 2025 13:06:32 +0000"
     }
 ]
