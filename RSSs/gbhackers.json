@@ -4838,5 +4838,10 @@
         "title": "Hackers Exploit WordPress Sites by Silently Injecting Malicious PHP Code",
         "link": "https://gbhackers.com/wordpress-sites-2/",
         "published": "Mon, 06 Oct 2025 08:35:33 +0000"
+    },
+    {
+        "title": "Yurei Ransomware leverages SMB shares and removable drives to Encrypt Files",
+        "link": "https://gbhackers.com/yurei-ransomware-2/",
+        "published": "Mon, 06 Oct 2025 09:59:14 +0000"
     }
 ]
