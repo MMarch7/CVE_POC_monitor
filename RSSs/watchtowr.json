@@ -173,5 +173,10 @@
         "title": "It's Never Simple Until It Is (Dell UnityVSA Pre-Auth Command Injection CVE-2025-36604)",
         "link": "https://labs.watchtowr.com/its-never-simple-until-it-is-dell-unityvsa-pre-auth-command-injection-cve-2025-36604/",
         "published": "Fri, 03 Oct 2025 12:44:44 GMT"
+    },
+    {
+        "title": "Well, Well, Well. It’s Another Day. (Oracle E-Business Suite Pre-Auth RCE Chain - CVE-2025-61882)",
+        "link": "https://labs.watchtowr.com/well-well-well-its-another-day-oracle-e-business-suite-pre-auth-rce-chain-cve-2025-61882well-well-well-its-another-day-oracle-e-business-suite-pre-auth-rce-chain-cve-2025-61882/",
+        "published": "Mon, 06 Oct 2025 17:41:51 GMT"
     }
 ]
