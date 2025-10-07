@@ -4918,5 +4918,15 @@
         "title": "OpenSSH ProxyCommand Flaw Allows Remote Code Execution – PoC Released",
         "link": "https://gbhackers.com/openssh-proxycommand-flaw-poc-released/",
         "published": "Tue, 07 Oct 2025 08:43:01 +0000"
+    },
+    {
+        "title": "CrowdStrike Alerts on Oracle E-Business Suite 0-Day Under Mass Exploitation",
+        "link": "https://gbhackers.com/oracle-e-business-suite/",
+        "published": "Tue, 07 Oct 2025 10:27:20 +0000"
+    },
+    {
+        "title": "Hackers Exploit Legitimate Commands to Breach Databases",
+        "link": "https://gbhackers.com/legitimate-commands/",
+        "published": "Tue, 07 Oct 2025 09:32:25 +0000"
     }
 ]
