@@ -1576,3 +1576,5 @@ clean_list:
 - Blackash-CVE-2025-61882
 - CVE-2025-7441
 - spring-poc-CVE-2024-38819
+- CVE-2025-52021
+- CVE-2025-56243
