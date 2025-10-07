@@ -4898,5 +4898,15 @@
         "title": "NCSC Issues Alert on Active Exploitation of Oracle E-Business Suite 0-Day Vulnerability",
         "link": "https://gbhackers.com/ncsc-issues-oracle-0-day-vulnerability/",
         "published": "Tue, 07 Oct 2025 05:33:43 +0000"
+    },
+    {
+        "title": "Hackers Launch Leak Portal to Publish Data Stolen from Salesforce Instances",
+        "link": "https://gbhackers.com/salesforce-instances/",
+        "published": "Tue, 07 Oct 2025 06:54:26 +0000"
+    },
+    {
+        "title": "GoAnywhere 0-Day RCE Actively Exploited to Deliver Medusa Ransomware",
+        "link": "https://gbhackers.com/goanywhere-0-day-rce-exploited-deliver-medusa-ransomware/",
+        "published": "Tue, 07 Oct 2025 06:41:22 +0000"
     }
 ]
