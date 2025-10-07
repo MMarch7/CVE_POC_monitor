@@ -1565,3 +1565,5 @@ clean_list:
 - PoC-for-CVE-2025-9074
 - CVE-2025-57457
 - CVE-2025-49844-discovery
+- cve-2025-59934
+- cve-2025-61984-poc
