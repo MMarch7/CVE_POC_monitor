@@ -20823,5 +20823,50 @@
         "title": "Reemo Unveils Bastion+: A Scalable Solution for Global Privileged Access Management",
         "link": "https://securityonline.info/reemo-unveils-bastion-a-scalable-solution-for-global-privileged-access-management/",
         "published": "Mon, 06 Oct 2025 16:03:12 +0000"
+    },
+    {
+        "title": "Critical Flaw CVE-2025-59159 (CVSS 9.7) in SillyTavern Allows Full Remote Control of Local AI Instances",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-59159-cvss-9-7-in-sillytavern-allows-full-remote-control-of-local-ai-instances/",
+        "published": "Tue, 07 Oct 2025 01:48:07 +0000"
+    },
+    {
+        "title": "Critical RCE (CVE-2025-10035) in GoAnywhere MFT Used by Medusa Ransomware Group",
+        "link": "https://securityonline.info/critical-rce-cve-2025-10035-in-goanywhere-mft-used-by-medusa-ransomware-group/",
+        "published": "Tue, 07 Oct 2025 01:38:43 +0000"
+    },
+    {
+        "title": "Critical Flaw CVE-2025-36356 (CVSS 9.3) in IBM Security Verify Access Allows Root Privilege Escalation",
+        "link": "https://securityonline.info/critical-flaw-cve-2025-36356-cvss-9-3-in-ibm-security-verify-access-allows-root-privilege-escalation/",
+        "published": "Tue, 07 Oct 2025 01:32:21 +0000"
+    },
+    {
+        "title": "Rapid7 Details Cisco ASA Zero-Day Exploit Chain (CVE-2025-20362 & CVE-2025-20333)",
+        "link": "https://securityonline.info/rapid7-details-cisco-asa-zero-day-exploit-chain-cve-2025-20362-cve-2025-20333/",
+        "published": "Tue, 07 Oct 2025 00:26:49 +0000"
+    },
+    {
+        "title": "PoC Released for Linux Kernel Escalates Privileges Flaw",
+        "link": "https://securityonline.info/poc-released-for-linux-kernel-escalates-privileges-flaw/",
+        "published": "Tue, 07 Oct 2025 00:15:28 +0000"
+    },
+    {
+        "title": "Chinese APT Launches Spearphishing Campaign, Using Fake Cloudflare Lure to Deliver PlugX Malware",
+        "link": "https://securityonline.info/chinese-apt-launches-spearphishing-campaign-using-fake-cloudflare-lure-to-deliver-plugx-malware/",
+        "published": "Tue, 07 Oct 2025 00:11:22 +0000"
+    },
+    {
+        "title": "New Yurei Ransomware Emerges: Go-Based Variant Uses Advanced Anti-Forensics for Irreversible Double Extortion",
+        "link": "https://securityonline.info/new-yurei-ransomware-emerges-go-based-variant-uses-advanced-anti-forensics-for-irreversible-double-extortion/",
+        "published": "Tue, 07 Oct 2025 00:10:12 +0000"
+    },
+    {
+        "title": "SideWinder APT Launches Operation SouthNet, Weaponizing Netlify and Pages.dev for Espionage",
+        "link": "https://securityonline.info/sidewinder-apt-launches-operation-southnet-weaponizing-netlify-and-pages-dev-for-espionage/",
+        "published": "Tue, 07 Oct 2025 00:05:01 +0000"
+    },
+    {
+        "title": "Snipe-IT Flaw Chained: XSS (CVE-2025-59712) to RCE (CVE-2025-59713) Achieves Full Server Compromise, PoC Released",
+        "link": "https://securityonline.info/snipe-it-flaw-chained-xss-cve-2025-59712-to-rce-cve-2025-59713-achieves-full-server-compromise-poc-released/",
+        "published": "Tue, 07 Oct 2025 00:00:24 +0000"
     }
 ]
