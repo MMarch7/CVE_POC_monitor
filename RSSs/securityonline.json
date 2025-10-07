@@ -20868,5 +20868,35 @@
         "title": "Snipe-IT Flaw Chained: XSS (CVE-2025-59712) to RCE (CVE-2025-59713) Achieves Full Server Compromise, PoC Released",
         "link": "https://securityonline.info/snipe-it-flaw-chained-xss-cve-2025-59712-to-rce-cve-2025-59713-achieves-full-server-compromise-poc-released/",
         "published": "Tue, 07 Oct 2025 00:00:24 +0000"
+    },
+    {
+        "title": "OpenAI Turns ChatGPT Into a “Super App” with the New Apps SDK Integration",
+        "link": "https://securityonline.info/openai-turns-chatgpt-into-a-super-app-with-the-new-apps-sdk-integration/",
+        "published": "Tue, 07 Oct 2025 03:18:11 +0000"
+    },
+    {
+        "title": "OpenAI Partners with AMD, Adopting Instinct MI450 GPUs for a 6 GW AI Computing Infrastructure",
+        "link": "https://securityonline.info/openai-partners-with-amd-adopting-instinct-mi450-gpus-for-a-6-gw-ai-computing-infrastructure/",
+        "published": "Tue, 07 Oct 2025 03:13:27 +0000"
+    },
+    {
+        "title": "ChatGPT Reaches 800 Million Weekly Users, Cementing Dominance in Generative AI Adoption",
+        "link": "https://securityonline.info/chatgpt-reaches-800-million-weekly-users-cementing-dominance-in-generative-ai-adoption/",
+        "published": "Tue, 07 Oct 2025 03:08:16 +0000"
+    },
+    {
+        "title": "Qt Fixes Dual Critical Vulnerabilities (CVE-2025-10728 & CVE-2025-10729) in SVG Module",
+        "link": "https://securityonline.info/qt-fixes-dual-critical-vulnerabilities-cve-2025-10728-cve-2025-10729-in-svg-module/",
+        "published": "Tue, 07 Oct 2025 03:04:26 +0000"
+    },
+    {
+        "title": "Elastic Fixes Multiple High-Severity Vulnerabilities in Kibana and Elasticsearch",
+        "link": "https://securityonline.info/elastic-fixes-multiple-high-severity-vulnerabilities-in-kibana-and-elasticsearch/",
+        "published": "Tue, 07 Oct 2025 02:27:07 +0000"
+    },
+    {
+        "title": "Oracle EBS Zero-Day (CVE-2025-61882) Under Active RCE Exploitation by GRACEFUL SPIDER",
+        "link": "https://securityonline.info/oracle-ebs-zero-day-cve-2025-61882-under-active-rce-exploitation-by-graceful-spider/",
+        "published": "Tue, 07 Oct 2025 02:11:53 +0000"
     }
 ]
