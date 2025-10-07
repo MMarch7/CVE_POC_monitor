@@ -1573,3 +1573,6 @@ clean_list:
 - CVE-2025-46818
 - CVE-Analysis
 - redis-CVE-2025-49844
+- Blackash-CVE-2025-61882
+- CVE-2025-7441
+- spring-poc-CVE-2024-38819
