@@ -4908,5 +4908,10 @@
         "title": "GoAnywhere 0-Day RCE Actively Exploited to Deliver Medusa Ransomware",
         "link": "https://gbhackers.com/goanywhere-0-day-rce-exploited-deliver-medusa-ransomware/",
         "published": "Tue, 07 Oct 2025 06:41:22 +0000"
+    },
+    {
+        "title": "CISA Issues Alert on Active Exploitation of Microsoft Windows Privilege Escalation Flaw",
+        "link": "https://gbhackers.com/cisa-alert-on-microsoft-windows-privilege-escalation-flaw/",
+        "published": "Tue, 07 Oct 2025 07:45:05 +0000"
     }
 ]
