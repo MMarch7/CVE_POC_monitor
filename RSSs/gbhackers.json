@@ -4883,5 +4883,20 @@
         "title": "13-Year-Old Redis RCE Flaw Lets Attackers Seize Complete Host Control",
         "link": "https://gbhackers.com/13-year-old-redis-rce-flaw/",
         "published": "Tue, 07 Oct 2025 05:16:22 +0000"
+    },
+    {
+        "title": "Cl0p Ransomware Actively Exploiting Oracle E-Business Suite 0-Day",
+        "link": "https://gbhackers.com/cl0p-ransomware-exploiting-oracle-0-day/",
+        "published": "Tue, 07 Oct 2025 06:23:46 +0000"
+    },
+    {
+        "title": "Mustang Panda Adopts New DLL Side-Loading Method to Deploy Malware",
+        "link": "https://gbhackers.com/mustang-panda/",
+        "published": "Tue, 07 Oct 2025 06:15:25 +0000"
+    },
+    {
+        "title": "NCSC Issues Alert on Active Exploitation of Oracle E-Business Suite 0-Day Vulnerability",
+        "link": "https://gbhackers.com/ncsc-issues-oracle-0-day-vulnerability/",
+        "published": "Tue, 07 Oct 2025 05:33:43 +0000"
     }
 ]
