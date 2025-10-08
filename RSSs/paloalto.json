@@ -448,5 +448,20 @@
         "title": "PAN-SA-2025-0015 Chromium: Monthly Vulnerability Update (September 2025) (Severity: MEDIUM)",
         "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0015",
         "published": "2025-09-10T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0016 Chromium: Monthly Vulnerability Update (October 2025) (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0016",
+        "published": "2025-10-08T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4615 PAN-OS: Improper Neutralization of Input in the Management Web Interface (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4615",
+        "published": "2025-10-08T16:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4614 PAN-OS: Session Token Disclosure Vulnerability (Severity: LOW)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4614",
+        "published": "2025-10-08T16:00:00.000Z"
     }
 ]
