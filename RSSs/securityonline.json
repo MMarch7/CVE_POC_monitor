@@ -20973,5 +20973,10 @@
         "title": "Critical Nagios Flaw CVE-2025-44823 (CVSS 9.9) Leaks Plaintext Admin API Keys, PoC Available",
         "link": "https://securityonline.info/critical-nagios-flaw-cve-2025-44823-cvss-9-9-leaks-plaintext-admin-api-keys-poc-available/",
         "published": "Wed, 08 Oct 2025 03:57:58 +0000"
+    },
+    {
+        "title": "Microsoft Ends Local Account Bypass: Windows 11 OOBE Now Requires Microsoft Account Login",
+        "link": "https://securityonline.info/microsoft-ends-local-account-bypass-windows-11-oobe-now-requires-microsoft-account-login/",
+        "published": "Wed, 08 Oct 2025 04:35:58 +0000"
     }
 ]
