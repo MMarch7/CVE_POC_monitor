@@ -5073,5 +5073,15 @@
         "title": "AWS Client VPN for macOS Hit by Critical Privilege Escalation Vulnerability",
         "link": "https://gbhackers.com/aws-client-vpn-for-macos-privilege-escalation-vulnerability/",
         "published": "Wed, 08 Oct 2025 11:26:11 +0000"
+    },
+    {
+        "title": "New Phishing Kit Automates ClickFix Attacks to Evade Security Defenses",
+        "link": "https://gbhackers.com/clickfix-attacks/",
+        "published": "Wed, 08 Oct 2025 13:09:39 +0000"
+    },
+    {
+        "title": "Google Unveils CodeMender – An AI Agent That Automatically Fixes Vulnerable Code",
+        "link": "https://gbhackers.com/google-unveils-codemender-an-ai-agent/",
+        "published": "Wed, 08 Oct 2025 13:07:58 +0000"
     }
 ]

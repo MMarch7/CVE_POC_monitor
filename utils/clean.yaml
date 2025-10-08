@@ -1585,3 +1585,5 @@ clean_list:
 - CVE-2025-50505
 - AbxOverflow
 - CVE-2025-10353
+- ThisSeemsWrong
+- ResourcePoison
