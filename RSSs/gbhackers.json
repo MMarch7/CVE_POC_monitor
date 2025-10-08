@@ -5043,5 +5043,35 @@
         "title": "Shuyal Stealer Malware Exploits 19 Browsers to Steal Logins",
         "link": "https://gbhackers.com/shuyal-stealer-malware/",
         "published": "Wed, 08 Oct 2025 10:36:19 +0000"
+    },
+    {
+        "title": "ClamAV 1.5.0 Released with Enhanced MS Office and PDF File Verification",
+        "link": "https://gbhackers.com/clamav-1-5-0-released/",
+        "published": "Wed, 08 Oct 2025 12:52:26 +0000"
+    },
+    {
+        "title": "AI Chatbot Exploited as a Backdoor to Access Sensitive Data and Infrastructure",
+        "link": "https://gbhackers.com/ai-chatbot/",
+        "published": "Wed, 08 Oct 2025 12:41:59 +0000"
+    },
+    {
+        "title": "OpenAI Blocks ChatGPT Accounts Linked to Chinese Hackers Developing Malware",
+        "link": "https://gbhackers.com/openai-blocks-chatgpt-accounts-linked-to-chinese-hackers/",
+        "published": "Wed, 08 Oct 2025 12:36:24 +0000"
+    },
+    {
+        "title": "Nagios Vulnerability Allows Users to Retrieve Cleartext Administrative API Keys",
+        "link": "https://gbhackers.com/nagios-vulnerability/",
+        "published": "Wed, 08 Oct 2025 12:21:30 +0000"
+    },
+    {
+        "title": "Trinity of Chaos Leaks Data from 39 Companies — Google, Cisco Among Targets",
+        "link": "https://gbhackers.com/trinity-of-chaos/",
+        "published": "Wed, 08 Oct 2025 11:58:15 +0000"
+    },
+    {
+        "title": "AWS Client VPN for macOS Hit by Critical Privilege Escalation Vulnerability",
+        "link": "https://gbhackers.com/aws-client-vpn-for-macos-privilege-escalation-vulnerability/",
+        "published": "Wed, 08 Oct 2025 11:26:11 +0000"
     }
 ]
