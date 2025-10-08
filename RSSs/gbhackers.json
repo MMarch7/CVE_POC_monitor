@@ -5028,5 +5028,20 @@
         "title": "APT35: Inside the Structure, Toolset, and Espionage Operations of an IRGC-Linked Group",
         "link": "https://gbhackers.com/apt35/",
         "published": "Wed, 08 Oct 2025 09:36:37 +0000"
+    },
+    {
+        "title": "PoC Exploit Released for Critical Vulnerabilities in Lua Engine",
+        "link": "https://gbhackers.com/poc-exploit-vulnerabilities-in-lua-engine/",
+        "published": "Wed, 08 Oct 2025 11:10:30 +0000"
+    },
+    {
+        "title": "ASCII Smuggling Attack in Gemini Tricks AI Agents into Revealing Smuggled Data",
+        "link": "https://gbhackers.com/ascii-smuggling-attack-in-gemini-tricks-ai/",
+        "published": "Wed, 08 Oct 2025 10:56:44 +0000"
+    },
+    {
+        "title": "Shuyal Stealer Malware Exploits 19 Browsers to Steal Logins",
+        "link": "https://gbhackers.com/shuyal-stealer-malware/",
+        "published": "Wed, 08 Oct 2025 10:36:19 +0000"
     }
 ]
