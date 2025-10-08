@@ -20903,5 +20903,15 @@
         "title": "INE Security Releases Industry Benchmark Report: “Wired Together: The Case for Cross-Training in Networking and Cybersecurity”",
         "link": "https://securityonline.info/ine-security-releases-industry-benchmark-report-wired-together-the-case-for-cross-training-in-networking-and-cybersecurity/",
         "published": "Tue, 07 Oct 2025 14:00:17 +0000"
+    },
+    {
+        "title": "New Shuyal Stealer Malware Targets 19 Browsers, Disables Windows Task Manager for Stealth",
+        "link": "https://securityonline.info/new-shuyal-stealer-malware-targets-19-browsers-disables-windows-task-manager-for-stealth/",
+        "published": "Wed, 08 Oct 2025 01:56:33 +0000"
+    },
+    {
+        "title": "Actively Exploited: Critical Flaw CVE-2025-5947 (CVSS 9.8) Allows Unauthenticated Admin Takeover in WordPress Plugin",
+        "link": "https://securityonline.info/actively-exploited-critical-flaw-cve-2025-5947-cvss-9-8-allows-unauthenticated-admin-takeover-in-wordpress-plugin/",
+        "published": "Wed, 08 Oct 2025 01:48:20 +0000"
     }
 ]
