@@ -20913,5 +20913,25 @@
         "title": "Actively Exploited: Critical Flaw CVE-2025-5947 (CVSS 9.8) Allows Unauthenticated Admin Takeover in WordPress Plugin",
         "link": "https://securityonline.info/actively-exploited-critical-flaw-cve-2025-5947-cvss-9-8-allows-unauthenticated-admin-takeover-in-wordpress-plugin/",
         "published": "Wed, 08 Oct 2025 01:48:20 +0000"
+    },
+    {
+        "title": "Zimbra XSS Zero-Day (CVE-2025-27915) Actively Exploited; CISA Adds to KEV Catalog",
+        "link": "https://securityonline.info/zimbra-xss-zero-day-cve-2025-27915-actively-exploited-cisa-adds-to-kev-catalog/",
+        "published": "Wed, 08 Oct 2025 02:51:15 +0000"
+    },
+    {
+        "title": "OpenSSH Flaw (CVE-2025-61984) Allows Remote Code Execution via Usernames",
+        "link": "https://securityonline.info/openssh-flaw-cve-2025-61984-allows-remote-code-execution-via-usernames/",
+        "published": "Wed, 08 Oct 2025 02:34:09 +0000"
+    },
+    {
+        "title": "Chrome 141 Stable Fixes Two High-Severity Flaws: Heap Overflow in Sync and UAF in Storage",
+        "link": "https://securityonline.info/chrome-141-stable-fixes-two-high-severity-flaws-heap-overflow-in-sync-and-uaf-in-storage/",
+        "published": "Wed, 08 Oct 2025 02:19:10 +0000"
+    },
+    {
+        "title": "Mustang Panda APT Uses Hidden DLL and EnumFontsW to Launch Stealthy Tibet-Themed Campaign",
+        "link": "https://securityonline.info/mustang-panda-apt-uses-hidden-dll-and-enumfontsw-to-launch-stealthy-tibet-themed-campaign/",
+        "published": "Wed, 08 Oct 2025 02:11:55 +0000"
     }
 ]
