@@ -20983,5 +20983,30 @@
         "title": "Miggo Security Named a Gartner® Cool Vendor in AI Security",
         "link": "https://securityonline.info/miggo-security-named-a-gartner-cool-vendor-in-ai-security/",
         "published": "Wed, 08 Oct 2025 11:45:55 +0000"
+    },
+    {
+        "title": "CrowdStrike Releases Fixes for Two Falcon Sensor for Windows Vulnerabilities (CVE-2025-42701 & CVE-2025-42706)",
+        "link": "https://securityonline.info/crowdstrike-releases-fixes-for-two-falcon-sensor-for-windows-vulnerabilities-cve-2025-42701-cve-2025-42706/",
+        "published": "Thu, 09 Oct 2025 01:49:57 +0000"
+    },
+    {
+        "title": "High-Severity Deno Flaw CVE-2025-61787 Allows Command Injection on Windows",
+        "link": "https://securityonline.info/high-severity-deno-flaw-cve-2025-61787-allows-command-injection-on-windows/",
+        "published": "Thu, 09 Oct 2025 00:16:28 +0000"
+    },
+    {
+        "title": "Microsoft Warns: Threat Actors Turn Microsoft Teams into a Weapon for Ransomware, Espionage, and Social Engineering",
+        "link": "https://securityonline.info/microsoft-warns-threat-actors-turn-microsoft-teams-into-a-weapon-for-ransomware-espionage-and-social-engineering/",
+        "published": "Thu, 09 Oct 2025 00:11:53 +0000"
+    },
+    {
+        "title": "Crimson Collective APT Uses Leaked IAM Keys to Hijack AWS Accounts for Data Theft",
+        "link": "https://securityonline.info/crimson-collective-apt-uses-leaked-iam-keys-to-hijack-aws-accounts-for-data-theft/",
+        "published": "Thu, 09 Oct 2025 00:05:34 +0000"
+    },
+    {
+        "title": "Critical Akka.NET Flaw CVE-2025-61778 (CVSS 9.3) Allows Untrusted Nodes to Join Secure Clusters",
+        "link": "https://securityonline.info/critical-akka-net-flaw-cve-2025-61778-cvss-9-3-allows-untrusted-nodes-to-join-secure-clusters/",
+        "published": "Thu, 09 Oct 2025 00:00:21 +0000"
     }
 ]
