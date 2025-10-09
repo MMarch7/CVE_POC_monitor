@@ -21008,5 +21008,25 @@
         "title": "Critical Akka.NET Flaw CVE-2025-61778 (CVSS 9.3) Allows Untrusted Nodes to Join Secure Clusters",
         "link": "https://securityonline.info/critical-akka-net-flaw-cve-2025-61778-cvss-9-3-allows-untrusted-nodes-to-join-secure-clusters/",
         "published": "Thu, 09 Oct 2025 00:00:21 +0000"
+    },
+    {
+        "title": "Elon Musk Reaches Settlement with Former Twitter Executives Over $128M Severance Lawsuit",
+        "link": "https://securityonline.info/elon-musk-reaches-settlement-with-former-twitter-executives-over-128m-severance-lawsuit/",
+        "published": "Thu, 09 Oct 2025 03:06:05 +0000"
+    },
+    {
+        "title": "APT Meets GPT: China-Aligned UTA0388 Used ChatGPT for Automated, Multilingual Spear-Phishing",
+        "link": "https://securityonline.info/apt-meets-gpt-china-aligned-uta0388-used-chatgpt-for-automated-multilingual-spear-phishing/",
+        "published": "Thu, 09 Oct 2025 02:53:29 +0000"
+    },
+    {
+        "title": "GitLab Patches Two High-Severity Flaws in GraphQL API Affecting Both CE and EE Editions",
+        "link": "https://securityonline.info/gitlab-patches-two-high-severity-flaws-in-graphql-api-affecting-both-ce-and-ee-editions/",
+        "published": "Thu, 09 Oct 2025 02:04:59 +0000"
+    },
+    {
+        "title": "Chaos Ransomware Evolves to C++, Uses Destructive Extortion to Delete Large Files and Hijack Bitcoin Clipboard",
+        "link": "https://securityonline.info/chaos-ransomware-evolves-to-c-uses-destructive-extortion-to-delete-large-files-and-hijack-bitcoin-clipboard/",
+        "published": "Thu, 09 Oct 2025 01:58:44 +0000"
     }
 ]
