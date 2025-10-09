@@ -5148,5 +5148,15 @@
         "title": "GitLab Releases Security Update to Patch Multiple DoS-Enabling Vulnerabilities",
         "link": "https://gbhackers.com/gitlab-releases-security-update-to-patch-multiple-dos-vulnerabilities/",
         "published": "Thu, 09 Oct 2025 07:58:50 +0000"
+    },
+    {
+        "title": "Hackers Targeting WordPress Plugin Vulnerability to Seize Admin Access",
+        "link": "https://gbhackers.com/wordpress-plugin-vulnerability-3/",
+        "published": "Thu, 09 Oct 2025 09:59:52 +0000"
+    },
+    {
+        "title": "PoC Released for Linux Kernel ksmbd Filesystem Vulnerability",
+        "link": "https://gbhackers.com/poc-released-for-linux-kernel-ksmbd-vulnerability/",
+        "published": "Thu, 09 Oct 2025 09:30:58 +0000"
     }
 ]
