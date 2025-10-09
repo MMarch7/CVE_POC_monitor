@@ -21028,5 +21028,25 @@
         "title": "Chaos Ransomware Evolves to C++, Uses Destructive Extortion to Delete Large Files and Hijack Bitcoin Clipboard",
         "link": "https://securityonline.info/chaos-ransomware-evolves-to-c-uses-destructive-extortion-to-delete-large-files-and-hijack-bitcoin-clipboard/",
         "published": "Thu, 09 Oct 2025 01:58:44 +0000"
+    },
+    {
+        "title": "Critical Flowise RCE Flaw: CVE-2025-61913 (CVSS 10.0) Allows Arbitrary File Write",
+        "link": "https://securityonline.info/critical-flowise-rce-flaw-cve-2025-61913-cvss-10-0-allows-arbitrary-file-write/",
+        "published": "Thu, 09 Oct 2025 03:33:09 +0000"
+    },
+    {
+        "title": "IBM Partners with Anthropic to Embed Claude AI in New Development Tools, Reporting 45% Productivity Boost",
+        "link": "https://securityonline.info/ibm-partners-with-anthropic-to-embed-claude-ai-in-new-development-tools-reporting-45-productivity-boost/",
+        "published": "Thu, 09 Oct 2025 03:18:49 +0000"
+    },
+    {
+        "title": "iPhone 17 Pro Max Users Report Distorted Audio and Static Noise During USB-C Charging",
+        "link": "https://securityonline.info/iphone-17-pro-max-users-report-distorted-audio-and-static-noise-during-usb-c-charging/",
+        "published": "Thu, 09 Oct 2025 03:13:27 +0000"
+    },
+    {
+        "title": "Apple Announces Texas Age Verification Plan, Requiring Parental Approval for All App Downloads Starting 2026",
+        "link": "https://securityonline.info/apple-announces-texas-age-verification-plan-requiring-parental-approval-for-all-app-downloads-starting-2026/",
+        "published": "Thu, 09 Oct 2025 03:09:51 +0000"
     }
 ]
