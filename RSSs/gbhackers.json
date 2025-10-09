@@ -5138,5 +5138,15 @@
         "title": "Data-Leak Sites Surge to Record Levels Amid Scattered Spider RaaS and LockBit 5.0 Rise",
         "link": "https://gbhackers.com/data-leak-sites/",
         "published": "Thu, 09 Oct 2025 06:40:46 +0000"
+    },
+    {
+        "title": "Hackers Enhance ClickFix Attack Using Cache Smuggling to Stealthily Download Malicious Files",
+        "link": "https://gbhackers.com/cache-smuggling/",
+        "published": "Thu, 09 Oct 2025 08:32:54 +0000"
+    },
+    {
+        "title": "GitLab Releases Security Update to Patch Multiple DoS-Enabling Vulnerabilities",
+        "link": "https://gbhackers.com/gitlab-releases-security-update-to-patch-multiple-dos-vulnerabilities/",
+        "published": "Thu, 09 Oct 2025 07:58:50 +0000"
     }
 ]
