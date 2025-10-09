@@ -1588,3 +1588,4 @@ clean_list:
 - ThisSeemsWrong
 - ResourcePoison
 - CVE-2025-10585-The-Chrome-V8-Zero-Day
+- cve-2024-32002-poc
