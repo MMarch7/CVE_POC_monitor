@@ -178,5 +178,10 @@
         "title": "Well, Well, Well. It’s Another Day. (Oracle E-Business Suite Pre-Auth RCE Chain - CVE-2025-61882)",
         "link": "https://labs.watchtowr.com/well-well-well-its-another-day-oracle-e-business-suite-pre-auth-rce-chain-cve-2025-61882well-well-well-its-another-day-oracle-e-business-suite-pre-auth-rce-chain-cve-2025-61882/",
         "published": "Mon, 06 Oct 2025 17:41:51 GMT"
+    },
+    {
+        "title": "More Than DoS (Progress Telerik UI for ASP.NET AJAX Unsafe Reflection CVE-2025-3600)",
+        "link": "https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/",
+        "published": "Fri, 10 Oct 2025 14:13:07 GMT"
     }
 ]
