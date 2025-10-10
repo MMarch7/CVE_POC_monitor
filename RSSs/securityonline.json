@@ -21113,5 +21113,25 @@
         "title": "Huntress Uncovers Log Poisoning Campaign Linking Nezha and Ghost RAT in Widespread Asian Cyber Intrusions",
         "link": "https://securityonline.info/huntress-uncovers-log-poisoning-campaign-linking-nezha-and-ghost-rat-in-widespread-asian-cyber-intrusions/",
         "published": "Fri, 10 Oct 2025 00:01:13 +0000"
+    },
+    {
+        "title": "CL0P Extortion: Google/Mandiant Expose Zero-Day RCE in Oracle E-Business Suite (CVE-2025-61882)",
+        "link": "https://securityonline.info/cl0p-extortion-google-mandiant-expose-zero-day-rce-in-oracle-e-business-suite-cve-2025-61882/",
+        "published": "Fri, 10 Oct 2025 02:56:41 +0000"
+    },
+    {
+        "title": "Exploited Zero-Day: Gladinet/Triofox Flaw CVE-2025-11371 Allows RCE via LFI",
+        "link": "https://securityonline.info/exploited-zero-day-gladinet-triofox-flaw-cve-2025-11371-allows-rce-via-lfi/",
+        "published": "Fri, 10 Oct 2025 02:42:11 +0000"
+    },
+    {
+        "title": "NVIDIA GPU Driver Patches Multiple High-Severity Flaws Risking RCE and Privilege Escalation",
+        "link": "https://securityonline.info/nvidia-gpu-driver-patches-multiple-high-severity-flaws-risking-rce-and-privilege-escalation/",
+        "published": "Fri, 10 Oct 2025 02:34:48 +0000"
+    },
+    {
+        "title": "RondoDox Botnet Unleashed: New Malware Uses ‘Exploit Shotgun’ to Target 50+ Router and IoT Flaws",
+        "link": "https://securityonline.info/rondodox-botnet-unleashed-new-malware-uses-exploit-shotgun-to-target-50-router-and-iot-flaws/",
+        "published": "Fri, 10 Oct 2025 01:59:52 +0000"
     }
 ]
