@@ -1602,3 +1602,4 @@ clean_list:
 - ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script
 - CVE-2025-11371
 - CVE-2024-21262
+- CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo
