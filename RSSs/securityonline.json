@@ -21083,5 +21083,35 @@
         "title": "SquareX Shows AI Browsers Fall Prey to OAuth Attacks, Malware Downloads and Malicious Link Distribution",
         "link": "https://securityonline.info/squarex-shows-ai-browsers-fall-prey-to-oauth-attacks-malware-downloads-and-malicious-link-distribution/",
         "published": "Thu, 09 Oct 2025 13:00:18 +0000"
+    },
+    {
+        "title": "DFIR Tool Hijacked: Ransomware Group Storm-2603 Abuses Velociraptor for Stealthy LockBit/Babuk Attacks",
+        "link": "https://securityonline.info/dfir-tool-hijacked-ransomware-group-storm-2603-abuses-velociraptor-for-stealthy-lockbit-babuk-attacks/",
+        "published": "Fri, 10 Oct 2025 01:50:50 +0000"
+    },
+    {
+        "title": "MediaTek Issues October 2025 Security Bulletin Addressing Multiple High-Severity Vulnerabilities Across Wi-Fi and GNSS Chipsets",
+        "link": "https://securityonline.info/mediatek-issues-october-2025-security-bulletin-addressing-multiple-high-severity-vulnerabilities-across-wi-fi-and-gnss-chipsets/",
+        "published": "Fri, 10 Oct 2025 00:22:54 +0000"
+    },
+    {
+        "title": "Zero-Download Malware: New Cache Smuggling Phishing Attack Delivers Payload via Browser Cache",
+        "link": "https://securityonline.info/zero-download-malware-new-cache-smuggling-phishing-attack-delivers-payload-via-browser-cache/",
+        "published": "Fri, 10 Oct 2025 00:19:49 +0000"
+    },
+    {
+        "title": "ClickFix Phishing: New Automated Kits Trick Users Into Manually Running Malware and Stealers",
+        "link": "https://securityonline.info/clickfix-phishing-new-automated-kits-trick-users-into-manually-running-malware-and-stealers/",
+        "published": "Fri, 10 Oct 2025 00:11:18 +0000"
+    },
+    {
+        "title": "TP-Link Router Flaw CVE-2023-28760 Allows Root RCE via LAN, PoC Available",
+        "link": "https://securityonline.info/tp-link-router-flaw-cve-2023-28760-allows-root-rce-via-lan-poc-available/",
+        "published": "Fri, 10 Oct 2025 00:06:52 +0000"
+    },
+    {
+        "title": "Huntress Uncovers Log Poisoning Campaign Linking Nezha and Ghost RAT in Widespread Asian Cyber Intrusions",
+        "link": "https://securityonline.info/huntress-uncovers-log-poisoning-campaign-linking-nezha-and-ghost-rat-in-widespread-asian-cyber-intrusions/",
+        "published": "Fri, 10 Oct 2025 00:01:13 +0000"
     }
 ]
