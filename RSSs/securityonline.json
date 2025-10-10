@@ -21138,5 +21138,10 @@
         "title": "Gemini Nano Block: Google Locks On-Device AI Access for Smartphones with Unlocked Bootloaders",
         "link": "https://securityonline.info/gemini-nano-block-google-locks-on-device-ai-access-for-smartphones-with-unlocked-bootloaders/",
         "published": "Fri, 10 Oct 2025 03:11:08 +0000"
+    },
+    {
+        "title": "Linux Kernel TLS UAF Flaw Allows Local RCE via Async Decrypt – PoC Available",
+        "link": "https://securityonline.info/linux-kernel-tls-uaf-flaw-allows-local-rce-via-async-decrypt-poc-available/",
+        "published": "Fri, 10 Oct 2025 04:30:22 +0000"
     }
 ]
