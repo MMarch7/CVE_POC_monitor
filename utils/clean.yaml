@@ -1606,3 +1606,4 @@ clean_list:
 - portabilis-ieducar-user-type-privilege-escalation
 - ict279-cve-2025-54793
 - CVE-2025-59246
+- CVE-2025-61777
