@@ -1607,3 +1607,6 @@ clean_list:
 - ict279-cve-2025-54793
 - CVE-2025-59246
 - CVE-2025-61777
+- cve-2024-58239
+- CVE-2025-49844-Vulnerability-Scanner
+- cve-2025-59489
