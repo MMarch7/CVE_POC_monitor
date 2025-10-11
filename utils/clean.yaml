@@ -1603,3 +1603,4 @@ clean_list:
 - CVE-2025-11371
 - CVE-2024-21262
 - CVE-2025-41088-Stored-XSS-in-Xibo-Signage-s-Xibo
+- portabilis-ieducar-user-type-privilege-escalation
