@@ -21178,5 +21178,10 @@
         "title": "North Korean APT “Contagious Interview” Floods npm Registry with 338 Malicious Packages to Steal Crypto",
         "link": "https://securityonline.info/north-korean-apt-contagious-interview-floods-npm-registry-with-338-malicious-packages-to-steal-crypto/",
         "published": "Sat, 11 Oct 2025 10:00:28 +0000"
+    },
+    {
+        "title": "Two 7-Zip Flaws Allow Code Execution via Malicious ZIP Files (CVE-2025-11001 & CVE-2025-11002)",
+        "link": "https://securityonline.info/two-7-zip-flaws-allow-code-execution-via-malicious-zip-files-cve-2025-11001-cve-2025-11002/",
+        "published": "Sat, 11 Oct 2025 11:14:38 +0000"
     }
 ]
