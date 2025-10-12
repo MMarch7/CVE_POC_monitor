@@ -1612,3 +1612,4 @@ clean_list:
 - cve-2025-59489
 - CVE-2024-28397-Reverse-Shell
 - CVE-2025-11533
+- LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-
