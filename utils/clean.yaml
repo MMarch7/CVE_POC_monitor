@@ -1614,3 +1614,4 @@ clean_list:
 - CVE-2025-11533
 - LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-
 - CVE-2024-27304-PoC
+- CVE-2025-58434-CVE-2025-59528-chain
