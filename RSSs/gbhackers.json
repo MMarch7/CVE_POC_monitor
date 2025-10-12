@@ -5288,5 +5288,10 @@
         "title": "New Stealit Malware Exploits Node.js Extensions to Target Windows Systems",
         "link": "https://gbhackers.com/new-stealit-malware-exploits-node-js-extensions/",
         "published": "Sat, 11 Oct 2025 10:23:49 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit Discord Webhooks for C2 via npm, PyPI, and Ruby Packages",
+        "link": "https://gbhackers.com/threat-actors-exploit-discord-webhooks-for-c2/",
+        "published": "Sun, 12 Oct 2025 15:48:12 +0000"
     }
 ]
