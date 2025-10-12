@@ -1611,3 +1611,4 @@ clean_list:
 - CVE-2025-49844-Vulnerability-Scanner
 - cve-2025-59489
 - CVE-2024-28397-Reverse-Shell
+- CVE-2025-11533
