@@ -21183,5 +21183,75 @@
         "title": "Two 7-Zip Flaws Allow Code Execution via Malicious ZIP Files (CVE-2025-11001 & CVE-2025-11002)",
         "link": "https://securityonline.info/two-7-zip-flaws-allow-code-execution-via-malicious-zip-files-cve-2025-11001-cve-2025-11002/",
         "published": "Sat, 11 Oct 2025 11:14:38 +0000"
+    },
+    {
+        "title": "New Stealit Infostealer Abuses Node.js SEA Feature and Telegram C2 in Malware-as-a-Service Campaign",
+        "link": "https://securityonline.info/new-stealit-infostealer-abuses-node-js-sea-feature-and-telegram-c2-in-malware-as-a-service-campaign/",
+        "published": "Mon, 13 Oct 2025 00:46:39 +0000"
+    },
+    {
+        "title": "Pro-Russian Hacktivist Group TwoNet Exposed for Fabricating Critical Infrastructure Attacks to Boost Reputation",
+        "link": "https://securityonline.info/pro-russian-hacktivist-group-twonet-exposed-for-fabricating-critical-infrastructure-attacks-to-boost-reputation/",
+        "published": "Mon, 13 Oct 2025 00:42:04 +0000"
+    },
+    {
+        "title": "Critical Cherry Studio Flaw CVE-2025-61929 (CVSS 9.7) Allows One-Click RCE via Custom URL Protocol",
+        "link": "https://securityonline.info/critical-cherry-studio-flaw-cve-2025-61929-cvss-9-7-allows-one-click-rce-via-custom-url-protocol/",
+        "published": "Mon, 13 Oct 2025 00:40:00 +0000"
+    },
+    {
+        "title": "Payroll Piracy: Hackers Storm-2657 Exploit MFA Flaws to Hijack University Salary Payments via Workday",
+        "link": "https://securityonline.info/payroll-piracy-hackers-storm-2657-exploit-mfa-flaws-to-hijack-university-salary-payments-via-workday/",
+        "published": "Mon, 13 Oct 2025 00:35:48 +0000"
+    },
+    {
+        "title": "Critical Auth Bypass (CVE-2025-61928) in Better Auth Allows Hackers to Steal User API Keys",
+        "link": "https://securityonline.info/critical-auth-bypass-cve-2025-61928-in-better-auth-allows-hackers-to-steal-user-api-keys/",
+        "published": "Mon, 13 Oct 2025 00:30:48 +0000"
+    },
+    {
+        "title": "Axis Communications Leaks Azure Credentials in Autodesk Plugin Via Hardcoded SAS Tokens",
+        "link": "https://securityonline.info/axis-communications-leaks-azure-credentials-in-autodesk-plugin-via-hardcoded-sas-tokens/",
+        "published": "Mon, 13 Oct 2025 00:26:31 +0000"
+    },
+    {
+        "title": "Homebrew Spoofing: Fake Installer Sites Use Clipboard Injection to Compromise macOS Developers",
+        "link": "https://securityonline.info/homebrew-spoofing-fake-installer-sites-use-clipboard-injection-to-compromise-macos-developers/",
+        "published": "Mon, 13 Oct 2025 00:21:12 +0000"
+    },
+    {
+        "title": "Massive RDP Botnet Unleashed: 100,000+ IPs in Coordinated Global Scanning Campaign Targeting US",
+        "link": "https://securityonline.info/massive-rdp-botnet-unleashed-100000-ips-in-coordinated-global-scanning-campaign-targeting-us/",
+        "published": "Mon, 13 Oct 2025 00:18:19 +0000"
+    },
+    {
+        "title": "New Rust Backdoor ChaosBot Uses Discord as Covert C2 Channel to Target Financial Services",
+        "link": "https://securityonline.info/new-rust-backdoor-chaosbot-uses-discord-as-covert-c2-channel-to-target-financial-services/",
+        "published": "Mon, 13 Oct 2025 00:18:03 +0000"
+    },
+    {
+        "title": "Cryptocurrency Drain Conspiracy: Single Alibaba Server Hosts Multi-Vector Scams, Hijacking Wallets via Fake Trust Wallet and MobileConfig",
+        "link": "https://securityonline.info/cryptocurrency-drain-conspiracy-single-alibaba-server-hosts-multi-vector-scams-hijacking-wallets-via-fake-trust-wallet-and-mobileconfig/",
+        "published": "Mon, 13 Oct 2025 00:14:07 +0000"
+    },
+    {
+        "title": "Akira Ransomware Revives SonicWall Flaw CVE-2024-40766, Uses ‘UnPAC the Hash’ to Breach Networks",
+        "link": "https://securityonline.info/akira-ransomware-revives-sonicwall-flaw-cve-2024-40766-uses-unpac-the-hash-to-breach-networks/",
+        "published": "Mon, 13 Oct 2025 00:09:24 +0000"
+    },
+    {
+        "title": "Apple Ups Bounty to $5 Million for Zero-Click Spyware Exploits Bypassing Lockdown Mode",
+        "link": "https://securityonline.info/apple-ups-bounty-to-5-million-for-zero-click-spyware-exploits-bypassing-lockdown-mode/",
+        "published": "Mon, 13 Oct 2025 00:03:30 +0000"
+    },
+    {
+        "title": "UK CMA Designates Google with Strategic Market Status Over 90% Search Dominance",
+        "link": "https://securityonline.info/uk-cma-designates-google-with-strategic-market-status-over-90-search-dominance/",
+        "published": "Mon, 13 Oct 2025 00:01:17 +0000"
+    },
+    {
+        "title": "CVE-2025-61927 (CVSS 9.4): Critical RCE Flaw Discovered in Happy DOM, Over 2.7 Million Weekly Downloads Impacted",
+        "link": "https://securityonline.info/cve-2025-61927-cvss-9-4-critical-rce-flaw-discovered-in-happy-dom-over-2-7-million-weekly-downloads-impacted/",
+        "published": "Mon, 13 Oct 2025 00:00:16 +0000"
     }
 ]
