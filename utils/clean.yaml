@@ -1617,3 +1617,4 @@ clean_list:
 - CVE-2025-58434-CVE-2025-59528-chain
 - Test-CVE-2025-61984
 - cve-2024-43425
+- kafka-keycloak-oauth

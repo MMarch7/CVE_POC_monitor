@@ -5293,5 +5293,10 @@
         "title": "Threat Actors Exploit Discord Webhooks for C2 via npm, PyPI, and Ruby Packages",
         "link": "https://gbhackers.com/threat-actors-exploit-discord-webhooks-for-c2/",
         "published": "Sun, 12 Oct 2025 15:48:12 +0000"
+    },
+    {
+        "title": "Attackers Exploit Defender for Endpoint Cloud API to Bypass Authentication and Disrupt Incident Response",
+        "link": "https://gbhackers.com/attackers-exploit-defender-for-endpoint-cloud-api/",
+        "published": "Mon, 13 Oct 2025 04:45:14 +0000"
     }
 ]
