@@ -5348,5 +5348,20 @@
         "title": "Hackers Exploit Microsoft Edge’s Internet Explorer Mode to Compromise User Devices",
         "link": "https://gbhackers.com/microsoft-edges/",
         "published": "Mon, 13 Oct 2025 11:11:32 +0000"
+    },
+    {
+        "title": "Pro-Russian Hacktivist Targets OT/ICS Systems to Harvest Credentials",
+        "link": "https://gbhackers.com/ot-ics-systems/",
+        "published": "Mon, 13 Oct 2025 12:42:18 +0000"
+    },
+    {
+        "title": "Axis Communications Vulnerability Exposes Azure Storage Credentials",
+        "link": "https://gbhackers.com/axis-communications/",
+        "published": "Mon, 13 Oct 2025 12:07:13 +0000"
+    },
+    {
+        "title": "EDR-Freeze: Technical Mechanics and Forensic Artifacts Exposed",
+        "link": "https://gbhackers.com/edr-freeze-technical-mechanics-exposed/",
+        "published": "Mon, 13 Oct 2025 11:36:58 +0000"
     }
 ]
