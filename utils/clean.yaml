@@ -1619,3 +1619,4 @@ clean_list:
 - cve-2024-43425
 - kafka-keycloak-oauth
 - CVE-2024-Exploration
+- CVE-2025-11171---GitHub-Security-Advisory
