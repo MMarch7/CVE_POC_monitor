@@ -21253,5 +21253,15 @@
         "title": "CVE-2025-61927 (CVSS 9.4): Critical RCE Flaw Discovered in Happy DOM, Over 2.7 Million Weekly Downloads Impacted",
         "link": "https://securityonline.info/cve-2025-61927-cvss-9-4-critical-rce-flaw-discovered-in-happy-dom-over-2-7-million-weekly-downloads-impacted/",
         "published": "Mon, 13 Oct 2025 00:00:16 +0000"
+    },
+    {
+        "title": "LineageOS 23.0 Released on Android 16: New Camera App, Catapult TV Launcher, and Virtualization Support",
+        "link": "https://securityonline.info/lineageos-23-0-released-on-android-16-new-camera-app-catapult-tv-launcher-and-virtualization-support/",
+        "published": "Mon, 13 Oct 2025 02:19:11 +0000"
+    },
+    {
+        "title": "Oracle Warns of Unauthenticated Vulnerability in E-Business Suite (CVE-2025-61884)",
+        "link": "https://securityonline.info/oracle-warns-of-unauthenticated-vulnerability-in-e-business-suite-cve-2025-61884/",
+        "published": "Mon, 13 Oct 2025 02:11:21 +0000"
     }
 ]
