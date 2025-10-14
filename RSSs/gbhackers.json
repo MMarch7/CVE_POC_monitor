@@ -5373,5 +5373,15 @@
         "title": "Hackers Target macOS Users with Fake Homebrew Websites to Deliver Malicious Payloads",
         "link": "https://gbhackers.com/homebrew-websites/",
         "published": "Mon, 13 Oct 2025 13:09:21 +0000"
+    },
+    {
+        "title": "Simple Prompt Injection Lets Hackers Bypass OpenAI Guardrails Framework",
+        "link": "https://gbhackers.com/hackers-bypass-openai-guardrails-framework/",
+        "published": "Tue, 14 Oct 2025 05:19:52 +0000"
+    },
+    {
+        "title": "Clevo UEFI Leak Allows Signing of Malicious Firmware with BootGuard Keys",
+        "link": "https://gbhackers.com/clevo-uefi-leak-allows-malicious-firmware/",
+        "published": "Tue, 14 Oct 2025 04:54:27 +0000"
     }
 ]

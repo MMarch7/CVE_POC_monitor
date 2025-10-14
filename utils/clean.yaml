@@ -1623,3 +1623,4 @@ clean_list:
 - Blackash-CVE-2025-61884
 - AvTech-PoCs
 - CVE-2025-39913-
+- CVE-2025-25198-PoC
