@@ -5383,5 +5383,20 @@
         "title": "Clevo UEFI Leak Allows Signing of Malicious Firmware with BootGuard Keys",
         "link": "https://gbhackers.com/clevo-uefi-leak-allows-malicious-firmware/",
         "published": "Tue, 14 Oct 2025 04:54:27 +0000"
+    },
+    {
+        "title": "TA585 Deploys Novel Web-Injection to Deliver MonsterV2 Malware on Windows",
+        "link": "https://gbhackers.com/monsterv2-malware/",
+        "published": "Tue, 14 Oct 2025 06:07:46 +0000"
+    },
+    {
+        "title": "Elastic Cloud Enterprise Flaw Lets Attackers Run Malicious Commands",
+        "link": "https://gbhackers.com/elastic-cloud-enterprise-flaw/",
+        "published": "Tue, 14 Oct 2025 05:53:58 +0000"
+    },
+    {
+        "title": "178,000+ Invoices Expose Customer Data from Invoicely Platform",
+        "link": "https://gbhackers.com/customer-data/",
+        "published": "Tue, 14 Oct 2025 05:48:34 +0000"
     }
 ]
