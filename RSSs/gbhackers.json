@@ -5403,5 +5403,15 @@
         "title": "Ivanti Patches 13 Endpoint Manager Flaws Allowing Remote Code Execution",
         "link": "https://gbhackers.com/ivanti-patches-13-endpoint-manager-flaws/",
         "published": "Tue, 14 Oct 2025 06:42:39 +0000"
+    },
+    {
+        "title": "PoC Released for Sudo chroot Flaw Allowing Local Privilege Escalation",
+        "link": "https://gbhackers.com/poc-released-for-sudo-chroot-flaw/",
+        "published": "Tue, 14 Oct 2025 08:28:05 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit ScreenConnect to Gain Unauthorized Remote Access",
+        "link": "https://gbhackers.com/screenconnect/",
+        "published": "Tue, 14 Oct 2025 07:45:14 +0000"
     }
 ]
