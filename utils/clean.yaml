@@ -1635,3 +1635,5 @@ clean_list:
 - CVE-2025-56219
 - VirtualLockSensorLPE
 - CVE-2025-56218
+- CVE-2025-56224
+- CVE-2025-56223
