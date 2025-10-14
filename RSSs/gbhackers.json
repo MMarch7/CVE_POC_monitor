@@ -5443,5 +5443,15 @@
         "title": "Malicious NPM Packages Used in Sophisticated Developer Cyberattack",
         "link": "https://gbhackers.com/npm-packages-2/",
         "published": "Tue, 14 Oct 2025 10:58:53 +0000"
+    },
+    {
+        "title": "Hackers Use Court-Themed Phishing to Deliver Info-Stealer Malware",
+        "link": "https://gbhackers.com/info-stealer-malware/",
+        "published": "Tue, 14 Oct 2025 12:57:46 +0000"
+    },
+    {
+        "title": "Discord Weaponized as C2 Server Across Popular Open-Source Package Repositories",
+        "link": "https://gbhackers.com/open-source-package/",
+        "published": "Tue, 14 Oct 2025 12:07:56 +0000"
     }
 ]
