@@ -818,5 +818,105 @@
         "title": "Path traversal in policy scripting",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-512",
         "published": "Tue, 09 Sep 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Apache Tika CVE-2025-54988",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-771",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Authenticated Heap Overflow in SSL-VPN bookmarks",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-756",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Code injection in login window",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-037",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "DLL hijacking in online installer",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-685",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Debug endpoint can display password in clear text",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-861",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Domain fronting protection bypass in explicit web proxy",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-372",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Enrollment code on install saved in log",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-160",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "FGFM protocol allows unauthenticated reset of the connection",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-041",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Heap Overflow in fgfmsd",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-442",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Heap buffer overflow in websocket",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-546",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Improper autorization over static files",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-684",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Improper session handling during authentication",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-062",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insertion of Sensitive 2FA Information in logs and debug command",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-452",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insertion of Sensitive Information Into Sent Data Vulnerability in csfd daemon",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-228",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Insufficient Session Expiration in SSLVPN using SAML authentication",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-487",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Local Privilege Escalation in LaunchDaemon",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-664",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Missing authentication check in OFTP service",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-378",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Missing signature verification for FortiClient.app",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-126",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Multiple Unchecked Return Value leading to Null Pointer Dereference",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-653",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Open Redirect and XSS in Web Filter warning page",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-542",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
     }
 ]
