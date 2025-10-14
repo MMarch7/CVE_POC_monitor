@@ -1632,3 +1632,6 @@ clean_list:
 - CVE-2024-12084
 - cve-2025-39682
 - Se7enSlip
+- CVE-2025-56219
+- VirtualLockSensorLPE
+- CVE-2025-56218
