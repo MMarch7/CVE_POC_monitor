@@ -21293,5 +21293,55 @@
         "title": "Microsoft Offers Windows 10 ESU Free for One Year, Mandating Microsoft Account and OneDrive Backup",
         "link": "https://securityonline.info/microsoft-offers-windows-10-esu-free-for-one-year-mandating-microsoft-account-and-onedrive-backup/",
         "published": "Mon, 13 Oct 2025 07:59:18 +0000"
+    },
+    {
+        "title": "Ivanti Endpoint Manager Discloses 13 Flaws: High-Severity RCE and 11 SQL Injection Vulnerabilities",
+        "link": "https://securityonline.info/?p=115759",
+        "published": ""
+    },
+    {
+        "title": "Critical Elastic Cloud Flaw: CVE-2025-37729 (CVSS 9.1) Allows RCE via Jinjava Template Injection",
+        "link": "https://securityonline.info/critical-elastic-cloud-flaw-cve-2025-37729-cvss-9-1-allows-rce-via-jinjava-template-injection/",
+        "published": "Tue, 14 Oct 2025 01:33:34 +0000"
+    },
+    {
+        "title": "RMPocalypse Flaw (CVE-2025-0033) Bypasses AMD SEV-SNP to Fully Compromise Encrypted VMs",
+        "link": "https://securityonline.info/rmpocalypse-flaw-cve-2025-0033-bypasses-amd-sev-snp-to-fully-compromise-encrypted-vms/",
+        "published": "Tue, 14 Oct 2025 00:22:03 +0000"
+    },
+    {
+        "title": "SVG Smuggling: Fake Colombian Judicial Lure Deploys AsyncRAT via Malicious HTA File",
+        "link": "https://securityonline.info/svg-smuggling-fake-colombian-judicial-lure-deploys-asyncrat-via-malicious-hta-file/",
+        "published": "Tue, 14 Oct 2025 00:18:14 +0000"
+    },
+    {
+        "title": "Stealth C2: Hackers Abuse Discord Webhooks for Covert Data Exfiltration in npm, PyPI, and RubyGems Supply Chain Attacks",
+        "link": "https://securityonline.info/stealth-c2-hackers-abuse-discord-webhooks-for-covert-data-exfiltration-in-npm-pypi-and-rubygems-supply-chain-attacks/",
+        "published": "Tue, 14 Oct 2025 00:14:16 +0000"
+    },
+    {
+        "title": "Hacker Alliance Demands Ransom: Scattered LAPSUS$ Hunters Claim 1 Billion Records Stolen from Salesforce",
+        "link": "https://securityonline.info/hacker-alliance-demands-ransom-scattered-lapsus-hunters-claim-1-billion-records-stolen-from-salesforce/",
+        "published": "Tue, 14 Oct 2025 00:10:35 +0000"
+    },
+    {
+        "title": "Astaroth Malware Uses Steganography in GitHub Images for Covert C2 Backup and Brazilian Bank Theft",
+        "link": "https://securityonline.info/astaroth-malware-uses-steganography-in-github-images-for-covert-c2-backup-and-brazilian-bank-theft/",
+        "published": "Tue, 14 Oct 2025 00:06:56 +0000"
+    },
+    {
+        "title": "iPhone Fold Hinge Costs Drop to $70-$80, Boosting Viability for Mass Production in 2026",
+        "link": "https://securityonline.info/iphone-fold-hinge-costs-drop-to-70-80-boosting-viability-for-mass-production-in-2026/",
+        "published": "Tue, 14 Oct 2025 00:05:37 +0000"
+    },
+    {
+        "title": "MIT & Toyota Unveil Steerable Scene Generation: AI Tool Uses MCTS to Create Realistic 3D Training Worlds for Robots",
+        "link": "https://securityonline.info/mit-toyota-unveil-steerable-scene-generation-ai-tool-uses-mcts-to-create-realistic-3d-training-worlds-for-robots/",
+        "published": "Tue, 14 Oct 2025 00:02:33 +0000"
+    },
+    {
+        "title": "Copilot Connector Feature Unlocked: Microsoft AI Can Now Search and Integrate Google and Microsoft Cloud Data",
+        "link": "https://securityonline.info/copilot-connector-feature-unlocked-microsoft-ai-can-now-search-and-integrate-google-and-microsoft-cloud-data/",
+        "published": "Tue, 14 Oct 2025 00:00:39 +0000"
     }
 ]
