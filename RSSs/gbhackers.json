@@ -5563,5 +5563,10 @@
         "title": "CISA Alerts on Rapid7 Velociraptor Flaw Exploited in Ransomware Campaigns",
         "link": "https://gbhackers.com/cisa-alerts-on-rapid7-velociraptor-flaw/",
         "published": "Wed, 15 Oct 2025 12:59:59 +0000"
+    },
+    {
+        "title": "Hackers Breach F5 and Stole BIG-IP Source Code and Undisclosed Vulnerability Data",
+        "link": "https://gbhackers.com/hackers-breach-f5-steal-big-ip-source-code/",
+        "published": "Wed, 15 Oct 2025 15:53:51 +0000"
     }
 ]
