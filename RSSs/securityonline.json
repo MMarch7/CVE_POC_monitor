@@ -21418,5 +21418,65 @@
         "title": "Sweet Security Named Cloud Security Leader and CADR Leader in Latio Cloud Security Report",
         "link": "https://securityonline.info/sweet-security-named-cloud-security-leader-and-cadr-leader-in-latio-cloud-security-report/",
         "published": "Tue, 14 Oct 2025 13:55:19 +0000"
+    },
+    {
+        "title": "Apple SVP Joswiak Teases “Five M’s”: M5 MacBook Pro, iPad Pro, and Vision Pro Launch Expected This Week",
+        "link": "https://securityonline.info/apple-svp-joswiak-teases-five-ms-m5-macbook-pro-ipad-pro-and-vision-pro-launch-expected-this-week/",
+        "published": "Wed, 15 Oct 2025 01:47:09 +0000"
+    },
+    {
+        "title": "Google Plans EU Search Overhaul to Avoid DMA Fines, Will Display Rivals “Equally” to Google Flights/Hotels",
+        "link": "https://securityonline.info/google-plans-eu-search-overhaul-to-avoid-dma-fines-will-display-rivals-equally-to-google-flights-hotels/",
+        "published": "Wed, 15 Oct 2025 01:43:53 +0000"
+    },
+    {
+        "title": "OpenAI Forms AI Well-Being Council to Address Mental Health Risks of Future Models",
+        "link": "https://securityonline.info/openai-forms-ai-well-being-council-to-address-mental-health-risks-of-future-models/",
+        "published": "Wed, 15 Oct 2025 01:40:15 +0000"
+    },
+    {
+        "title": "Critical Rockwell NAT Router Flaw (CVE-2025-7328, CVSS 10.0) Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-rockwell-nat-router-flaw-cve-2025-7328-cvss-10-0-allows-unauthenticated-admin-takeover/",
+        "published": "Wed, 15 Oct 2025 00:35:34 +0000"
+    },
+    {
+        "title": "Critical RCE Flaws CVE-2025-48983 & CVE-2025-48984 (CVSS 9.9) Found in Veeam Backup & Replication",
+        "link": "https://securityonline.info/critical-rce-flaws-cve-2025-48983-cve-2025-48984-cvss-9-9-found-in-veeam-backup-replication/",
+        "published": "Wed, 15 Oct 2025 00:30:52 +0000"
+    },
+    {
+        "title": "DOJ Files Record $15 Billion Bitcoin Seizure Against Prince Group Chairman Over Pig Butchering Scams",
+        "link": "https://securityonline.info/doj-files-record-15-billion-bitcoin-seizure-against-prince-group-chairman-over-pig-butchering-scams/",
+        "published": "Wed, 15 Oct 2025 00:26:18 +0000"
+    },
+    {
+        "title": "GhostBat RAT Android Malware Targets Indian Users with Fake RTO Apps and Telegram Bot C2",
+        "link": "https://securityonline.info/ghostbat-rat-android-malware-targets-indian-users-with-fake-rto-apps-and-telegram-bot-c2/",
+        "published": "Wed, 15 Oct 2025 00:22:55 +0000"
+    },
+    {
+        "title": "Chrome Fix: New Use-After-Free Flaw (CVE-2025-11756) in Safe Browsing Component Poses High Risk",
+        "link": "https://securityonline.info/chrome-fix-new-use-after-free-flaw-cve-2025-11756-in-safe-browsing-component-poses-high-risk/",
+        "published": "Wed, 15 Oct 2025 00:18:36 +0000"
+    },
+    {
+        "title": "October Patch Tuesday: Microsoft Fixes 6 Zero-Days, Including 4 Actively Exploited Flaws, as Windows 10 Reaches End-of-Life",
+        "link": "https://securityonline.info/october-patch-tuesday-microsoft-fixes-6-zero-days-including-4-actively-exploited-flaws-as-windows-10-reaches-end-of-life/",
+        "published": "Wed, 15 Oct 2025 00:13:59 +0000"
+    },
+    {
+        "title": "Sekoia Exposes PolarEdge Backdoor: Custom mbedTLS C2 Compromising Cisco, QNAP, and Synology Devices",
+        "link": "https://securityonline.info/sekoia-exposes-polaredge-backdoor-custom-mbedtls-c2-compromising-cisco-qnap-and-synology-devices/",
+        "published": "Wed, 15 Oct 2025 00:11:51 +0000"
+    },
+    {
+        "title": "Fully Autonomous Cybercrime: TA585 Uses ClickFix Phishing and Own Infrastructure to Deploy Premium MonsterV2 RAT",
+        "link": "https://securityonline.info/fully-autonomous-cybercrime-ta585-uses-clickfix-phishing-and-own-infrastructure-to-deploy-premium-monsterv2-rat/",
+        "published": "Wed, 15 Oct 2025 00:04:44 +0000"
+    },
+    {
+        "title": "Rockwell Automation Patches Privilege Escalation and Denial-of-Service Flaws Across FactoryTalk and ArmorStart Systems",
+        "link": "https://securityonline.info/rockwell-automation-patches-privilege-escalation-and-denial-of-service-flaws-across-factorytalk-and-armorstart-systems/",
+        "published": "Wed, 15 Oct 2025 00:00:56 +0000"
     }
 ]
