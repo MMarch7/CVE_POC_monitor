@@ -5548,5 +5548,10 @@
         "title": "Microsoft IIS Exploit Allows Unauthenticated Attackers to Run Arbitrary Code",
         "link": "https://gbhackers.com/microsoft-iis-exploit-allows-run-arbitrary-code/",
         "published": "Wed, 15 Oct 2025 10:42:44 +0000"
+    },
+    {
+        "title": "Windows Agere Modem Driver 0-Day Exploited in Active Privilege Escalation Attacks",
+        "link": "https://gbhackers.com/windows-agere-modem-driver-0-day-exploited/",
+        "published": "Wed, 15 Oct 2025 12:42:21 +0000"
     }
 ]
