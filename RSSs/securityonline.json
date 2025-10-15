@@ -21478,5 +21478,15 @@
         "title": "Rockwell Automation Patches Privilege Escalation and Denial-of-Service Flaws Across FactoryTalk and ArmorStart Systems",
         "link": "https://securityonline.info/rockwell-automation-patches-privilege-escalation-and-denial-of-service-flaws-across-factorytalk-and-armorstart-systems/",
         "published": "Wed, 15 Oct 2025 00:00:56 +0000"
+    },
+    {
+        "title": "Samsung Sets Oct 21 Event to Unveil “Project Moohan,” Its Android XR Headset Rival to Vision Pro",
+        "link": "https://securityonline.info/samsung-sets-oct-21-event-to-unveil-project-moohan-its-android-xr-headset-rival-to-vision-pro/",
+        "published": "Wed, 15 Oct 2025 02:31:43 +0000"
+    },
+    {
+        "title": "Critical Siemens Flaw CVE-2025-40771 (CVSS 9.8) Allows Unauthenticated Remote Access to SIMATIC CP Config",
+        "link": "https://securityonline.info/critical-siemens-flaw-cve-2025-40771-cvss-9-8-allows-unauthenticated-remote-access-to-simatic-cp-config/",
+        "published": "Wed, 15 Oct 2025 02:27:01 +0000"
     }
 ]
