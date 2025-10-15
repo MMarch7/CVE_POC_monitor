@@ -5518,5 +5518,20 @@
         "title": "GhostBat RAT Android Malware Poses as Fake RTO Apps to Steal Banking Data from Indian Users",
         "link": "https://gbhackers.com/ghostbat-rat-android/",
         "published": "Wed, 15 Oct 2025 08:32:40 +0000"
+    },
+    {
+        "title": "FortiPAM & FortiSwitch Manager Flaw Allows Attackers to Bypass Authentication",
+        "link": "https://gbhackers.com/fortipam-fortiswitch-manager-flaw/",
+        "published": "Wed, 15 Oct 2025 09:28:33 +0000"
+    },
+    {
+        "title": "TigerJack Hackers Target Developer Marketplaces with 11 Malicious VS Code Extensions",
+        "link": "https://gbhackers.com/tigerjack-hackers/",
+        "published": "Wed, 15 Oct 2025 09:15:27 +0000"
+    },
+    {
+        "title": "FortiOS CLI Bypass Flaw Lets Attackers Run Arbitrary System Commands",
+        "link": "https://gbhackers.com/fortios-cli-bypass-flaw/",
+        "published": "Wed, 15 Oct 2025 09:14:52 +0000"
     }
 ]
