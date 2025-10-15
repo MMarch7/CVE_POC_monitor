@@ -5543,5 +5543,10 @@
         "title": "Chrome Use-After-Free Flaw Lets Attackers Execute Arbitrary Code",
         "link": "https://gbhackers.com/chrome-use-after-free-flaw/",
         "published": "Wed, 15 Oct 2025 10:17:55 +0000"
+    },
+    {
+        "title": "Microsoft IIS Exploit Allows Unauthenticated Attackers to Run Arbitrary Code",
+        "link": "https://gbhackers.com/microsoft-iis-exploit-allows-run-arbitrary-code/",
+        "published": "Wed, 15 Oct 2025 10:42:44 +0000"
     }
 ]
