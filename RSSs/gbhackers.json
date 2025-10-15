@@ -5533,5 +5533,15 @@
         "title": "FortiOS CLI Bypass Flaw Lets Attackers Run Arbitrary System Commands",
         "link": "https://gbhackers.com/fortios-cli-bypass-flaw/",
         "published": "Wed, 15 Oct 2025 09:14:52 +0000"
+    },
+    {
+        "title": "Critical Veeam Backup RCE Flaws Allow Remote Execution of Malicious Code",
+        "link": "https://gbhackers.com/critical-veeam-backup-rce-flaws/",
+        "published": "Wed, 15 Oct 2025 10:28:26 +0000"
+    },
+    {
+        "title": "Chrome Use-After-Free Flaw Lets Attackers Execute Arbitrary Code",
+        "link": "https://gbhackers.com/chrome-use-after-free-flaw/",
+        "published": "Wed, 15 Oct 2025 10:17:55 +0000"
     }
 ]
