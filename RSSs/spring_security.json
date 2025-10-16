@@ -138,5 +138,10 @@
         "title": "CVE-2025-41253 - Moderate - CVE-2025-41253: Using Spring Expression Language To Expose Environment Variables and System Properties",
         "link": "https://spring.io/security/cve-2025-41253",
         "published": "Wed, 15 Oct 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41254 - Medium - CVE-2025-41254: Spring Framework STOMP CSRF Vulnerability",
+        "link": "https://spring.io/security/cve-2025-41254",
+        "published": "Thu, 16 Oct 2025 00:00:00 GMT"
     }
 ]
