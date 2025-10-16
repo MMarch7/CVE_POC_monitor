@@ -21518,5 +21518,25 @@
         "title": "China-Backed Flax Typhoon APT Maintained Year-Long Access by Turning ArcGIS SOE into Web Shell Backdoor",
         "link": "https://securityonline.info/china-backed-flax-typhoon-apt-maintained-year-long-access-by-turning-arcgis-soe-into-web-shell-backdoor/",
         "published": "Thu, 16 Oct 2025 01:36:29 +0000"
+    },
+    {
+        "title": "Operation Zero Disco: Critical Cisco SNMP Flaw (CVE-2025-20352) Used to Implant Linux Rootkits on Switches",
+        "link": "https://securityonline.info/operation-zero-disco-critical-cisco-snmp-flaw-cve-2025-20352-used-to-implant-linux-rootkits-on-switches/",
+        "published": "Thu, 16 Oct 2025 02:49:49 +0000"
+    },
+    {
+        "title": "Critical Samba RCE Flaw CVE-2025-10230 (CVSS 10.0) Allows Unauthenticated Command Injection on AD DCs",
+        "link": "https://securityonline.info/critical-samba-rce-flaw-cve-2025-10230-cvss-10-0-allows-unauthenticated-command-injection-on-ad-dcs/",
+        "published": "Thu, 16 Oct 2025 02:40:04 +0000"
+    },
+    {
+        "title": "Stealth Stealer: PhantomVAI Loader Uses Steganography in Images to Inject Katz Stealer and Evade Sandboxes",
+        "link": "https://securityonline.info/stealth-stealer-phantomvai-loader-uses-steganography-in-images-to-inject-katz-stealer-and-evade-sandboxes/",
+        "published": "Thu, 16 Oct 2025 02:27:02 +0000"
+    },
+    {
+        "title": "China’s Jewelbug APT Breaches Russian IT Provider for 5 Months, Using Yandex Cloud and Graph API C2",
+        "link": "https://securityonline.info/chinas-jewelbug-apt-breaches-russian-it-provider-for-5-months-using-yandex-cloud-and-graph-api-c2/",
+        "published": "Thu, 16 Oct 2025 02:12:02 +0000"
     }
 ]
