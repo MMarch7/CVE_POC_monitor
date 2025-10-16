@@ -21498,5 +21498,25 @@
         "title": "BreachLock Named Representative Provider for Penetration Testing as a Service (PTaaS) in New Gartner® Report",
         "link": "https://securityonline.info/breachlock-named-representative-provider-for-penetration-testing-as-a-service-ptaas-in-new-gartner-report/",
         "published": "Wed, 15 Oct 2025 16:55:26 +0000"
+    },
+    {
+        "title": "Critical RCE Flaw CVE-2025-54539 in Apache ActiveMQ NMS AMQP Client Allows Server-Side Code Execution",
+        "link": "https://securityonline.info/critical-rce-flaw-cve-2025-54539-in-apache-activemq-nms-amqp-client-allows-server-side-code-execution/",
+        "published": "Thu, 16 Oct 2025 02:00:35 +0000"
+    },
+    {
+        "title": "Global Interruption: YouTube, X, Steam, and Cloudflare Experience Simultaneous Outages Due to Datacenter Route Failure",
+        "link": "https://securityonline.info/global-interruption-youtube-x-steam-and-cloudflare-experience-simultaneous-outages-due-to-datacenter-route-failure/",
+        "published": "Thu, 16 Oct 2025 01:52:14 +0000"
+    },
+    {
+        "title": "Mysterious Elephant APT Campaign Targets South Asian Diplomacy, Steals WhatsApp Data with New MemLoader Backdoor",
+        "link": "https://securityonline.info/mysterious-elephant-apt-campaign-targets-south-asian-diplomacy-steals-whatsapp-data-with-new-memloader-backdoor/",
+        "published": "Thu, 16 Oct 2025 01:45:48 +0000"
+    },
+    {
+        "title": "China-Backed Flax Typhoon APT Maintained Year-Long Access by Turning ArcGIS SOE into Web Shell Backdoor",
+        "link": "https://securityonline.info/china-backed-flax-typhoon-apt-maintained-year-long-access-by-turning-arcgis-soe-into-web-shell-backdoor/",
+        "published": "Thu, 16 Oct 2025 01:36:29 +0000"
     }
 ]

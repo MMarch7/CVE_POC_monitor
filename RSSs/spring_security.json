@@ -133,5 +133,10 @@
         "title": "CVE-2025-41249 - Medium - CVE-2025-41249: Spring Framework Annotation Detection Vulnerability",
         "link": "https://spring.io/security/cve-2025-41249",
         "published": "Mon, 15 Sep 2025 00:00:00 GMT"
+    },
+    {
+        "title": "CVE-2025-41253 - Moderate - CVE-2025-41253: Using Spring Expression Language To Expose Environment Variables and System Properties",
+        "link": "https://spring.io/security/cve-2025-41253",
+        "published": "Wed, 15 Oct 2025 00:00:00 GMT"
     }
 ]
