@@ -5613,5 +5613,25 @@
         "title": "PhantomVAI Loader Launches Global Campaign to Distribute AsyncRAT, XWorm, FormBook, and DCRat",
         "link": "https://gbhackers.com/phantomvai-loader/",
         "published": "Thu, 16 Oct 2025 07:50:06 +0000"
+    },
+    {
+        "title": "Critical Apache ActiveMQ Let Attackers Execute Arbitrary Code",
+        "link": "https://gbhackers.com/critical-apache-activemq-let-attackers-execute-arbitrary-code/",
+        "published": "Thu, 16 Oct 2025 10:08:00 +0000"
+    },
+    {
+        "title": "New Phishing Technique Targets Users via Basic Auth URLs",
+        "link": "https://gbhackers.com/basic-auth-urls/",
+        "published": "Thu, 16 Oct 2025 09:57:04 +0000"
+    },
+    {
+        "title": "Windows BitLocker Flaws Allow Attackers to Bypass Encryption Protection",
+        "link": "https://gbhackers.com/windows-bitlocker-flaws/",
+        "published": "Thu, 16 Oct 2025 09:56:29 +0000"
+    },
+    {
+        "title": "CISA Alerts on Adobe Experience Manager Flaw Exploited for Code Execution",
+        "link": "https://gbhackers.com/cisa-alerts-on-adobe-experience-manager-flaw/",
+        "published": "Thu, 16 Oct 2025 09:37:55 +0000"
     }
 ]

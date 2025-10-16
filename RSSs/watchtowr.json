@@ -183,5 +183,10 @@
         "title": "More Than DoS (Progress Telerik UI for ASP.NET AJAX Unsafe Reflection CVE-2025-3600)",
         "link": "https://labs.watchtowr.com/more-than-dos-progress-telerik-ui-for-asp-net-ajax-unsafe-reflection-cve-2025-3600/",
         "published": "Fri, 10 Oct 2025 14:13:07 GMT"
+    },
+    {
+        "title": "yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)",
+        "link": "https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242/",
+        "published": "Thu, 16 Oct 2025 10:02:58 GMT"
     }
 ]
