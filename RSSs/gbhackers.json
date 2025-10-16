@@ -5633,5 +5633,20 @@
         "title": "CISA Alerts on Adobe Experience Manager Flaw Exploited for Code Execution",
         "link": "https://gbhackers.com/cisa-alerts-on-adobe-experience-manager-flaw/",
         "published": "Thu, 16 Oct 2025 09:37:55 +0000"
+    },
+    {
+        "title": "Critical Samba Flaw Allows Remote Attackers to Execute Arbitrary Code",
+        "link": "https://gbhackers.com/critical-samba-flaw/",
+        "published": "Thu, 16 Oct 2025 11:01:13 +0000"
+    },
+    {
+        "title": "Capita Fined £14 Million After Data Breach Exposes 6.6 Million Users",
+        "link": "https://gbhackers.com/capita-fined-14-million-after-data-breach/",
+        "published": "Thu, 16 Oct 2025 10:47:24 +0000"
+    },
+    {
+        "title": "Mysterious Elephant APT Breach: Hackers Infiltrate Organization to Steal Sensitive Data",
+        "link": "https://gbhackers.com/elephant-apt-breach/",
+        "published": "Thu, 16 Oct 2025 10:33:45 +0000"
     }
 ]
