@@ -21603,5 +21603,60 @@
         "title": "Google Unveils Veo 3.1 AI Video Generator with Enhanced Image-to-Video and Synchronized Audio Generation",
         "link": "https://securityonline.info/google-unveils-veo-3-1-ai-video-generator-with-enhanced-image-to-video-and-synchronized-audio-generation/",
         "published": "Thu, 16 Oct 2025 09:11:34 +0000"
+    },
+    {
+        "title": "Microsoft Launches “Hey, Copilot” Voice Trigger and Visual AI Context to Transform Windows 11 Assistant",
+        "link": "https://securityonline.info/microsoft-launches-hey-copilot-voice-trigger-and-visual-ai-context-to-transform-windows-11-assistant/",
+        "published": "Fri, 17 Oct 2025 01:56:47 +0000"
+    },
+    {
+        "title": "Spring Patches Two Flaws: SpEL Injection (CVE-2025-41253) Leaks Secrets, STOMP CSRF Bypasses WebSocket Security",
+        "link": "https://securityonline.info/spring-patches-two-flaws-spel-injection-cve-2025-41253-leaks-secrets-stomp-csrf-bypasses-websocket-security/",
+        "published": "Fri, 17 Oct 2025 01:51:39 +0000"
+    },
+    {
+        "title": "Critical ConnectWise Automate Flaw (CVE-2025-11492, CVSS 9.6) Allows RMM Agent Man-in-the-Middle Attack",
+        "link": "https://securityonline.info/critical-connectwise-automate-flaw-cve-2025-11492-cvss-9-6-allows-rmm-agent-man-in-the-middle-attack/",
+        "published": "Fri, 17 Oct 2025 01:42:06 +0000"
+    },
+    {
+        "title": "North Korea’s Famous Chollima APT Uses Trojanized Node.js App to Deploy OtterCookie RAT for Crypto Theft",
+        "link": "https://securityonline.info/north-koreas-famous-chollima-apt-uses-trojanized-node-js-app-to-deploy-ottercookie-rat-for-crypto-theft/",
+        "published": "Fri, 17 Oct 2025 00:30:20 +0000"
+    },
+    {
+        "title": "Cisco Patches High-Severity CVE-2025-20350 DoS Flaw in Desk and IP Phones",
+        "link": "https://securityonline.info/cisco-patches-high-severity-cve-2025-20350-dos-flaw-in-desk-and-ip-phones/",
+        "published": "Fri, 17 Oct 2025 00:20:39 +0000"
+    },
+    {
+        "title": "Operation Silk Lure: Chinese Espionage Targets FinTech with Malicious Resume LNK to Implant ValleyRAT",
+        "link": "https://securityonline.info/operation-silk-lure-chinese-espionage-targets-fintech-with-malicious-resume-lnk-to-implant-valleyrat/",
+        "published": "Fri, 17 Oct 2025 00:16:34 +0000"
+    },
+    {
+        "title": "Qilin Ransomware’s Resilience Exposed: Bulletproof Hosting Network Underpins Asahi Group Holdings Attack",
+        "link": "https://securityonline.info/qilin-ransomwares-resilience-exposed-bulletproof-hosting-network-underpins-asahi-group-holdings-attack/",
+        "published": "Fri, 17 Oct 2025 00:10:24 +0000"
+    },
+    {
+        "title": "Maverick Fileless Trojan Turns Infected Phones into WhatsApp Worms to Steal Banking and UPI Credentials",
+        "link": "https://securityonline.info/maverick-fileless-trojan-turns-infected-phones-into-whatsapp-worms-to-steal-banking-and-upi-credentials/",
+        "published": "Fri, 17 Oct 2025 00:06:23 +0000"
+    },
+    {
+        "title": "Google Cloud Launches Gemini Enterprise: Unifying AI Agents and No-Code Workbench for Business Transformation",
+        "link": "https://securityonline.info/google-cloud-launches-gemini-enterprise-unifying-ai-agents-and-no-code-workbench-for-business-transformation/",
+        "published": "Fri, 17 Oct 2025 00:03:18 +0000"
+    },
+    {
+        "title": "Zero-Click NTLM Leak Returns: New LNK Bypass (PoC Available) Bypasses Patch, Exposing Credentials",
+        "link": "https://securityonline.info/zero-click-ntlm-leak-returns-new-lnk-bypass-poc-available-bypasses-patch-exposing-credentials/",
+        "published": "Fri, 17 Oct 2025 00:02:38 +0000"
+    },
+    {
+        "title": "Meta to Invest $1.5 Billion in Massive 1-Gigawatt Texas Data Center for Next-Gen AI Infrastructure",
+        "link": "https://securityonline.info/meta-to-invest-1-5-billion-in-massive-1-gigawatt-texas-data-center-for-next-gen-ai-infrastructure/",
+        "published": "Fri, 17 Oct 2025 00:00:07 +0000"
     }
 ]
