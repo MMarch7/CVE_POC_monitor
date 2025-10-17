@@ -1,4 +1,4 @@
-#!/usr/bin/env python 
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Time    : 2025/03/04
 # @Author  : LXY
@@ -8,7 +8,7 @@ import datetime
 import feedparser
 import logging
 import os
-#import dingtalkchatbot.chatbot as cb
+# import dingtalkchatbot.chatbot as cb
 import requests
 import re
 import utils.load
@@ -17,16 +17,18 @@ import msg_push
 import csv
 
 github_token = os.environ.get("github_token")
-repo_list,keywords,user_list = utils.load.load_tools_list()
+repo_list, keywords, user_list = utils.load.load_tools_list()
 CleanKeywords = utils.load.load_clean_list()
 known_object = utils.load.load_object_list()
 github_sha = "./utils/sha.txt"
+
 
 def load_processed_shas():
     if not os.path.exists(github_sha):
         return set()
     with open(github_sha, 'r') as f:
         return {line.strip() for line in f if line.strip()}
+
 
 github_headers = {
     'Authorization': "token {}".format(github_token)
@@ -37,10 +39,10 @@ def checkEnvData():
     if not github_token:
         logging.error("github_token 获取失败")
         exit(0)
-    elif not msg_push.tg_token:  
+    elif not msg_push.tg_token:
         logging.error("TG_token获取失败")
         exit(0)
-    elif not msg_push.wechat_token:  
+    elif not msg_push.wechat_token:
         logging.error("wechat_token获取失败")
         exit(0)
     elif not msg_push.google_sheet_token:
@@ -60,18 +62,20 @@ def init():
     logging.info("start send test msg")
     return
 
+
 def getRSSNews():
     rss_config = utils.load.json_data_load("./RSSs/rss_config.json")
     for key, config in rss_config.items():
         url = config.get("url")
         file_name = config.get("file")
         if url and file_name:
-            parse_rss_feed(url,file_name)
+            parse_rss_feed(url, file_name)
 
-def parse_rss_feed(feed_url,file):
+
+def parse_rss_feed(feed_url, file):
     # 解析RSS feed
     try:
-        response = requests.get(feed_url,timeout=20)
+        response = requests.get(feed_url, timeout=20)
     except requests.exceptions.SSLError as ssl_err:
         logging.error(f"SSL 错误：无法连接 {feed_url}，跳过该条目。错误信息：{ssl_err}")
         return  # 发生 SSL 错误时跳过当前循环
@@ -103,7 +107,7 @@ def parse_rss_feed(feed_url,file):
             if file == "google.json":
                 if 'cve' not in str(entry.content).lower():
                     all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
-                    break 
+                    break
             if file == "vulncheck.json" or file == "securityonline.json":
                 if "cve" not in entry.title.lower():
                     all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
@@ -117,96 +121,100 @@ def parse_rss_feed(feed_url,file):
                 elif 'category' in entry:
                     categories = entry.category if isinstance(entry.category, list) else [entry.category]
                 if not any(cat in ["Vulnerability", "Vulnerabilities"] for cat in categories):
-                    all_content_have_cve = False   
+                    all_content_have_cve = False
             all_entries.append({
-                    'title': entry.title,
-                    'link': entry.link,
-                    'published': entry.published
-                })
+                'title': entry.title,
+                'link': entry.link,
+                'published': entry.published
+            })
             # 将新增条目添加到新条目列表
             if all_content_have_cve:
                 msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
-                logging.info(f"推送到google sheet：{entry.title}  "+entry.link)
+                logging.info(f"推送到google sheet：{entry.title}  " + entry.link)
                 msg_push.wechat_push(msg)
-                msg_push.send_google_sheet_githubVul("Emergency Vulnerability","RSS",entry.title,"",entry.link,"")
+                msg_push.send_google_sheet_githubVul("Emergency Vulnerability", "RSS", entry.title, "", entry.link, "")
     # 如果有新增条目，则更新文件
     if new_entries_found:
-        utils.load.json_data_save(f"./RSSs/{file}",all_entries)
+        utils.load.json_data_save(f"./RSSs/{file}", all_entries)
     else:
         logging.info(f"{file}未更新新漏洞")
+
 
 def get_github_raw_links(github_url):
     # 解析地址，提取 owner 和 repo
     parts = github_url.strip('/').split('/')
     owner, repo = parts[-2], parts[-1]
-    
+
     api_url = f"https://api.github.com/repos/{owner}/{repo}/contents/"
     raw_links = []
-    
+
     try:
         response = requests.get(api_url, headers=github_headers)
         if response.status_code != 200:
             logging.error(f"提取Raw地址请求失败，状态码：{response.status_code}")
 
             return "响应码错误"  # 请求失败或无权限
-        
+
         for item in response.json():
             if item['type'] == 'file' and item['name'].endswith(('.py', '.yaml', '.yml')):
                 raw_links.append(item['download_url'])
-        
+
         if isinstance(raw_links, list):
             return '\n'.join(raw_links) if raw_links else "无脚本文件"
         return str(raw_links)
     except Exception as e:
         logging.error(f"提取Raw地址请求失败，错误信息：{e}")
         return "网络错误异常"  # 网络错误或其他异常
-   
+
+
 def getKeywordNews(keyword):
-    cleanKeywords=set(CleanKeywords)
-    today_keyword_info_tmp=[]
+    cleanKeywords = set(CleanKeywords)
+    today_keyword_info_tmp = []
     try:
         # 抓取本年的
-        #keyword = quote(keyword)
+        # keyword = quote(keyword)
         logging.info(keyword)
         api = "https://api.github.com/search/repositories?q={}&sort=updated".format(keyword)
         json_str = requests.get(api, headers=github_headers, timeout=10).json()
         today_date = datetime.date.today()
-        n=20 if len(json_str['items'])>20 else len(json_str['items'])
+        n = 20 if len(json_str['items']) > 20 else len(json_str['items'])
         for i in range(0, n):
             keyword_url = json_str['items'][i]['html_url']
             try:
                 keyword_name = json_str['items'][i]['name']
                 description = json_str['items'][i]['description']
                 pushed_at_tmp = json_str['items'][i]['pushed_at']
-                pushed_at = re.findall('\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
+                pushed_at = re.findall('\\d{4}-\\d{2}-\\d{2}', pushed_at_tmp)[0]
                 if pushed_at == str(today_date) and keyword_name not in cleanKeywords:
-                    msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
+                    msg_push.send_google_sheet("CVE", keyword, keyword_name, keyword_url, description)
                     if "CVE" in keyword:
                         raw_links = get_github_raw_links(keyword_url)
-                        msg_push.send_google_raw("raw",keyword_url,raw_links)
-                    today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at,"description":description})
+                        msg_push.send_google_raw("raw", keyword_url, raw_links)
+                    today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at, "description": description})
 
-                    logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n推送时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,pushed_at,description))
+                    logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n推送时间：{}\n描述：{}".format(keyword, keyword_name, keyword_url, pushed_at, description))
                 else:
                     logging.info("[-] keyword: {} ,{}的更新时间为{}, 不属于今天".format(keyword, keyword_name, pushed_at))
             except Exception as e:
                 pass
     except Exception as e:
-        logging.error("Error occurred: %s, github链接不通", e) 
+        logging.error("Error occurred: %s, github链接不通", e)
     return today_keyword_info_tmp
-    
+
+
 def getCVE_PoCs():
-    #通过关键词检索PoC
+    # 通过关键词检索PoC
     clean_add = []
-    pushdata=list()
+    pushdata = list()
     for keyword in keywords:
-        templist=getKeywordNews(keyword)
+        templist = getKeywordNews(keyword)
         for tempdata in templist:
             pushdata.append(tempdata)
             clean_add.append(tempdata.get("keyword_name"))
     msg_push.keyword_msg(pushdata)
     if clean_add:
         utils.load.flash_clean_list(clean_add)
+
 
 def getCISANews():
     with open('./utils/CISA.txt', 'r') as file:
@@ -239,9 +247,9 @@ def getCISANews():
             else:
                 msg += "\r\n\r\n" + info
             new_cve_list.append(cve)
-    
+
     if new_cve_list:
-        logging.info("企微推送CISA漏洞更新："  + ", ".join(new_cve_list))
+        logging.info("企微推送CISA漏洞更新：" + ", ".join(new_cve_list))
         msg_push.wechat_push(msg)
         msg_push.tg_push(msg)
         with open("./utils/CISA.txt", 'a') as file:
@@ -250,9 +258,10 @@ def getCISANews():
     else:
         logging.info("CISA未更新漏洞")
 
+
 def save_file_locally(url, filename):
     try:
-        response = requests.get(url,headers=github_headers)
+        response = requests.get(url, headers=github_headers)
     except Exception as e:
         logging.info(f"An unexpected error occurred: {e}")
     if response.status_code == 200:
@@ -262,16 +271,16 @@ def save_file_locally(url, filename):
         details = data.get('details', '')
         severity = data.get('database_specific', '').get('severity', '')
         for item in known_object:
-            if item in details.lower() and severity in ["HIGH","CRITICAL","Unknown","MODERATE"]:
+            if item in details.lower() and severity in ["HIGH", "CRITICAL", "Unknown", "MODERATE"]:
                 if item == "jenkins":
                     if "plugin" in details.lower() and "core" not in details.lower():
                         break
                 url = f"https://github.com/advisories/{data.get('id', '')}"
                 detail = utils.load.baidu_api(details)
                 msg = f"编号：{aliases_str}\r\n组件：{item}\r\n信息：{detail}\r\n链接：{url}"
-                logging.info(f"企微推送：{aliases_str}  "+url)
+                logging.info(f"企微推送：{aliases_str}  " + url)
                 msg_push.wechat_push(msg)
-                msg_push.send_google_sheet_githubVul("Emergency Vulnerability","github",item,aliases_str,url,detail)
+                msg_push.send_google_sheet_githubVul("Emergency Vulnerability", "github", item, aliases_str, url, detail)
                 msg_push.tg_push(msg)
                 break
     else:
@@ -281,9 +290,9 @@ def save_file_locally(url, filename):
 def getGithubVun():
     url = f"https://api.github.com/repos/github/advisory-database/commits"
     try:
-        response = requests.get(url,headers=github_headers)
+        response = requests.get(url, headers=github_headers)
     except Exception as e:
-        logging.error(f"An unexpected error occurred: {e}") 
+        logging.error(f"An unexpected error occurred: {e}")
     if response.status_code == 200:
         latest_commit = response.json()[0]
         commit_message = latest_commit['commit']['message']
@@ -303,16 +312,16 @@ def getGithubVun():
         logging.info(f"Commit URL: {commit_url}")
         # 获取详细修改内容
         commit_details_url = f"https://api.github.com/repos/github/advisory-database/commits/{commit_sha}"
-        details_response = requests.get(commit_details_url,headers=github_headers)
+        details_response = requests.get(commit_details_url, headers=github_headers)
         if details_response.status_code == 200:
             commit_details = details_response.json()
             files_changed = commit_details.get('files', [])
-            #logging.info("\nFiles changed:")
+            # logging.info("\nFiles changed:")
             for file in files_changed:
                 filename = file['filename']
-                #additions = file['additions']
-                #deletions = file['deletions']
-                #changes = file['changes']
+                # additions = file['additions']
+                # deletions = file['deletions']
+                # changes = file['changes']
                 status = file['status']
                 if filename.endswith('.json') and status == "added":
                     # 构建原始文件的 URL
@@ -321,9 +330,11 @@ def getGithubVun():
                     logging.info(f"- {filename}: {status} ")
         else:
             logging.info(f"Failed to retrieve commit details: {details_response.status_code}")
-            
+
 # 获取最近一次提交的变更文件
-def get_latest_commit_files(repo,branch):
+
+
+def get_latest_commit_files(repo, branch):
     try:
         processed_shas = load_processed_shas()
         # 分页获取新提交
@@ -367,9 +378,9 @@ def get_latest_commit_files(repo,branch):
             except requests.RequestException as e:
                 logging.error(f"解析失败: {details_url} - {str(e)}")
                 continue
-            files = [file["filename"] 
+            files = [file["filename"]
                      for file in commit_data.get("files", [])
-                     if file.get("status") == "added" ] # 仅保留新增文件]
+                     if file.get("status") == "added"]  # 仅保留新增文件]
             all_files.extend(files)
         # 批量记录 SHA
         with open(github_sha, 'a') as f:
@@ -380,6 +391,7 @@ def get_latest_commit_files(repo,branch):
     except requests.RequestException as e:
         logging.error(f"获取 {repo} 最新提交失败: {e}")
         return []
+
 
 def read_file(repo, branch, file_path):
     url = f"https://raw.githubusercontent.com/{repo}/{branch}/{file_path}"
@@ -394,10 +406,11 @@ def read_file(repo, branch, file_path):
             logging.info(f"❌ {file_path}为版本对比插件")
             return
         msg_push.tg_push(f"{repo}项目新增PoC推送:\r\n名称：{file_path}\r\n地址：{url}")
-        msg_push.send_google_sheet("CVE",repo,file_path,url,"")
+        msg_push.send_google_sheet("CVE", repo, file_path, url, "")
         logging.info(f"✅ 获取文件内容成功: {file_path} ")
     except requests.RequestException as e:
         logging.error(f"❌ 获取文件内容失败: {file_path} -> {e}")
+
 
 def getRepoPoCs():
     for repo in repo_list:
@@ -418,29 +431,30 @@ def getRepoPoCs():
         else:
             logging.info(f"✅ {repo_name} 的 {folder} 目录无新文件变更")
 
+
 def main():
     init()
-    #紧急漏洞RSS推送
+    # 紧急漏洞RSS推送
     logging.info("----------------------------------------------------------")
     logging.info("----------------------紧急漏洞RSS推送-----------------------")
     logging.info("----------------------------------------------------------")
     getRSSNews()
-    #紧急漏洞CISA推送
+    # 紧急漏洞CISA推送
     logging.info("----------------------------------------------------------")
-    logging.info("----------------------紧急漏洞CISA推送----------------------")    
+    logging.info("----------------------紧急漏洞CISA推送----------------------")
     logging.info("----------------------------------------------------------")
     getCISANews()
-    #紧急漏洞Github推送
+    # 紧急漏洞Github推送
     logging.info("----------------------------------------------------------")
     logging.info("---------------------紧急漏洞Github推送---------------------")
     logging.info("----------------------------------------------------------")
     getGithubVun()
-    #CVE披露PoC获取
+    # CVE披露PoC获取
     logging.info("----------------------------------------------------------")
     logging.info("-------------------Github CVE公开POC获取-------------------")
     logging.info("----------------------------------------------------------")
     getCVE_PoCs()
-    #重点项目监控
+    # 重点项目监控
     logging.info("----------------------------------------------------------")
     logging.info("---------------------Github 重点项目监控--------------------")
     logging.info("----------------------------------------------------------")
