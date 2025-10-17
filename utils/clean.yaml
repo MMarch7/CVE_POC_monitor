@@ -1667,3 +1667,6 @@ clean_list:
 - CVE-2025-52136
 - WordPress-Flex-QR-Code-Generator---CVE-2025-10041
 - CVE-2025-58718
+- CVE-2025-8081-Elementor
+- CVE-2025-60751
+- CVE-2025-60752
