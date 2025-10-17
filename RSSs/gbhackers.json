@@ -5728,5 +5728,10 @@
         "title": "Windows GDI Vulnerability in Rust Kernel Module Enables Remote Attacks",
         "link": "https://gbhackers.com/windows-gdi-vulnerability-in-rust-kernel/",
         "published": "Fri, 17 Oct 2025 09:46:44 +0000"
+    },
+    {
+        "title": "New Tech Support Scam Exploits Microsoft Logo to Steal User Credentials",
+        "link": "https://gbhackers.com/microsoft-logo/",
+        "published": "Fri, 17 Oct 2025 10:43:45 +0000"
     }
 ]
