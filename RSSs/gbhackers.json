@@ -5723,5 +5723,10 @@
         "title": "APT28 Deploys BeardShell and Covenant Modules via Weaponized Office Documents",
         "link": "https://gbhackers.com/weaponized-office-documents/",
         "published": "Fri, 17 Oct 2025 08:49:12 +0000"
+    },
+    {
+        "title": "Windows GDI Vulnerability in Rust Kernel Module Enables Remote Attacks",
+        "link": "https://gbhackers.com/windows-gdi-vulnerability-in-rust-kernel/",
+        "published": "Fri, 17 Oct 2025 09:46:44 +0000"
     }
 ]
