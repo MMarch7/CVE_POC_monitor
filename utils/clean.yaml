@@ -1663,3 +1663,5 @@ clean_list:
 - Onderzoek_CVE-2024-31497-POC
 - CS50FinalProject
 - CVE-2025-56450
+- CVE-2025-25198
+- CVE-2025-52136
