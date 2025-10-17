@@ -5738,5 +5738,15 @@
         "title": "ClickFake Interview Campaign Used by Threat Actors to Deliver OtterCandy Malware",
         "link": "https://gbhackers.com/clickfake-interview-campaign/",
         "published": "Fri, 17 Oct 2025 12:35:33 +0000"
+    },
+    {
+        "title": "WatchGuard VPN Flaw Allows Remote Attackers to Execute Arbitrary Code",
+        "link": "https://gbhackers.com/watchguard-vpn-flaw/",
+        "published": "Fri, 17 Oct 2025 13:19:17 +0000"
+    },
+    {
+        "title": "TikTok Videos Weaponized to Deliver Self-Compiling PowerShell Malware",
+        "link": "https://gbhackers.com/tiktok-videos/",
+        "published": "Fri, 17 Oct 2025 13:10:24 +0000"
     }
 ]
