@@ -5758,5 +5758,10 @@
         "title": "Microsoft Windows 11 October Update Disrupts Localhost (127.0.0.1) Connectivity",
         "link": "https://gbhackers.com/microsoft-windows-11-october-update/",
         "published": "Sat, 18 Oct 2025 08:35:49 +0000"
+    },
+    {
+        "title": "Critical Zimbra SSRF Flaw Exposes Sensitive Data",
+        "link": "https://gbhackers.com/critical-zimbra-ssrf-flaw/",
+        "published": "Sat, 18 Oct 2025 10:42:11 +0000"
     }
 ]
