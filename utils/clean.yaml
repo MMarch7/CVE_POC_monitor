@@ -1673,3 +1673,4 @@ clean_list:
 - CVE-2025-8088-BUILDER-Winrar-Tool
 - test2
 - test
+- windows-smb-vulnerability-framework-cve-2025-33073
