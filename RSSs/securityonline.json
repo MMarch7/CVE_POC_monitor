@@ -21693,5 +21693,10 @@
         "title": "Record $40 Billion Deal: NVIDIA, Microsoft, BlackRock Consortium Acquires Aligned Data Centers",
         "link": "https://securityonline.info/record-40-billion-deal-nvidia-microsoft-blackrock-consortium-acquires-aligned-data-centers/",
         "published": "Fri, 17 Oct 2025 08:39:49 +0000"
+    },
+    {
+        "title": "Privilege Escalation Flaw Discovered in MinIO Service Accounts — CVE-2025-62506",
+        "link": "https://securityonline.info/privilege-escalation-flaw-discovered-in-minio-service-accounts-cve-2025-62506/",
+        "published": "Sat, 18 Oct 2025 00:07:55 +0000"
     }
 ]
