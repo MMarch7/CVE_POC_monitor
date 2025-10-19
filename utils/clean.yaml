@@ -1674,3 +1674,4 @@ clean_list:
 - test2
 - test
 - windows-smb-vulnerability-framework-cve-2025-33073
+- CVE-2025-55315-
