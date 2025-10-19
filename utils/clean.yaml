@@ -1678,3 +1678,4 @@ clean_list:
 - CVE-2025-61884-61882
 - cve-2025-8088
 - magento2-session-reaper-patch
+- PoC-CVE-2025-32433
