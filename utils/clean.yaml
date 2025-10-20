@@ -1684,3 +1684,5 @@ clean_list:
 - cve-2025-54874-poc
 - CVE-2025-10294-Poc
 - CVE-2025-59287-hawktrace
+- CVE-2025-10041-POC
+- CVE-2025-59230
