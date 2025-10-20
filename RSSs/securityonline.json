@@ -21698,5 +21698,80 @@
         "title": "Privilege Escalation Flaw Discovered in MinIO Service Accounts — CVE-2025-62506",
         "link": "https://securityonline.info/privilege-escalation-flaw-discovered-in-minio-service-accounts-cve-2025-62506/",
         "published": "Sat, 18 Oct 2025 00:07:55 +0000"
+    },
+    {
+        "title": "Critical Squid Proxy Flaw (CVE-2025-62168, CVSS 10.0) Leaks HTTP Credentials and Security Tokens via Error Handling",
+        "link": "https://securityonline.info/critical-squid-proxy-flaw-cve-2025-62168-cvss-10-0-leaks-http-credentials-and-security-tokens-via-error-handling/",
+        "published": "Mon, 20 Oct 2025 01:53:37 +0000"
+    },
+    {
+        "title": "GlassWorm Supply Chain Worm Uses Invisible Unicode and Solana Blockchain for Stealth C2",
+        "link": "https://securityonline.info/glassworm-supply-chain-worm-uses-invisible-unicode-and-solana-blockchain-for-stealth-c2/",
+        "published": "Mon, 20 Oct 2025 01:40:52 +0000"
+    },
+    {
+        "title": "SEQRITE Labs Uncovers “CAPI Backdoor” Campaign Targeting Russia’s Automobile and E-Commerce Sectors",
+        "link": "https://securityonline.info/seqrite-labs-uncovers-capi-backdoor-campaign-targeting-russias-automobile-and-e-commerce-sectors/",
+        "published": "Mon, 20 Oct 2025 00:36:20 +0000"
+    },
+    {
+        "title": "UNC5142 Uses EtherHiding to Deploy Malware via BNB Smart Chain Smart Contracts",
+        "link": "https://securityonline.info/unc5142-uses-etherhiding-to-deploy-malware-via-bnb-smart-chain-smart-contracts/",
+        "published": "Mon, 20 Oct 2025 00:32:34 +0000"
+    },
+    {
+        "title": "131 Chrome Extensions Found Abusing WhatsApp Web for Spam Automation in Massive Reseller Scheme",
+        "link": "https://securityonline.info/131-chrome-extensions-found-abusing-whatsapp-web-for-spam-automation-in-massive-reseller-scheme/",
+        "published": "Mon, 20 Oct 2025 00:26:33 +0000"
+    },
+    {
+        "title": "FortiGuard Tracks HoldingHands Malware Shift: Cross-Regional APT Uses Task Scheduler Hijack to Evade Detection",
+        "link": "https://securityonline.info/fortiguard-tracks-holdinghands-malware-shift-cross-regional-apt-uses-task-scheduler-hijack-to-evade-detection/",
+        "published": "Mon, 20 Oct 2025 00:21:00 +0000"
+    },
+    {
+        "title": "North Korea’s WaterPlum APT Deploys Node.js OtterCandy RAT for Crypto Theft with Anti-Forensic Module",
+        "link": "https://securityonline.info/north-koreas-waterplum-apt-deploys-node-js-ottercandy-rat-for-crypto-theft-with-anti-forensic-module/",
+        "published": "Mon, 20 Oct 2025 00:17:20 +0000"
+    },
+    {
+        "title": "Critical Moxa Flaw (CVE-2025-6950, CVSS 9.9) Allows Unauthenticated Admin Takeover via Hard-Coded JWT Secret",
+        "link": "https://securityonline.info/critical-moxa-flaw-cve-2025-6950-cvss-9-9-allows-unauthenticated-admin-takeover-via-hard-coded-jwt-secret/",
+        "published": "Mon, 20 Oct 2025 00:13:14 +0000"
+    },
+    {
+        "title": "Researcher Details Zero-Click RCE in Dolby Audio Decoder Affecting Android, iOS, and macOS",
+        "link": "https://securityonline.info/researcher-details-zero-click-rce-in-dolby-audio-decoder-affecting-android-ios-and-macos/",
+        "published": "Mon, 20 Oct 2025 00:11:20 +0000"
+    },
+    {
+        "title": "North Korea’s UNC5342 APT Uses EtherHiding to Store Malware in Blockchain Smart Contracts for Stealthy C2",
+        "link": "https://securityonline.info/north-koreas-unc5342-apt-uses-etherhiding-to-store-malware-in-blockchain-smart-contracts-for-stealthy-c2/",
+        "published": "Mon, 20 Oct 2025 00:10:31 +0000"
+    },
+    {
+        "title": "Google Abandons Privacy Sandbox Initiative After 6 Years, Citing Low Adoption of New Ad Tech",
+        "link": "https://securityonline.info/google-abandons-privacy-sandbox-initiative-after-6-years-citing-low-adoption-of-new-ad-tech/",
+        "published": "Mon, 20 Oct 2025 00:08:56 +0000"
+    },
+    {
+        "title": "NVIDIA Unveils First Blackwell Wafer Made in US at TSMC Arizona Fab, Marking Production Milestone",
+        "link": "https://securityonline.info/nvidia-unveils-first-blackwell-wafer-made-in-us-at-tsmc-arizona-fab-marking-production-milestone/",
+        "published": "Mon, 20 Oct 2025 00:05:29 +0000"
+    },
+    {
+        "title": "Apple Secures Exclusive F1 Broadcasting Rights in the US Starting 2026; F1 TV Pro Included with Apple TV",
+        "link": "https://securityonline.info/apple-secures-exclusive-f1-broadcasting-rights-in-the-us-starting-2026-f1-tv-pro-included-with-apple-tv/",
+        "published": "Mon, 20 Oct 2025 00:02:14 +0000"
+    },
+    {
+        "title": "Critical Keras 3 RCE Flaw (CVE-2025-49655, CVSS 9.8) Allows Code Execution on Model Load",
+        "link": "https://securityonline.info/critical-keras-3-rce-flaw-cve-2025-49655-cvss-9-8-allows-code-execution-on-model-load/",
+        "published": "Mon, 20 Oct 2025 00:01:09 +0000"
+    },
+    {
+        "title": "Wikipedia Warns of Existential AI Threat as Page Views Fall 8% Due to Chatbot Summaries",
+        "link": "https://securityonline.info/wikipedia-warns-of-existential-ai-threat-as-page-views-fall-8-due-to-chatbot-summaries/",
+        "published": "Mon, 20 Oct 2025 00:00:25 +0000"
     }
 ]
