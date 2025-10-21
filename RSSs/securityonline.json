@@ -21788,5 +21788,55 @@
         "title": "The Siri Crisis: Internal Testing Reveals Disappointing Performance for Apple’s Next AI",
         "link": "https://securityonline.info/the-siri-crisis-internal-testing-reveals-disappointing-performance-for-apples-next-ai/",
         "published": "Tue, 21 Oct 2025 01:38:19 +0000"
+    },
+    {
+        "title": "Finally: Apple Allows You to Disable the Annoying Camera Swipe Gesture",
+        "link": "https://securityonline.info/finally-apple-allows-you-to-disable-the-annoying-camera-swipe-gesture/",
+        "published": "Tue, 21 Oct 2025 02:56:55 +0000"
+    },
+    {
+        "title": "CVE-2025-55315: Critical 9.9/10 Flaw in ASP.NET Core Enables Unauthenticated Attack",
+        "link": "https://securityonline.info/cve-2025-55315-critical-9-9-10-flaw-in-asp-net-core-enables-unauthenticated-attack/",
+        "published": "Tue, 21 Oct 2025 02:49:27 +0000"
+    },
+    {
+        "title": "Emergency Fix: Microsoft Rushes Patch for Critical Windows Recovery Bug",
+        "link": "https://securityonline.info/emergency-fix-microsoft-rushes-patch-for-critical-windows-recovery-bug/",
+        "published": "Tue, 21 Oct 2025 02:38:03 +0000"
+    },
+    {
+        "title": "7-Zip Flaw (CVE-2025-11001) with Public Exploit Code Threatens Unpatched Systems",
+        "link": "https://securityonline.info/7-zip-flaw-cve-2025-11001-with-public-exploit-code-threatens-unpatched-systems/",
+        "published": "Tue, 21 Oct 2025 02:33:15 +0000"
+    },
+    {
+        "title": "Light Switch: New PowerToys Feature Causes Chaos in Windows 11",
+        "link": "https://securityonline.info/light-switch-new-powertoys-feature-causes-chaos-in-windows-11/",
+        "published": "Tue, 21 Oct 2025 02:28:31 +0000"
+    },
+    {
+        "title": "Critical Fix: Microsoft Rushes Patch for Windows 11 Localhost Bug",
+        "link": "https://securityonline.info/critical-fix-microsoft-rushes-patch-for-windows-11-localhost-bug/",
+        "published": "Tue, 21 Oct 2025 02:23:32 +0000"
+    },
+    {
+        "title": "Warning: Xubuntu Website Compromised to Deliver Malware",
+        "link": "https://securityonline.info/warning-xubuntu-website-compromised-to-deliver-malware/",
+        "published": "Tue, 21 Oct 2025 02:17:53 +0000"
+    },
+    {
+        "title": "Tor Browser Ditches AI: Why Privacy Trumps Convenience",
+        "link": "https://securityonline.info/tor-browser-ditches-ai-why-privacy-trumps-convenience/",
+        "published": "Tue, 21 Oct 2025 02:13:42 +0000"
+    },
+    {
+        "title": "Critical Windows Update KB5066835 Breaks Keyboards in Recovery Mode",
+        "link": "https://securityonline.info/critical-windows-update-kb5066835-breaks-keyboards-in-recovery-mode/",
+        "published": "Tue, 21 Oct 2025 02:09:13 +0000"
+    },
+    {
+        "title": "The BitLocker Trap: How Automatic Encryption Can Cause Catastrophic Data Loss",
+        "link": "https://securityonline.info/the-bitlocker-trap-how-automatic-encryption-can-cause-catastrophic-data-loss/",
+        "published": "Tue, 21 Oct 2025 02:04:53 +0000"
     }
 ]
