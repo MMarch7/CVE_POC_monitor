@@ -5828,5 +5828,10 @@
         "title": "CISA Warns of Actively Exploited Windows SMB Vulnerability",
         "link": "https://gbhackers.com/cisa-warns-windows-smb-vulnerability/",
         "published": "Tue, 21 Oct 2025 05:31:22 +0000"
+    },
+    {
+        "title": "AdaptixC2 Emerges in npm Supply-Chain Exploit Against Developers",
+        "link": "https://gbhackers.com/npm-supply-chain-2/",
+        "published": "Tue, 21 Oct 2025 06:58:52 +0000"
     }
 ]
