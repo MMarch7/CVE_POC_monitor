@@ -1686,3 +1686,4 @@ clean_list:
 - CVE-2025-59287-hawktrace
 - CVE-2025-10041-POC
 - CVE-2025-59230
+- CVE-31317-install-apk

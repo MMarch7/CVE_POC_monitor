@@ -21838,5 +21838,15 @@
         "title": "The BitLocker Trap: How Automatic Encryption Can Cause Catastrophic Data Loss",
         "link": "https://securityonline.info/the-bitlocker-trap-how-automatic-encryption-can-cause-catastrophic-data-loss/",
         "published": "Tue, 21 Oct 2025 02:04:53 +0000"
+    },
+    {
+        "title": "Urgent Patch: Critical Lanscope Endpoint Manager RCE (CVE-2025-61932, CVSS 9.8) Under Active Exploitation",
+        "link": "https://securityonline.info/urgent-patch-critical-lanscope-endpoint-manager-rce-cve-2025-61932-cvss-9-8-under-active-exploitation/",
+        "published": "Tue, 21 Oct 2025 03:42:52 +0000"
+    },
+    {
+        "title": "Critical TP-Link Omada Gateway Flaw (CVE-2025-6542, CVSS 9.3) Allows Unauthenticated Remote Command Execution",
+        "link": "https://securityonline.info/critical-tp-link-omada-gateway-flaw-cve-2025-6542-cvss-9-3-allows-unauthenticated-remote-command-execution/",
+        "published": "Tue, 21 Oct 2025 03:15:55 +0000"
     }
 ]
