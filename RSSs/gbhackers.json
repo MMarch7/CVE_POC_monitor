@@ -5813,5 +5813,20 @@
         "title": "Microsoft Windows Cloud Minifilter Flaw Enables Privilege Escalation",
         "link": "https://gbhackers.com/microsoft-windows-cloud-minifilter-flaw/",
         "published": "Tue, 21 Oct 2025 04:46:44 +0000"
+    },
+    {
+        "title": "CISA Warns of Oracle E-Business Suite SSRF Vulnerability Actively Exploited in Attacks",
+        "link": "https://gbhackers.com/cisa-warns-oracle-e-business-suite-ssrf-vulnerability/",
+        "published": "Tue, 21 Oct 2025 06:25:00 +0000"
+    },
+    {
+        "title": "Pakistani Cyber Actors Impersonating ‘NIC eEmail Services’ to Target Indian Government",
+        "link": "https://gbhackers.com/nic-eemail-services/",
+        "published": "Tue, 21 Oct 2025 05:59:55 +0000"
+    },
+    {
+        "title": "CISA Warns of Actively Exploited Windows SMB Vulnerability",
+        "link": "https://gbhackers.com/cisa-warns-windows-smb-vulnerability/",
+        "published": "Tue, 21 Oct 2025 05:31:22 +0000"
     }
 ]
