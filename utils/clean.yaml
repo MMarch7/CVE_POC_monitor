@@ -1687,3 +1687,4 @@ clean_list:
 - CVE-2025-10041-POC
 - CVE-2025-59230
 - CVE-31317-install-apk
+- CVE-2025-8088-WinRAR-builder
