@@ -1704,3 +1704,5 @@ clean_list:
 - CVE-2025-54782
 - CVE-2025-53072-CVE-2025-62481
 - sysnc
+- xzutils_backdoor_obfuscation
+- CVE-2025-53072
