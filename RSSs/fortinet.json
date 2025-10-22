@@ -918,5 +918,50 @@
         "title": "Open Redirect and XSS in Web Filter warning page",
         "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-542",
         "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Path Traversal in agent leads to Privilege Escalation",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-628",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Private Personal Information Collection by Debug Bundle",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-639",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Privilege escalation in shell",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-412",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Race condion in FortiCloud SSO SAML authentication",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-198",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Restricted CLI command bypass",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-361",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Stack-based buffer overflow on fortitoken import feature",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-23-354",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Stored XSS in parser tester",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-280",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "Weak authentication in WAD/GUI",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-25-010",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
+    },
+    {
+        "title": "ZTNA Server Improper Certificate Validation",
+        "link": "https://fortiguard.fortinet.com/psirt/FG-IR-24-457",
+        "published": "Tue, 14 Oct 2025 00:00:00 -0700"
     }
 ]
