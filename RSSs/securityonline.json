@@ -21863,5 +21863,65 @@
         "title": "Sendmarc appoints Dan Levinson as Customer Success Director in North America",
         "link": "https://securityonline.info/sendmarc-appoints-dan-levinson-as-customer-success-director-in-north-america/",
         "published": "Tue, 21 Oct 2025 12:13:57 +0000"
+    },
+    {
+        "title": "Critical Windows Update Bug Breaks Kerberos and NTLM Authentication",
+        "link": "https://securityonline.info/critical-windows-update-bug-breaks-kerberos-and-ntlm-authentication/",
+        "published": "Wed, 22 Oct 2025 02:04:16 +0000"
+    },
+    {
+        "title": "The Browser War Heats Up: OpenAI Unveils AI-Powered ChatGPT Atlas",
+        "link": "https://securityonline.info/the-browser-war-heats-up-openai-unveils-ai-powered-chatgpt-atlas/",
+        "published": "Wed, 22 Oct 2025 01:58:30 +0000"
+    },
+    {
+        "title": "Chrome Update: New High-Severity Flaw in V8 Engine (CVE-2025-12036) Requires Immediate Patch",
+        "link": "https://securityonline.info/chrome-update-new-high-severity-flaw-in-v8-engine-cve-2025-12036-requires-immediate-patch/",
+        "published": "Wed, 22 Oct 2025 01:41:32 +0000"
+    },
+    {
+        "title": "Google Exposes Russian Disinformation Blitz Over Poland Airspace Incursion Using Portal Kombat Network",
+        "link": "https://securityonline.info/google-exposes-russian-disinformation-blitz-over-poland-airspace-incursion-using-portal-kombat-network/",
+        "published": "Wed, 22 Oct 2025 00:35:34 +0000"
+    },
+    {
+        "title": "Critical Sauter AG Flaw (CVE-2025-41723, CVSS 9.8) Allows Unauthenticated File Upload via SOAP Interface",
+        "link": "https://securityonline.info/critical-sauter-ag-flaw-cve-2025-41723-cvss-9-8-allows-unauthenticated-file-upload-via-soap-interface/",
+        "published": "Wed, 22 Oct 2025 00:30:04 +0000"
+    },
+    {
+        "title": "PassiveNeuron Cyberespionage Resurfaces: APT Abuses MS SQL Servers to Deploy Stealthy Neursite Backdoor",
+        "link": "https://securityonline.info/passiveneuron-cyberespionage-resurfaces-apt-abuses-ms-sql-servers-to-deploy-stealthy-neursite-backdoor/",
+        "published": "Wed, 22 Oct 2025 00:26:39 +0000"
+    },
+    {
+        "title": "Scattered LAPSUS$ Hunters Pivot to EaaS, Launch Insider Recruitment Campaign After Salesforce Extortion",
+        "link": "https://securityonline.info/scattered-lapsus-hunters-pivot-to-eaas-launch-insider-recruitment-campaign-after-salesforce-extortion/",
+        "published": "Wed, 22 Oct 2025 00:20:06 +0000"
+    },
+    {
+        "title": "Critical ABB Flaw (CVE-2025-9574, CVSS 9.9) Exposes EoL Load Controllers to Unauthenticated Admin Access",
+        "link": "https://securityonline.info/critical-abb-flaw-cve-2025-9574-cvss-9-9-exposes-eol-load-controllers-to-unauthenticated-admin-access/",
+        "published": "Wed, 22 Oct 2025 00:16:52 +0000"
+    },
+    {
+        "title": "Bitter APT Attacks China/Pakistan with WinRAR Zero-Day and New C# Backdoor via Office Macro",
+        "link": "https://securityonline.info/bitter-apt-attacks-china-pakistan-with-winrar-zero-day-and-new-c-backdoor-via-office-macro/",
+        "published": "Wed, 22 Oct 2025 00:11:32 +0000"
+    },
+    {
+        "title": "COLDRIVER APT Bounces Back: Deploys ‘ROBOT’ Malware Family Days After LOSTKEYS Exposure",
+        "link": "https://securityonline.info/coldriver-apt-bounces-back-deploys-robot-malware-family-days-after-lostkeys-exposure/",
+        "published": "Wed, 22 Oct 2025 00:05:58 +0000"
+    },
+    {
+        "title": "Researcher Demonstrates Local Privilege Escalation in Legacy Windows Modem Driver Exploited in the Wild",
+        "link": "https://securityonline.info/researcher-demonstrates-local-privilege-escalation-in-legacy-windows-modem-driver-exploited-in-the-wild/",
+        "published": "Wed, 22 Oct 2025 00:01:57 +0000"
+    },
+    {
+        "title": "WSO2 Fixes Two Critical Access Control Vulnerabilities (CVE-2025-9804, CVE-2025-10611) Affecting API Manager and Identity Server",
+        "link": "https://securityonline.info/wso2-fixes-two-critical-access-control-vulnerabilities-cve-2025-9804-cve-2025-10611-affecting-api-manager-and-identity-server/",
+        "published": "Wed, 22 Oct 2025 00:00:55 +0000"
     }
 ]
