@@ -5938,5 +5938,15 @@
         "title": "Hackers Use ASP.NET Machine Keys to Break Into IIS, Push Malicious Extensions",
         "link": "https://gbhackers.com/asp-net-machine-keys/",
         "published": "Wed, 22 Oct 2025 11:29:51 +0000"
+    },
+    {
+        "title": "Threat Actors Advancing Email Phishing Attacks to Bypass Security Filters",
+        "link": "https://gbhackers.com/email-phishing-attacks/",
+        "published": "Wed, 22 Oct 2025 13:34:38 +0000"
+    },
+    {
+        "title": "Fileless Remcos Attacks: Injecting Malicious Code into RMClient to Evade EDR",
+        "link": "https://gbhackers.com/fileless-remcos-attacks/",
+        "published": "Wed, 22 Oct 2025 13:12:21 +0000"
     }
 ]
