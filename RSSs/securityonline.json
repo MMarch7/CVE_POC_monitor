@@ -21943,5 +21943,10 @@
         "title": "GitLab Patches High Runner Hijacking Flaw (CVE-2025-11702) and Multiple DoS Vulnerabilities",
         "link": "https://securityonline.info/gitlab-patches-high-runner-hijacking-flaw-cve-2025-11702-and-multiple-dos-vulnerabilities/",
         "published": "Wed, 22 Oct 2025 09:20:28 +0000"
+    },
+    {
+        "title": "Two Critical Oracle Marketing Flaws (CVE-2025-53072, CVE-2025-62481) — Patch Immediately or Risk Full Takeover",
+        "link": "https://securityonline.info/two-critical-oracle-marketing-flaws-cve-2025-53072-cve-2025-62481-patch-immediately-or-risk-full-takeover/",
+        "published": "Wed, 22 Oct 2025 11:07:18 +0000"
     }
 ]
