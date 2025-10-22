@@ -21938,5 +21938,10 @@
         "title": "X (Twitter) Ditches Fixed Fees for a New Pay-Per-Tweet API Model",
         "link": "https://securityonline.info/x-twitter-ditches-fixed-fees-for-a-new-pay-per-tweet-api-model/",
         "published": "Wed, 22 Oct 2025 03:54:09 +0000"
+    },
+    {
+        "title": "GitLab Patches High Runner Hijacking Flaw (CVE-2025-11702) and Multiple DoS Vulnerabilities",
+        "link": "https://securityonline.info/gitlab-patches-high-runner-hijacking-flaw-cve-2025-11702-and-multiple-dos-vulnerabilities/",
+        "published": "Wed, 22 Oct 2025 09:20:28 +0000"
     }
 ]
