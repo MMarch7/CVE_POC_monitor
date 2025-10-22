@@ -5888,5 +5888,10 @@
         "title": "Microsoft 365 Copilot Flaw Lets Hackers Steal Sensitive Data via Indirect Prompt Injection",
         "link": "https://gbhackers.com/microsoft-365-copilot-flaw/",
         "published": "Tue, 21 Oct 2025 13:45:50 +0000"
+    },
+    {
+        "title": "Hackers Exploit OAuth Apps to Keep Cloud Access Even After Password Resets",
+        "link": "https://gbhackers.com/oauth-apps/",
+        "published": "Wed, 22 Oct 2025 04:57:29 +0000"
     }
 ]
