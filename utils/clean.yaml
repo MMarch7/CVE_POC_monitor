@@ -1711,3 +1711,4 @@ clean_list:
 - 2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424
 - CVE-2025-29891-demo
 - Session-Persistence-After-Enabling-2FA-CVE-2025-60425
+- CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC
