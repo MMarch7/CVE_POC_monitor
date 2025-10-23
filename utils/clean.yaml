@@ -1706,3 +1706,5 @@ clean_list:
 - sysnc
 - xzutils_backdoor_obfuscation
 - CVE-2025-53072
+- http-oracle-ebs-cve-2025-61882.nse
+- cve-2024-32002-demo
