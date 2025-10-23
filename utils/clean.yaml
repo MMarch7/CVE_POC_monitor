@@ -1713,3 +1713,4 @@ clean_list:
 - Session-Persistence-After-Enabling-2FA-CVE-2025-60425
 - CSV-Injection-in-Instant-Developer-Foundation-25.0-PoC
 - CVE-2025-62506
+- CVE-2025-48148
