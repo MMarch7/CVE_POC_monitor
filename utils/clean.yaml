@@ -1708,3 +1708,6 @@ clean_list:
 - CVE-2025-53072
 - http-oracle-ebs-cve-2025-61882.nse
 - cve-2024-32002-demo
+- 2FA-Bypass-using-a-Brute-Force-Attack-CVE-2025-60424
+- CVE-2025-29891-demo
+- Session-Persistence-After-Enabling-2FA-CVE-2025-60425
