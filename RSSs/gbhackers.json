@@ -5948,5 +5948,20 @@
         "title": "Fileless Remcos Attacks: Injecting Malicious Code into RMClient to Evade EDR",
         "link": "https://gbhackers.com/fileless-remcos-attacks/",
         "published": "Wed, 22 Oct 2025 13:12:21 +0000"
+    },
+    {
+        "title": "PhantomCaptcha RAT Uses Weaponized PDFs and “ClickFix” Cloudflare CAPTCHA Pages to Deliver Malware",
+        "link": "https://gbhackers.com/phantomcaptcha-rat/",
+        "published": "Thu, 23 Oct 2025 06:11:07 +0000"
+    },
+    {
+        "title": "Critical Argument Injection Flaw in AI Agents Enables Remote Code Execution",
+        "link": "https://gbhackers.com/critical-argument-injection-flaw-in-ai-agents/",
+        "published": "Thu, 23 Oct 2025 06:06:25 +0000"
+    },
+    {
+        "title": "Critical MCP Server Flaw Exposes Over 3,000 Servers and Thousands of API Keys",
+        "link": "https://gbhackers.com/critical-mcp-server-flaw/",
+        "published": "Thu, 23 Oct 2025 05:44:48 +0000"
     }
 ]
