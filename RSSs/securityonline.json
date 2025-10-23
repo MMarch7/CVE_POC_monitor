@@ -21948,5 +21948,55 @@
         "title": "Two Critical Oracle Marketing Flaws (CVE-2025-53072, CVE-2025-62481) — Patch Immediately or Risk Full Takeover",
         "link": "https://securityonline.info/two-critical-oracle-marketing-flaws-cve-2025-53072-cve-2025-62481-patch-immediately-or-risk-full-takeover/",
         "published": "Wed, 22 Oct 2025 11:07:18 +0000"
+    },
+    {
+        "title": "Jira Path Traversal Flaw (CVE-2025-22167) Allows Arbitrary File Write on Server/Data Center",
+        "link": "https://securityonline.info/jira-path-traversal-flaw-cve-2025-22167-allows-arbitrary-file-write-on-server-data-center/",
+        "published": "Thu, 23 Oct 2025 01:53:35 +0000"
+    },
+    {
+        "title": "Symantec Exposes Chinese APT Overlap: Zingdoor, ShadowPad, and KrustyLoader Used in Global Espionage",
+        "link": "https://securityonline.info/symantec-exposes-chinese-apt-overlap-zingdoor-shadowpad-and-krustyloader-used-in-global-espionage/",
+        "published": "Thu, 23 Oct 2025 01:43:11 +0000"
+    },
+    {
+        "title": "Socket Uncovers Malicious NuGet Typosquat “Netherеum.All” Exfiltrating Wallet Keys via Solana-Themed C2",
+        "link": "https://securityonline.info/socket-uncovers-malicious-nuget-typosquat-nether%d0%b5um-all-exfiltrating-wallet-keys-via-solana-themed-c2/",
+        "published": "Thu, 23 Oct 2025 00:35:05 +0000"
+    },
+    {
+        "title": "Critical WSUS Flaw (CVE-2025-59287, CVSS 9.8) Allows Unauthenticated RCE via Unsafe Cookie Deserialization, PoC Available",
+        "link": "https://securityonline.info/critical-wsus-flaw-cve-2025-59287-cvss-9-8-allows-unauthenticated-rce-via-unsafe-cookie-deserialization-poc-available/",
+        "published": "Thu, 23 Oct 2025 00:30:21 +0000"
+    },
+    {
+        "title": "Chinese Hackers Exploit Exposed ASP.NET Keys to Deploy TOLLBOOTH IIS Backdoor and Kernel Rootkit",
+        "link": "https://securityonline.info/chinese-hackers-exploit-exposed-asp-net-keys-to-deploy-tollbooth-iis-backdoor-and-kernel-rootkit/",
+        "published": "Thu, 23 Oct 2025 00:26:42 +0000"
+    },
+    {
+        "title": "Iran-Linked MuddyWater Deploys Phoenix v4 Backdoor via Compromised Emails and NordVPN Exit Node",
+        "link": "https://securityonline.info/iran-linked-muddywater-deploys-phoenix-v4-backdoor-via-compromised-emails-and-nordvpn-exit-node/",
+        "published": "Thu, 23 Oct 2025 00:20:34 +0000"
+    },
+    {
+        "title": "Critical NeuVector RCE Flaw (CVE-2025-54469, CVSS 10.0) Allows Command Injection via Unsanitized Environment Variables",
+        "link": "https://securityonline.info/critical-neuvector-rce-flaw-cve-2025-54469-cvss-10-0-allows-command-injection-via-unsanitized-environment-variables/",
+        "published": "Thu, 23 Oct 2025 00:16:35 +0000"
+    },
+    {
+        "title": "Major Threat: Vidar Stealer v2.0 Bypasses Chrome AppBound Encryption with Multithreaded Memory Injection",
+        "link": "https://securityonline.info/major-threat-vidar-stealer-v2-0-bypasses-chrome-appbound-encryption-with-multithreaded-memory-injection/",
+        "published": "Thu, 23 Oct 2025 00:11:07 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Raisecom Router Flaw (CVE-2025-11534, CVSS 9.8) Allows Unauthenticated Root SSH Access",
+        "link": "https://securityonline.info/cisa-warns-critical-raisecom-router-flaw-cve-2025-11534-cvss-9-8-allows-unauthenticated-root-ssh-access/",
+        "published": "Thu, 23 Oct 2025 00:06:16 +0000"
+    },
+    {
+        "title": "Lumma Infostealer MaaS Campaign Uses NSIS/AutoIt and MEGA Cloud to Steal Credentials via Pirated Software",
+        "link": "https://securityonline.info/lumma-infostealer-maas-campaign-uses-nsis-autoit-and-mega-cloud-to-steal-credentials-via-pirated-software/",
+        "published": "Thu, 23 Oct 2025 00:01:14 +0000"
     }
 ]
