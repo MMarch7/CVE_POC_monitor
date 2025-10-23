@@ -5963,5 +5963,20 @@
         "title": "Critical MCP Server Flaw Exposes Over 3,000 Servers and Thousands of API Keys",
         "link": "https://gbhackers.com/critical-mcp-server-flaw/",
         "published": "Thu, 23 Oct 2025 05:44:48 +0000"
+    },
+    {
+        "title": "BIND 9 Vulnerabilities Expose DNS Servers to Cache Poisoning and DoS",
+        "link": "https://gbhackers.com/bind-9-vulnerabilities-expose-dns-servers/",
+        "published": "Thu, 23 Oct 2025 06:58:07 +0000"
+    },
+    {
+        "title": "TARmageddon Security Flaw in Rust Library Could Lead to Config Tampering and RCE",
+        "link": "https://gbhackers.com/tarmageddon-security-flaw-in-rust-library/",
+        "published": "Thu, 23 Oct 2025 06:50:56 +0000"
+    },
+    {
+        "title": "New Malware Toolkit from MuddyWater Delivers Phoenix Backdoor to Global Targets",
+        "link": "https://gbhackers.com/new-malware-toolkit/",
+        "published": "Thu, 23 Oct 2025 06:47:17 +0000"
     }
 ]
