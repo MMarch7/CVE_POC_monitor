@@ -6108,5 +6108,10 @@
         "title": "North Korean Hackers Target UAV Industry to Steal Confidential Data",
         "link": "https://gbhackers.com/uav-industry/",
         "published": "Fri, 24 Oct 2025 09:45:30 +0000"
+    },
+    {
+        "title": "IIS Servers Hijacked via Exposed ASP.NET Machine Keys — Malicious Modules Injected in the Wild",
+        "link": "https://gbhackers.com/iis-servers-2/",
+        "published": "Fri, 24 Oct 2025 11:11:44 +0000"
     }
 ]
