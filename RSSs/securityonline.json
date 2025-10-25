@@ -22088,5 +22088,35 @@
         "title": "Critical WordPress RCE Flaws Resurface: Over 8.7 Million Attacks Exploit GutenKit & Hunk Companion",
         "link": "https://securityonline.info/critical-wordpress-rce-flaws-resurface-over-8-7-million-attacks-exploit-gutenkit-hunk-companion/",
         "published": "Sat, 25 Oct 2025 03:14:25 +0000"
+    },
+    {
+        "title": "CRITICAL ALERT: Windows Server WSUS Flaw Actively Exploited (CVE-2025-59287, CVSS 9.8)",
+        "link": "https://securityonline.info/critical-alert-windows-server-wsus-flaw-actively-exploited-cve-2025-59287-cvss-9-8/",
+        "published": "Sat, 25 Oct 2025 04:20:26 +0000"
+    },
+    {
+        "title": "The Memory Tax: OpenAI May Use ChatGPT Memory for Targeted Ads",
+        "link": "https://securityonline.info/the-memory-tax-openai-may-use-chatgpt-memory-for-targeted-ads/",
+        "published": "Sat, 25 Oct 2025 04:10:30 +0000"
+    },
+    {
+        "title": "Critical Rust Coreutils Bug Blocks Automatic Updates on Ubuntu 25.10",
+        "link": "https://securityonline.info/critical-rust-coreutils-bug-blocks-automatic-updates-on-ubuntu-25-10/",
+        "published": "Sat, 25 Oct 2025 04:04:12 +0000"
+    },
+    {
+        "title": "Apple Loses Landmark UK Antitrust Lawsuit Over ‘Excessive’ App Store Fees",
+        "link": "https://securityonline.info/apple-loses-landmark-uk-antitrust-lawsuit-over-excessive-app-store-fees/",
+        "published": "Sat, 25 Oct 2025 03:58:14 +0000"
+    },
+    {
+        "title": "OpenAI Buys Mac Automation App to Give ChatGPT System-Level Control",
+        "link": "https://securityonline.info/openai-buys-mac-automation-app-to-give-chatgpt-system-level-control/",
+        "published": "Sat, 25 Oct 2025 03:53:36 +0000"
+    },
+    {
+        "title": "The Domino Effect: AWS Outage Caused by DNS Automation Race Condition",
+        "link": "https://securityonline.info/the-domino-effect-aws-outage-caused-by-dns-automation-race-condition/",
+        "published": "Sat, 25 Oct 2025 03:47:10 +0000"
     }
 ]
