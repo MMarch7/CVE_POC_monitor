@@ -1720,3 +1720,6 @@ clean_list:
 - CVE-2025-56399
 - cve-2025-3248
 - CVE-2025-55315-Scanner-Monitor
+- CVE-2025-59287
+- Git-clone-CVE-2025-48385
+- CVE-2025-48385-PoC
