@@ -6198,5 +6198,15 @@
         "title": "CISA Beware! Hackers Are Actively Exploiting Windows Server Update Services RCE Flaw in the Wild",
         "link": "https://gbhackers.com/hackers-are-actively-exploiting-windows-server-update-services-rce-flaw/",
         "published": "Sat, 25 Oct 2025 16:31:45 +0000"
+    },
+    {
+        "title": "Hackers Use ClickFix Technique to Deploy NetSupport RAT Loaders",
+        "link": "https://gbhackers.com/hackers-use-clickfix-technique/",
+        "published": "Sat, 25 Oct 2025 18:30:00 +0000"
+    },
+    {
+        "title": "Hackers Exploit WordPress Arbitrary Installation Vulnerabilities in the Wild",
+        "link": "https://gbhackers.com/hackers-exploit-wordpress-arbitrary-installation-vulnerabilities/",
+        "published": "Sat, 25 Oct 2025 17:30:00 +0000"
     }
 ]
