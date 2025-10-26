@@ -1730,3 +1730,5 @@ clean_list:
 - cve-2024-12084
 - redis_exploit
 - cve-2024-32002-hook
+- PoC-Deployer-System
+- CVE-2025-6514
