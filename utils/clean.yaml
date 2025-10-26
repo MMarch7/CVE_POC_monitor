@@ -1736,3 +1736,4 @@ clean_list:
 - CVE-2025-61884
 - Pi-hole-XSS-CVE-2025-53533
 - Exploit-CVE-2024-23897
+- talkingBen
