@@ -1728,3 +1728,4 @@ clean_list:
 - CVE-2025--
 - CVE-2025-61304
 - cve-2024-12084
+- redis_exploit
