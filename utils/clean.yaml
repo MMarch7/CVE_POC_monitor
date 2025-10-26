@@ -1732,3 +1732,6 @@ clean_list:
 - cve-2024-32002-hook
 - PoC-Deployer-System
 - CVE-2025-6514
+- CVE-2025-9967
+- CVE-2025-61884
+- Pi-hole-XSS-CVE-2025-53533
