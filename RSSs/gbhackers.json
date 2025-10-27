@@ -6263,5 +6263,10 @@
         "title": "Predatory Sparrow Strikes: Coordinated Cyberattacks Seek to Cripple Critical Infrastructure",
         "link": "https://gbhackers.com/predatory-sparrow-strikes/",
         "published": "Mon, 27 Oct 2025 10:42:52 +0000"
+    },
+    {
+        "title": "Critical HashiCorp Vault Vulnerabilities Allow Authentication Bypass and DoS Attacks",
+        "link": "https://gbhackers.com/hashicorp-vault-vulnerabilities/",
+        "published": "Mon, 27 Oct 2025 12:06:45 +0000"
     }
 ]
