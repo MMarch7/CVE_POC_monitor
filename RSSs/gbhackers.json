@@ -6223,5 +6223,10 @@
         "title": "WhatsApp 0-Click Exploit Disclosed to Meta at Pwn2Own Security Event",
         "link": "https://gbhackers.com/whatsapp-0-click-exploit-disclosed-to-meta/",
         "published": "Mon, 27 Oct 2025 05:27:27 +0000"
+    },
+    {
+        "title": "706,000+ BIND 9 DNS Resolvers Exposed to Cache Poisoning – PoC Released",
+        "link": "https://gbhackers.com/706000-bind-9-dns-resolvers-exposed-to-cache-poisoning/",
+        "published": "Mon, 27 Oct 2025 05:53:32 +0000"
     }
 ]
