@@ -1744,3 +1744,5 @@ clean_list:
 - CVE-2025-29824-CLFS-Local-privilege-escalation
 - Honeypot-for-CVE-2025-59287-WSUS
 - Pixnapping-Attack-on-Android
+- CVE-2025-59287-WSUS
+- CVE-2024-39840-POC
