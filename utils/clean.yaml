@@ -1738,3 +1738,6 @@ clean_list:
 - Exploit-CVE-2024-23897
 - talkingBen
 - WSUSploit.NET
+- CVE-2025-56521andCVE-2025-56522
+- CVE-2025-11534
+- CVE-2025-22167
