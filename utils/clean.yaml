@@ -1737,3 +1737,4 @@ clean_list:
 - Pi-hole-XSS-CVE-2025-53533
 - Exploit-CVE-2024-23897
 - talkingBen
+- WSUSploit.NET

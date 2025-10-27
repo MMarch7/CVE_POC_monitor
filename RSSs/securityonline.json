@@ -22133,5 +22133,75 @@
         "title": "CISA Emergency Alert: Critical RCE Flaw (CVSS 10.0) Exposes AutomationDirect PLCs to Unauthenticated Takeover",
         "link": "https://securityonline.info/cisa-emergency-alert-critical-rce-flaw-cvss-10-0-exposes-automationdirect-plcs-to-unauthenticated-takeover/",
         "published": "Sun, 26 Oct 2025 08:51:12 +0000"
+    },
+    {
+        "title": "Beyond Chatbots: Microsoft Edge Unveils New AI Features for Automated Browsing",
+        "link": "https://securityonline.info/beyond-chatbots-microsoft-edge-unveils-new-ai-features-for-automated-browsing/",
+        "published": "Mon, 27 Oct 2025 01:59:42 +0000"
+    },
+    {
+        "title": "AI Arms Race: Anthropic Seals Multibillion-Dollar Deal for 1 Million Google TPUs",
+        "link": "https://securityonline.info/ai-arms-race-anthropic-seals-multibillion-dollar-deal-for-1-million-google-tpus/",
+        "published": "Mon, 27 Oct 2025 01:55:09 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Veeder-Root TLS4B RCE (CVE-2025-58428) Exposes Tank Gauge Systems to Command Injection",
+        "link": "https://securityonline.info/cisa-warns-critical-veeder-root-tls4b-rce-cve-2025-58428-exposes-tank-gauge-systems-to-command-injection/",
+        "published": "Mon, 27 Oct 2025 00:50:49 +0000"
+    },
+    {
+        "title": "NetSupport RAT Campaign Abuses ClickFix to Infect Hosts; 3 Threat Clusters Use RMM for Covert Access",
+        "link": "https://securityonline.info/netsupport-rat-campaign-abuses-clickfix-to-infect-hosts-3-threat-clusters-use-rmm-for-covert-access/",
+        "published": "Mon, 27 Oct 2025 00:42:07 +0000"
+    },
+    {
+        "title": "Critical Dell Storage Manager Flaw (CVE-2025-43995, CVSS 9.8) Allows Unauthenticated API Bypass",
+        "link": "https://securityonline.info/critical-dell-storage-manager-flaw-cve-2025-43995-cvss-9-8-allows-unauthenticated-api-bypass/",
+        "published": "Mon, 27 Oct 2025 00:40:27 +0000"
+    },
+    {
+        "title": "Agenda Ransomware Bypasses EDR by Deploying Linux Binary on Windows via Splashtop; Steals Veeam Credentials",
+        "link": "https://securityonline.info/agenda-ransomware-bypasses-edr-by-deploying-linux-binary-on-windows-via-splashtop-steals-veeam-credentials/",
+        "published": "Mon, 27 Oct 2025 00:37:15 +0000"
+    },
+    {
+        "title": "Google Exposes UNC6229 “Fake Career” Campaign Hacking Advertising Accounts with Fake Job Lures",
+        "link": "https://securityonline.info/google-exposes-unc6229-fake-career-campaign-hacking-advertising-accounts-with-fake-job-lures/",
+        "published": "Mon, 27 Oct 2025 00:34:55 +0000"
+    },
+    {
+        "title": "Ubiquiti Patches Critical CVSS 10 Flaw in UniFi Access That Exposed Management API Without Authentication",
+        "link": "https://securityonline.info/ubiquiti-patches-critical-cvss-10-flaw-in-unifi-access-that-exposed-management-api-without-authentication/",
+        "published": "Mon, 27 Oct 2025 00:26:23 +0000"
+    },
+    {
+        "title": "YouTube Ghost Network Exposed: Coordinated Channels Spread Infostealer Malware via Game/Software Cracks",
+        "link": "https://securityonline.info/youtube-ghost-network-exposed-coordinated-channels-spread-infostealer-malware-via-game-software-cracks/",
+        "published": "Mon, 27 Oct 2025 00:21:47 +0000"
+    },
+    {
+        "title": "Smishing Triad Uncovered: 194,000+ Malicious Domains Power Global Phishing-as-a-Service Campaign",
+        "link": "https://securityonline.info/smishing-triad-uncovered-194000-malicious-domains-power-global-phishing-as-a-service-campaign/",
+        "published": "Mon, 27 Oct 2025 00:19:26 +0000"
+    },
+    {
+        "title": "OpenWrt Patches ubusd RCE Flaw (CVE-2025-62526) and Kernel Memory Leak (CVE-2025-62525) in DSL Driver",
+        "link": "https://securityonline.info/openwrt-patches-ubusd-rce-flaw-cve-2025-62526-and-kernel-memory-leak-cve-2025-62525-in-dsl-driver/",
+        "published": "Mon, 27 Oct 2025 00:14:21 +0000"
+    },
+    {
+        "title": "China-Aligned APTs Launch “Premier Pass-as-a-Service,” Sharing Access in Coordinated Global Espionage",
+        "link": "https://securityonline.info/china-aligned-apts-launch-premier-pass-as-a-service-sharing-access-in-coordinated-global-espionage/",
+        "published": "Mon, 27 Oct 2025 00:10:55 +0000"
+    },
+    {
+        "title": "Python RAT Disguised as Minecraft Client Uses Telegram Bot API for Cross-Platform Command & Control",
+        "link": "https://securityonline.info/python-rat-disguised-as-minecraft-client-uses-telegram-bot-api-for-cross-platform-command-control/",
+        "published": "Mon, 27 Oct 2025 00:05:09 +0000"
+    },
+    {
+        "title": "HashiCorp Patches Vault Flaws: AWS Auth Bypass and Unauthenticated JSON DoS",
+        "link": "https://securityonline.info/hashicorp-patches-vault-flaws-aws-auth-bypass-and-unauthenticated-json-dos/",
+        "published": "Mon, 27 Oct 2025 00:00:24 +0000"
     }
 ]
