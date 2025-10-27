@@ -6248,5 +6248,20 @@
         "title": "Critical CoPhish Exploit Uses Copilot Studio to Hijack OAuth Tokens",
         "link": "https://gbhackers.com/cophish-exploit/",
         "published": "Mon, 27 Oct 2025 07:55:26 +0000"
+    },
+    {
+        "title": "Dell Storage Manager Vulnerabilities Allow Full System Compromise",
+        "link": "https://gbhackers.com/dell-storage-manager/",
+        "published": "Mon, 27 Oct 2025 11:20:49 +0000"
+    },
+    {
+        "title": "ChatGPT’s Atlas Browser Jailbroken to Hide Malicious Prompts Inside URLs",
+        "link": "https://gbhackers.com/chatgpts-atlas-browser-jailbroken/",
+        "published": "Mon, 27 Oct 2025 11:08:05 +0000"
+    },
+    {
+        "title": "Predatory Sparrow Strikes: Coordinated Cyberattacks Seek to Cripple Critical Infrastructure",
+        "link": "https://gbhackers.com/predatory-sparrow-strikes/",
+        "published": "Mon, 27 Oct 2025 10:42:52 +0000"
     }
 ]
