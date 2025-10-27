@@ -6268,5 +6268,15 @@
         "title": "Critical HashiCorp Vault Vulnerabilities Allow Authentication Bypass and DoS Attacks",
         "link": "https://gbhackers.com/hashicorp-vault-vulnerabilities/",
         "published": "Mon, 27 Oct 2025 12:06:45 +0000"
+    },
+    {
+        "title": "iOS 26 Overwrites ‘shutdown.log’ on Reboot, Erasing Forensic Evidence of Pegasus and Predator Spyware",
+        "link": "https://gbhackers.com/ios-26/",
+        "published": "Mon, 27 Oct 2025 13:17:37 +0000"
+    },
+    {
+        "title": "New EDR-Redir Tool Bypasses EDRs by Exploiting Bind Filter and Cloud Filter Driver",
+        "link": "https://gbhackers.com/new-edr-redir-tool-bypasses-edrs/",
+        "published": "Mon, 27 Oct 2025 13:05:12 +0000"
     }
 ]
