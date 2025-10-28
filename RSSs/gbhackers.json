@@ -6353,5 +6353,30 @@
         "title": "Zero-Click Exploit Targets MCP and Linked AI Agents to Stealthily Steal Data",
         "link": "https://gbhackers.com/zero-click-exploit-targets-ai-agents/",
         "published": "Tue, 28 Oct 2025 10:33:52 +0000"
+    },
+    {
+        "title": "MuddyWater’s Phoenix Backdoor Infects More Than 100 Government Organizations",
+        "link": "https://gbhackers.com/muddywaters-phoenix/",
+        "published": "Tue, 28 Oct 2025 12:31:45 +0000"
+    },
+    {
+        "title": "IPFire 2.29 Released with Enhanced Intrusion Prevention System Reporting",
+        "link": "https://gbhackers.com/ipfire-2-29-released-intrusion-prevention-system-reporting/",
+        "published": "Tue, 28 Oct 2025 12:04:46 +0000"
+    },
+    {
+        "title": "Anivia Stealer Peddled on Dark Web with UAC Bypass",
+        "link": "https://gbhackers.com/anivia-stealer/",
+        "published": "Tue, 28 Oct 2025 12:00:11 +0000"
+    },
+    {
+        "title": "Active Directory at Risk Due to Domain-Join Account Misconfigurations",
+        "link": "https://gbhackers.com/active-directory-at-risk-due-to-domain-join-misconfigurations/",
+        "published": "Tue, 28 Oct 2025 11:40:17 +0000"
+    },
+    {
+        "title": "FileFix + Cache Smuggling: A New Evasion Combo",
+        "link": "https://gbhackers.com/filefix-cache-smuggling/",
+        "published": "Tue, 28 Oct 2025 11:28:42 +0000"
     }
 ]
