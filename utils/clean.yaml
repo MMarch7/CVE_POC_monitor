@@ -1750,3 +1750,5 @@ clean_list:
 - Find-WSUS
 - Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat
 - CVE-2025-59287-When-your-patch-server-becomes-the-attack-vector
+- CVE-2025-60595
+- CVE-2025-59230-LPE
