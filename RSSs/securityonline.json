@@ -22273,5 +22273,25 @@
         "title": "Bing Wallpaper Update Clicks the Desktop to Force-Launch Bing Search",
         "link": "https://securityonline.info/bing-wallpaper-update-clicks-the-desktop-to-force-launch-bing-search/",
         "published": "Tue, 28 Oct 2025 00:01:52 +0000"
+    },
+    {
+        "title": "Kaspersky Exposes Chrome Zero-Day RCE (CVE-2025-2783) Delivering Memento Labs Spyware in ForumTroll Campaign",
+        "link": "https://securityonline.info/kaspersky-exposes-chrome-zero-day-rce-cve-2025-2783-delivering-memento-labs-spyware-in-forumtroll-campaign/",
+        "published": "Tue, 28 Oct 2025 02:54:31 +0000"
+    },
+    {
+        "title": "High-Severity OpenVPN Flaw (CVE-2025-10680) Allows Script Injection on Linux/macOS via Malicious DNS Server",
+        "link": "https://securityonline.info/high-severity-openvpn-flaw-cve-2025-10680-allows-script-injection-on-linux-macos-via-malicious-dns-server/",
+        "published": "Tue, 28 Oct 2025 02:45:58 +0000"
+    },
+    {
+        "title": "First Ever: Android Baohuo Backdoor Hides in Telegram X Clone, Uses Redis Database for C2 Commands",
+        "link": "https://securityonline.info/first-ever-android-baohuo-backdoor-hides-in-telegram-x-clone-uses-redis-database-for-c2-commands/",
+        "published": "Tue, 28 Oct 2025 02:27:07 +0000"
+    },
+    {
+        "title": "Lazarus Group Attacks with DreamLoader Malware, Leveraging DLL Sideloading and Microsoft Graph API for Stealth C2",
+        "link": "https://securityonline.info/lazarus-group-attacks-with-dreamloader-malware-leveraging-dll-sideloading-and-microsoft-graph-api-for-stealth-c2/",
+        "published": "Tue, 28 Oct 2025 02:18:14 +0000"
     }
 ]
