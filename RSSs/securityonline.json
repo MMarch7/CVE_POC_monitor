@@ -22293,5 +22293,50 @@
         "title": "Lazarus Group Attacks with DreamLoader Malware, Leveraging DLL Sideloading and Microsoft Graph API for Stealth C2",
         "link": "https://securityonline.info/lazarus-group-attacks-with-dreamloader-malware-leveraging-dll-sideloading-and-microsoft-graph-api-for-stealth-c2/",
         "published": "Tue, 28 Oct 2025 02:18:14 +0000"
+    },
+    {
+        "title": "Critical .NET Flaw (CVE-2025-55315) in QNAP: NAS Backup Utility Vulnerable to Credential Theft",
+        "link": "https://securityonline.info/critical-net-flaw-cve-2025-55315-in-qnap-nas-backup-utility-vulnerable-to-credential-theft/",
+        "published": "Tue, 28 Oct 2025 04:16:20 +0000"
+    },
+    {
+        "title": "Microsoft Teams Will Auto-Track Office Location via Wi-Fi",
+        "link": "https://securityonline.info/microsoft-teams-will-auto-track-office-location-via-wi-fi/",
+        "published": "Tue, 28 Oct 2025 04:11:53 +0000"
+    },
+    {
+        "title": "Grokipedia Launches: Elon Musk’s xAI Debuts AI Encyclopedia to Rival Wikipedia",
+        "link": "https://securityonline.info/grokipedia-launches-elon-musks-xai-debuts-ai-encyclopedia-to-rival-wikipedia/",
+        "published": "Tue, 28 Oct 2025 04:07:39 +0000"
+    },
+    {
+        "title": "RIP Twitter.com: X Retires Old Domain, Forcing Passkey Reset by Nov 10",
+        "link": "https://securityonline.info/rip-twitter-com-x-retires-old-domain-forcing-passkey-reset-by-nov-10/",
+        "published": "Tue, 28 Oct 2025 04:01:57 +0000"
+    },
+    {
+        "title": "One in Nine: Amazon Prepares for Massive Layoff of 30,000 Corporate Staff",
+        "link": "https://securityonline.info/one-in-nine-amazon-prepares-for-massive-layoff-of-30000-corporate-staff/",
+        "published": "Tue, 28 Oct 2025 03:56:36 +0000"
+    },
+    {
+        "title": "Privacy Win: Firefox Mandates Clear Data Collection Disclosure for All Extensions",
+        "link": "https://securityonline.info/privacy-win-firefox-mandates-clear-data-collection-disclosure-for-all-extensions/",
+        "published": "Tue, 28 Oct 2025 03:51:32 +0000"
+    },
+    {
+        "title": "Values Over Cash: Python Foundation Rejects $1.5M US Grant Over Anti-DEI Clause",
+        "link": "https://securityonline.info/values-over-cash-python-foundation-rejects-1-5m-us-grant-over-anti-dei-clause/",
+        "published": "Tue, 28 Oct 2025 03:46:58 +0000"
+    },
+    {
+        "title": "Google Debunks False Gmail Breach Rumors as Credentials Leak Again",
+        "link": "https://securityonline.info/google-debunks-false-gmail-breach-rumors-as-credentials-leak-again/",
+        "published": "Tue, 28 Oct 2025 03:41:00 +0000"
+    },
+    {
+        "title": "Qilin RaaS Expands Global Impact: 40+ Victims/Month, Cyberduck Abuse, and WDigest Credential Theft",
+        "link": "https://securityonline.info/qilin-raas-expands-global-impact-40-victims-month-cyberduck-abuse-and-wdigest-credential-theft/",
+        "published": "Tue, 28 Oct 2025 03:29:54 +0000"
     }
 ]
