@@ -1748,3 +1748,4 @@ clean_list:
 - CVE-2024-39840-POC
 - CVE-2025-60910
 - Find-WSUS
+- Breaking-the-Update-Chain-Inside-CVE-2025-59287-and-the-WSUS-RCE-Threat

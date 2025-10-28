@@ -6313,5 +6313,10 @@
         "title": "OpenAI Atlas Browser Vulnerability Lets Attackers Execute Malicious Scripts in ChatGPT",
         "link": "https://gbhackers.com/openai-atlas-browser-vulnerability/",
         "published": "Tue, 28 Oct 2025 05:13:11 +0000"
+    },
+    {
+        "title": "Gamaredon Phishing Campaign Exploits WinRAR Vulnerability to Target Government Agencies",
+        "link": "https://gbhackers.com/winrar-vulnerability/",
+        "published": "Tue, 28 Oct 2025 06:16:22 +0000"
     }
 ]
