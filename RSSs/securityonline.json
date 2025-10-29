@@ -22433,5 +22433,10 @@
         "title": "All-Day Learning: MediaTek Kompanio 540 Promises 35% Better Chromebook Battery Life",
         "link": "https://securityonline.info/all-day-learning-mediatek-kompanio-540-promises-35-better-chromebook-battery-life/",
         "published": "Wed, 29 Oct 2025 03:29:49 +0000"
+    },
+    {
+        "title": "Critical strongSwan Heap Overflow in EAP-MSCHAPv2 Plugin Allows Remote Code Execution",
+        "link": "https://securityonline.info/critical-strongswan-heap-overflow-in-eap-mschapv2-plugin-allows-remote-code-execution/",
+        "published": "Wed, 29 Oct 2025 04:37:28 +0000"
     }
 ]

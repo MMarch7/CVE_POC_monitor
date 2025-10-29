@@ -6393,5 +6393,20 @@
         "title": "New Phishing Attack Using Invisible Characters Hidden in Subject Line Using MIME Encoding",
         "link": "https://gbhackers.com/mime-encoding/",
         "published": "Tue, 28 Oct 2025 13:02:33 +0000"
+    },
+    {
+        "title": "Microsoft Issues Alert on ASP.NET Flaw Allowing HTTP Request Smuggling Attacks",
+        "link": "https://gbhackers.com/microsoft-issues-alert-on-asp-net-flaw/",
+        "published": "Wed, 29 Oct 2025 05:24:13 +0000"
+    },
+    {
+        "title": "New Atroposia RAT Uses Hidden Remote Desktop, Vulnerability Scanning and Advanced Persistence",
+        "link": "https://gbhackers.com/new-atroposia-rat/",
+        "published": "Wed, 29 Oct 2025 05:07:43 +0000"
+    },
+    {
+        "title": "Ethical Prompt Injection: Fighting Shadow AI with Its Own Weapon",
+        "link": "https://gbhackers.com/ethical-prompt-injection-fighting-shadow/",
+        "published": "Wed, 29 Oct 2025 05:06:48 +0000"
     }
 ]
