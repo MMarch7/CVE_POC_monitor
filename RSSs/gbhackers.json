@@ -6473,5 +6473,25 @@
         "title": "New TEE.fail Exploit Steals Secrets from Intel & AMD DDR5 Trusted Environments",
         "link": "https://gbhackers.com/new-tee-fail-exploit/",
         "published": "Wed, 29 Oct 2025 11:47:33 +0000"
+    },
+    {
+        "title": "Massive 4TB EY Database Backup Found Publicly Accessible on Azure",
+        "link": "https://gbhackers.com/massive-4tb-ey-database-accessible-on-azure/",
+        "published": "Wed, 29 Oct 2025 13:34:54 +0000"
+    },
+    {
+        "title": "Russian Hackers Target Government with Stealthy “Living-Off-the-Land” Tactics",
+        "link": "https://gbhackers.com/living-off-the-land-tactics/",
+        "published": "Wed, 29 Oct 2025 13:34:46 +0000"
+    },
+    {
+        "title": "Google Publishes New Guide to Help Defenders Monitor Privileged Accounts",
+        "link": "https://gbhackers.com/google-guide-to-help-defenders-monitor-privileged-accounts/",
+        "published": "Wed, 29 Oct 2025 13:16:02 +0000"
+    },
+    {
+        "title": "PureHVNC RAT Distributed via Weaponized Judicial Documents",
+        "link": "https://gbhackers.com/purehvnc-rat-2/",
+        "published": "Wed, 29 Oct 2025 13:12:48 +0000"
     }
 ]
