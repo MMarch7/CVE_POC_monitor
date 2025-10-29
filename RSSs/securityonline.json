@@ -22338,5 +22338,60 @@
         "title": "Qilin RaaS Expands Global Impact: 40+ Victims/Month, Cyberduck Abuse, and WDigest Credential Theft",
         "link": "https://securityonline.info/qilin-raas-expands-global-impact-40-victims-month-cyberduck-abuse-and-wdigest-credential-theft/",
         "published": "Tue, 28 Oct 2025 03:29:54 +0000"
+    },
+    {
+        "title": "Full Studio AI: Adobe Firefly Expands to Video Editor, Soundtracks, and Voice",
+        "link": "https://securityonline.info/full-studio-ai-adobe-firefly-expands-to-video-editor-soundtracks-and-voice/",
+        "published": "Wed, 29 Oct 2025 02:01:02 +0000"
+    },
+    {
+        "title": "AhnLab Uncovers Gunra Ransomware: Dual-Platform Threat with Weak Linux Encryption",
+        "link": "https://securityonline.info/ahnlab-uncovers-gunra-ransomware-dual-platform-threat-with-weak-linux-encryption/",
+        "published": "Wed, 29 Oct 2025 00:45:15 +0000"
+    },
+    {
+        "title": "Next-Gen Android Trojan Herodotus Mimics Human Typing to Bypass Behavioral Biometrics Anti-Fraud Systems",
+        "link": "https://securityonline.info/next-gen-android-trojan-herodotus-mimics-human-typing-to-bypass-behavioral-biometrics-anti-fraud-systems/",
+        "published": "Wed, 29 Oct 2025 00:40:57 +0000"
+    },
+    {
+        "title": "Docker Compose Path Traversal (CVE-2025-62725) Allows Arbitrary File Overwrite via OCI Artifacts",
+        "link": "https://securityonline.info/docker-compose-path-traversal-cve-2025-62725-allows-arbitrary-file-overwrite-via-oci-artifacts/",
+        "published": "Wed, 29 Oct 2025 00:33:43 +0000"
+    },
+    {
+        "title": "BlueNoroff APT Launches AI-Enhanced Espionage on macOS, Using GPT-4o Images in Fake GhostCall Meetings",
+        "link": "https://securityonline.info/bluenoroff-apt-launches-ai-enhanced-espionage-on-macos-using-gpt-4o-images-in-fake-ghostcall-meetings/",
+        "published": "Wed, 29 Oct 2025 00:30:49 +0000"
+    },
+    {
+        "title": "Wear OS Messages Flaw (CVE-2025-12080) Allows Unprivileged Apps to Send SMS/RCS Without Permission, PoC Available",
+        "link": "https://securityonline.info/wear-os-messages-flaw-cve-2025-12080-allows-unprivileged-apps-to-send-sms-rcs-without-permission-poc-available/",
+        "published": "Wed, 29 Oct 2025 00:26:20 +0000"
+    },
+    {
+        "title": "Critical Magento Flaw (CVE-2025-54236) Actively Exploited for Session Hijacking and Unauthenticated RCE",
+        "link": "https://securityonline.info/critical-magento-flaw-cve-2025-54236-actively-exploited-for-session-hijacking-and-unauthenticated-rce/",
+        "published": "Wed, 29 Oct 2025 00:21:18 +0000"
+    },
+    {
+        "title": "Beast Ransomware Emerges as New RaaS Threat, Using ChaCha20 and Stealthy VSS Deletion",
+        "link": "https://securityonline.info/beast-ransomware-emerges-as-new-raas-threat-using-chacha20-and-stealthy-vss-deletion/",
+        "published": "Wed, 29 Oct 2025 00:18:19 +0000"
+    },
+    {
+        "title": "Critical MikroTik Flaw (CVE-2025-61481, CVSS 10.0) Exposes Router Admin Credentials Over Unencrypted HTTP WebFig",
+        "link": "https://securityonline.info/critical-mikrotik-flaw-cve-2025-61481-cvss-10-0-exposes-router-admin-credentials-over-unencrypted-http-webfig/",
+        "published": "Wed, 29 Oct 2025 00:11:48 +0000"
+    },
+    {
+        "title": "Water Saci Evolves: Multi-Layered WhatsApp Worm Uses IMAP Email for Covert C2 and Session Hijacking",
+        "link": "https://securityonline.info/water-saci-evolves-multi-layered-whatsapp-worm-uses-imap-email-for-covert-c2-and-session-hijacking/",
+        "published": "Wed, 29 Oct 2025 00:06:06 +0000"
+    },
+    {
+        "title": "Rhadamanthys Infostealer Hides in Ren’Py Visual Novel Games, Deploys Malware via Fake 1 Million Second Loading Screen",
+        "link": "https://securityonline.info/rhadamanthys-infostealer-hides-in-renpy-visual-novel-games-deploys-malware-via-fake-1-million-second-loading-screen/",
+        "published": "Wed, 29 Oct 2025 00:01:24 +0000"
     }
 ]
