@@ -1757,3 +1757,4 @@ clean_list:
 - wsus_CVE-2025-59287
 - CVE-2025-61196
 - CVE-2025-55752
+- CVE-2024-48990-Automatic-Exploit

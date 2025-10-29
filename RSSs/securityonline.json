@@ -22438,5 +22438,10 @@
         "title": "Critical strongSwan Heap Overflow in EAP-MSCHAPv2 Plugin Allows Remote Code Execution",
         "link": "https://securityonline.info/critical-strongswan-heap-overflow-in-eap-mschapv2-plugin-allows-remote-code-execution/",
         "published": "Wed, 29 Oct 2025 04:37:28 +0000"
+    },
+    {
+        "title": "LiteSpeed Cache Flaw (CVE-2025-12450): 7 Million WordPress Sites Exposed to XSS Attack",
+        "link": "https://securityonline.info/litespeed-cache-flaw-cve-2025-12450-7-million-wordpress-sites-exposed-to-xss-attack/",
+        "published": "Wed, 29 Oct 2025 10:57:42 +0000"
     }
 ]
