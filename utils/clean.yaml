@@ -1754,3 +1754,5 @@ clean_list:
 - CVE-2025-59230-LPE
 - WSUSResponder
 - cve-2024-45496
+- wsus_CVE-2025-59287
+- CVE-2025-61196
