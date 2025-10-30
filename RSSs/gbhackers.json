@@ -6538,5 +6538,10 @@
         "title": "12 Malicious Extensions in VSCode Marketplace Steal Source Code and Exfiltrate Login Credentials",
         "link": "https://gbhackers.com/vscode-marketplace/",
         "published": "Thu, 30 Oct 2025 07:34:00 +0000"
+    },
+    {
+        "title": "Privilege Escalation Exploit Targets Windows Cloud Files Minifilter",
+        "link": "https://gbhackers.com/privilege-escalation-exploit-targets-windows-cloud-files-minifilter/",
+        "published": "Thu, 30 Oct 2025 08:57:12 +0000"
     }
 ]
