@@ -22448,5 +22448,75 @@
         "title": "Sweet Security Brings Runtime-CNAPP Power to Windows",
         "link": "https://securityonline.info/sweet-security-brings-runtime-cnapp-power-to-windows/",
         "published": "Wed, 29 Oct 2025 15:54:46 +0000"
+    },
+    {
+        "title": "Jenkins Faces Wave of Plugin Flaws, Including SAML Authentication Bypass (CVE-2025-64131)",
+        "link": "https://securityonline.info/jenkins-faces-wave-of-plugin-flaws-including-saml-authentication-bypass-cve-2025-64131/",
+        "published": "Thu, 30 Oct 2025 02:08:08 +0000"
+    },
+    {
+        "title": "ISC Patches High-Severity Kea DHCPv4 DoS (CVE-2025-11232) Flaw, Allows Crash via Malformed Hostname",
+        "link": "https://securityonline.info/isc-patches-high-severity-kea-dhcpv4-dos-cve-2025-11232-flaw-allows-crash-via-malformed-hostname/",
+        "published": "Thu, 30 Oct 2025 01:54:54 +0000"
+    },
+    {
+        "title": "Wordfence Warns of Active Exploits Targeting Critical Privilege Escalation Flaw in WP Freeio (CVE-2025-11533)",
+        "link": "https://securityonline.info/wordfence-warns-of-active-exploits-targeting-critical-privilege-escalation-flaw-in-wp-freeio-cve-2025-11533/",
+        "published": "Thu, 30 Oct 2025 01:48:02 +0000"
+    },
+    {
+        "title": "Google Rolls Out Chrome 142 Patching 20 Security Flaws",
+        "link": "https://securityonline.info/google-rolls-out-chrome-142-patching-20-security-flaws/",
+        "published": "Thu, 30 Oct 2025 01:39:57 +0000"
+    },
+    {
+        "title": "npm Typosquat Campaign: 10 Malicious Packages Deliver PyInstaller Infostealer via Fake CAPTCHA",
+        "link": "https://securityonline.info/npm-typosquat-campaign-10-malicious-packages-deliver-pyinstaller-infostealer-via-fake-captcha/",
+        "published": "Thu, 30 Oct 2025 00:55:50 +0000"
+    },
+    {
+        "title": "Researcher Details Critical Authentication Bypasses in WSO2 API Manager and Identity Server",
+        "link": "https://securityonline.info/researcher-details-critical-authentication-bypasses-in-wso2-api-manager-and-identity-server/",
+        "published": "Thu, 30 Oct 2025 00:50:03 +0000"
+    },
+    {
+        "title": "TEE.fail: Researchers Break Intel SGX/TDX and AMD SEV-SNP with Sub-$1,000 DDR5 Memory Bus Attack",
+        "link": "https://securityonline.info/tee-fail-researchers-break-intel-sgx-tdx-and-amd-sev-snp-with-sub-1000-ddr5-memory-bus-attack/",
+        "published": "Thu, 30 Oct 2025 00:42:40 +0000"
+    },
+    {
+        "title": "Trigona Ransomware Attacks MS-SQL Servers Using Rust Scanner and BCP Utility to Deploy Payloads",
+        "link": "https://securityonline.info/trigona-ransomware-attacks-ms-sql-servers-using-rust-scanner-and-bcp-utility-to-deploy-payloads/",
+        "published": "Thu, 30 Oct 2025 00:34:42 +0000"
+    },
+    {
+        "title": "Stealthy Dual Malware Loader Uncovered: Executes TorNet & PureHVNC Simultaneously, Cloaked by MurmurHash2",
+        "link": "https://securityonline.info/stealthy-dual-malware-loader-uncovered-executes-tornet-purehvnc-simultaneously-cloaked-by-murmurhash2/",
+        "published": "Thu, 30 Oct 2025 00:31:44 +0000"
+    },
+    {
+        "title": "Midnight Ransomware Decryption Flaw: Babuk Successor’s RSA Implementation Mistake Allows Free File Recovery",
+        "link": "https://securityonline.info/midnight-ransomware-decryption-flaw-babuk-successors-rsa-implementation-mistake-allows-free-file-recovery/",
+        "published": "Thu, 30 Oct 2025 00:24:15 +0000"
+    },
+    {
+        "title": "VSCode Supply Chain Compromise: 12 Malicious Extensions Steal Source Code and Open Remote Shells",
+        "link": "https://securityonline.info/vscode-supply-chain-compromise-12-malicious-extensions-steal-source-code-and-open-remote-shells/",
+        "published": "Thu, 30 Oct 2025 00:20:37 +0000"
+    },
+    {
+        "title": "Major Shift: Chrome 154 Will Default to “Always Use Secure Connections,” Warning Users Before Insecure HTTP Sites",
+        "link": "https://securityonline.info/major-shift-chrome-154-will-default-to-always-use-secure-connections-warning-users-before-insecure-http-sites/",
+        "published": "Thu, 30 Oct 2025 00:15:32 +0000"
+    },
+    {
+        "title": "Researcher Details Windows Cloud Files Mini Filter Driver Elevation of Privilege Flaw (CVE-2025-55680)",
+        "link": "https://securityonline.info/researcher-details-windows-cloud-files-mini-filter-driver-elevation-of-privilege-flaw-cve-2025-55680/",
+        "published": "Thu, 30 Oct 2025 00:06:09 +0000"
+    },
+    {
+        "title": "Lampion Banking Trojan Evolves: 700MB Bloatware DLL and ClickFix VBS Script Target Brazilian Users",
+        "link": "https://securityonline.info/lampion-banking-trojan-evolves-700mb-bloatware-dll-and-clickfix-vbs-script-target-brazilian-users/",
+        "published": "Thu, 30 Oct 2025 00:01:33 +0000"
     }
 ]
