@@ -1767,3 +1767,5 @@ clean_list:
 - Blackash-CVE-2025-49844
 - CVE-2025-6440
 - CVE-2024-48990
+- Blackash-CVE-2025-61481
+- Blackash-CVE-2025-55752
