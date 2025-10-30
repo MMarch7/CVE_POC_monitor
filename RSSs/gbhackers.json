@@ -6553,5 +6553,20 @@
         "title": "New Attack Chains Ghost SPNs and Kerberos Reflection to Elevate SMB Privileges",
         "link": "https://gbhackers.com/new-attack-chains-ghost-spns-and-kerberos/",
         "published": "Thu, 30 Oct 2025 09:59:43 +0000"
+    },
+    {
+        "title": "Jenkins Flaws Expose SAML Authentication Bypass and MCP Server Plugin Weaknesses",
+        "link": "https://gbhackers.com/jenkins-flaws-expose-saml-authentication-bypass/",
+        "published": "Thu, 30 Oct 2025 12:54:57 +0000"
+    },
+    {
+        "title": "Airstalk Malware: Multi-Threaded C2 Steals Windows Logins",
+        "link": "https://gbhackers.com/airstalk-malware/",
+        "published": "Thu, 30 Oct 2025 12:22:02 +0000"
+    },
+    {
+        "title": "NFC Relay Attack: 700+ Android Apps Harvest Banking Login Details",
+        "link": "https://gbhackers.com/nfc-relay-attack/",
+        "published": "Thu, 30 Oct 2025 11:26:40 +0000"
     }
 ]
