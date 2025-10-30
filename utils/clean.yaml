@@ -1762,3 +1762,5 @@ clean_list:
 - cve-2024-56800-poc
 - CVE-2025-61498
 - CVE-2025-54957
+- patch_chewsday_cve_2025_53766
+- CVE-2025-40778

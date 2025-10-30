@@ -6523,5 +6523,20 @@
         "title": "WordPress Plugin Vulnerability Lets Attackers Read Any Server File",
         "link": "https://gbhackers.com/wordpress-plugin-vulnerability-4/",
         "published": "Thu, 30 Oct 2025 05:32:58 +0000"
+    },
+    {
+        "title": "New Malware Infects WooCommerce Sites Through Fake Plugins to Steal Credit Card Data",
+        "link": "https://gbhackers.com/woocommerce-sites/",
+        "published": "Thu, 30 Oct 2025 08:33:22 +0000"
+    },
+    {
+        "title": "Chrome 142 Update Patches 20 Security Flaws Enabling Code Execution",
+        "link": "https://gbhackers.com/chrome-142-update-patches-20-security-flaws/",
+        "published": "Thu, 30 Oct 2025 08:26:38 +0000"
+    },
+    {
+        "title": "12 Malicious Extensions in VSCode Marketplace Steal Source Code and Exfiltrate Login Credentials",
+        "link": "https://gbhackers.com/vscode-marketplace/",
+        "published": "Thu, 30 Oct 2025 07:34:00 +0000"
     }
 ]
