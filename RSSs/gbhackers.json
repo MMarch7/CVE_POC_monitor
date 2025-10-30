@@ -6543,5 +6543,15 @@
         "title": "Privilege Escalation Exploit Targets Windows Cloud Files Minifilter",
         "link": "https://gbhackers.com/privilege-escalation-exploit-targets-windows-cloud-files-minifilter/",
         "published": "Thu, 30 Oct 2025 08:57:12 +0000"
+    },
+    {
+        "title": "Critical RediShell RCE Vulnerability Threatens 8,500+ Redis Deployments Worldwide",
+        "link": "https://gbhackers.com/redishell-rce-vulnerability/",
+        "published": "Thu, 30 Oct 2025 10:31:21 +0000"
+    },
+    {
+        "title": "New Attack Chains Ghost SPNs and Kerberos Reflection to Elevate SMB Privileges",
+        "link": "https://gbhackers.com/new-attack-chains-ghost-spns-and-kerberos/",
+        "published": "Thu, 30 Oct 2025 09:59:43 +0000"
     }
 ]

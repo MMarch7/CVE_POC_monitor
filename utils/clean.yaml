@@ -1765,3 +1765,4 @@ clean_list:
 - patch_chewsday_cve_2025_53766
 - CVE-2025-40778
 - Blackash-CVE-2025-49844
+- CVE-2025-6440
