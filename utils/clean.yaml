@@ -1773,3 +1773,5 @@ clean_list:
 - CVE-2024-48990-PoC
 - CVE_2025_26625_PoC
 - CVE-2025-26794-exploit
+- exploit-cve
+- cve-2025-49844
