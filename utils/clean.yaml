@@ -1777,3 +1777,4 @@ clean_list:
 - cve-2025-49844
 - cveDataMappingYear_2025
 - cveDataMappingYear_2024
+- Blackash-CVE-2025-10035

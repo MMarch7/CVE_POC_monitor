@@ -6643,5 +6643,10 @@
         "title": "Threat Actors Exploiting Open-Source C2 Frameworks to Deploy Malicious Payloads",
         "link": "https://gbhackers.com/open-source-c2/",
         "published": "Fri, 31 Oct 2025 09:31:22 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit LANSCOPE Endpoint Manager Zero-Day Vulnerability to Steal Confidential Data",
+        "link": "https://gbhackers.com/lanscope-endpoint-manager/",
+        "published": "Fri, 31 Oct 2025 10:59:11 +0000"
     }
 ]
