@@ -22563,5 +22563,60 @@
         "title": "Aembit Introduces Identity and Access Management for Agentic AI",
         "link": "https://securityonline.info/aembit-introduces-identity-and-access-management-for-agentic-ai/",
         "published": "Thu, 30 Oct 2025 12:01:34 +0000"
+    },
+    {
+        "title": "Netflix Experiments with Vertical Video and Podcasts, Redefining Mobile Entertainment",
+        "link": "https://securityonline.info/netflix-experiments-with-vertical-video-and-podcasts-redefining-mobile-entertainment/",
+        "published": "Fri, 31 Oct 2025 01:57:07 +0000"
+    },
+    {
+        "title": "Brash Attack: Critical Chromium Flaw Allows DoS via Simple Code Injection",
+        "link": "https://securityonline.info/brash-attack-critical-chromium-flaw-allows-dos-via-simple-code-injection/",
+        "published": "Fri, 31 Oct 2025 01:53:36 +0000"
+    },
+    {
+        "title": "Samsung Internet Arrives on Windows, Pushing Forward Ambient AI Vision",
+        "link": "https://securityonline.info/samsung-internet-arrives-on-windows-pushing-forward-ambient-ai-vision/",
+        "published": "Fri, 31 Oct 2025 01:47:06 +0000"
+    },
+    {
+        "title": "Court Mandate: Google Play Opens to External Payments in the US",
+        "link": "https://securityonline.info/court-mandate-google-play-opens-to-external-payments-in-the-us/",
+        "published": "Fri, 31 Oct 2025 01:44:03 +0000"
+    },
+    {
+        "title": "CVE-2025-64095: Critical CVSS 10.0 Flaw in DNN Platform Allows Unauthenticated Website Overwrite",
+        "link": "https://securityonline.info/cve-2025-64095-critical-cvss-10-0-flaw-in-dnn-platform-allows-unauthenticated-website-overwrite/",
+        "published": "Fri, 31 Oct 2025 00:39:54 +0000"
+    },
+    {
+        "title": "Magecart SMILODON Skimmer Infiltrates WooCommerce Via Rogue Plugin Hiding Payload in Fake PNG Image",
+        "link": "https://securityonline.info/magecart-smilodon-skimmer-infiltrates-woocommerce-via-rogue-plugin-hiding-payload-in-fake-png-image/",
+        "published": "Fri, 31 Oct 2025 00:35:53 +0000"
+    },
+    {
+        "title": "PhantomRaven: 126 Malicious npm Packages Steal Developer Tokens and Secrets Using Hidden Dependencies",
+        "link": "https://securityonline.info/phantomraven-126-malicious-npm-packages-steal-developer-tokens-and-secrets-using-hidden-dependencies/",
+        "published": "Fri, 31 Oct 2025 00:30:49 +0000"
+    },
+    {
+        "title": "XLab Unveils RPX_Client, the First Confirmed Relay Node in PolarEdge IoT ORB Network",
+        "link": "https://securityonline.info/xlab-unveils-rpx_client-the-first-confirmed-relay-node-in-polaredge-iot-orb-network/",
+        "published": "Fri, 31 Oct 2025 00:22:44 +0000"
+    },
+    {
+        "title": "Nation-State Espionage: Airstalk Malware Hijacks VMware AirWatch (MDM) API for Covert C2 Channel",
+        "link": "https://securityonline.info/nation-state-espionage-airstalk-malware-hijacks-vmware-airwatch-mdm-api-for-covert-c2-channel/",
+        "published": "Fri, 31 Oct 2025 00:19:12 +0000"
+    },
+    {
+        "title": "Russian APTs Exploit LotL Techniques in Ukraine Cyber Attacks, Deploying Sandworm-Linked Webshell and Credential Dumping",
+        "link": "https://securityonline.info/russian-apts-exploit-lotl-techniques-in-ukraine-cyber-attacks-deploying-sandworm-linked-webshell-and-credential-dumping/",
+        "published": "Fri, 31 Oct 2025 00:07:31 +0000"
+    },
+    {
+        "title": "Progress Patches High-Severity Vulnerability in MOVEit Transfer AS2 Module (CVE-2025-10932)",
+        "link": "https://securityonline.info/progress-patches-high-severity-vulnerability-in-moveit-transfer-as2-module-cve-2025-10932/",
+        "published": "Fri, 31 Oct 2025 00:01:04 +0000"
     }
 ]
