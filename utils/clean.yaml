@@ -1775,3 +1775,5 @@ clean_list:
 - CVE-2025-26794-exploit
 - exploit-cve
 - cve-2025-49844
+- cveDataMappingYear_2025
+- cveDataMappingYear_2024
