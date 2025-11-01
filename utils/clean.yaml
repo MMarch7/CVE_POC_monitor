@@ -1778,3 +1778,5 @@ clean_list:
 - cveDataMappingYear_2025
 - cveDataMappingYear_2024
 - Blackash-CVE-2025-10035
+- CVE_2025_62527_PoC
+- WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal
