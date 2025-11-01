@@ -22628,5 +22628,35 @@
         "title": "CISA Warns of Active Exploitation in XWiki and VMware Vulnerabilities",
         "link": "https://securityonline.info/cisa-warns-of-active-exploitation-in-xwiki-and-vmware-vulnerabilities/",
         "published": "Fri, 31 Oct 2025 02:12:09 +0000"
+    },
+    {
+        "title": "Pinterest Launches AI Assistant: Transforming Search to Personalized Visual Discovery",
+        "link": "https://securityonline.info/pinterest-launches-ai-assistant-transforming-search-to-personalized-visual-discovery/",
+        "published": "Sat, 01 Nov 2025 08:32:06 +0000"
+    },
+    {
+        "title": "Meta Quest 3 Gets Windows 11 Virtual Desktop—Bringing Mixed Reality to the Masses",
+        "link": "https://securityonline.info/meta-quest-3-gets-windows-11-virtual-desktop-bringing-mixed-reality-to-the-masses/",
+        "published": "Sat, 01 Nov 2025 08:27:52 +0000"
+    },
+    {
+        "title": "iPhone 17 Surge: Apple Hits Record $102B Revenue While Teasing AI Siri 2026 Debut",
+        "link": "https://securityonline.info/iphone-17-surge-apple-hits-record-102b-revenue-while-teasing-ai-siri-2026-debut/",
+        "published": "Sat, 01 Nov 2025 08:23:21 +0000"
+    },
+    {
+        "title": "Critical WordPress Theme Flaw (CVE-2025-5397, CVSS 9.8) Under Active Exploitation Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-wordpress-theme-flaw-cve-2025-5397-cvss-9-8-under-active-exploitation-allows-unauthenticated-admin-takeover/",
+        "published": "Sat, 01 Nov 2025 08:14:19 +0000"
+    },
+    {
+        "title": "Critical WordPress Plugin Flaw (CVE-2025-8489, CVSS 9.8) Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-wordpress-plugin-flaw-cve-2025-8489-cvss-9-8-allows-unauthenticated-admin-takeover/",
+        "published": "Sat, 01 Nov 2025 08:02:10 +0000"
+    },
+    {
+        "title": "CVE-2025-11833 (CVSS 9.8): Critical Flaw Exposes 400,000 WordPress Sites to Unauthenticated Account Takeover",
+        "link": "https://securityonline.info/cve-2025-11833-cvss-9-8-critical-flaw-exposes-400000-wordpress-sites-to-unauthenticated-account-takeover/",
+        "published": "Sat, 01 Nov 2025 07:51:40 +0000"
     }
 ]
