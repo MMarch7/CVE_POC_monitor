@@ -1782,3 +1782,4 @@ clean_list:
 - WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal
 - CVE-2025-60423
 - CVE-2025-11499
+- CVE-2025-61481
