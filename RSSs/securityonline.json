@@ -22658,5 +22658,10 @@
         "title": "CVE-2025-11833 (CVSS 9.8): Critical Flaw Exposes 400,000 WordPress Sites to Unauthenticated Account Takeover",
         "link": "https://securityonline.info/cve-2025-11833-cvss-9-8-critical-flaw-exposes-400000-wordpress-sites-to-unauthenticated-account-takeover/",
         "published": "Sat, 01 Nov 2025 07:51:40 +0000"
+    },
+    {
+        "title": "Sandworm APT Attacks Belarus Military With LNK Exploit and OpenSSH Over Tor obfs4 Backdoor",
+        "link": "https://securityonline.info/sandworm-apt-attacks-belarus-military-with-lnk-exploit-and-openssh-over-tor-obfs4-backdoor/",
+        "published": "Sat, 01 Nov 2025 11:35:46 +0000"
     }
 ]
