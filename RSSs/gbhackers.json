@@ -6678,5 +6678,10 @@
         "title": "Cisco IOS XE Vulnerability Being Abused in the Wild to Plant BADCANDY",
         "link": "https://gbhackers.com/cisco-ios-xe-vulnerability-3/",
         "published": "Sat, 01 Nov 2025 04:58:27 +0000"
+    },
+    {
+        "title": "CISA Alerts on Linux Kernel Vulnerability Exploited in Ransomware Attacks",
+        "link": "https://gbhackers.com/linux-kernel-vulnerability-3/",
+        "published": "Sat, 01 Nov 2025 05:49:52 +0000"
     }
 ]
