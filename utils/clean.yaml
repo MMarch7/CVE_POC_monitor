@@ -1791,3 +1791,7 @@ clean_list:
 - CVE-2025-25252-POC
 - CVE-2025-25253
 - CVE-2025-25254
+- brokeCLAUDIA
+- CVE-2025-59396
+- cve-2025-12428-exploit-poc
+- cve-2025-59287-exploit-poc
