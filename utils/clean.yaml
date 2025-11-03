@@ -1795,3 +1795,7 @@ clean_list:
 - CVE-2025-59396
 - cve-2025-12428-exploit-poc
 - cve-2025-59287-exploit-poc
+- n8n-remote-code-execution-cve-2025-62726-exploit
+- Blackash-CVE-2025-53072
+- CVE-2025-62726-payload-repo
+- Blackash-CVE-2025-62481
