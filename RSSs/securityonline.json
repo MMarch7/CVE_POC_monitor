@@ -22668,5 +22668,90 @@
         "title": "Conti Ransomware Operator Oleksii Lytvynenko Extradited from Ireland to Face Federal Hacking Charges",
         "link": "https://securityonline.info/conti-ransomware-operator-oleksii-lytvynenko-extradited-from-ireland-to-face-federal-hacking-charges/",
         "published": "Sun, 02 Nov 2025 00:46:50 +0000"
+    },
+    {
+        "title": "Dual Audio: Windows 11 Finally Gets Bluetooth Audio Sharing, But Only for Copilot+ PCs",
+        "link": "https://securityonline.info/dual-audio-windows-11-finally-gets-bluetooth-audio-sharing-but-only-for-copilot-pcs/",
+        "published": "Mon, 03 Nov 2025 02:12:47 +0000"
+    },
+    {
+        "title": "iOS Update Timeline: Apple Preps 26.1 Release, Eyes Passport & RCS Encryption for 26.2",
+        "link": "https://securityonline.info/ios-update-timeline-apple-preps-26-1-release-eyes-passport-rcs-encryption-for-26-2/",
+        "published": "Mon, 03 Nov 2025 02:08:10 +0000"
+    },
+    {
+        "title": "Windows 11 Bug: Task Manager Refuses to Close, Multiplying Processes and Hitting Performance",
+        "link": "https://securityonline.info/windows-11-bug-task-manager-refuses-to-close-multiplying-processes-and-hitting-performance/",
+        "published": "Mon, 03 Nov 2025 02:04:47 +0000"
+    },
+    {
+        "title": "Space Race: SpaceX Lands $2 Billion Contract for Trump’s “Golden Dome” Missile Defense",
+        "link": "https://securityonline.info/space-race-spacex-lands-2-billion-contract-for-trumps-golden-dome-missile-defense/",
+        "published": "Mon, 03 Nov 2025 02:00:51 +0000"
+    },
+    {
+        "title": "The 2026 Surge: Apple’s 15-Product Roadmap Includes Foldable iPhone & AI Smart Home",
+        "link": "https://securityonline.info/the-2026-surge-apples-15-product-roadmap-includes-foldable-iphone-ai-smart-home/",
+        "published": "Mon, 03 Nov 2025 01:57:22 +0000"
+    },
+    {
+        "title": "Operation SkyCloak Targets Russian/Belarusian Military With LNK Exploit and OpenSSH Over Tor Backdoor",
+        "link": "https://securityonline.info/operation-skycloak-targets-russian-belarusian-military-with-lnk-exploit-and-openssh-over-tor-backdoor/",
+        "published": "Mon, 03 Nov 2025 00:41:01 +0000"
+    },
+    {
+        "title": "Cloud Abuse: TruffleNet BEC Campaign Hijacks AWS SES and Portainer to Orchestrate 800+ Malicious Hosts",
+        "link": "https://securityonline.info/cloud-abuse-trufflenet-bec-campaign-hijacks-aws-ses-and-portainer-to-orchestrate-800-malicious-hosts/",
+        "published": "Mon, 03 Nov 2025 00:37:30 +0000"
+    },
+    {
+        "title": "Tap-and-Steal: Over 760 Android Apps Exploit NFC/HCE for Payment Card Theft in Global Financial Scam",
+        "link": "https://securityonline.info/tap-and-steal-over-760-android-apps-exploit-nfc-hce-for-payment-card-theft-in-global-financial-scam/",
+        "published": "Mon, 03 Nov 2025 00:32:14 +0000"
+    },
+    {
+        "title": "Chinese APT UNC6384 Pivots to Europe, Exploits Windows LNK Flaw to Deploy PlugX via Canon DLL Sideloading",
+        "link": "https://securityonline.info/chinese-apt-unc6384-pivots-to-europe-exploits-windows-lnk-flaw-to-deploy-plugx-via-canon-dll-sideloading/",
+        "published": "Mon, 03 Nov 2025 00:29:48 +0000"
+    },
+    {
+        "title": "Android AI Scam Defense Blocks 10 Billion Monthly Threats; Users 58% More Likely to Avoid Scam Texts Than iOS",
+        "link": "https://securityonline.info/android-ai-scam-defense-blocks-10-billion-monthly-threats-users-58-more-likely-to-avoid-scam-texts-than-ios/",
+        "published": "Mon, 03 Nov 2025 00:26:48 +0000"
+    },
+    {
+        "title": "North Korean APTs Upgrade Arsenal: Kimsuky Uses Stealthy HttpTroy, Lazarus Deploys New BLINDINGCAN RAT",
+        "link": "https://securityonline.info/north-korean-apts-upgrade-arsenal-kimsuky-uses-stealthy-httptroy-lazarus-deploys-new-blindingcan-rat/",
+        "published": "Mon, 03 Nov 2025 00:22:58 +0000"
+    },
+    {
+        "title": "Kinsing Cryptominer Exploits Apache ActiveMQ RCE (CVE-2023-46604), Adds Sharpire Backdoor for Multi-Stage Intrusion",
+        "link": "https://securityonline.info/kinsing-cryptominer-exploits-apache-activemq-rce-cve-2023-46604-adds-sharpire-backdoor-for-multi-stage-intrusion/",
+        "published": "Mon, 03 Nov 2025 00:18:46 +0000"
+    },
+    {
+        "title": "Open-Source AdaptixC2 Hacking Framework Adopted by Russian Cybercriminals and Akira Ransomware",
+        "link": "https://securityonline.info/open-source-adaptixc2-hacking-framework-adopted-by-russian-cybercriminals-and-akira-ransomware/",
+        "published": "Mon, 03 Nov 2025 00:12:33 +0000"
+    },
+    {
+        "title": "Next-Gen Android Banking Trojan Hides in Digital ID App, Automates Crypto Wallet Theft and Evades Emulators",
+        "link": "https://securityonline.info/next-gen-android-banking-trojan-hides-in-digital-id-app-automates-crypto-wallet-theft-and-evades-emulators/",
+        "published": "Mon, 03 Nov 2025 00:08:58 +0000"
+    },
+    {
+        "title": "Tangerine Turkey Cryptomining Worm Spreads Via USB Drives, Hides Payloads with VBScript and LOLBins",
+        "link": "https://securityonline.info/tangerine-turkey-cryptomining-worm-spreads-via-usb-drives-hides-payloads-with-vbscript-and-lolbins/",
+        "published": "Mon, 03 Nov 2025 00:04:57 +0000"
+    },
+    {
+        "title": "Copyright Pivot: Getty Images Partners with Perplexity AI to Tackle Content Attribution",
+        "link": "https://securityonline.info/copyright-pivot-getty-images-partners-with-perplexity-ai-to-tackle-content-attribution/",
+        "published": "Mon, 03 Nov 2025 00:01:36 +0000"
+    },
+    {
+        "title": "Elastic Patches High-Severity Privilege Escalation Flaw in Elastic Cloud Enterprise (CVE-2025-37736)",
+        "link": "https://securityonline.info/elastic-patches-high-severity-privilege-escalation-flaw-in-elastic-cloud-enterprise-cve-2025-37736/",
+        "published": "Mon, 03 Nov 2025 00:00:22 +0000"
     }
 ]

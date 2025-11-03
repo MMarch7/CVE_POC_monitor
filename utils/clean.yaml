@@ -1786,3 +1786,4 @@ clean_list:
 - CVE-2025-11171
 - CVE-2025-11174
 - CVE-2025-59528.yaml
+- CVE-2025-50168-pwn2own-berlin-2025
