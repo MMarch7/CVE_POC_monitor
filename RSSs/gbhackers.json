@@ -6728,5 +6728,10 @@
         "title": "Windows 11 24H2/25H2 Flaw Keeps Task Manager Running After You Close It",
         "link": "https://gbhackers.com/windows-11-flaw-keeps-task-manager-running-after-you-close-it/",
         "published": "Mon, 03 Nov 2025 07:50:47 +0000"
+    },
+    {
+        "title": "New BOF Tool Bypasses Microsoft Teams Cookie Encryption to Steal User Chats",
+        "link": "https://gbhackers.com/new-bof-tool-bypasses-microsoft-teams-cookie-encryption/",
+        "published": "Mon, 03 Nov 2025 10:13:33 +0000"
     }
 ]
