@@ -463,5 +463,10 @@
         "title": "CVE-2025-4614 PAN-OS: Session Token Disclosure Vulnerability (Severity: LOW)",
         "link": "https://security.paloaltonetworks.com/CVE-2025-4614",
         "published": "2025-10-08T16:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0012 Informational Bulletin: OSS CVEs Fixed in PAN-OS (Severity: INFORMATIONAL)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0012",
+        "published": "2025-07-09T16:00:00.000Z"
     }
 ]
