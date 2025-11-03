@@ -22753,5 +22753,15 @@
         "title": "Elastic Patches High-Severity Privilege Escalation Flaw in Elastic Cloud Enterprise (CVE-2025-37736)",
         "link": "https://securityonline.info/elastic-patches-high-severity-privilege-escalation-flaw-in-elastic-cloud-enterprise-cve-2025-37736/",
         "published": "Mon, 03 Nov 2025 00:00:22 +0000"
+    },
+    {
+        "title": "High-Severity Bug: AMD Zen 5 RDSEED Flaw Risks Randomness Integrity; Microcode Fix Coming",
+        "link": "https://securityonline.info/high-severity-bug-amd-zen-5-rdseed-flaw-risks-randomness-integrity-microcode-fix-coming/",
+        "published": "Mon, 03 Nov 2025 02:44:25 +0000"
+    },
+    {
+        "title": "The Fix is Coming: Microsoft Acknowledges and Mitigates Widespread Driver Error 0x80070103",
+        "link": "https://securityonline.info/the-fix-is-coming-microsoft-acknowledges-and-mitigates-widespread-driver-error-0x80070103/",
+        "published": "Mon, 03 Nov 2025 02:33:27 +0000"
     }
 ]
