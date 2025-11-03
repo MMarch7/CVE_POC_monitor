@@ -6743,5 +6743,10 @@
         "title": "Critical UniFi OS Flaw Enables Remote Code Execution",
         "link": "https://gbhackers.com/critical-unifi-os-flaw/",
         "published": "Mon, 03 Nov 2025 12:18:20 +0000"
+    },
+    {
+        "title": "Hackers Actively Scanning TCP Ports 8530/8531 for WSUS CVE-2025-59287",
+        "link": "https://gbhackers.com/hackers-actively-scanning-tcp-ports-8530-8531/",
+        "published": "Mon, 03 Nov 2025 14:00:42 +0000"
     }
 ]
