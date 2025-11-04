@@ -1800,3 +1800,4 @@ clean_list:
 - CVE-2025-62726-payload-repo
 - Blackash-CVE-2025-62481
 - CVE-2024-32019-PoC
+- CVE-2025-26624
