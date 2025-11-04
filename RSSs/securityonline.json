@@ -22798,5 +22798,40 @@
         "title": "Perplexity Unveils AI-Powered Patents Tool That Democratizes Research with Natural Language Search",
         "link": "https://securityonline.info/perplexity-unveils-ai-powered-patents-tool-that-democratizes-research-with-natural-language-search/",
         "published": "Tue, 04 Nov 2025 00:01:19 +0000"
+    },
+    {
+        "title": "Access Denied: Microsoft Authenticator to Purge Entra ID Credentials on Rooted Devices",
+        "link": "https://securityonline.info/access-denied-microsoft-authenticator-to-purge-entra-id-credentials-on-rooted-devices/",
+        "published": "Tue, 04 Nov 2025 03:13:20 +0000"
+    },
+    {
+        "title": "Years Late: Apple Finally Launches Full Web-Based App Store Homepage with Search & Discovery",
+        "link": "https://securityonline.info/years-late-apple-finally-launches-full-web-based-app-store-homepage-with-search-discovery/",
+        "published": "Tue, 04 Nov 2025 03:06:38 +0000"
+    },
+    {
+        "title": "Passwordless Future: Microsoft Edge 142 Rolls Out Cross-Platform Passkey Sync",
+        "link": "https://securityonline.info/passwordless-future-microsoft-edge-142-rolls-out-cross-platform-passkey-sync/",
+        "published": "Tue, 04 Nov 2025 03:02:35 +0000"
+    },
+    {
+        "title": "Clarity Fix: iOS 26.1 Launches with Liquid Glass Tint Option & Camera Gesture Toggle",
+        "link": "https://securityonline.info/clarity-fix-ios-26-1-launches-with-liquid-glass-tint-option-camera-gesture-toggle/",
+        "published": "Tue, 04 Nov 2025 02:59:12 +0000"
+    },
+    {
+        "title": "Model Pulled: Google Removes Gemma AI After Fabricating Defamatory Claims About U.S. Senator",
+        "link": "https://securityonline.info/model-pulled-google-removes-gemma-ai-after-fabricating-defamatory-claims-about-u-s-senator/",
+        "published": "Tue, 04 Nov 2025 02:50:33 +0000"
+    },
+    {
+        "title": "SesameOp Backdoor Hijacks OpenAI Assistants API for Covert C2 and Espionage",
+        "link": "https://securityonline.info/sesameop-backdoor-hijacks-openai-assistants-api-for-covert-c2-and-espionage/",
+        "published": "Tue, 04 Nov 2025 02:32:40 +0000"
+    },
+    {
+        "title": "AI-Discovered Flaw: Redis Flaw (CVE-2025-62507) Allows Remote Code Execution via Stack Buffer Overflow",
+        "link": "https://securityonline.info/ai-discovered-flaw-redis-flaw-cve-2025-62507-allows-remote-code-execution-via-stack-buffer-overflow/",
+        "published": "Tue, 04 Nov 2025 02:09:57 +0000"
     }
 ]
