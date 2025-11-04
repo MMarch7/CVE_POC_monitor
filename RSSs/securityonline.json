@@ -22763,5 +22763,40 @@
         "title": "The Fix is Coming: Microsoft Acknowledges and Mitigates Widespread Driver Error 0x80070103",
         "link": "https://securityonline.info/the-fix-is-coming-microsoft-acknowledges-and-mitigates-widespread-driver-error-0x80070103/",
         "published": "Mon, 03 Nov 2025 02:33:27 +0000"
+    },
+    {
+        "title": "Cyber-Enabled Cargo Theft: Hackers Hijack Logistics Firms with RMM Tools to Steal Physical Shipments",
+        "link": "https://securityonline.info/cyber-enabled-cargo-theft-hackers-hijack-logistics-firms-with-rmm-tools-to-steal-physical-shipments/",
+        "published": "Tue, 04 Nov 2025 02:00:40 +0000"
+    },
+    {
+        "title": "Generative AI Accelerates Malware Reverse Engineering: ChatGPT Breaks XLoader’s Multiple RC4 Encryption Layers in Hours",
+        "link": "https://securityonline.info/generative-ai-accelerates-malware-reverse-engineering-chatgpt-breaks-xloaders-multiple-rc4-encryption-layers-in-hours/",
+        "published": "Tue, 04 Nov 2025 01:45:21 +0000"
+    },
+    {
+        "title": "Operation Peek-A-Baku: Silent Lynx APT Exploits LNK Flaws to Deploy Reverse Shells via GitHub Against Central Asian Diplomacy",
+        "link": "https://securityonline.info/operation-peek-a-baku-silent-lynx-apt-exploits-lnk-flaws-to-deploy-reverse-shells-via-github-against-central-asian-diplomacy/",
+        "published": "Tue, 04 Nov 2025 00:18:01 +0000"
+    },
+    {
+        "title": "Researcher Releases PoC Exploit for Windows Elevation of Privilege Vulnerability",
+        "link": "https://securityonline.info/researcher-releases-poc-exploit-for-windows-elevation-of-privilege-vulnerability/",
+        "published": "Tue, 04 Nov 2025 00:12:27 +0000"
+    },
+    {
+        "title": "Researcher Details Windows SMB Server Elevation of Privilege Vulnerability – CVE-2025-58726",
+        "link": "https://securityonline.info/researcher-details-windows-smb-server-elevation-of-privilege-vulnerability-cve-2025-58726/",
+        "published": "Tue, 04 Nov 2025 00:09:03 +0000"
+    },
+    {
+        "title": "Rhysida Ransomware Abuses Microsoft Trusted Signing to Deploy OysterLoader Via Teams Malvertising",
+        "link": "https://securityonline.info/rhysida-ransomware-abuses-microsoft-trusted-signing-to-deploy-oysterloader-via-teams-malvertising/",
+        "published": "Tue, 04 Nov 2025 00:05:13 +0000"
+    },
+    {
+        "title": "Perplexity Unveils AI-Powered Patents Tool That Democratizes Research with Natural Language Search",
+        "link": "https://securityonline.info/perplexity-unveils-ai-powered-patents-tool-that-democratizes-research-with-natural-language-search/",
+        "published": "Tue, 04 Nov 2025 00:01:19 +0000"
     }
 ]
