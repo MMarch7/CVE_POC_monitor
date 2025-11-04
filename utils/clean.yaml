@@ -1801,3 +1801,6 @@ clean_list:
 - Blackash-CVE-2025-62481
 - CVE-2024-32019-PoC
 - CVE-2025-26624
+- CVE-2025-12437
+- apache-commons-lang2
+- CVE-CVE-2025-12463
