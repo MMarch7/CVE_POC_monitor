@@ -1805,3 +1805,5 @@ clean_list:
 - apache-commons-lang2
 - CVE-CVE-2025-12463
 - CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day
+- CVE-2025-53964
+- CVE-2024-51378
