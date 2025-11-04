@@ -22833,5 +22833,25 @@
         "title": "AI-Discovered Flaw: Redis Flaw (CVE-2025-62507) Allows Remote Code Execution via Stack Buffer Overflow",
         "link": "https://securityonline.info/ai-discovered-flaw-redis-flaw-cve-2025-62507-allows-remote-code-execution-via-stack-buffer-overflow/",
         "published": "Tue, 04 Nov 2025 02:09:57 +0000"
+    },
+    {
+        "title": "AI Compute Race: Microsoft Secures $9.7 Billion GPU Deal with IREN for Cloud Expansion",
+        "link": "https://securityonline.info/ai-compute-race-microsoft-secures-9-7-billion-gpu-deal-with-iren-for-cloud-expansion/",
+        "published": "Tue, 04 Nov 2025 03:33:02 +0000"
+    },
+    {
+        "title": "Cloud Wars: OpenAI Signs $38 Billion Computing Deal with AWS, Ending Microsoft Exclusivity",
+        "link": "https://securityonline.info/cloud-wars-openai-signs-38-billion-computing-deal-with-aws-ending-microsoft-exclusivity/",
+        "published": "Tue, 04 Nov 2025 03:27:59 +0000"
+    },
+    {
+        "title": "Streamlined? Microsoft Strips Critical Info from Windows Update Names, Causing IT Backlash",
+        "link": "https://securityonline.info/streamlined-microsoft-strips-critical-info-from-windows-update-names-causing-it-backlash/",
+        "published": "Tue, 04 Nov 2025 03:23:45 +0000"
+    },
+    {
+        "title": "The 69 MB Challenge: Developer Strips Windows 7 to Its Bare Minimum—And It Still Boots",
+        "link": "https://securityonline.info/the-69-mb-challenge-developer-strips-windows-7-to-its-bare-minimum-and-it-still-boots/",
+        "published": "Tue, 04 Nov 2025 03:17:13 +0000"
     }
 ]
