@@ -6808,5 +6808,20 @@
         "title": "Android Hit by 0-Click RCE Vulnerability in Core System Component",
         "link": "https://gbhackers.com/android-hit-by-0-click-rce-vulnerability/",
         "published": "Tue, 04 Nov 2025 12:58:18 +0000"
+    },
+    {
+        "title": "Critical WordPress Post SMTP Plugin Vulnerability Puts 400,000 Sites at Risk of Account Takeover",
+        "link": "https://gbhackers.com/wordpress-post-smtp-plugin/",
+        "published": "Tue, 04 Nov 2025 13:37:59 +0000"
+    },
+    {
+        "title": "Zscaler Acquires SPLX to Strengthen AI-Powered Zero Trust Security",
+        "link": "https://gbhackers.com/zscaler-acquires-splx/",
+        "published": "Tue, 04 Nov 2025 13:08:02 +0000"
+    },
+    {
+        "title": "XLoader Malware Analyzed Using ChatGPT’s AI, Breaks RC4 Encryption Layers in Hours",
+        "link": "https://gbhackers.com/xloader-malware/",
+        "published": "Tue, 04 Nov 2025 13:03:57 +0000"
     }
 ]
