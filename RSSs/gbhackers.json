@@ -6843,5 +6843,25 @@
         "title": "Critical RCE Bug in Leading React Native NPM Module Could Allow Full System Compromise",
         "link": "https://gbhackers.com/critical-rce-bug-in-leading-react-native-npm-module/",
         "published": "Wed, 05 Nov 2025 04:59:03 +0000"
+    },
+    {
+        "title": "FIN7 Hackers Leverage Windows SSH Backdoor for Stealthy Remote Access and Persistence",
+        "link": "https://gbhackers.com/windows-ssh-backdoor/",
+        "published": "Wed, 05 Nov 2025 06:37:34 +0000"
+    },
+    {
+        "title": "Hackers Abuse OneDrive.exe via DLL Sideloading to Run Malicious Code",
+        "link": "https://gbhackers.com/hackers-abuse-onedrive-exe-via-dll-sideloading/",
+        "published": "Wed, 05 Nov 2025 06:09:57 +0000"
+    },
+    {
+        "title": "Silent Lynx APT New Attack Targeting Governmental Employees Posing as Officials",
+        "link": "https://gbhackers.com/silent-lynx-apt/",
+        "published": "Wed, 05 Nov 2025 06:03:48 +0000"
+    },
+    {
+        "title": "Attackers Exploit Microsoft Teams Flaws to Manipulate Messages and Fake Notifications",
+        "link": "https://gbhackers.com/attackers-exploit-microsoft-teams-flaws/",
+        "published": "Wed, 05 Nov 2025 05:50:17 +0000"
     }
 ]
