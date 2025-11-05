@@ -6833,5 +6833,15 @@
         "title": "Bob Flores, Former CTO of the CIA, Joins Brinker",
         "link": "https://gbhackers.com/bob-flores-former-cia-cto-joins-brinker/",
         "published": "Tue, 04 Nov 2025 15:02:05 +0000"
+    },
+    {
+        "title": "DragonForce Cartel Surfaces from Leaked Conti v3 Ransomware Source Code",
+        "link": "https://gbhackers.com/conti-v3-ransomware/",
+        "published": "Wed, 05 Nov 2025 05:08:58 +0000"
+    },
+    {
+        "title": "Critical RCE Bug in Leading React Native NPM Module Could Allow Full System Compromise",
+        "link": "https://gbhackers.com/critical-rce-bug-in-leading-react-native-npm-module/",
+        "published": "Wed, 05 Nov 2025 04:59:03 +0000"
     }
 ]
