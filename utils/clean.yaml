@@ -1810,3 +1810,4 @@ clean_list:
 - poc-cve-2025-8573
 - CVE-2025-29009-POC
 - Blackash-CVE-2025-48593
+- CVE-2024-40815

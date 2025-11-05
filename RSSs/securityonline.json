@@ -22868,5 +22868,55 @@
         "title": "Bob Flores, Former CTO of the CIA, Joins Brinker",
         "link": "https://securityonline.info/bob-flores-former-cto-of-the-cia-joins-brinker/",
         "published": "Tue, 04 Nov 2025 13:20:22 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-11749 Flaw in AI Engine Plugin Exposes WordPress Sites to Full Compromise",
+        "link": "https://securityonline.info/critical-cve-2025-11749-flaw-in-ai-engine-plugin-exposes-wordpress-sites-to-full-compromise/",
+        "published": "Wed, 05 Nov 2025 02:04:09 +0000"
+    },
+    {
+        "title": "Microsoft Teams Flaws Exposed: Attackers Could Impersonate Executives and Forge Caller Identity",
+        "link": "https://securityonline.info/microsoft-teams-flaws-exposed-attackers-could-impersonate-executives-and-forge-caller-identity/",
+        "published": "Wed, 05 Nov 2025 01:55:35 +0000"
+    },
+    {
+        "title": "Coordinated Cryptojacking Blitz: Hackers Exploit ThinkPHP and PHP RCE Flaws to Maximize Mining Profit",
+        "link": "https://securityonline.info/coordinated-cryptojacking-blitz-hackers-exploit-thinkphp-and-php-rce-flaws-to-maximize-mining-profit/",
+        "published": "Wed, 05 Nov 2025 01:39:24 +0000"
+    },
+    {
+        "title": "NGate NFC Malware Steals Cash from ATMs by Relaying EMV Data and PINs from Victim’s Phone",
+        "link": "https://securityonline.info/ngate-nfc-malware-steals-cash-from-atms-by-relaying-emv-data-and-pins-from-victims-phone/",
+        "published": "Wed, 05 Nov 2025 00:58:26 +0000"
+    },
+    {
+        "title": "Trustwave Confirms ‘Trinity of Chaos’ Alliance: Scattered LAPSUS$ Hunters Form EaaS Supergroup",
+        "link": "https://securityonline.info/trustwave-confirms-trinity-of-chaos-alliance-scattered-lapsus-hunters-form-eaas-supergroup/",
+        "published": "Wed, 05 Nov 2025 00:48:26 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: Two Critical Flaws Under Active Exploitation, Including Gladinet LFI/RCE and CWP Admin Takeover",
+        "link": "https://securityonline.info/cisa-kev-alert-two-critical-flaws-under-active-exploitation-including-gladinet-lfi-rce-and-cwp-admin-takeover/",
+        "published": "Wed, 05 Nov 2025 00:37:15 +0000"
+    },
+    {
+        "title": "Google Translate Debuts Gemini-Powered “Advanced” Mode for Higher Accuracy Translations",
+        "link": "https://securityonline.info/google-translate-debuts-gemini-powered-advanced-mode-for-higher-accuracy-translations/",
+        "published": "Wed, 05 Nov 2025 00:15:06 +0000"
+    },
+    {
+        "title": "Global Spies Use ZipperDown and Android Zero-Days for 1-Click Email Client RCE and Account Takeover",
+        "link": "https://securityonline.info/global-spies-use-zipperdown-and-android-zero-days-for-1-click-email-client-rce-and-account-takeover/",
+        "published": "Wed, 05 Nov 2025 00:11:29 +0000"
+    },
+    {
+        "title": "Critical React Native CLI Flaw (CVE-2025-11953, CVSS 9.8) Allows Unauthenticated RCE via Exposed Metro Server",
+        "link": "https://securityonline.info/critical-react-native-cli-flaw-cve-2025-11953-cvss-9-8-allows-unauthenticated-rce-via-exposed-metro-server/",
+        "published": "Wed, 05 Nov 2025 00:06:27 +0000"
+    },
+    {
+        "title": "Critical WooCommerce Plugin Flaw (CVE-2025-12493, CVSS 9.8) Allows Unauthenticated RCE, 100,000+ Sites Affect",
+        "link": "https://securityonline.info/critical-woocommerce-plugin-flaw-cve-2025-12493-cvss-9-8-allows-unauthenticated-rce-100000-sites-affect/",
+        "published": "Wed, 05 Nov 2025 00:02:07 +0000"
     }
 ]
