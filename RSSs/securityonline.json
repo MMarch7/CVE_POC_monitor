@@ -22918,5 +22918,30 @@
         "title": "Critical WooCommerce Plugin Flaw (CVE-2025-12493, CVSS 9.8) Allows Unauthenticated RCE, 100,000+ Sites Affect",
         "link": "https://securityonline.info/critical-woocommerce-plugin-flaw-cve-2025-12493-cvss-9-8-allows-unauthenticated-rce-100000-sites-affect/",
         "published": "Wed, 05 Nov 2025 00:02:07 +0000"
+    },
+    {
+        "title": "Dev Oversight: Apple Accidentally Leaked Entire App Store Web Source Code via SourceMap",
+        "link": "https://securityonline.info/dev-oversight-apple-accidentally-leaked-entire-app-store-web-source-code-via-sourcemap/",
+        "published": "Wed, 05 Nov 2025 03:15:54 +0000"
+    },
+    {
+        "title": "Five-Year Support: Ubuntu Unveils Final Release Schedule for 26.04 LTS Edition",
+        "link": "https://securityonline.info/five-year-support-ubuntu-unveils-final-release-schedule-for-26-04-lts-edition/",
+        "published": "Wed, 05 Nov 2025 03:09:50 +0000"
+    },
+    {
+        "title": "Auto Draft",
+        "link": "https://securityonline.info/?p=116702",
+        "published": ""
+    },
+    {
+        "title": "False Alarm: Microsoft Fixes Bug Incorrectly Warning Windows 10 LTSC & ESU Users That Support Ended",
+        "link": "https://securityonline.info/false-alarm-microsoft-fixes-bug-incorrectly-warning-windows-10-ltsc-esu-users-that-support-ended/",
+        "published": "Wed, 05 Nov 2025 02:54:52 +0000"
+    },
+    {
+        "title": "Finally Independent: WhatsApp Launches Native Apple Watch App with Voice Messages",
+        "link": "https://securityonline.info/finally-independent-whatsapp-launches-native-apple-watch-app-with-voice-messages/",
+        "published": "Wed, 05 Nov 2025 02:48:15 +0000"
     }
 ]
