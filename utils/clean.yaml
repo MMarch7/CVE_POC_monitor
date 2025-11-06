@@ -1825,3 +1825,4 @@ clean_list:
 - CVE-2025-63307
 - CrushFTP10-Docker-CVE-2024-4040
 - CVE-2025-64458-Demo
+- django_sqli_target_CVE-2025-64459
