@@ -6983,5 +6983,25 @@
         "title": "ValleyRAT Campaign Targets Windows via WeChat and DingTalk",
         "link": "https://gbhackers.com/valleyrat-campaign/",
         "published": "Thu, 06 Nov 2025 08:55:46 +0000"
+    },
+    {
+        "title": "Threat Actors Exploit VS Code Extensions for Ransomware via GitHub C2",
+        "link": "https://gbhackers.com/vs-code-extensions/",
+        "published": "Thu, 06 Nov 2025 12:51:45 +0000"
+    },
+    {
+        "title": "Checkpoint Analysis: Dissecting the $128M Balancer Pool Drain in Under 30 Minutes",
+        "link": "https://gbhackers.com/checkpoint-analysis/",
+        "published": "Thu, 06 Nov 2025 12:28:57 +0000"
+    },
+    {
+        "title": "Cisco UCCX Vulnerabilities Allow Remote Attackers to Execute Arbitrary Code",
+        "link": "https://gbhackers.com/cisco-uccx-vulnerabilities/",
+        "published": "Thu, 06 Nov 2025 12:10:04 +0000"
+    },
+    {
+        "title": "Airstalk Malware Exploits AirWatch MDM for Covert C2 Communication",
+        "link": "https://gbhackers.com/airstalk-malware-2/",
+        "published": "Thu, 06 Nov 2025 12:05:58 +0000"
     }
 ]

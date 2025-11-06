@@ -1828,3 +1828,4 @@ clean_list:
 - django_sqli_target_CVE-2025-64459
 - Blackash-CVE-2025-63334
 - CVE-2025-54236
+- CVE-2025-31133
