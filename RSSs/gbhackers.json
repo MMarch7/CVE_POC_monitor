@@ -7023,5 +7023,10 @@
         "title": "Critical Bug in Midnight Ransomware Tool Unlocks File Recovery",
         "link": "https://gbhackers.com/midnight-ransomware/",
         "published": "Thu, 06 Nov 2025 13:54:22 +0000"
+    },
+    {
+        "title": "HTTP/2 ‘MadeYouReset’ Vulnerability Enable Denial-of-Service (DoS) Attacks",
+        "link": "https://gbhackers.com/denial-of-service-attacks/",
+        "published": "Thu, 06 Nov 2025 14:40:02 +0000"
     }
 ]
