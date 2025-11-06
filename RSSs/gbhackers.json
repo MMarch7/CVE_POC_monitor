@@ -6973,5 +6973,15 @@
         "title": "Authorities Dismantle Large-Scale Credit Card Fraud Scheme Affecting 4.3 Million Users",
         "link": "https://gbhackers.com/authorities-dismantle-large-scale-credit-card-fraud-scheme/",
         "published": "Thu, 06 Nov 2025 07:50:17 +0000"
+    },
+    {
+        "title": "Multiple Django Flaws Could Allow SQL Injection and Denial-of-Service Attacks",
+        "link": "https://gbhackers.com/multiple-django-flaws/",
+        "published": "Thu, 06 Nov 2025 09:22:52 +0000"
+    },
+    {
+        "title": "ValleyRAT Campaign Targets Windows via WeChat and DingTalk",
+        "link": "https://gbhackers.com/valleyrat-campaign/",
+        "published": "Thu, 06 Nov 2025 08:55:46 +0000"
     }
 ]
