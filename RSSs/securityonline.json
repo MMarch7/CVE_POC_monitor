@@ -22998,5 +22998,35 @@
         "title": "CISA Warns: Critical Survision LPR Camera Flaw (CVE-2025-12108, CVSS 9.8) Allows Unauthenticated Takeover",
         "link": "https://securityonline.info/cisa-warns-critical-survision-lpr-camera-flaw-cve-2025-12108-cvss-9-8-allows-unauthenticated-takeover/",
         "published": "Thu, 06 Nov 2025 00:01:25 +0000"
+    },
+    {
+        "title": "AI Browser War: Amazon Demands Perplexity’s Comet AI Stop Automated Purchasing",
+        "link": "https://securityonline.info/ai-browser-war-amazon-demands-perplexitys-comet-ai-stop-automated-purchasing/",
+        "published": "Thu, 06 Nov 2025 03:14:27 +0000"
+    },
+    {
+        "title": "Locked Out: Windows Update Bug Forces Users Into BitLocker Recovery Mode After Reboot",
+        "link": "https://securityonline.info/locked-out-windows-update-bug-forces-users-into-bitlocker-recovery-mode-after-reboot/",
+        "published": "Thu, 06 Nov 2025 03:10:11 +0000"
+    },
+    {
+        "title": "The Restartless Update: Microsoft Tests Unusual Windows 11 Build That Installs Without a Reboot",
+        "link": "https://securityonline.info/the-restartless-update-microsoft-tests-unusual-windows-11-build-that-installs-without-a-reboot/",
+        "published": "Thu, 06 Nov 2025 03:05:43 +0000"
+    },
+    {
+        "title": "The Vanishing Act: Apple Forces GitHub to Delete 8,270 Repositories of Leaked App Store Code",
+        "link": "https://securityonline.info/the-vanishing-act-apple-forces-github-to-delete-8270-repositories-of-leaked-app-store-code/",
+        "published": "Thu, 06 Nov 2025 02:59:20 +0000"
+    },
+    {
+        "title": "Critical Cisco CCX RCE Flaws (CVSS 9.8) Allow Unauthenticated Root Access via Java RMI and CCX Editor",
+        "link": "https://securityonline.info/critical-cisco-ccx-rce-flaws-cvss-9-8-allow-unauthenticated-root-access-via-java-rmi-and-ccx-editor/",
+        "published": "Thu, 06 Nov 2025 02:53:05 +0000"
+    },
+    {
+        "title": "Next-Gen Threat: Google Exposes AI-Enabled Malware That Rewrites Its Own Code with Gemini LLM",
+        "link": "https://securityonline.info/next-gen-threat-google-exposes-ai-enabled-malware-that-rewrites-its-own-code-with-gemini-llm/",
+        "published": "Thu, 06 Nov 2025 02:15:36 +0000"
     }
 ]
