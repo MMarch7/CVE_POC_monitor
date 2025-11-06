@@ -22958,5 +22958,45 @@
         "title": "Android Debut: OpenAI Launches Sora AI Video Generator with Audio Mixing & Voiceover",
         "link": "https://securityonline.info/openai-launches-sora-ai-video-generator-with-audio-mixing/",
         "published": "Wed, 05 Nov 2025 08:24:52 +0000"
+    },
+    {
+        "title": "Django Team Patches High-Severity SQL Injection Flaw (CVE-2025-64459) and DoS Bug (CVE-2025-64458) in Latest Security Update",
+        "link": "https://securityonline.info/django-team-patches-high-severity-sql-injection-flaw-cve-2025-64459-and-dos-bug-cve-2025-64458-in-latest-security-update/",
+        "published": "Thu, 06 Nov 2025 02:05:05 +0000"
+    },
+    {
+        "title": "New Iranian-Linked APT UNK_SmudgedSerpent Uses RMM Tools and M365 Spoofing for Espionage",
+        "link": "https://securityonline.info/new-iranian-linked-apt-unk_smudgedserpent-uses-rmm-tools-and-m365-spoofing-for-espionage/",
+        "published": "Thu, 06 Nov 2025 01:54:38 +0000"
+    },
+    {
+        "title": "Chrome Emergency Fix: Three High-Severity Flaws in WebGPU and V8 Engine Risk RCE",
+        "link": "https://securityonline.info/chrome-emergency-fix-three-high-severity-flaws-in-webgpu-and-v8-engine-risk-rce/",
+        "published": "Thu, 06 Nov 2025 01:43:20 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical VizAir Flaws (CVSS 10.0) Expose Airport Weather Systems to Unauthenticated Manipulation",
+        "link": "https://securityonline.info/cisa-warns-critical-vizair-flaws-cvss-10-0-expose-airport-weather-systems-to-unauthenticated-manipulation/",
+        "published": "Thu, 06 Nov 2025 00:50:50 +0000"
+    },
+    {
+        "title": "Curly COMrades APT Bypasses EDR by Hiding Linux Backdoor Inside Covert Hyper-V VM",
+        "link": "https://securityonline.info/curly-comrades-apt-bypasses-edr-by-hiding-linux-backdoor-inside-covert-hyper-v-vm/",
+        "published": "Thu, 06 Nov 2025 00:17:01 +0000"
+    },
+    {
+        "title": "High-Severity NVIDIA App Flaw (CVE-2025-23358) Allows Local Privilege Escalation on Windows",
+        "link": "https://securityonline.info/high-severity-nvidia-app-flaw-cve-2025-23358-allows-local-privilege-escalation-on-windows/",
+        "published": "Thu, 06 Nov 2025 00:11:54 +0000"
+    },
+    {
+        "title": "APT-C-60 Targets Japan: New SpyGlace Malware Uses VHDX LNK and GitHub Tasking for Persistent Espionage",
+        "link": "https://securityonline.info/apt-c-60-targets-japan-new-spyglace-malware-uses-vhdx-lnk-and-github-tasking-for-persistent-espionage/",
+        "published": "Thu, 06 Nov 2025 00:07:30 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Survision LPR Camera Flaw (CVE-2025-12108, CVSS 9.8) Allows Unauthenticated Takeover",
+        "link": "https://securityonline.info/cisa-warns-critical-survision-lpr-camera-flaw-cve-2025-12108-cvss-9-8-allows-unauthenticated-takeover/",
+        "published": "Thu, 06 Nov 2025 00:01:25 +0000"
     }
 ]
