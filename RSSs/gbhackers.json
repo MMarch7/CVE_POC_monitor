@@ -6958,5 +6958,10 @@
         "title": "HackedGPT: New Vulnerabilities in GPT Models Allow Attackers to Launch 0-Click Attacks",
         "link": "https://gbhackers.com/hackedgpt-new-vulnerabilities-in-gpt-models/",
         "published": "Thu, 06 Nov 2025 05:45:09 +0000"
+    },
+    {
+        "title": "Google Warns of PROMPTFLUX Malware That Uses Gemini API for Self-Rewriting Attacks",
+        "link": "https://gbhackers.com/promptflux-malware/",
+        "published": "Thu, 06 Nov 2025 06:44:31 +0000"
     }
 ]
