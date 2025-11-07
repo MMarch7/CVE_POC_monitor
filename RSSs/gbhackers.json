@@ -7063,5 +7063,15 @@
         "title": "Attackers Deploy LeakyInjector and LeakyStealer to Hijack Crypto Wallets and Browser Info",
         "link": "https://gbhackers.com/attackers-deploy-leakyinjector-and-leakystealer-to-hijack-crypto-wallets-and-browser-info/",
         "published": "Fri, 07 Nov 2025 07:52:25 +0000"
+    },
+    {
+        "title": "Researchers Bypass Elastic EDR Call-Stack Signatures Using Call Gadgets",
+        "link": "https://gbhackers.com/researchers-bypass-elastic-edr/",
+        "published": "Fri, 07 Nov 2025 09:24:43 +0000"
+    },
+    {
+        "title": "OPNsense Firewall Update Addresses Multiple Security Issues and Enhances Features",
+        "link": "https://gbhackers.com/opnsense-firewall-update-addresses-multiple-security-issues/",
+        "published": "Fri, 07 Nov 2025 08:41:47 +0000"
     }
 ]
