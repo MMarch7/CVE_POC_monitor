@@ -188,5 +188,10 @@
         "title": "yIKEs (WatchGuard Fireware OS IKEv2 Out-of-Bounds Write CVE-2025-9242)",
         "link": "https://labs.watchtowr.com/yikes-watchguard-fireware-os-ikev2-out-of-bounds-write-cve-2025-9242/",
         "published": "Thu, 16 Oct 2025 10:02:58 GMT"
+    },
+    {
+        "title": "What’s That Coming Over The Hill? (Monsta FTP Remote Code Execution CVE-2025-34299)",
+        "link": "https://labs.watchtowr.com/whats-that-coming-over-the-hill-monsta-ftp-remote-code-execution-cve-2025-34299/",
+        "published": "Fri, 07 Nov 2025 11:00:07 GMT"
     }
 ]
