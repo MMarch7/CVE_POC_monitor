@@ -7028,5 +7028,20 @@
         "title": "HTTP/2 ‘MadeYouReset’ Vulnerability Enable Denial-of-Service (DoS) Attacks",
         "link": "https://gbhackers.com/denial-of-service-attacks/",
         "published": "Thu, 06 Nov 2025 14:40:02 +0000"
+    },
+    {
+        "title": "Sandworm Hackers Target Ukrainian Organizations With Data-Wiping Malware",
+        "link": "https://gbhackers.com/sandworm-hackers/",
+        "published": "Fri, 07 Nov 2025 05:23:46 +0000"
+    },
+    {
+        "title": "Amazon WorkSpaces for Linux Vulnerability Exposes Valid Auth Tokens to Attackers",
+        "link": "https://gbhackers.com/amazon-workspaces-for-linux-vulnerability/",
+        "published": "Fri, 07 Nov 2025 05:12:05 +0000"
+    },
+    {
+        "title": "Claude Desktop Hit by Critical RCE Flaws Allowing Remote Code Execution",
+        "link": "https://gbhackers.com/claude-desktop-hit-by-critical-rce-flaws/",
+        "published": "Fri, 07 Nov 2025 05:06:38 +0000"
     }
 ]
