@@ -23063,5 +23063,40 @@
         "title": "Critical Dell CloudLink Flaws Allow User to Escape Shell and Gain Full System Control",
         "link": "https://securityonline.info/critical-dell-cloudlink-flaws-allow-user-to-escape-shell-and-gain-full-system-control/",
         "published": "Thu, 06 Nov 2025 08:17:27 +0000"
+    },
+    {
+        "title": "US Treasury Sanctions 8 North Koreans and 2 Banks for Laundering Crypto to Fund WMD Programs",
+        "link": "https://securityonline.info/us-treasury-sanctions-8-north-koreans-and-2-banks-for-laundering-crypto-to-fund-wmd-programs/",
+        "published": "Fri, 07 Nov 2025 00:31:10 +0000"
+    },
+    {
+        "title": "OCI Fixes Container Escape Vulnerabilities in runc (CVE-2025-31133, CVE-2025-52565, CVE-2025-52881)",
+        "link": "https://securityonline.info/oci-fixes-container-escape-vulnerabilities-in-runc-cve-2025-31133-cve-2025-52565-cve-2025-52881/",
+        "published": "Fri, 07 Nov 2025 00:26:52 +0000"
+    },
+    {
+        "title": "Booking.com Phishing Campaign Hijacks Hotel Accounts to Deliver PureRAT via ClickFix Lure",
+        "link": "https://securityonline.info/booking-com-phishing-campaign-hijacks-hotel-accounts-to-deliver-purerat-via-clickfix-lure/",
+        "published": "Fri, 07 Nov 2025 00:23:50 +0000"
+    },
+    {
+        "title": "High-Severity Cisco ISE Flaw (CVE-2025-20343) Allows Unauthenticated DoS via Crafted RADIUS Requests",
+        "link": "https://securityonline.info/high-severity-cisco-ise-flaw-cve-2025-20343-allows-unauthenticated-dos-via-crafted-radius-requests/",
+        "published": "Fri, 07 Nov 2025 00:19:28 +0000"
+    },
+    {
+        "title": "DragonForce Ransomware Strikes Manufacturing Sector with Brute-Force, Exfiltrating Data Over SSH to Russian Host",
+        "link": "https://securityonline.info/dragonforce-ransomware-strikes-manufacturing-sector-with-brute-force-exfiltrating-data-over-ssh-to-russian-host/",
+        "published": "Fri, 07 Nov 2025 00:12:11 +0000"
+    },
+    {
+        "title": "Amazon Fixes High-Severity Authentication Token Exposure in WorkSpaces Client for Linux (CVE-2025-12779)",
+        "link": "https://securityonline.info/amazon-fixes-high-severity-authentication-token-exposure-in-workspaces-client-for-linux-cve-2025-12779/",
+        "published": "Fri, 07 Nov 2025 00:06:25 +0000"
+    },
+    {
+        "title": "New Cephalus Ransomware Uses Fake AES Keys and GoLang to Thwart Analysis",
+        "link": "https://securityonline.info/new-cephalus-ransomware-uses-fake-aes-keys-and-golang-to-thwart-analysis/",
+        "published": "Fri, 07 Nov 2025 00:00:57 +0000"
     }
 ]
