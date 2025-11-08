@@ -1840,3 +1840,4 @@ clean_list:
 - CVE-2025-11749
 - CVE-2025-32433-exploit
 - CVE-2025-21042
+- Blackash-CVE-2025-21042
