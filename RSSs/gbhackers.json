@@ -7138,5 +7138,40 @@
         "title": "Monsta FTP Remote Code Execution Flaw Being Exploited in the Wild",
         "link": "https://gbhackers.com/monsta-ftp-remote-code-execution-flaw/",
         "published": "Mon, 10 Nov 2025 04:54:56 +0000"
+    },
+    {
+        "title": "APT Groups Target Construction Firms to Steal RDP, SSH, and Citrix Credentials",
+        "link": "https://gbhackers.com/apt-groups/",
+        "published": "Mon, 10 Nov 2025 07:27:37 +0000"
+    },
+    {
+        "title": "Ex-Intel Employee Hid 18,000 Sensitive Documents Prior to Leaving the Company",
+        "link": "https://gbhackers.com/ex-intel-employee-hid-18000-sensitive-documents-prior-to-leaving-the-company/",
+        "published": "Mon, 10 Nov 2025 07:01:53 +0000"
+    },
+    {
+        "title": "LangGraph Deserialization Flaw Enables Execution of Malicious Python Code",
+        "link": "https://gbhackers.com/langgraph-deserialization-flaw/",
+        "published": "Mon, 10 Nov 2025 06:54:25 +0000"
+    },
+    {
+        "title": "Elastic Defend for Windows Vulnerability Allows Threat Actors to Gain Elevated Access",
+        "link": "https://gbhackers.com/elastic-defend-for-windows-vulnerability/",
+        "published": "Mon, 10 Nov 2025 06:43:49 +0000"
+    },
+    {
+        "title": "Hackers Abuse runc Tool to Escape Containers and Compromise Hosts",
+        "link": "https://gbhackers.com/hackers-abuse-runc-tool-to-escape-containers-and-compromise-hosts/",
+        "published": "Mon, 10 Nov 2025 06:21:51 +0000"
+    },
+    {
+        "title": "Data Leak Exposes Chinese State-Sponsored Cyber Arsenal and Target Database",
+        "link": "https://gbhackers.com/data-leak/",
+        "published": "Mon, 10 Nov 2025 06:14:17 +0000"
+    },
+    {
+        "title": "New Whisper-Based Attack Reveals User Prompts Hidden Inside Encrypted AI Traffic",
+        "link": "https://gbhackers.com/whisper-based-attack/",
+        "published": "Mon, 10 Nov 2025 05:33:40 +0000"
     }
 ]
