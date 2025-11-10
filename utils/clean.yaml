@@ -1846,3 +1846,5 @@ clean_list:
 - Open5GS-CVE-2025-41067-CVE-2025-41068-PoC
 - Google-chrome-zero-day
 - CVE-2025-12917-PoC
+- vllm-cve-2024-11392
+- CVE-2025-63296

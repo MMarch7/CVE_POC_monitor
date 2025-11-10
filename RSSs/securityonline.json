@@ -23138,5 +23138,75 @@
         "title": "Denmark Moves to Ban Social Media for Under-15s in World-Leading Digital Crackdown",
         "link": "https://securityonline.info/denmark-moves-to-ban-social-media-for-under-15s-in-world-leading-digital-crackdown/",
         "published": "Sun, 09 Nov 2025 06:48:22 +0000"
+    },
+    {
+        "title": "Whisper Leak: Attack Infers Encrypted AI Chat Topics with 98%+ Accuracy",
+        "link": "https://securityonline.info/whisper-leak-attack-infers-encrypted-ai-chat-topics-with-98-accuracy/",
+        "published": "Mon, 10 Nov 2025 02:15:32 +0000"
+    },
+    {
+        "title": "Touchscreen MacBook Pro & Foldable iPhone: Apple’s “Most Pivotal Year Yet” Revealed",
+        "link": "https://securityonline.info/touchscreen-macbook-pro-foldable-iphone-apples-most-pivotal-year-yet-revealed/",
+        "published": "Mon, 10 Nov 2025 01:49:24 +0000"
+    },
+    {
+        "title": "iPhone’s Off-Grid Future: Maps, Photos, & ‘Natural Usage’ Satellite Features Revealed",
+        "link": "https://securityonline.info/iphones-off-grid-future-maps-photos-natural-usage-satellite-features-revealed/",
+        "published": "Mon, 10 Nov 2025 01:43:00 +0000"
+    },
+    {
+        "title": "Zero-Click Samsung Zero-Day (CVE-2025-21042) Delivered LANDFALL Spyware Via Malicious DNG Images",
+        "link": "https://securityonline.info/zero-click-samsung-zero-day-cve-2025-21042-delivered-landfall-spyware-via-malicious-dng-images/",
+        "published": "Mon, 10 Nov 2025 00:43:08 +0000"
+    },
+    {
+        "title": "Fantasy Hub RAT MaaS Uncovered: Russian Spyware Uses Telegram Bot and WebRTC to Hijack Android Devices",
+        "link": "https://securityonline.info/fantasy-hub-rat-maas-uncovered-russian-spyware-uses-telegram-bot-and-webrtc-to-hijack-android-devices/",
+        "published": "Mon, 10 Nov 2025 00:40:08 +0000"
+    },
+    {
+        "title": "NuGet Sabotage: Time-Delayed Logic in 9 Packages Risks Total App Destruction on Hardcoded Dates",
+        "link": "https://securityonline.info/nuget-sabotage-time-delayed-logic-in-9-packages-risks-total-app-destruction-on-hardcoded-dates/",
+        "published": "Mon, 10 Nov 2025 00:35:37 +0000"
+    },
+    {
+        "title": "GlassWorm Worm Resurfaces: Invisible Unicode Malware Re-Infects VS Code Extensions, Spreads to GitHub",
+        "link": "https://securityonline.info/glassworm-worm-resurfaces-invisible-unicode-malware-re-infects-vs-code-extensions-spreads-to-github/",
+        "published": "Mon, 10 Nov 2025 00:31:19 +0000"
+    },
+    {
+        "title": "CVE-2025-64439: RCE Flaw Detected in LangGraph: Agent Orchestration Framework at Risk",
+        "link": "https://securityonline.info/cve-2025-64439-rce-flaw-detected-in-langgraph-agent-orchestration-framework-at-risk/",
+        "published": "Mon, 10 Nov 2025 00:29:51 +0000"
+    },
+    {
+        "title": "Vidar Infostealer Hits npm for the First Time via 17 Typosquatted Packages and Postinstall Scripts",
+        "link": "https://securityonline.info/vidar-infostealer-hits-npm-for-the-first-time-via-17-typosquatted-packages-and-postinstall-scripts/",
+        "published": "Mon, 10 Nov 2025 00:22:56 +0000"
+    },
+    {
+        "title": "High-Severity Elastic Defend Flaw (CVE-2025-37735) Allows Local Attackers to Delete Arbitrary Files as SYSTEM",
+        "link": "https://securityonline.info/high-severity-elastic-defend-flaw-cve-2025-37735-allows-local-attackers-to-delete-arbitrary-files-as-system/",
+        "published": "Mon, 10 Nov 2025 00:19:18 +0000"
+    },
+    {
+        "title": "China APT Infiltrates US Policy Nonprofit in Months-Long Espionage Campaign Using DLL Sideloading",
+        "link": "https://securityonline.info/china-apt-infiltrates-us-policy-nonprofit-in-months-long-espionage-campaign-using-dll-sideloading/",
+        "published": "Mon, 10 Nov 2025 00:16:35 +0000"
+    },
+    {
+        "title": "MSP Nightmare: Medusa & DragonForce Exploit SimpleHelp RMM Flaws for SYSTEM Access",
+        "link": "https://securityonline.info/msp-nightmare-medusa-dragonforce-exploit-simplehelp-rmm-flaws-for-system-access/",
+        "published": "Mon, 10 Nov 2025 00:11:28 +0000"
+    },
+    {
+        "title": "Kimsuky APT Uses JavaScript Loader and Certutil to Achieve Minute-by-Minute Persistence via Windows Scheduled Task",
+        "link": "https://securityonline.info/kimsuky-apt-uses-javascript-loader-and-certutil-to-achieve-minute-by-minute-persistence-via-windows-scheduled-task/",
+        "published": "Mon, 10 Nov 2025 00:06:35 +0000"
+    },
+    {
+        "title": "PoC Exploit Released for CVE-2025-55680 – Windows Cloud Files Mini Filter Driver Elevation of Privilege Flaw",
+        "link": "https://securityonline.info/poc-exploit-released-for-cve-2025-55680-windows-cloud-files-mini-filter-driver-elevation-of-privilege-flaw/",
+        "published": "Mon, 10 Nov 2025 00:01:01 +0000"
     }
 ]
