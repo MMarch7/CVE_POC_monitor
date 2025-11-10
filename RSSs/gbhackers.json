@@ -7193,5 +7193,20 @@
         "title": "Ransomware Operators Exploit RMM Tools to Deploy Medusa and DragonForce",
         "link": "https://gbhackers.com/medusa-and-dragonforce/",
         "published": "Mon, 10 Nov 2025 09:57:48 +0000"
+    },
+    {
+        "title": "MAD-CAT “Meow” Tool Sparks Real-World Data Corruption Attacks",
+        "link": "https://gbhackers.com/mad-cat-meow-tool/",
+        "published": "Mon, 10 Nov 2025 12:56:13 +0000"
+    },
+    {
+        "title": "Popular npm Library Used in AI and NLP Projects Exposes Systems to RCE",
+        "link": "https://gbhackers.com/popular-npm-library-used-in-ai-and-nlp/",
+        "published": "Mon, 10 Nov 2025 12:31:11 +0000"
+    },
+    {
+        "title": "Threat Actors Attacking Outlook and Google Bypassing Traditional Email Defenses",
+        "link": "https://gbhackers.com/outlook-and-google/",
+        "published": "Mon, 10 Nov 2025 11:35:36 +0000"
     }
 ]
