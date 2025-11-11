@@ -1854,3 +1854,4 @@ clean_list:
 - arca
 - CVE-2024-48910-PoC
 - CVE-2025-55315-PoC-Exploit
+- CVE-2025-58179-Check
