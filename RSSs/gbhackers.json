@@ -7273,5 +7273,20 @@
         "title": "WatchGuard Firebox Flaw Allows Attackers to Gain Unauthorized SSH Access",
         "link": "https://gbhackers.com/watchguard-firebox-flaw/",
         "published": "Tue, 11 Nov 2025 09:28:55 +0000"
+    },
+    {
+        "title": "Attackers Use Quantum Route Redirect to Launch Instant Phishing on M365",
+        "link": "https://gbhackers.com/quantum-route-redirect/",
+        "published": "Tue, 11 Nov 2025 10:03:11 +0000"
+    },
+    {
+        "title": "Devolutions Server Flaw Allows Attackers to Impersonate Users via Pre-MFA Cookie",
+        "link": "https://gbhackers.com/devolutions-server-flaw/",
+        "published": "Tue, 11 Nov 2025 09:55:12 +0000"
+    },
+    {
+        "title": "New VanHelsing Ransomware-as-a-Service Hits Windows, Linux, BSD, ARM and ESXi",
+        "link": "https://gbhackers.com/vanhelsing-ransomware/",
+        "published": "Tue, 11 Nov 2025 09:41:20 +0000"
     }
 ]
