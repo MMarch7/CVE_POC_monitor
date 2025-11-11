@@ -23218,5 +23218,60 @@
         "title": "Incident Response Team (ShieldForce) Partners with AccuKnox for Zero Trust CNAPP in Latin America",
         "link": "https://securityonline.info/incident-response-team-shieldforce-partners-with-accuknox-for-zero-trust-cnapp-in-latin-america/",
         "published": "Mon, 10 Nov 2025 14:00:27 +0000"
+    },
+    {
+        "title": "Critical Triofox Zero-Day (CVE-2025-12480) Under Active Exploit: Host Header Bypass Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-triofox-zero-day-cve-2025-12480-under-active-exploit-host-header-bypass-allows-unauthenticated-admin-takeover/",
+        "published": "Tue, 11 Nov 2025 02:01:48 +0000"
+    },
+    {
+        "title": "SuiteCRM SQL Injection Flaws (CVE-2025-64492, CVE-2025-64493) Expose Customer Data",
+        "link": "https://securityonline.info/suitecrm-sql-injection-flaws-cve-2025-64492-cve-2025-64493-expose-customer-data/",
+        "published": "Tue, 11 Nov 2025 00:38:27 +0000"
+    },
+    {
+        "title": "Australia Joins US, Slaps Sanctions on North Korean Cybercriminals for Funding WMD Programs",
+        "link": "https://securityonline.info/australia-joins-us-slaps-sanctions-on-north-korean-cybercriminals-for-funding-wmd-programs/",
+        "published": "Tue, 11 Nov 2025 00:36:21 +0000"
+    },
+    {
+        "title": "Telegram-Powered Phishing Campaign Targets European Businesses Using HTML Attachments to Steal Credentials",
+        "link": "https://securityonline.info/telegram-powered-phishing-campaign-targets-european-businesses-using-html-attachments-to-steal-credentials/",
+        "published": "Tue, 11 Nov 2025 00:33:17 +0000"
+    },
+    {
+        "title": "Critical Devolutions Server Flaw (CVE-2025-12485, CVSS 9.4) Allows User Impersonation via Pre-MFA Cookie Hijacking",
+        "link": "https://securityonline.info/critical-devolutions-server-flaw-cve-2025-12485-cvss-9-4-allows-user-impersonation-via-pre-mfa-cookie-hijacking/",
+        "published": "Tue, 11 Nov 2025 00:29:14 +0000"
+    },
+    {
+        "title": "Critical WatchGuard Firebox Flaw (CVE-2025-59396, CVSS 9.8) Allows Unauthenticated Admin SSH Takeover via Default Credentials",
+        "link": "https://securityonline.info/critical-watchguard-firebox-flaw-cve-2025-59396-cvss-9-8-allows-unauthenticated-admin-ssh-takeover-via-default-credentials/",
+        "published": "Tue, 11 Nov 2025 00:25:42 +0000"
+    },
+    {
+        "title": "Critical GE Vernova ICS Flaw (CVE-2025-3222, CVSS 9.3) Allows Authentication Bypass in Smallworld Master File Server",
+        "link": "https://securityonline.info/critical-ge-vernova-ics-flaw-cve-2025-3222-cvss-9-3-allows-authentication-bypass-in-smallworld-master-file-server/",
+        "published": "Tue, 11 Nov 2025 00:22:12 +0000"
+    },
+    {
+        "title": "North Korea’s KONNI APT Hijacks Google Find Hub to Remotely Wipe and Track South Korean Android Devices",
+        "link": "https://securityonline.info/north-koreas-konni-apt-hijacks-google-find-hub-to-remotely-wipe-and-track-south-korean-android-devices/",
+        "published": "Tue, 11 Nov 2025 00:16:08 +0000"
+    },
+    {
+        "title": "Critical Calibre Flaw (CVE-2025-64486, CVSS 9.3) Allows RCE via Malicious FB2 E-book",
+        "link": "https://securityonline.info/critical-calibre-flaw-cve-2025-64486-cvss-9-3-allows-rce-via-malicious-fb2-e-book/",
+        "published": "Tue, 11 Nov 2025 00:11:27 +0000"
+    },
+    {
+        "title": "Lazarus Group Attacks Aerospace/Defense with New ChaCha20-Encrypted Comebacker Backdoor",
+        "link": "https://securityonline.info/lazarus-group-attacks-aerospace-defense-with-new-chacha20-encrypted-comebacker-backdoor/",
+        "published": "Tue, 11 Nov 2025 00:06:50 +0000"
+    },
+    {
+        "title": "DragonForce Ransomware Evolves with BYOVD to Kill EDR and Fixes Encryption Flaws in Conti V3 Codebase",
+        "link": "https://securityonline.info/dragonforce-ransomware-evolves-with-byovd-to-kill-edr-and-fixes-encryption-flaws-in-conti-v3-codebase/",
+        "published": "Tue, 11 Nov 2025 00:00:29 +0000"
     }
 ]
