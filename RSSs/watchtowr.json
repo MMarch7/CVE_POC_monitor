@@ -193,5 +193,10 @@
         "title": "What’s That Coming Over The Hill? (Monsta FTP Remote Code Execution CVE-2025-34299)",
         "link": "https://labs.watchtowr.com/whats-that-coming-over-the-hill-monsta-ftp-remote-code-execution-cve-2025-34299/",
         "published": "Fri, 07 Nov 2025 11:00:07 GMT"
+    },
+    {
+        "title": "Is It CitrixBleed4? Well, No. Is It Good? Also, No. (Citrix NetScaler Memory Leak & RXSS CVE-2025-12101)",
+        "link": "https://labs.watchtowr.com/is-it-citrixbleed4-well-no-is-it-good-also-no-citrix-netscalers-memory-leak-rxss-cve-2025-12101/",
+        "published": "Wed, 12 Nov 2025 13:03:43 GMT"
     }
 ]

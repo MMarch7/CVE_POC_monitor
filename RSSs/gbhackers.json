@@ -7413,5 +7413,10 @@
         "title": "Hackers Exploit SSRF Flaw in Custom GPTs to Steal ChatGPT Secrets",
         "link": "https://gbhackers.com/hackers-exploit-ssrf-flaw/",
         "published": "Wed, 12 Nov 2025 11:36:55 +0000"
+    },
+    {
+        "title": "AppleScript Used to Deliver macOS Malware Disguised as Zoom & Teams Updates",
+        "link": "https://gbhackers.com/macos-malware-3/",
+        "published": "Wed, 12 Nov 2025 13:04:20 +0000"
     }
 ]
