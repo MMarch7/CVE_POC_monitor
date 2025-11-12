@@ -473,5 +473,15 @@
         "title": "PAN-SA-2025-0017 Informational Bulletin: Impact of OSS CVEs in Prisma SD-WAN ION (Severity: INFORMATIONAL)",
         "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0017",
         "published": "2025-11-03T17:00:00.000Z"
+    },
+    {
+        "title": "CVE-2025-4619 PAN-OS: Firewall Denial of Service (DoS) Using Specially Crafted Packets (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/CVE-2025-4619",
+        "published": "2025-11-12T17:00:00.000Z"
+    },
+    {
+        "title": "PAN-SA-2025-0018 Chromium and Prisma Browser: Monthly Vulnerability Update (November 2025) (Severity: MEDIUM)",
+        "link": "https://security.paloaltonetworks.com/PAN-SA-2025-0018",
+        "published": "2025-11-12T17:00:00.000Z"
     }
 ]
