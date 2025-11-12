@@ -7368,5 +7368,20 @@
         "title": "New Phishing Scam Targets iPhone Owners After Device Loss",
         "link": "https://gbhackers.com/phishing-scam-3/",
         "published": "Wed, 12 Nov 2025 06:46:38 +0000"
+    },
+    {
+        "title": "Microsoft SQL Server Vulnerability Allows Privilege Escalation",
+        "link": "https://gbhackers.com/microsoft-sql-server/",
+        "published": "Wed, 12 Nov 2025 09:20:12 +0000"
+    },
+    {
+        "title": "GitHub Copilot and Visual Studio Flaws Let Attackers Bypass Security Protections",
+        "link": "https://gbhackers.com/github-copilot-and-visual-studio-flaws/",
+        "published": "Wed, 12 Nov 2025 09:01:57 +0000"
+    },
+    {
+        "title": "Chrome Security Update Fixes Improper Implementation in V8 JavaScript Engine",
+        "link": "https://gbhackers.com/chrome-security-update-fixes-improper-implementation/",
+        "published": "Wed, 12 Nov 2025 08:48:34 +0000"
     }
 ]
