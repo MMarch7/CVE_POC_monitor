@@ -1867,3 +1867,4 @@ clean_list:
 - CVE-2024-47167-Environment-Setup
 - CVE-2025-56499
 - CVE-2025-63830
+- neecdrestart-sudo-escalate-cve-2024-4890
