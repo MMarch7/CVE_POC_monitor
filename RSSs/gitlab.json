@@ -888,5 +888,10 @@
         "title": "GitLab Patch Release: 18.5.1, 18.4.3, 18.3.5",
         "link": "https://about.gitlab.com/releases/2025/10/22/patch-release-gitlab-18-5-1-released/",
         "published": "2025-10-22T00:00:00+00:00"
+    },
+    {
+        "title": "GitLab Patch Release: 18.5.2, 18.4.4, 18.3.6",
+        "link": "https://about.gitlab.com/releases/2025/11/12/patch-release-gitlab-18-5-2-released/",
+        "published": "2025-11-12T00:00:00+00:00"
     }
 ]
