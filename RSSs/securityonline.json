@@ -23308,5 +23308,55 @@
         "title": "Critical Zimbra Flaw Fixed: Patch Addresses Multiple Stored XSS and Unauthenticated LFI in Mail Client",
         "link": "https://securityonline.info/critical-zimbra-flaw-fixed-patch-addresses-multiple-stored-xss-and-unauthenticated-lfi-in-mail-client/",
         "published": "Tue, 11 Nov 2025 09:58:29 +0000"
+    },
+    {
+        "title": "Apache OpenOffice Fixes 7 Flaws: Memory Corruption and Unprompted Remote Content Loading",
+        "link": "https://securityonline.info/apache-openoffice-fixes-7-flaws-memory-corruption-and-unprompted-remote-content-loading/",
+        "published": "Wed, 12 Nov 2025 02:02:36 +0000"
+    },
+    {
+        "title": "Critical Apache OFBiz Flaw (CVE-2025-59118) Allows Remote Command Execution via Unrestricted File Upload",
+        "link": "https://securityonline.info/critical-apache-ofbiz-flaw-cve-2025-59118-allows-remote-command-execution-via-unrestricted-file-upload/",
+        "published": "Wed, 12 Nov 2025 01:48:54 +0000"
+    },
+    {
+        "title": "November Patch Tuesday: Microsoft Fixes 68 Flaws, Including Kernel Zero-Day Under Active Exploitation",
+        "link": "https://securityonline.info/november-patch-tuesday-microsoft-fixes-68-flaws-including-kernel-zero-day-under-active-exploitation/",
+        "published": "Wed, 12 Nov 2025 01:40:49 +0000"
+    },
+    {
+        "title": "Critical Authentication Bypass Vulnerability Found in Milvus Proxy (CVE-2025-64513, CVSS 9.3)",
+        "link": "https://securityonline.info/critical-authentication-bypass-vulnerability-found-in-milvus-proxy-cve-2025-64513-cvss-9-3/",
+        "published": "Wed, 12 Nov 2025 00:16:17 +0000"
+    },
+    {
+        "title": "Rockwell Automation Fixes Critical Privilege Escalation Flaw in Verve Asset Manager (CVE-2025-11862, CVSS 9.9)",
+        "link": "https://securityonline.info/rockwell-automation-fixes-critical-privilege-escalation-flaw-in-verve-asset-manager-cve-2025-11862-cvss-9-9/",
+        "published": "Wed, 12 Nov 2025 00:12:25 +0000"
+    },
+    {
+        "title": "Meta Open-Sources Omnilingual ASR: State-of-the-Art Speech Recognition for 1,600+ Languages",
+        "link": "https://securityonline.info/meta-open-sources-omnilingual-asr-state-of-the-art-speech-recognition-for-1600-languages/",
+        "published": "Wed, 12 Nov 2025 00:09:36 +0000"
+    },
+    {
+        "title": "Galaxy S26 Standard Model Gets Thicker: Hinting at a Possible Battery Upgrade",
+        "link": "https://securityonline.info/galaxy-s26-standard-model-gets-thicker-hinting-at-a-possible-battery-upgrade/",
+        "published": "Wed, 12 Nov 2025 00:08:49 +0000"
+    },
+    {
+        "title": "New Android Rule: Google to Flag Battery-Draining Apps on Play Store Listings",
+        "link": "https://securityonline.info/new-android-rule-google-to-flag-battery-draining-apps-on-play-store-listings/",
+        "published": "Wed, 12 Nov 2025 00:06:55 +0000"
+    },
+    {
+        "title": "AI Boom Creates 2-Year HDD Backlog, Forcing Shift to QLC SSDs and Price Hikes",
+        "link": "https://securityonline.info/ai-boom-creates-2-year-hdd-backlog-forcing-shift-to-qlc-ssds-and-price-hikes/",
+        "published": "Wed, 12 Nov 2025 00:03:18 +0000"
+    },
+    {
+        "title": "Wikipedia Fights Back: Paid API Launches as AI Traffic Steals 8% of Human Visitors",
+        "link": "https://securityonline.info/wikipedia-fights-back-paid-api-launches-as-ai-traffic-steals-8-of-human-visitors/",
+        "published": "Wed, 12 Nov 2025 00:00:55 +0000"
     }
 ]
