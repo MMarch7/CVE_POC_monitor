@@ -7398,5 +7398,20 @@
         "title": "Authentication Coercion: How Windows Machines Are Tricked into Leaking Credentials",
         "link": "https://gbhackers.com/authentication-coercion/",
         "published": "Wed, 12 Nov 2025 10:44:31 +0000"
+    },
+    {
+        "title": "SecureVibes Introduces Multi-Language Vulnerability Scanner Powered by Claude AI",
+        "link": "https://gbhackers.com/securevibes-introduces-multi-language-vulnerability/",
+        "published": "Wed, 12 Nov 2025 12:52:53 +0000"
+    },
+    {
+        "title": "MastaStealer Exploits Windows LNK to Launch PowerShell and Bypass Defender",
+        "link": "https://gbhackers.com/mastastealer-exploits-windows/",
+        "published": "Wed, 12 Nov 2025 12:06:44 +0000"
+    },
+    {
+        "title": "Hackers Exploit SSRF Flaw in Custom GPTs to Steal ChatGPT Secrets",
+        "link": "https://gbhackers.com/hackers-exploit-ssrf-flaw/",
+        "published": "Wed, 12 Nov 2025 11:36:55 +0000"
     }
 ]
