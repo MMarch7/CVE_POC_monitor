@@ -1865,3 +1865,4 @@ clean_list:
 - CVE-2025-9223
 - CVE-2025-63667
 - CVE-2024-47167-Environment-Setup
+- CVE-2025-56499
