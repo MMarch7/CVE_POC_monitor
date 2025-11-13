@@ -1873,3 +1873,6 @@ clean_list:
 - CVE-2025-20260
 - cve-2025-32434-poc
 - connectwise-automate-AiTM-rce
+- CVE-2025-44823
+- CVE-2025-64708
+- CVE-2024-0044_PoC
