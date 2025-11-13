@@ -1878,3 +1878,5 @@ clean_list:
 - CVE-2024-0044_PoC
 - CVE-2025-9816
 - security-advisories
+- Blackash-CVE-2025-64513
+- Blackash-CVE-2025-59118

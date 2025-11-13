@@ -7473,5 +7473,10 @@
         "title": "GitLab Vulnerabilities Expose Users to Prompt Injection Attacks and Data Theft",
         "link": "https://gbhackers.com/gitlab-vulnerabilities-expose-users-to-prompt-injection/",
         "published": "Thu, 13 Nov 2025 09:11:45 +0000"
+    },
+    {
+        "title": "Kibana Vulnerabilities Expose Systems to SSRF and XSS Attacks",
+        "link": "https://gbhackers.com/kibana-vulnerabilities-expose-systems/",
+        "published": "Thu, 13 Nov 2025 10:04:51 +0000"
     }
 ]
