@@ -23438,5 +23438,30 @@
         "title": "PAN-OS Flaw (CVE-2025-4619) Allows Unauthenticated Firewall Reboot via Single Crafted Packet",
         "link": "https://securityonline.info/pan-os-flaw-cve-2025-4619-allows-unauthenticated-firewall-reboot-via-single-crafted-packet/",
         "published": "Thu, 13 Nov 2025 02:49:16 +0000"
+    },
+    {
+        "title": "Seamless Switch: Google Workspace Now Supports Direct Dropbox Data Migration",
+        "link": "https://securityonline.info/seamless-switch-google-workspace-now-supports-direct-dropbox-data-migration/",
+        "published": "Thu, 13 Nov 2025 04:08:25 +0000"
+    },
+    {
+        "title": "Apple Wallet Now Stores Digital Passports for TSA Checkpoints",
+        "link": "https://securityonline.info/apple-wallet-now-stores-digital-passports-for-tsa-checkpoints/",
+        "published": "Thu, 13 Nov 2025 04:03:49 +0000"
+    },
+    {
+        "title": "No More Separate Passkeys: Windows 11 Adds API for Password Manager Integration",
+        "link": "https://securityonline.info/no-more-separate-passkeys-windows-11-adds-api-for-password-manager-integration/",
+        "published": "Thu, 13 Nov 2025 03:59:30 +0000"
+    },
+    {
+        "title": "Steam Frame VR Unveiled: Valve’s Standalone Headset Targets Quest with Snapdragon & Foveated Streaming",
+        "link": "https://securityonline.info/steam-frame-vr-unveiled-valves-standalone-headset-targets-quest-with-snapdragon-foveated-streaming/",
+        "published": "Thu, 13 Nov 2025 03:33:45 +0000"
+    },
+    {
+        "title": "KMS38 Activation is Broken: Microsoft Removes License Transfer Mechanism in Windows 11",
+        "link": "https://securityonline.info/kms38-activation-is-broken-microsoft-removes-license-transfer-mechanism-in-windows-11/",
+        "published": "Thu, 13 Nov 2025 03:29:16 +0000"
     }
 ]

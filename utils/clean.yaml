@@ -1871,3 +1871,5 @@ clean_list:
 - needrestart-sudo-escalate-cve-2024-4890
 - CVE-2024-48910-POC
 - CVE-2025-20260
+- cve-2025-32434-poc
+- connectwise-automate-AiTM-rce
