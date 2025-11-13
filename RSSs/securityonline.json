@@ -23423,5 +23423,20 @@
         "title": "Delphi PatoRAT Backdoor Hijacks LogMeIn Resolve and PDQ Connect RMM Tools for Full System Takeover",
         "link": "https://securityonline.info/delphi-patorat-backdoor-hijacks-logmein-resolve-and-pdq-connect-rmm-tools-for-full-system-takeover/",
         "published": "Thu, 13 Nov 2025 00:00:11 +0000"
+    },
+    {
+        "title": "Seagate Exos 4U100 Unveiled: 3.2 PB Storage Density for AI and Edge Data Centers",
+        "link": "https://securityonline.info/seagate-exos-4u100-unveiled-3-2-pb-storage-density-for-ai-and-edge-data-centers/",
+        "published": "Thu, 13 Nov 2025 03:20:21 +0000"
+    },
+    {
+        "title": "Android Sideloading Crackdown: Google to Verify All Apps, But Promises Power-User Bypass",
+        "link": "https://securityonline.info/android-sideloading-crackdown-google-to-verify-all-apps-but-promises-power-user-bypass/",
+        "published": "Thu, 13 Nov 2025 03:12:49 +0000"
+    },
+    {
+        "title": "PAN-OS Flaw (CVE-2025-4619) Allows Unauthenticated Firewall Reboot via Single Crafted Packet",
+        "link": "https://securityonline.info/pan-os-flaw-cve-2025-4619-allows-unauthenticated-firewall-reboot-via-single-crafted-packet/",
+        "published": "Thu, 13 Nov 2025 02:49:16 +0000"
     }
 ]
