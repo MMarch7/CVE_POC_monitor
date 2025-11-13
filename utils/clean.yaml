@@ -1870,3 +1870,4 @@ clean_list:
 - neecdrestart-sudo-escalate-cve-2024-4890
 - needrestart-sudo-escalate-cve-2024-4890
 - CVE-2024-48910-POC
+- CVE-2025-20260

@@ -23368,5 +23368,60 @@
         "title": "Broadcom & CAMB.AI Developing AI Chip for Real-Time On-Device Dubbing",
         "link": "https://securityonline.info/broadcom-camb-ai-developing-ai-chip-for-real-time-on-device-dubbing/",
         "published": "Wed, 12 Nov 2025 02:10:54 +0000"
+    },
+    {
+        "title": "High-Severity GitLab XSS Flaw (CVE-2025-11224) Risks Kubernetes Proxy Session Hijacking",
+        "link": "https://securityonline.info/high-severity-gitlab-xss-flaw-cve-2025-11224-risks-kubernetes-proxy-session-hijacking/",
+        "published": "Thu, 13 Nov 2025 02:07:08 +0000"
+    },
+    {
+        "title": "Critical Dell Data Lakehouse Vulnerability (CVE-2025-46608) Allows Privilege Escalation",
+        "link": "https://securityonline.info/critical-dell-data-lakehouse-vulnerability-cve-2025-46608-allows-privilege-escalation/",
+        "published": "Thu, 13 Nov 2025 01:47:40 +0000"
+    },
+    {
+        "title": "ThreatBook Peer-Recognized as a Strong Performer in the 2025 Gartner® Peer Insights™ Voice of the Customer for Network Detection and Response — for the Third Consecutive Year",
+        "link": "https://securityonline.info/threatbook-peer-recognized-as-a-strong-performer-in-the-2025-gartner-peer-insights-voice-of-the-customer-for-network-detection-and-response-for-the-third-consecutive-year/",
+        "published": "Thu, 13 Nov 2025 01:00:36 +0000"
+    },
+    {
+        "title": "Google Launches Private AI Compute for Pixel 10, Blending Cloud Power with On-Device Privacy",
+        "link": "https://securityonline.info/google-launches-private-ai-compute-for-pixel-10-blending-cloud-power-with-on-device-privacy/",
+        "published": "Thu, 13 Nov 2025 00:41:48 +0000"
+    },
+    {
+        "title": "Elastic Patches Two Kibana Flaws — SSRF (CVE-2025-37734) and XSS (CVE-2025-59840) Flaws Affect Multiple Versions",
+        "link": "https://securityonline.info/elastic-patches-two-kibana-flaws-ssrf-cve-2025-37734-and-xss-cve-2025-59840-flaws-affect-multiple-versions/",
+        "published": "Thu, 13 Nov 2025 00:30:38 +0000"
+    },
+    {
+        "title": "CVE-2025-11919: Wolfram Cloud Vulnerability Exposes Users to Privilege Escalation and Remote Code Execution",
+        "link": "https://securityonline.info/cve-2025-11919-wolfram-cloud-vulnerability-exposes-users-to-privilege-escalation-and-remote-code-execution/",
+        "published": "Thu, 13 Nov 2025 00:26:46 +0000"
+    },
+    {
+        "title": "Malware Disguised as SteamCleaner Uses Valid Signature to Inject Node.js RCE Backdoor",
+        "link": "https://securityonline.info/malware-disguised-as-steamcleaner-uses-valid-signature-to-inject-node-js-rce-backdoor/",
+        "published": "Thu, 13 Nov 2025 00:22:09 +0000"
+    },
+    {
+        "title": "Open WebUI XSS Flaw (CVE-2025-64495) Risks Admin RCE via Malicious Prompts",
+        "link": "https://securityonline.info/open-webui-xss-flaw-cve-2025-64495-risks-admin-rce-via-malicious-prompts/",
+        "published": "Thu, 13 Nov 2025 00:15:39 +0000"
+    },
+    {
+        "title": "Legacy Malware Resurfaces: DarkComet RAT Uses Bitcoin Wallet Lure to Deploy UPX-Packed Payload",
+        "link": "https://securityonline.info/legacy-malware-resurfaces-darkcomet-rat-uses-bitcoin-wallet-lure-to-deploy-upx-packed-payload/",
+        "published": "Thu, 13 Nov 2025 00:10:56 +0000"
+    },
+    {
+        "title": "CERT/CC Warns of Code Execution Flaws in Lite XL Text Editor (CVE-2025-12120, CVE-2025-12121)",
+        "link": "https://securityonline.info/cert-cc-warns-of-code-execution-flaws-in-lite-xl-text-editor-cve-2025-12120-cve-2025-12121/",
+        "published": "Thu, 13 Nov 2025 00:05:15 +0000"
+    },
+    {
+        "title": "Delphi PatoRAT Backdoor Hijacks LogMeIn Resolve and PDQ Connect RMM Tools for Full System Takeover",
+        "link": "https://securityonline.info/delphi-patorat-backdoor-hijacks-logmein-resolve-and-pdq-connect-rmm-tools-for-full-system-takeover/",
+        "published": "Thu, 13 Nov 2025 00:00:11 +0000"
     }
 ]
