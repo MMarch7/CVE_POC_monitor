@@ -7433,5 +7433,25 @@
         "title": "Google Sues “Lighthouse” Over Massive Phishing Attacks",
         "link": "https://gbhackers.com/google-sues-lighthouse/",
         "published": "Thu, 13 Nov 2025 04:54:06 +0000"
+    },
+    {
+        "title": "Beware of Fake Bitcoin Tools Concealing DarkComet RAT Malware",
+        "link": "https://gbhackers.com/fake-bitcoin-tools/",
+        "published": "Thu, 13 Nov 2025 06:06:23 +0000"
+    },
+    {
+        "title": "CISA Warns of Active Exploitation of WatchGuard Firebox Out-of-Bounds Write Flaw",
+        "link": "https://gbhackers.com/cisa-warns-watchguard-firebox-out-of-bounds-write-flaw/",
+        "published": "Thu, 13 Nov 2025 05:53:21 +0000"
+    },
+    {
+        "title": "Citrix NetScaler ADC and Gateway Flaw Allows Cross-Site Scripting (XSS) Attacks",
+        "link": "https://gbhackers.com/citrix-netscaler-adc-and-gateway-flaw/",
+        "published": "Thu, 13 Nov 2025 05:41:30 +0000"
+    },
+    {
+        "title": "Hackers Using RMM Tools LogMeIn and PDQ Connect to Deploy Malware as Legitimate Software",
+        "link": "https://gbhackers.com/logmein-and-pdq-connect/",
+        "published": "Thu, 13 Nov 2025 05:35:41 +0000"
     }
 ]
