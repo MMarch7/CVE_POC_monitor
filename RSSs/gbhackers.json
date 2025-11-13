@@ -7508,5 +7508,15 @@
         "title": "OpenAI Sora 2 Vulnerability Allows Exposure of Hidden System Prompts from Audio Data",
         "link": "https://gbhackers.com/openai-sora-2-vulnerability-allows-exposure-of-hidden-system-prompts/",
         "published": "Thu, 13 Nov 2025 13:07:33 +0000"
+    },
+    {
+        "title": "Malicious npm Package with 206K Downloads Targeting GitHub Repositories to Steal Tokens",
+        "link": "https://gbhackers.com/malicious-npm-package/",
+        "published": "Thu, 13 Nov 2025 14:10:45 +0000"
+    },
+    {
+        "title": "SmartApeSG Uses ClickFix to Deploy NetSupport RAT",
+        "link": "https://gbhackers.com/netsupport-rat/",
+        "published": "Thu, 13 Nov 2025 13:50:47 +0000"
     }
 ]
