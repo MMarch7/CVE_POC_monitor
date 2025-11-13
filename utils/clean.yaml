@@ -1877,3 +1877,4 @@ clean_list:
 - CVE-2025-64708
 - CVE-2024-0044_PoC
 - CVE-2025-9816
+- security-advisories
