@@ -23473,5 +23473,50 @@
         "title": "PoC Exploit Releases for Windows Privilege Escalation Vulnerability",
         "link": "https://securityonline.info/poc-exploit-releases-for-windows-privilege-escalation-vulnerability/",
         "published": "Thu, 13 Nov 2025 07:58:30 +0000"
+    },
+    {
+        "title": "Qualcomm Launches Dragonwing IQ-X: Oryon CPU Brings 45 TOPS Edge AI to Factory PCs",
+        "link": "https://securityonline.info/qualcomm-launches-dragonwing-iq-x-oryon-cpu-brings-45-tops-edge-ai-to-factory-pcs/",
+        "published": "Fri, 14 Nov 2025 02:06:49 +0000"
+    },
+    {
+        "title": "GPT-5.1 Arrives: OpenAI Unveils ‘Adaptive Reasoning’ & New Human-Like Chat Styles",
+        "link": "https://securityonline.info/gpt-5-1-arrives-openai-unveils-adaptive-reasoning-new-human-like-chat-styles/",
+        "published": "Fri, 14 Nov 2025 02:02:40 +0000"
+    },
+    {
+        "title": "macOS Tahoe Beta Reveals ‘Edge Light’: Apple’s New AI-Driven Virtual Ring Light for Video Calls",
+        "link": "https://securityonline.info/macos-tahoe-beta-reveals-edge-light-apples-new-ai-driven-virtual-ring-light-for-video-calls/",
+        "published": "Fri, 14 Nov 2025 01:58:28 +0000"
+    },
+    {
+        "title": "Windows Agentic OS Revealed: Microsoft Aims to Transform Windows 11 into an AI-First Platform",
+        "link": "https://securityonline.info/windows-agentic-os-revealed-microsoft-aims-to-transform-windows-11-into-an-ai-first-platform/",
+        "published": "Fri, 14 Nov 2025 01:54:18 +0000"
+    },
+    {
+        "title": "Sui Blockchain Seed Stealer: Malicious Chrome Extension Hides Mnemonic Exfiltration in Microtransactions",
+        "link": "https://securityonline.info/sui-blockchain-seed-stealer-malicious-chrome-extension-hides-mnemonic-exfiltration-in-microtransactions/",
+        "published": "Fri, 14 Nov 2025 00:20:47 +0000"
+    },
+    {
+        "title": "High-Severity NVIDIA NeMo Framework Flaws Allow Code Injection and Privilege Escalation in AI Pipelines",
+        "link": "https://securityonline.info/high-severity-nvidia-nemo-framework-flaws-allow-code-injection-and-privilege-escalation-in-ai-pipelines/",
+        "published": "Fri, 14 Nov 2025 00:15:49 +0000"
+    },
+    {
+        "title": "Amazon Exposes Advanced APT Exploiting Cisco ISE (RCE) and Citrix Bleed Two as Simultaneous Zero-Days",
+        "link": "https://securityonline.info/amazon-exposes-advanced-apt-exploiting-cisco-ise-rce-and-citrix-bleed-two-as-simultaneous-zero-days/",
+        "published": "Fri, 14 Nov 2025 00:10:46 +0000"
+    },
+    {
+        "title": "macOS Threat: AppleScript (.scpt) Files Emerge as New Stealth Vector for Stealer Malware",
+        "link": "https://securityonline.info/macos-threat-applescript-scpt-files-emerge-as-new-stealth-vector-for-stealer-malware/",
+        "published": "Fri, 14 Nov 2025 00:05:56 +0000"
+    },
+    {
+        "title": "Critical Zoho Analytics Plus Flaw (CVE-2025-8324, CVSS 9.8) Allows Unauthenticated SQL Injection and Data Takeover",
+        "link": "https://securityonline.info/critical-zoho-analytics-plus-flaw-cve-2025-8324-cvss-9-8-allows-unauthenticated-sql-injection-and-data-takeover/",
+        "published": "Fri, 14 Nov 2025 00:00:03 +0000"
     }
 ]
