@@ -7598,5 +7598,25 @@
         "title": "Analysis of Multi-Stage Phishing Kits Leveraging Telegram for Credential Theft and Evasion Techniques",
         "link": "https://gbhackers.com/phishing-kits/",
         "published": "Fri, 14 Nov 2025 11:28:17 +0000"
+    },
+    {
+        "title": "Multiple Cisco Unified CCX Vulnerabilities Enable Arbitrary Command Execution by Attackers",
+        "link": "https://gbhackers.com/cisco-unified-ccx/",
+        "published": "Fri, 14 Nov 2025 13:36:02 +0000"
+    },
+    {
+        "title": "RONINGLOADER Uses Signed Drivers to Disable Microsoft Defender and Bypass EDR",
+        "link": "https://gbhackers.com/roningloader/",
+        "published": "Fri, 14 Nov 2025 13:18:12 +0000"
+    },
+    {
+        "title": "Hackers Exploit Rogue MCP Server to Inject Malicious Code into Cursor’s Built-In Browser",
+        "link": "https://gbhackers.com/hackers-exploit-rogue-mcp-server-to-inject-malicious-code/",
+        "published": "Fri, 14 Nov 2025 13:16:08 +0000"
+    },
+    {
+        "title": "NVIDIA NeMo Flaw Enables Code Injection and Privilege Escalation Attacks",
+        "link": "https://gbhackers.com/nvidia-nemo-flaw/",
+        "published": "Fri, 14 Nov 2025 12:59:14 +0000"
     }
 ]
