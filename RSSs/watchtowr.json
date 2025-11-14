@@ -198,5 +198,10 @@
         "title": "Is It CitrixBleed4? Well, No. Is It Good? Also, No. (Citrix NetScaler Memory Leak & RXSS CVE-2025-12101)",
         "link": "https://labs.watchtowr.com/is-it-citrixbleed4-well-no-is-it-good-also-no-citrix-netscalers-memory-leak-rxss-cve-2025-12101/",
         "published": "Wed, 12 Nov 2025 13:03:43 GMT"
+    },
+    {
+        "title": "When The Impersonation Function Gets Used To Impersonate Users (Fortinet FortiWeb (??) Auth. Bypass)",
+        "link": "https://labs.watchtowr.com/when-the-impersonation-function-gets-used-to-impersonate-users-fortinet-fortiweb-auth-bypass/",
+        "published": "Fri, 14 Nov 2025 14:26:13 GMT"
     }
 ]

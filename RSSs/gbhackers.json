@@ -7618,5 +7618,10 @@
         "title": "NVIDIA NeMo Flaw Enables Code Injection and Privilege Escalation Attacks",
         "link": "https://gbhackers.com/nvidia-nemo-flaw/",
         "published": "Fri, 14 Nov 2025 12:59:14 +0000"
+    },
+    {
+        "title": "Cisco Catalyst Center Vulnerability Allows Attackers to Escalate Privileges",
+        "link": "https://gbhackers.com/cisco-catalyst-center/",
+        "published": "Fri, 14 Nov 2025 14:12:22 +0000"
     }
 ]
