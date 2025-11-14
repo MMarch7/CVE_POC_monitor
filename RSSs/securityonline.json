@@ -23518,5 +23518,15 @@
         "title": "Critical Zoho Analytics Plus Flaw (CVE-2025-8324, CVSS 9.8) Allows Unauthenticated SQL Injection and Data Takeover",
         "link": "https://securityonline.info/critical-zoho-analytics-plus-flaw-cve-2025-8324-cvss-9-8-allows-unauthenticated-sql-injection-and-data-takeover/",
         "published": "Fri, 14 Nov 2025 00:00:03 +0000"
+    },
+    {
+        "title": "ZERO-DAY ATTACK WARNING: Fortinet FortiWeb Exploit Grants Unauthenticated Admin Access!",
+        "link": "https://securityonline.info/zero-day-attack-warning-fortinet-fortiweb-exploit-grants-unauthenticated-admin-access/",
+        "published": "Fri, 14 Nov 2025 02:53:31 +0000"
+    },
+    {
+        "title": "Critical ASUS DSL Router Flaw (CVE-2025-59367, CVSS 9.3) Allows Unauthenticated Remote Access",
+        "link": "https://securityonline.info/critical-asus-dsl-router-flaw-cve-2025-59367-cvss-9-3-allows-unauthenticated-remote-access/",
+        "published": "Fri, 14 Nov 2025 02:17:20 +0000"
     }
 ]
