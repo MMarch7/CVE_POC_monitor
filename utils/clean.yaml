@@ -1884,3 +1884,5 @@ clean_list:
 - Blackash-CVE-2025-64500
 - CVE-2025-63602
 - blueshrimp
+- CVE-2025-48932---exploit
+- CVE-2025-62215-exploit-poc
