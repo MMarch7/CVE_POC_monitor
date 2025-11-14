@@ -7578,5 +7578,25 @@
         "title": "Kraken Ransomware Targets Windows, Linux, and VMware ESXi in Enterprise Environments",
         "link": "https://gbhackers.com/kraken-ransomware/",
         "published": "Fri, 14 Nov 2025 10:47:22 +0000"
+    },
+    {
+        "title": "Cybercriminals Use Fake Invoices to Deploy XWorm and Steal Login Credentials",
+        "link": "https://gbhackers.com/fake-invoices/",
+        "published": "Fri, 14 Nov 2025 12:54:26 +0000"
+    },
+    {
+        "title": "Advanced macOS DigitStealer Uses Multi-Stage Attack Chain to Evade Detection",
+        "link": "https://gbhackers.com/macos-digitstealer/",
+        "published": "Fri, 14 Nov 2025 12:31:36 +0000"
+    },
+    {
+        "title": "Formbook Malware Campaign Uses Malicious ZIP Files and Layered Scripting Techniques",
+        "link": "https://gbhackers.com/formbook-malware-2/",
+        "published": "Fri, 14 Nov 2025 12:07:35 +0000"
+    },
+    {
+        "title": "Analysis of Multi-Stage Phishing Kits Leveraging Telegram for Credential Theft and Evasion Techniques",
+        "link": "https://gbhackers.com/phishing-kits/",
+        "published": "Fri, 14 Nov 2025 11:28:17 +0000"
     }
 ]
