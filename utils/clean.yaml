@@ -1892,3 +1892,5 @@ clean_list:
 - CVE-2025-21202-exploit
 - Blackash-CVE-2025-XXXXX
 - CVE-2025-41088
+- CVE-2025-55315-repro
+- CVE-2025-60724
