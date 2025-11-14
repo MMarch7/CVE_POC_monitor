@@ -1889,3 +1889,4 @@ clean_list:
 - Kotaemon-CVE-2025-56526-56527-disclosure
 - CVE-2025-64513
 - Blackash-CVE-2025-59367
+- CVE-2025-21202-exploit
