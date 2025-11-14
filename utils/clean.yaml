@@ -1886,3 +1886,6 @@ clean_list:
 - blueshrimp
 - CVE-2025-48932---exploit
 - CVE-2025-62215-exploit-poc
+- Kotaemon-CVE-2025-56526-56527-disclosure
+- CVE-2025-64513
+- Blackash-CVE-2025-59367
