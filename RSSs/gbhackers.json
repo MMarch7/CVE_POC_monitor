@@ -7523,5 +7523,20 @@
         "title": "Phishing Emails Alert: How Spam Filters Can Steal Your Email Logins in an Instant",
         "link": "https://gbhackers.com/phishing-emails-alert/",
         "published": "Thu, 13 Nov 2025 14:30:54 +0000"
+    },
+    {
+        "title": "Palo Alto PAN-OS Flaw Lets Attackers Force Firewall Reboots via Malicious Packets",
+        "link": "https://gbhackers.com/palo-alto-pan-os-flaw/",
+        "published": "Fri, 14 Nov 2025 05:20:25 +0000"
+    },
+    {
+        "title": "Lumma Stealer Leverages Browser Fingerprinting for Data Theft and Stealthy C2 Communications",
+        "link": "https://gbhackers.com/lumma-stealer/",
+        "published": "Fri, 14 Nov 2025 05:13:42 +0000"
+    },
+    {
+        "title": "Fortinet FortiWeb Zero-Day Exploited to Gain Full Admin Access",
+        "link": "https://gbhackers.com/fortinet-fortiweb-zero-day-exploited/",
+        "published": "Fri, 14 Nov 2025 05:07:41 +0000"
     }
 ]
