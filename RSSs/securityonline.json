@@ -23533,5 +23533,15 @@
         "title": "App Store Cuts Commission to 15% for Mini Apps to Expand Services",
         "link": "https://securityonline.info/app-store-cuts-commission-to-15-for-mini-apps-to-expand-services/",
         "published": "Fri, 14 Nov 2025 08:48:58 +0000"
+    },
+    {
+        "title": "Symfony Patches PATH_INFO Parsing Flaw Leading to Authorization Bypass (CVE-2025-64500)",
+        "link": "https://securityonline.info/symfony-patches-path_info-parsing-flaw-leading-to-authorization-bypass-cve-2025-64500/",
+        "published": "Sat, 15 Nov 2025 00:10:13 +0000"
+    },
+    {
+        "title": "Cisco Warns of High-Severity Privilege Escalation Flaw (CVE-2025-20341) in Catalyst Center Virtual Appliance",
+        "link": "https://securityonline.info/cisco-warns-of-high-severity-privilege-escalation-flaw-cve-2025-20341-in-catalyst-center-virtual-appliance/",
+        "published": "Sat, 15 Nov 2025 00:00:34 +0000"
     }
 ]
