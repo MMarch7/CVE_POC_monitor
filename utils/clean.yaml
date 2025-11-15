@@ -1898,3 +1898,4 @@ clean_list:
 - Blackash-CVE-2025-33073
 - checkmk_cve-2024-0670
 - CVE-2025-12101-Scanner-PoC
+- CVE-2025-49844-RediShell-AI-made-Revshell
