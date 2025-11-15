@@ -1897,3 +1897,4 @@ clean_list:
 - Blackash-CVE-2025-64446
 - Blackash-CVE-2025-33073
 - checkmk_cve-2024-0670
+- CVE-2025-12101-Scanner-PoC
