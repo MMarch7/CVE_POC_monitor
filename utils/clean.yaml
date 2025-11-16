@@ -1902,3 +1902,6 @@ clean_list:
 - CVE-2025-32463-Sudo-Privilege-Escalation
 - cve-lakehouse-databricks
 - CVE-2025-60854
+- CVE-Data-Pipeline-2024
+- CVE-2025-13188-Exploit
+- jq-els-backport-cve-2025-48060
