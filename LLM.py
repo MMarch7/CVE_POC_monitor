@@ -12,20 +12,21 @@ github_headers = {
     'Authorization': "token {}".format(github_token)
 }
 
+
 def checkEnvData():
     if not github_token:
         logging.error("github_token 获取失败")
         exit(0)
-    elif not llm_url:  
+    elif not llm_url:
         logging.error("LLM_URL获取失败")
         exit(0)
-    elif not llm_api_key:  
+    elif not llm_api_key:
         logging.error("LLM_API_KEY获取失败")
         exit(0)
-    elif not msg_push.tg_token:  
+    elif not msg_push.tg_token:
         logging.error("TG_token获取失败")
         exit(0)
-    elif not msg_push.wechat_token:  
+    elif not msg_push.wechat_token:
         logging.error("wechat_token获取失败")
         exit(0)
     elif not msg_push.google_sheet_token:
@@ -45,12 +46,13 @@ def init():
     logging.info("STARTING")
     return
 
+
 def run_llm_inference(raws):
     client = OpenAI(
-        base_url = llm_url,
-        api_key = llm_api_key
+        base_url=llm_url,
+        api_key=llm_api_key
     )
-    
+
     with open('./utils/prompt.txt', 'r', encoding='utf-8') as f:
         for line in f:  # 逐行处理，不一次性加载
             prompt = line.strip()  # 去掉首尾空白符
@@ -60,12 +62,12 @@ def run_llm_inference(raws):
             messages=[
                 {
                     "role": "user",
-                    "content": prompt+content
+                    "content": prompt + content
                 }
             ],
-            model = 'deepseek-r1'
+            model='deepseek-r1'
         )
-    
+
         text = chat_completion.choices[0].message.content
     except Exception as e:
         if e.code == 20059:
@@ -78,7 +80,8 @@ def run_llm_inference(raws):
         return "No http request"
     else:
         return text
-    
+
+
 def main():
     init()
     table_content = msg_push.get_google_sheet("raw")
