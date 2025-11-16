@@ -1912,3 +1912,4 @@ clean_list:
 - CVE-2024-0670---CheckMK-Agent-Local-Privilege-Escalation-Exploit
 - CVE-2024-0670
 - CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit
+- Blackash-CVE-2025-64484
