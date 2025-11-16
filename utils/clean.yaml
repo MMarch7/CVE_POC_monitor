@@ -1905,3 +1905,6 @@ clean_list:
 - CVE-Data-Pipeline-2024
 - CVE-2025-13188-Exploit
 - jq-els-backport-cve-2025-48060
+- CVE-2025-54321
+- CVE-2025-54320
+- CVE-2025-40019_POC
