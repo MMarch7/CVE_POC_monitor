@@ -1911,3 +1911,4 @@ clean_list:
 - CVE-2025-59287-PoC
 - CVE-2024-0670---CheckMK-Agent-Local-Privilege-Escalation-Exploit
 - CVE-2024-0670
+- CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit
