@@ -1899,3 +1899,4 @@ clean_list:
 - checkmk_cve-2024-0670
 - CVE-2025-12101-Scanner-PoC
 - CVE-2025-49844-RediShell-AI-made-Revshell
+- CVE-2025-32463-Sudo-Privilege-Escalation
