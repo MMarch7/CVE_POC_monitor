@@ -1900,3 +1900,5 @@ clean_list:
 - CVE-2025-12101-Scanner-PoC
 - CVE-2025-49844-RediShell-AI-made-Revshell
 - CVE-2025-32463-Sudo-Privilege-Escalation
+- cve-lakehouse-databricks
+- CVE-2025-60854
