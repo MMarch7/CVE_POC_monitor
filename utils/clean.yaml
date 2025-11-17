@@ -1928,3 +1928,5 @@ clean_list:
 - lenovo-dispatcher-poc
 - CVE-2025-54574-Squid-Heap-Buffer-Overflow
 - CVE-2025-64027
+- CVE-2025-62220
+- zeroheight-account-verification-bypass-CVE-2025-XXXX
