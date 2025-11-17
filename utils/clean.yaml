@@ -1924,3 +1924,7 @@ clean_list:
 - cveMetadata2024_dic_assignment1
 - Blackash-CVE-2025-12762
 - Blackash-CVE-2025-36250
+- CVE-2025-64446
+- lenovo-dispatcher-poc
+- CVE-2025-54574-Squid-Heap-Buffer-Overflow
+- CVE-2025-64027
