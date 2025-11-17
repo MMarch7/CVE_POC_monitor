@@ -1920,3 +1920,5 @@ clean_list:
 - dic-cve2024-data-engineering-pipeline
 - CVE-2024-LAKEHOUSE
 - Scalar-Venom-Attack
+- cve-2024-bronze-silver-gold
+- cveMetadata2024_dic_assignment1
