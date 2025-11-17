@@ -1917,3 +1917,6 @@ clean_list:
 - CVE_Lakehouse
 - cheese-cake
 - roundcube-cve-2025-49113-lab
+- dic-cve2024-data-engineering-pipeline
+- CVE-2024-LAKEHOUSE
+- Scalar-Venom-Attack
