@@ -1922,3 +1922,5 @@ clean_list:
 - Scalar-Venom-Attack
 - cve-2024-bronze-silver-gold
 - cveMetadata2024_dic_assignment1
+- Blackash-CVE-2025-12762
+- Blackash-CVE-2025-36250
