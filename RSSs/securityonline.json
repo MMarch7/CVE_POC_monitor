@@ -23573,5 +23573,55 @@
         "title": "Google to Invest $40 Billion in Texas for Next-Gen Cloud and AI Data Centers",
         "link": "https://securityonline.info/google-to-invest-40-billion-in-texas-for-next-gen-cloud-and-ai-data-centers/",
         "published": "Sun, 16 Nov 2025 07:00:41 +0000"
+    },
+    {
+        "title": "Critical pgAdmin Flaws (CVE-2025-12762, CVSS 9.1) Allow Remote Code Execution via PostgreSQL Dump Files",
+        "link": "https://securityonline.info/critical-pgadmin-flaws-cve-2025-12762-cvss-9-1-allow-remote-code-execution-via-postgresql-dump-files/",
+        "published": "Mon, 17 Nov 2025 02:06:02 +0000"
+    },
+    {
+        "title": "High-Severity Memos Flaw (CVE-2024-21635) Allows Hackers to Stay Logged In After Password Change",
+        "link": "https://securityonline.info/high-severity-memos-flaw-cve-2024-21635-allows-hackers-to-stay-logged-in-after-password-change/",
+        "published": "Mon, 17 Nov 2025 01:48:18 +0000"
+    },
+    {
+        "title": "HelloKitty Successor Kraken Ransomware Hits Windows/ESXi, Benchmarks Victim Performance Before Encryption",
+        "link": "https://securityonline.info/hellokitty-successor-kraken-ransomware-hits-windows-esxi-benchmarks-victim-performance-before-encryption/",
+        "published": "Mon, 17 Nov 2025 00:38:38 +0000"
+    },
+    {
+        "title": "Critical IBM AIX RCE (CVE-2025-36250, CVSS 10.0) Flaw Exposes NIM Private Keys and Risks Directory Traversal",
+        "link": "https://securityonline.info/critical-ibm-aix-rce-cve-2025-36250-cvss-10-0-flaw-exposes-nim-private-keys-and-risks-directory-traversal/",
+        "published": "Mon, 17 Nov 2025 00:32:26 +0000"
+    },
+    {
+        "title": "North Korea’s Contagious Interview APT Uses JSON Keeper and GitLab to Deliver BeaverTail Spyware",
+        "link": "https://securityonline.info/north-koreas-contagious-interview-apt-uses-json-keeper-and-gitlab-to-deliver-beavertail-spyware/",
+        "published": "Mon, 17 Nov 2025 00:30:41 +0000"
+    },
+    {
+        "title": "Record Supply Chain Attack: 150,000+ Malicious npm Packages Flooded Registry for Token Farming Rewards",
+        "link": "https://securityonline.info/record-supply-chain-attack-150000-malicious-npm-packages-flooded-registry-for-token-farming-rewards/",
+        "published": "Mon, 17 Nov 2025 00:25:32 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Lynx+ Gateway Flaw (CVSS 10.0) Allows Unauthenticated Remote Reset; Vendor Non-Responsive",
+        "link": "https://securityonline.info/cisa-warns-critical-lynx-gateway-flaw-cvss-10-0-allows-unauthenticated-remote-reset-vendor-non-responsive/",
+        "published": "Mon, 17 Nov 2025 00:20:39 +0000"
+    },
+    {
+        "title": "Lumma Stealer Resurfaces After Doxxing with New Browser Fingerprinting to Target High-Value Victims",
+        "link": "https://securityonline.info/lumma-stealer-resurfaces-after-doxxing-with-new-browser-fingerprinting-to-target-high-value-victims/",
+        "published": "Mon, 17 Nov 2025 00:10:06 +0000"
+    },
+    {
+        "title": "Phishing-as-a-Service Uncovered: Automated Kit Impersonates Aruba S.p.A. to Steal Credentials and Credit Cards",
+        "link": "https://securityonline.info/phishing-as-a-service-uncovered-automated-kit-impersonates-aruba-s-p-a-to-steal-credentials-and-credit-cards/",
+        "published": "Mon, 17 Nov 2025 00:05:31 +0000"
+    },
+    {
+        "title": "New Yurei Ransomware Emerges: Go-Based Threat Uses ChaCha20-Poly1305 for Irreversible Double Extortion",
+        "link": "https://securityonline.info/new-yurei-ransomware-emerges-go-based-threat-uses-chacha20-poly1305-for-irreversible-double-extortion/",
+        "published": "Mon, 17 Nov 2025 00:00:47 +0000"
     }
 ]

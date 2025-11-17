@@ -1913,3 +1913,7 @@ clean_list:
 - CVE-2024-0670
 - CVE-2024-0670-CheckMK-Agent-Local-Privilege-Escalation-Exploit
 - Blackash-CVE-2025-64484
+- CVE-2024-DeltaLake-Pipeline
+- CVE_Lakehouse
+- cheese-cake
+- roundcube-cve-2025-49113-lab
