@@ -1933,3 +1933,5 @@ clean_list:
 - CVE-2024-26169-Detail-1
 - CVE-2025-60715
 - CVE-2025-63848
+- POC-CVE-2025-31931
+- Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation
