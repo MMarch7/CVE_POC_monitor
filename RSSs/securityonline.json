@@ -23728,5 +23728,10 @@
         "title": "Critical Flowise Flaw Allows Unauthenticated Remote Admin Takeover via Exposed Registration Endpoint",
         "link": "https://securityonline.info/critical-flowise-flaw-allows-unauthenticated-remote-admin-takeover-via-exposed-registration-endpoint/",
         "published": "Tue, 18 Nov 2025 10:51:04 +0000"
+    },
+    {
+        "title": "Cloudflare Outage Crashes the Internet: X, ChatGPT, and Major Websites Inaccessible",
+        "link": "https://securityonline.info/cloudflare-outage-crashes-the-internet-x-chatgpt-and-major-websites-inaccessible/",
+        "published": "Tue, 18 Nov 2025 13:48:06 +0000"
     }
 ]
