@@ -23723,5 +23723,10 @@
         "title": "Microsoft Fixes Task Manager That Wouldn’t Close in Windows 11",
         "link": "https://securityonline.info/microsoft-fixes-task-manager-that-wouldnt-close-in-windows-11/",
         "published": "Tue, 18 Nov 2025 02:32:25 +0000"
+    },
+    {
+        "title": "Critical Flowise Flaw Allows Unauthenticated Remote Admin Takeover via Exposed Registration Endpoint",
+        "link": "https://securityonline.info/critical-flowise-flaw-allows-unauthenticated-remote-admin-takeover-via-exposed-registration-endpoint/",
+        "published": "Tue, 18 Nov 2025 10:51:04 +0000"
     }
 ]
