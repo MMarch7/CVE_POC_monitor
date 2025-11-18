@@ -1932,3 +1932,4 @@ clean_list:
 - zeroheight-account-verification-bypass-CVE-2025-XXXX
 - CVE-2024-26169-Detail-1
 - CVE-2025-60715
+- CVE-2025-63848
