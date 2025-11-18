@@ -23653,5 +23653,45 @@
         "title": "Google Patches Actively Exploited Chrome Zero-Day Flaw (CVE-2025-13223) in Emergency Update",
         "link": "https://securityonline.info/google-patches-actively-exploited-chrome-zero-day-flaw-cve-2025-13223-in-emergency-update/",
         "published": "Mon, 17 Nov 2025 23:03:13 +0000"
+    },
+    {
+        "title": "Critical W3 Total Cache Flaw (CVE-2025-9501, CVSS 9.0) Risks Unauthenticated RCE on 1 Million WordPress Sites",
+        "link": "https://securityonline.info/critical-w3-total-cache-flaw-cve-2025-9501-cvss-9-0-risks-unauthenticated-rce-on-1-million-wordpress-sites/",
+        "published": "Tue, 18 Nov 2025 00:40:41 +0000"
+    },
+    {
+        "title": "DOJ Seizes $15M in Crypto from APT38, Unveils Guilty Pleas in North Korean IT Worker Fraud Scheme",
+        "link": "https://securityonline.info/doj-seizes-15m-in-crypto-from-apt38-unveils-guilty-pleas-in-north-korean-it-worker-fraud-scheme/",
+        "published": "Tue, 18 Nov 2025 00:37:12 +0000"
+    },
+    {
+        "title": "Iran APT SpearSpecter Uses Weeks-Long WhatsApp Lures and Fileless TAMECAT Backdoor to Hit Defense",
+        "link": "https://securityonline.info/iran-apt-spearspecter-uses-weeks-long-whatsapp-lures-and-fileless-tamecat-backdoor-to-hit-defense/",
+        "published": "Tue, 18 Nov 2025 00:30:42 +0000"
+    },
+    {
+        "title": "Advanced macOS DigitStealer Targets M2+ Macs, Hijacking Ledger Live via JXA and DNS-Based C2",
+        "link": "https://securityonline.info/advanced-macos-digitstealer-targets-m2-macs-hijacking-ledger-live-via-jxa-and-dns-based-c2/",
+        "published": "Tue, 18 Nov 2025 00:26:50 +0000"
+    },
+    {
+        "title": "Unit 42 Uncovers Two Massive Global Malware Campaigns Delivering Gh0st RAT Through Large-Scale Software Impersonation",
+        "link": "https://securityonline.info/unit-42-uncovers-two-massive-global-malware-campaigns-delivering-gh0st-rat-through-large-scale-software-impersonation/",
+        "published": "Tue, 18 Nov 2025 00:19:19 +0000"
+    },
+    {
+        "title": "Amatera Stealer Campaign Uses ClickFix to Deploy Malware, Bypassing EDR by Patching AMSI in Memory",
+        "link": "https://securityonline.info/amatera-stealer-campaign-uses-clickfix-to-deploy-malware-bypassing-edr-by-patching-amsi-in-memory/",
+        "published": "Tue, 18 Nov 2025 00:10:03 +0000"
+    },
+    {
+        "title": "Dragon Breath APT Deploys RoningLoader, Using Kernel Driver and PPL Abuse to Disable Windows Defender",
+        "link": "https://securityonline.info/dragon-breath-apt-deploys-roningloader-using-kernel-driver-and-ppl-abuse-to-disable-windows-defender/",
+        "published": "Tue, 18 Nov 2025 00:05:28 +0000"
+    },
+    {
+        "title": "CISA/Europol Warn: Akira Ransomware Profits Hit $244M, Group Expands to Encrypt Nutanix AHV VMs",
+        "link": "https://securityonline.info/cisa-europol-warn-akira-ransomware-profits-hit-244m-group-expands-to-encrypt-nutanix-ahv-vms/",
+        "published": "Tue, 18 Nov 2025 00:00:40 +0000"
     }
 ]
