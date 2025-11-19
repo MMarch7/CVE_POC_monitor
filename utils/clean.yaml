@@ -1941,3 +1941,4 @@ clean_list:
 - Hikvision-City-Hunter
 - CVE-2025-63406-PoC
 - Invoke-BadSuccessor.ps1
+- CVE-2025-25255
