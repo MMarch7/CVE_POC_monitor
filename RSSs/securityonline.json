@@ -23763,5 +23763,30 @@
         "title": "macOS Wallet Stealer Uncovered: “Nova” Malware Replaces Ledger/Trezor Apps with Phishing Clones for Seed Theft",
         "link": "https://securityonline.info/macos-wallet-stealer-uncovered-nova-malware-replaces-ledger-trezor-apps-with-phishing-clones-for-seed-theft/",
         "published": "Wed, 19 Nov 2025 00:00:47 +0000"
+    },
+    {
+        "title": "AI-Generated Malware Attacks 230,000 Exposed Ray AI Clusters in Massive ShadowRay 2.0 Botnet Campaign",
+        "link": "https://securityonline.info/ai-generated-malware-attacks-230000-exposed-ray-ai-clusters-in-massive-shadowray-2-0-botnet-campaign/",
+        "published": "Wed, 19 Nov 2025 03:08:39 +0000"
+    },
+    {
+        "title": "D-Link DIR-878 Reaches EOL: 3 Unpatched RCE Flaws Allow Unauthenticated Remote Command Execution",
+        "link": "https://securityonline.info/d-link-dir-878-reaches-eol-3-unpatched-rce-flaws-allow-unauthenticated-remote-command-execution/",
+        "published": "Wed, 19 Nov 2025 02:59:55 +0000"
+    },
+    {
+        "title": "Critical METZ CONNECT Flaws (CVSS 9.8) Allow Unauthenticated RCE and Admin Takeover on Industrial Controllers",
+        "link": "https://securityonline.info/critical-metz-connect-flaws-cvss-9-8-allow-unauthenticated-rce-and-admin-takeover-on-industrial-controllers/",
+        "published": "Wed, 19 Nov 2025 02:43:43 +0000"
+    },
+    {
+        "title": "9 Million Installs: Malicious Chrome VPN Extensions Hijack User Traffic Via Remote PAC Proxy Injection",
+        "link": "https://securityonline.info/9-million-installs-malicious-chrome-vpn-extensions-hijack-user-traffic-via-remote-pac-proxy-injection/",
+        "published": "Wed, 19 Nov 2025 02:23:16 +0000"
+    },
+    {
+        "title": "Critical SolarWinds Serv-U Flaws (CVSS 9.1) Allow Authenticated Admin RCE and Path Bypass",
+        "link": "https://securityonline.info/critical-solarwinds-serv-u-flaws-cvss-9-1-allow-authenticated-admin-rce-and-path-bypass/",
+        "published": "Wed, 19 Nov 2025 02:12:06 +0000"
     }
 ]
