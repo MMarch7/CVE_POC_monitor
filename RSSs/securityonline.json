@@ -23743,5 +23743,25 @@
         "title": "SecurityMetrics Wins “Data Leak Detection Solution of the Year” in 2025 CyberSecurity Breakthrough Awards Program",
         "link": "https://securityonline.info/securitymetrics-wins-data-leak-detection-solution-of-the-year-in-2025-cybersecurity-breakthrough-awards-program/",
         "published": "Tue, 18 Nov 2025 16:05:24 +0000"
+    },
+    {
+        "title": "npm Supply Chain Attack: Hackers Use Adspect Cloaking and Fake Crypto CAPTCHA to Deceive Victims and Researchers",
+        "link": "https://securityonline.info/npm-supply-chain-attack-hackers-use-adspect-cloaking-and-fake-crypto-captcha-to-deceive-victims-and-researchers/",
+        "published": "Wed, 19 Nov 2025 02:05:53 +0000"
+    },
+    {
+        "title": "Iranian APT UNC1549 Infiltrates Aerospace by Hijacking Trusted DLLs and Executing VDI Breakouts",
+        "link": "https://securityonline.info/iranian-apt-unc1549-infiltrates-aerospace-by-hijacking-trusted-dlls-and-executing-vdi-breakouts/",
+        "published": "Wed, 19 Nov 2025 01:51:04 +0000"
+    },
+    {
+        "title": "Stealth Stealer: New .NET Loader Hides LokiBot Payload in BMP/PNG Images Using Advanced Steganography",
+        "link": "https://securityonline.info/stealth-stealer-new-net-loader-hides-lokibot-payload-in-bmp-png-images-using-advanced-steganography/",
+        "published": "Wed, 19 Nov 2025 00:05:11 +0000"
+    },
+    {
+        "title": "macOS Wallet Stealer Uncovered: “Nova” Malware Replaces Ledger/Trezor Apps with Phishing Clones for Seed Theft",
+        "link": "https://securityonline.info/macos-wallet-stealer-uncovered-nova-malware-replaces-ledger-trezor-apps-with-phishing-clones-for-seed-theft/",
+        "published": "Wed, 19 Nov 2025 00:00:47 +0000"
     }
 ]
