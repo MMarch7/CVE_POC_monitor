@@ -1940,3 +1940,4 @@ clean_list:
 - Blackash-CVE-2025-24893
 - Hikvision-City-Hunter
 - CVE-2025-63406-PoC
+- Invoke-BadSuccessor.ps1

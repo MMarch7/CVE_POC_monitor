@@ -23788,5 +23788,10 @@
         "title": "Critical SolarWinds Serv-U Flaws (CVSS 9.1) Allow Authenticated Admin RCE and Path Bypass",
         "link": "https://securityonline.info/critical-solarwinds-serv-u-flaws-cvss-9-1-allow-authenticated-admin-rce-and-path-bypass/",
         "published": "Wed, 19 Nov 2025 02:12:06 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: FortiWeb RCE Flaw (CVE-2025-58034) Under Active Exploitation for Command Injection",
+        "link": "https://securityonline.info/cisa-kev-alert-fortiweb-rce-flaw-cve-2025-58034-under-active-exploitation-for-command-injection/",
+        "published": "Wed, 19 Nov 2025 03:26:09 +0000"
     }
 ]
