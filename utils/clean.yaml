@@ -1942,3 +1942,6 @@ clean_list:
 - CVE-2025-63406-PoC
 - Invoke-BadSuccessor.ps1
 - CVE-2025-25255
+- Blackash-CVE-2025-10230
+- CVE-2025-54110-Kernel-EoP-PoC
+- Blackash-CVE-2025-58034
