@@ -1945,3 +1945,5 @@ clean_list:
 - Blackash-CVE-2025-10230
 - CVE-2025-54110-Kernel-EoP-PoC
 - Blackash-CVE-2025-58034
+- CVE-2025-63914
+- -CVE-2025-3248

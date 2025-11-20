@@ -23858,5 +23858,65 @@
         "title": "Seraphic Becomes the First and Only Secure Enterprise Browser Solution to Protect Electron-Based Applications",
         "link": "https://securityonline.info/seraphic-becomes-the-first-and-only-secure-enterprise-browser-solution-to-protect-electron-based-applications/",
         "published": "Wed, 19 Nov 2025 15:42:14 +0000"
+    },
+    {
+        "title": "Critical ASUSTOR Flaw (CVE-2025-13051) Allows Local DLL Hijacking for SYSTEM Privilege Escalation",
+        "link": "https://securityonline.info/critical-asustor-flaw-cve-2025-13051-allows-local-dll-hijacking-for-system-privilege-escalation/",
+        "published": "Thu, 20 Nov 2025 01:09:40 +0000"
+    },
+    {
+        "title": "Critical CVE-2025-65015 Vulnerability in joserfc Could Let Attackers Exhaust Server Resources via Oversized JWT Tokens",
+        "link": "https://securityonline.info/critical-cve-2025-65015-vulnerability-in-joserfc-could-let-attackers-exhaust-server-resources-via-oversized-jwt-tokens/",
+        "published": "Thu, 20 Nov 2025 00:45:54 +0000"
+    },
+    {
+        "title": "CISA/FBI/NSA Unite to Dismantle Bulletproof Hosting Ecosystem with New Global Defense Guide",
+        "link": "https://securityonline.info/cisa-fbi-nsa-unite-to-dismantle-bulletproof-hosting-ecosystem-with-new-global-defense-guide/",
+        "published": "Thu, 20 Nov 2025 00:43:13 +0000"
+    },
+    {
+        "title": "Lazarus Group’s New ScoringMathTea RAT Uses Reflective Plugin Loader and Custom Polyalphabetic Crypto for Espionage",
+        "link": "https://securityonline.info/lazarus-groups-new-scoringmathtea-rat-uses-reflective-plugin-loader-and-custom-polyalphabetic-crypto-for-espionage/",
+        "published": "Thu, 20 Nov 2025 00:39:19 +0000"
+    },
+    {
+        "title": "One Click, 42 Days: Akira Ransomware Used CAPTCHA Decoy to Destroy Cloud Backups and Cripple Storage Firm",
+        "link": "https://securityonline.info/one-click-42-days-akira-ransomware-used-captcha-decoy-to-destroy-cloud-backups-and-cripple-storage-firm/",
+        "published": "Thu, 20 Nov 2025 00:27:43 +0000"
+    },
+    {
+        "title": "Sophisticated “The Gentlemen” Ransomware RaaS Emerges with XChaCha20 Encryption and 48 Victims in 3 Months",
+        "link": "https://securityonline.info/sophisticated-the-gentlemen-ransomware-raas-emerges-with-xchacha20-encryption-and-48-victims-in-3-months/",
+        "published": "Thu, 20 Nov 2025 00:25:44 +0000"
+    },
+    {
+        "title": "Next-Gen Stealth: Malware Hides C2 Traffic as Fake LLM API Requests on Tencent Cloud",
+        "link": "https://securityonline.info/next-gen-stealth-malware-hides-c2-traffic-as-fake-llm-api-requests-on-tencent-cloud/",
+        "published": "Thu, 20 Nov 2025 00:20:18 +0000"
+    },
+    {
+        "title": "Next-Gen Ransomware Targets AWS S3: Five Cloud-Native Variants Exploit Misconfigurations for Irreversible Data Destruction",
+        "link": "https://securityonline.info/next-gen-ransomware-targets-aws-s3-five-cloud-native-variants-exploit-misconfigurations-for-irreversible-data-destruction/",
+        "published": "Thu, 20 Nov 2025 00:15:07 +0000"
+    },
+    {
+        "title": "Cybercriminals Shift Tactics: Group Deploys Multiple RMM Tools (ScreenConnect, LogMeIn, Naverisk) for Redundant Persistence and Access Resale",
+        "link": "https://securityonline.info/cybercriminals-shift-tactics-group-deploys-multiple-rmm-tools-screenconnect-logmein-naverisk-for-redundant-persistence-and-access-resale/",
+        "published": "Thu, 20 Nov 2025 00:10:58 +0000"
+    },
+    {
+        "title": "Critical Apache Causeway RCE Flaw (CVE-2025-64408) Allows Authenticated Code Execution via Java Deserialization",
+        "link": "https://securityonline.info/critical-apache-causeway-rce-flaw-cve-2025-64408-allows-authenticated-code-execution-via-java-deserialization/",
+        "published": "Thu, 20 Nov 2025 00:05:37 +0000"
+    },
+    {
+        "title": "No More Public BSODs: Windows 11 Will Hide Crash Screens on Public Displays",
+        "link": "https://securityonline.info/no-more-public-bsods-windows-11-will-hide-crash-screens-on-public-displays/",
+        "published": "Thu, 20 Nov 2025 00:03:45 +0000"
+    },
+    {
+        "title": "Post-CrowdStrike: Microsoft to Phase Out OEM Kernel-Level Driver Privileges",
+        "link": "https://securityonline.info/post-crowdstrike-microsoft-to-phase-out-oem-kernel-level-driver-privileges/",
+        "published": "Thu, 20 Nov 2025 00:00:34 +0000"
     }
 ]
