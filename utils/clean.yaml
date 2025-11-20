@@ -1947,3 +1947,4 @@ clean_list:
 - Blackash-CVE-2025-58034
 - CVE-2025-63914
 - -CVE-2025-3248
+- cve-2025-3248-exploit
