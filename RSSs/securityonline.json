@@ -23948,5 +23948,10 @@
         "title": "EU Launches DMA Probes: Is Gatekeeper Status Next for AWS & Azure Cloud?",
         "link": "https://securityonline.info/eu-launches-dma-probes-is-gatekeeper-status-next-for-aws-azure-cloud/",
         "published": "Thu, 20 Nov 2025 08:46:43 +0000"
+    },
+    {
+        "title": "Grafana Patches Critical SCIM Flaw (CVE-2025-41115, CVSS 10) Allowing Privilege Escalation and User Impersonation",
+        "link": "https://securityonline.info/grafana-patches-critical-scim-flaw-cve-2025-41115-cvss-10-allowing-privilege-escalation-and-user-impersonation/",
+        "published": "Thu, 20 Nov 2025 11:09:31 +0000"
     }
 ]
