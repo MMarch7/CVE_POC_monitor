@@ -1959,3 +1959,4 @@ clean_list:
 - cve-2025-59287
 - cve-2025-64446-fortiweb-exploit
 - Sangfor-CVE-2025-12916
+- CVE-2025-13223
