@@ -1967,3 +1967,7 @@ clean_list:
 - Blackash-CVE-2025-9242
 - Blackash-CVE-2025-40547
 - Blackash-CVE-2025-41115
+- SAPSlayer
+- CVE-2024-58258
+- AtlassianPwn
+- Blackash-CVE-2025-10680
