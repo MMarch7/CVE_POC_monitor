@@ -1954,3 +1954,7 @@ clean_list:
 - CVE-2025-61765_PoC
 - Blackash-CVE-2025-61757
 - CVE-2025-63499
+- cve-2025-12735-expr-eval-rce
+- cve-2025-63888-exploit
+- cve-2025-59287
+- cve-2025-64446-fortiweb-exploit
