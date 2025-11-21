@@ -1961,3 +1961,5 @@ clean_list:
 - Sangfor-CVE-2025-12916
 - CVE-2025-13223
 - Vitepos-CVE-Report
+- CVE-2025-53772-IIS-WebDeploy-RCE-POC
+- CVE-2025-63729-Syrotech-SY-GPON-1110-
