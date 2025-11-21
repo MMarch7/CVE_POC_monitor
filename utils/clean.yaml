@@ -1971,3 +1971,4 @@ clean_list:
 - CVE-2024-58258
 - AtlassianPwn
 - Blackash-CVE-2025-10680
+- CVE-2025-47916
