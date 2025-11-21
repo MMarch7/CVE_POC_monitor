@@ -1963,3 +1963,5 @@ clean_list:
 - Vitepos-CVE-Report
 - CVE-2025-53772-IIS-WebDeploy-RCE-POC
 - CVE-2025-63729-Syrotech-SY-GPON-1110-
+- Oracle-Identity-Manager-CVE-2025-61757
+- Blackash-CVE-2025-9242
