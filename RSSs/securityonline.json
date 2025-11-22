@@ -23993,5 +23993,15 @@
         "title": "Android Quick Share Now Interoperable with AirDrop, Starting with Pixel 10!",
         "link": "https://securityonline.info/android-quick-share-now-interoperable-with-airdrop-starting-with-pixel-10/",
         "published": "Fri, 21 Nov 2025 03:17:45 +0000"
+    },
+    {
+        "title": "Trojanized VPN Installer Deploys NKNShell Backdoor, Using P2P Blockchain and MQTT Protocols for Covert C2",
+        "link": "https://securityonline.info/trojanized-vpn-installer-deploys-nknshell-backdoor-using-p2p-blockchain-and-mqtt-protocols-for-covert-c2/",
+        "published": "Sat, 22 Nov 2025 00:10:21 +0000"
+    },
+    {
+        "title": "SonicWall Patches Two Vulnerabilities in Email Security Appliances, Including Code Execution Flaw (CVE-2025-40604)",
+        "link": "https://securityonline.info/sonicwall-patches-two-vulnerabilities-in-email-security-appliances-including-code-execution-flaw-cve-2025-40604/",
+        "published": "Sat, 22 Nov 2025 00:00:36 +0000"
     }
 ]
