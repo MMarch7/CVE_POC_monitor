@@ -1972,3 +1972,5 @@ clean_list:
 - AtlassianPwn
 - Blackash-CVE-2025-10680
 - CVE-2025-47916
+- MSC-EvilTwin-Local-Privilege-Escalation
+- CVE-2025-11001---7-Zip
