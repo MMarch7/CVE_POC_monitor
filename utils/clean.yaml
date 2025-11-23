@@ -1975,3 +1975,5 @@ clean_list:
 - MSC-EvilTwin-Local-Privilege-Escalation
 - CVE-2025-11001---7-Zip
 - CVE-2025-10230
+- CVE-2025-65482-XXE-
+- CVE-2025-64087-SSTI-
