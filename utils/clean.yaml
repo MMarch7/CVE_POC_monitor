@@ -1979,3 +1979,4 @@ clean_list:
 - CVE-2025-64087-SSTI-
 - AegisJava
 - CVE-2025-50165
+- CVE-2025-24054
