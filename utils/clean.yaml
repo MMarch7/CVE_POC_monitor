@@ -1977,3 +1977,4 @@ clean_list:
 - CVE-2025-10230
 - CVE-2025-65482-XXE-
 - CVE-2025-64087-SSTI-
+- AegisJava
