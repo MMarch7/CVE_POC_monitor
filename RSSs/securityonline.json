@@ -24023,5 +24023,85 @@
         "title": "Google Denies Rumors: Gmail Messages NOT Used to Train Gemini AI Models",
         "link": "https://securityonline.info/google-denies-rumors-gmail-messages-not-used-to-train-gemini-ai-models/",
         "published": "Sun, 23 Nov 2025 02:31:04 +0000"
+    },
+    {
+        "title": "X Launches ‘About This Account’ Tool to Boost Transparency and Fight Fakes",
+        "link": "https://securityonline.info/x-launches-about-this-account-tool-to-boost-transparency-and-fight-fakes/",
+        "published": "Mon, 24 Nov 2025 02:18:27 +0000"
+    },
+    {
+        "title": "Tim Cook Stepping Down Next Year? Rumors Firmly Dismissed by Mark Gurman",
+        "link": "https://securityonline.info/tim-cook-stepping-down-next-year-rumors-firmly-dismissed-by-mark-gurman/",
+        "published": "Mon, 24 Nov 2025 02:14:14 +0000"
+    },
+    {
+        "title": "DOJ vs. Google: Ad-Tech Antitrust Battle Enters Final Stage with Quick Ruling Expected",
+        "link": "https://securityonline.info/doj-vs-google-ad-tech-antitrust-battle-enters-final-stage-with-quick-ruling-expected/",
+        "published": "Mon, 24 Nov 2025 02:09:59 +0000"
+    },
+    {
+        "title": "Code Injection Flaws Threaten NVIDIA’s Isaac-GROOT Robotics Platform",
+        "link": "https://securityonline.info/code-injection-flaws-threaten-nvidias-isaac-groot-robotics-platform/",
+        "published": "Mon, 24 Nov 2025 01:52:38 +0000"
+    },
+    {
+        "title": "TamperedChef Malvertising Uses US Shell Companies to Sign Trojanized Apps with Valid Certificates, Deploying Stealth Backdoor",
+        "link": "https://securityonline.info/tamperedchef-malvertising-uses-us-shell-companies-to-sign-trojanized-apps-with-valid-certificates-deploying-stealth-backdoor/",
+        "published": "Mon, 24 Nov 2025 00:42:28 +0000"
+    },
+    {
+        "title": "vLLM Flaw (CVE-2025-62164) Risks Remote Code Execution via Malicious Prompt Embeddings",
+        "link": "https://securityonline.info/vllm-flaw-cve-2025-62164-risks-remote-code-execution-via-malicious-prompt-embeddings/",
+        "published": "Mon, 24 Nov 2025 00:40:16 +0000"
+    },
+    {
+        "title": "China’s APT24 Launches Stealth BADAUDIO Malware, Hitting 1,000+ Domains via Taiwanese Supply Chain Hack",
+        "link": "https://securityonline.info/chinas-apt24-launches-stealth-badaudio-malware-hitting-1000-domains-via-taiwanese-supply-chain-hack/",
+        "published": "Mon, 24 Nov 2025 00:36:57 +0000"
+    },
+    {
+        "title": "Sophisticated WhatsApp Worm Uses Fake “View Once” Lure to Hijack Sessions and Deploy Astaroth Banking Trojan",
+        "link": "https://securityonline.info/sophisticated-whatsapp-worm-uses-fake-view-once-lure-to-hijack-sessions-and-deploy-astaroth-banking-trojan/",
+        "published": "Mon, 24 Nov 2025 00:33:37 +0000"
+    },
+    {
+        "title": "CERT/CC Warns of Unpatched Root-Level Command Injection Flaws in Tenda 4G03 Pro and N300 Routers (CVE-2025-13207, CVE-2024-24481)",
+        "link": "https://securityonline.info/cert-cc-warns-of-unpatched-root-level-command-injection-flaws-in-tenda-4g03-pro-and-n300-routers-cve-2025-13207-cve-2024-24481/",
+        "published": "Mon, 24 Nov 2025 00:29:54 +0000"
+    },
+    {
+        "title": "Next-Gen Threat: Xillen Stealer v4 Targets 100+ Browsers/70+ Wallets with Polymorphic Evasion and DevOps Theft",
+        "link": "https://securityonline.info/next-gen-threat-xillen-stealer-v4-targets-100-browsers-70-wallets-with-polymorphic-evasion-and-devops-theft/",
+        "published": "Mon, 24 Nov 2025 00:26:25 +0000"
+    },
+    {
+        "title": "Critical ABB Flaw (CVE-2025-10571, CVSS 9.6) Allows Unauthenticated RCE and Admin Takeover on Edgenius",
+        "link": "https://securityonline.info/critical-abb-flaw-cve-2025-10571-cvss-9-6-allows-unauthenticated-rce-and-admin-takeover-on-edgenius/",
+        "published": "Mon, 24 Nov 2025 00:22:30 +0000"
+    },
+    {
+        "title": "Tsundere Botnet Uncovered: Node.js Malware Uses Ethereum Smart Contract for Unkillable C2 and Runs Cybercrime Marketplace",
+        "link": "https://securityonline.info/tsundere-botnet-uncovered-node-js-malware-uses-ethereum-smart-contract-for-unkillable-c2-and-runs-cybercrime-marketplace/",
+        "published": "Mon, 24 Nov 2025 00:19:48 +0000"
+    },
+    {
+        "title": "PyPI Typosquat Delivers Multi-Layer Python RAT, Bypassing Scanners with XOR Encryption",
+        "link": "https://securityonline.info/pypi-typosquat-delivers-multi-layer-python-rat-bypassing-scanners-with-xor-encryption/",
+        "published": "Mon, 24 Nov 2025 00:15:58 +0000"
+    },
+    {
+        "title": "Critical Markdown to PDF Flaw (CVE-2025-65108, CVSS 10.0) Allows RCE via JS Injection in Markdown Front-Matter",
+        "link": "https://securityonline.info/critical-markdown-to-pdf-flaw-cve-2025-65108-cvss-10-0-allows-rce-via-js-injection-in-markdown-front-matter/",
+        "published": "Mon, 24 Nov 2025 00:11:58 +0000"
+    },
+    {
+        "title": "Eternidade Stealer: New Python WhatsApp Worm Uses IMAP Email for Covert C2 and Brazilian Bank Overlays",
+        "link": "https://securityonline.info/eternidade-stealer-new-python-whatsapp-worm-uses-imap-email-for-covert-c2-and-brazilian-bank-overlays/",
+        "published": "Mon, 24 Nov 2025 00:05:47 +0000"
+    },
+    {
+        "title": "Extreme Stealth: Python Malware Hides Inside PNG-Disguised RAR, Injects Payload into cvtres.exe",
+        "link": "https://securityonline.info/extreme-stealth-python-malware-hides-inside-png-disguised-rar-injects-payload-into-cvtres-exe/",
+        "published": "Mon, 24 Nov 2025 00:01:01 +0000"
     }
 ]
