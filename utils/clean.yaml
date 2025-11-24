@@ -1983,3 +1983,4 @@ clean_list:
 - CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS
 - CVE-2025-38678_POC
 - Blackash-CVE-2025-8943
+- Blackash-CVE-2025-11001
