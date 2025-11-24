@@ -1980,3 +1980,4 @@ clean_list:
 - AegisJava
 - CVE-2025-50165
 - CVE-2025-24054
+- CVE-2025-63735-Ruckus-Unleashed-Reflected-XSS
