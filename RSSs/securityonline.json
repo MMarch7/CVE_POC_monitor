@@ -24138,5 +24138,50 @@
         "title": "Elite Cyber Veterans Launch Blast Security with $10M to Turn Cloud Detection into Prevention",
         "link": "https://securityonline.info/elite-cyber-veterans-launch-blast-security-with-10m-to-turn-cloud-detection-into-prevention/",
         "published": "Mon, 24 Nov 2025 13:00:27 +0000"
+    },
+    {
+        "title": "Critical WordPress Flaw (CVE-2025-6389, CVSS 9.8) Under Active Exploitation Allows Unauthenticated RCE",
+        "link": "https://securityonline.info/critical-wordpress-flaw-cve-2025-6389-cvss-9-8-under-active-exploitation-allows-unauthenticated-rce/",
+        "published": "Tue, 25 Nov 2025 01:59:58 +0000"
+    },
+    {
+        "title": "High-Severity Vault Flaw (CVE-2025-13357) Allows Unauthenticated Access via LDAP Null Bind Insecure Default",
+        "link": "https://securityonline.info/high-severity-vault-flaw-cve-2025-13357-allows-unauthenticated-access-via-ldap-null-bind-insecure-default/",
+        "published": "Tue, 25 Nov 2025 00:36:50 +0000"
+    },
+    {
+        "title": "Critical Unpatched Flaw: Vivotek EOL IP Cameras Exposed to Unauthenticated RCE via Command Injection",
+        "link": "https://securityonline.info/critical-unpatched-flaw-vivotek-eol-ip-cameras-exposed-to-unauthenticated-rce-via-command-injection/",
+        "published": "Tue, 25 Nov 2025 00:31:32 +0000"
+    },
+    {
+        "title": "CVE-2025-63207 (CVSS 9.8): Critical Broken Access Control Flaw Exposes R.V.R Elettronica TEX Devices to Full System Takeover",
+        "link": "https://securityonline.info/cve-2025-63207-cvss-9-8-critical-broken-access-control-flaw-exposes-r-v-r-elettronica-tex-devices-to-full-system-takeover/",
+        "published": "Tue, 25 Nov 2025 00:25:21 +0000"
+    },
+    {
+        "title": "ToddyCat APT Steals Microsoft 365 Cloud Email by Dumping OAuth Tokens from Memory and Copying Locked OST Files",
+        "link": "https://securityonline.info/toddycat-apt-steals-microsoft-365-cloud-email-by-dumping-oauth-tokens-from-memory-and-copying-locked-ost-files/",
+        "published": "Tue, 25 Nov 2025 00:21:05 +0000"
+    },
+    {
+        "title": "Kimsuky APT Deploys Dual KimJongRAT Payloads, Switching Between PE/PowerShell Based on Windows Defender Status",
+        "link": "https://securityonline.info/kimsuky-apt-deploys-dual-kimjongrat-payloads-switching-between-pe-powershell-based-on-windows-defender-status/",
+        "published": "Tue, 25 Nov 2025 00:16:35 +0000"
+    },
+    {
+        "title": "Brazilian Banking Trojan Uses Python WhatsApp Worm and IMAP C2 for In-Memory Credential Theft",
+        "link": "https://securityonline.info/brazilian-banking-trojan-uses-python-whatsapp-worm-and-imap-c2-for-in-memory-credential-theft/",
+        "published": "Tue, 25 Nov 2025 00:11:04 +0000"
+    },
+    {
+        "title": "North Korea’s Operation DreamJob Hits Europe: WhatsApp Job Lure Delivers Evolved MISTPEN/BURNBOOK Backdoors",
+        "link": "https://securityonline.info/north-koreas-operation-dreamjob-hits-europe-whatsapp-job-lure-delivers-evolved-mistpen-burnbook-backdoors/",
+        "published": "Tue, 25 Nov 2025 00:05:42 +0000"
+    },
+    {
+        "title": "China-Nexus Autumn Dragon APT Exploits WinRAR Flaw to Deploy Telegram C2 Backdoor",
+        "link": "https://securityonline.info/china-nexus-autumn-dragon-apt-exploits-winrar-flaw-to-deploy-telegram-c2-backdoor/",
+        "published": "Tue, 25 Nov 2025 00:00:28 +0000"
     }
 ]
