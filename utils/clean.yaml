@@ -1992,3 +1992,6 @@ clean_list:
 - cve-2025-49752-lab
 - CVE-2025-40547
 - CVE-2025-9803-Exploit
+- CVE-2025-13559-Exploit
+- CVE-2025-50834
+- CVE-2025-63498
