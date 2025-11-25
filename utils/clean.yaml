@@ -1988,3 +1988,5 @@ clean_list:
 - CVE-2024-29943
 - cve-2025-62726-poc
 - CVE-2025-64720-PoC
+- Blackash-CVE-2025-6389
+- cve-2025-49752-lab
