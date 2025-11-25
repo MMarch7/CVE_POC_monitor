@@ -1991,3 +1991,4 @@ clean_list:
 - Blackash-CVE-2025-6389
 - cve-2025-49752-lab
 - CVE-2025-40547
+- CVE-2025-9803-Exploit
