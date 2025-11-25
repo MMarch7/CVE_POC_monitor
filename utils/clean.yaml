@@ -1987,3 +1987,4 @@ clean_list:
 - CVE-2025-PHPGurukul-Auth-Bypass
 - CVE-2024-29943
 - cve-2025-62726-poc
+- CVE-2025-64720-PoC
