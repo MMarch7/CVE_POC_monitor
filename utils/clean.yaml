@@ -1985,3 +1985,5 @@ clean_list:
 - Blackash-CVE-2025-8943
 - Blackash-CVE-2025-11001
 - CVE-2025-PHPGurukul-Auth-Bypass
+- CVE-2024-29943
+- cve-2025-62726-poc

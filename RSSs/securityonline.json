@@ -24183,5 +24183,20 @@
         "title": "China-Nexus Autumn Dragon APT Exploits WinRAR Flaw to Deploy Telegram C2 Backdoor",
         "link": "https://securityonline.info/china-nexus-autumn-dragon-apt-exploits-winrar-flaw-to-deploy-telegram-c2-backdoor/",
         "published": "Tue, 25 Nov 2025 00:00:28 +0000"
+    },
+    {
+        "title": "CRITICAL: Fluent Bit Flaws Enable RCE and Telemetry Tampering in Major Orgs",
+        "link": "https://securityonline.info/critical-fluent-bit-flaws-enable-rce-and-telemetry-tampering-in-major-orgs/",
+        "published": "Tue, 25 Nov 2025 03:07:31 +0000"
+    },
+    {
+        "title": "Apache Syncope Flaw (CVE-2025-65998) Exposes Encrypted User Passwords Due to Hard-Coded AES Key",
+        "link": "https://securityonline.info/apache-syncope-flaw-cve-2025-65998-exposes-encrypted-user-passwords-due-to-hard-coded-aes-key/",
+        "published": "Tue, 25 Nov 2025 02:52:45 +0000"
+    },
+    {
+        "title": "CISA Emergency Alert: Commercial Spyware Exploiting Zero-Click and Malicious QR Codes to Hijack Messaging Apps",
+        "link": "https://securityonline.info/cisa-emergency-alert-commercial-spyware-exploiting-zero-click-and-malicious-qr-codes-to-hijack-messaging-apps/",
+        "published": "Tue, 25 Nov 2025 02:42:03 +0000"
     }
 ]
