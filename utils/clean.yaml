@@ -1995,3 +1995,5 @@ clean_list:
 - CVE-2025-13559-Exploit
 - CVE-2025-50834
 - CVE-2025-63498
+- CVE-2025-32421---Race-Condition-Vulnerability---Next.js
+- CVE-2024-32019-ndsudo-local-privilege-escalation-NetData
