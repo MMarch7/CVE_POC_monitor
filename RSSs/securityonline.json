@@ -24313,5 +24313,10 @@
         "title": "INE Expands Cross-Skilling Innovations",
         "link": "https://securityonline.info/ine-expands-cross-skilling-innovations/",
         "published": "Wed, 26 Nov 2025 14:00:27 +0000"
+    },
+    {
+        "title": "GitLab Patch: Fixes CI/CD Credential Theft & Unauthenticated DoS Attacks",
+        "link": "https://securityonline.info/gitlab-patch-fixes-ci-cd-credential-theft-unauthenticated-dos-attacks/",
+        "published": "Wed, 26 Nov 2025 23:17:52 +0000"
     }
 ]
