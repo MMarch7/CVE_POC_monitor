@@ -1997,3 +1997,4 @@ clean_list:
 - CVE-2025-63498
 - CVE-2025-32421---Race-Condition-Vulnerability---Next.js
 - CVE-2024-32019-ndsudo-local-privilege-escalation-NetData
+- CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server
