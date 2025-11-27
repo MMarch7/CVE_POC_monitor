@@ -2002,3 +2002,5 @@ clean_list:
 - opac-fast-automation
 - KTLHPM
 - CVE-2025-65320
+- CVE-2025-63419
+- CVE-2025-58360
