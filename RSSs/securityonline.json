@@ -24318,5 +24318,45 @@
         "title": "GitLab Patch: Fixes CI/CD Credential Theft & Unauthenticated DoS Attacks",
         "link": "https://securityonline.info/gitlab-patch-fixes-ci-cd-credential-theft-unauthenticated-dos-attacks/",
         "published": "Wed, 26 Nov 2025 23:17:52 +0000"
+    },
+    {
+        "title": "Critical Ray AI Flaw Exposes Devs via Safari & Firefox (CVE-2025-62593)",
+        "link": "https://securityonline.info/critical-ray-ai-flaw-exposes-devs-via-safari-firefox-cve-2025-62593/",
+        "published": "Thu, 27 Nov 2025 00:35:17 +0000"
+    },
+    {
+        "title": "Water Gamayun Weaponizes “MSC EvilTwin” Zero-Day for Stealthy Backdoor Attacks",
+        "link": "https://securityonline.info/water-gamayun-weaponizes-msc-eviltwin-zero-day-for-stealthy-backdoor-attacks/",
+        "published": "Thu, 27 Nov 2025 00:28:11 +0000"
+    },
+    {
+        "title": "Fragging Your Data: Fake ‘Battlefield 6’ Cracks & Trainers Spread Infostealers",
+        "link": "https://securityonline.info/fragging-your-data-fake-battlefield-6-cracks-trainers-spread-infostealers/",
+        "published": "Thu, 27 Nov 2025 00:22:37 +0000"
+    },
+    {
+        "title": "Hidden Danger in 3D: Malicious Blender Files Unleash StealC V2 Infostealer",
+        "link": "https://securityonline.info/hidden-danger-in-3d-malicious-blender-files-unleash-stealc-v2-infostealer/",
+        "published": "Thu, 27 Nov 2025 00:19:01 +0000"
+    },
+    {
+        "title": "Zero-Day Warning: Unpatched Twonky Server Flaws Expose Media to Total Takeover",
+        "link": "https://securityonline.info/zero-day-warning-unpatched-twonky-server-flaws-expose-media-to-total-takeover/",
+        "published": "Thu, 27 Nov 2025 00:14:23 +0000"
+    },
+    {
+        "title": "UNMASKED: Massive Leak Exposes Iran’s ‘Department 40’ Cyber-Terror Unit",
+        "link": "https://securityonline.info/unmasked-massive-leak-exposes-irans-department-40-cyber-terror-unit/",
+        "published": "Thu, 27 Nov 2025 00:10:38 +0000"
+    },
+    {
+        "title": "Angular Alert: Protocol-Relative URLs Leak XSRF Tokens (CVE-2025-66035)",
+        "link": "https://securityonline.info/angular-alert-protocol-relative-urls-leak-xsrf-tokens-cve-2025-66035/",
+        "published": "Thu, 27 Nov 2025 00:05:42 +0000"
+    },
+    {
+        "title": "Holiday Heist: 200,000 Fake Shops & Amazon Clones Target Black Friday",
+        "link": "https://securityonline.info/holiday-heist-200000-fake-shops-amazon-clones-target-black-friday/",
+        "published": "Thu, 27 Nov 2025 00:00:24 +0000"
     }
 ]
