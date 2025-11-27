@@ -24363,5 +24363,10 @@
         "title": "Hidden Theft: ‘Crypto Copilot’ Chrome Extension Drains Solana Wallets on X",
         "link": "https://securityonline.info/hidden-theft-crypto-copilot-chrome-extension-drains-solana-wallets-on-x/",
         "published": "Thu, 27 Nov 2025 02:13:43 +0000"
+    },
+    {
+        "title": "Security Alert: Apache SkyWalking Stored XSS Vulnerability (CVE-2025-54057)",
+        "link": "https://securityonline.info/security-alert-apache-skywalking-stored-xss-vulnerability-cve-2025-54057/",
+        "published": "Thu, 27 Nov 2025 03:22:21 +0000"
     }
 ]

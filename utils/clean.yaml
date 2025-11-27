@@ -2000,3 +2000,4 @@ clean_list:
 - CVE-2025-34322_CVE-2025-34323_Nagios_Log_Server
 - CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-
 - opac-fast-automation
+- KTLHPM
