@@ -2007,3 +2007,6 @@ clean_list:
 - CVE-2025-53367-POC
 - Blackash-CVE-2025-62593
 - calibre-web-CVE-2025-65858
+- safe-expr-eval
+- Blackash-CVE-2025-59528
+- CVE-2025-50433
