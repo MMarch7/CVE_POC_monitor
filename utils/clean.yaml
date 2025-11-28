@@ -2010,3 +2010,4 @@ clean_list:
 - safe-expr-eval
 - Blackash-CVE-2025-59528
 - CVE-2025-50433
+- Silent-WebStorm-Fortinet-s-Hidden-Exploits
