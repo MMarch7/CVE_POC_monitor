@@ -24423,5 +24423,10 @@
         "title": "AWS Guarantees 60-Minute Recovery Time with New Route 53 Accelerated Recovery",
         "link": "https://securityonline.info/aws-guarantees-60-minute-recovery-time-with-new-route-53-accelerated-recovery/",
         "published": "Fri, 28 Nov 2025 08:44:27 +0000"
+    },
+    {
+        "title": "OpenAI API Users Exposed in Mixpanel Security Breach",
+        "link": "https://securityonline.info/openai-api-users-exposed-in-mixpanel-security-breach/",
+        "published": "Fri, 28 Nov 2025 09:56:43 +0000"
     }
 ]
