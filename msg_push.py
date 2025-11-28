@@ -14,24 +14,26 @@ google_sheet_headers = {
     'Content-Type': 'application/json'
 }
 
-current_date = datetime.date.today().strftime('%Y-%m-%d  %H:%M') 
+current_date = datetime.date.today().strftime('%Y-%m-%d  %H:%M')
 
-def send_google_sheet(sheet,keyword,name,url,description):
+
+def send_google_sheet(sheet, keyword, name, url, description):
     data = {
         "action": "insert",
-        "sheet_name":sheet,
-        "时间":current_date,
+        "sheet_name": sheet,
+        "时间": current_date,
         "关键词": keyword,
         "项目名称": name,
-        "项目地址":url,
-        "项目描述":description
+        "项目地址": url,
+        "项目描述": description
     }
-    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    response = requests.post(WEBHOOK_URL, headers=google_sheet_headers, data=json.dumps(data))
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
+
 def get_google_sheet(sheet):
-    response = requests.get(WEBHOOK_URL,headers=google_sheet_headers,params={"sheet":sheet})
+    response = requests.get(WEBHOOK_URL, headers=google_sheet_headers, params={"sheet": sheet})
     # 解析JSON
     parsed_data = json.loads(response.text)
     # 提取字段
@@ -43,55 +45,60 @@ def get_google_sheet(sheet):
     else:
         return table_content
 
-def send_google_raw(sheet,link,Raw):
+
+def send_google_raw(sheet, link, Raw):
     data = {
         "action": "insert",
-        "时间":current_date,
-        "sheet_name":sheet,
+        "时间": current_date,
+        "sheet_name": sheet,
         "Link": link,
         "Raw": Raw
     }
-    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    response = requests.post(WEBHOOK_URL, headers=google_sheet_headers, data=json.dumps(data))
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
-def update_google_sheet(sheetName,searchField,searchValue,targetField,newValue):
+
+def update_google_sheet(sheetName, searchField, searchValue, targetField, newValue):
     data = {
         "action": "update",
-        "sheetName":sheetName,
-        "searchField":searchField,
+        "sheetName": sheetName,
+        "searchField": searchField,
         "searchValue": searchValue,
         "targetField": targetField,
-        "newValue":newValue
+        "newValue": newValue
     }
-    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    response = requests.post(WEBHOOK_URL, headers=google_sheet_headers, data=json.dumps(data))
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
-def send_google_sheet_githubVul(sheet,keyword,name,cve,url,description):
+
+def send_google_sheet_githubVul(sheet, keyword, name, cve, url, description):
     data = {
         "action": "insert",
-        "sheet_name":sheet,
-        "时间":current_date,
+        "sheet_name": sheet,
+        "时间": current_date,
         "关键词": keyword,
         "名称": name,
-        "编号":cve,
-        "地址":url,
-        "描述":description
+        "编号": cve,
+        "地址": url,
+        "描述": description
     }
-    response = requests.post(WEBHOOK_URL,headers=google_sheet_headers,data=json.dumps(data))
+    response = requests.post(WEBHOOK_URL, headers=google_sheet_headers, data=json.dumps(data))
     if "success" not in response.text:
         logging.error(f"推送google_sheet失败，报错如下：{response.text}")
 
+
 def keyword_msg(pushdata):
-    text=""
+    text = ""
     for data in pushdata:
-        text+="名称:{}\n地址:{}\n详情:{}\n\n\n ".format(data.get("keyword_name"),data.get("keyword_url"),data.get("description"))
+        text += "名称:{}\n地址:{}\n详情:{}\n\n\n ".format(data.get("keyword_name"), data.get("keyword_url"), data.get("description"))
     if text:
         tg_push(text)
         logging.info("消息发送完成")
     else:
         logging.info("当前时段未发现新信息")
+
 
 def tg_push(text):
     tb = telebot.TeleBot(tg_token)
@@ -99,7 +106,8 @@ def tg_push(text):
     for i in range(0, len(text), max_length):
         chunk = text[i:i + max_length]
         tb.send_message(tg_chat_id, chunk)
-    
+
+
 def wechat_push(msg):
     url = f'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key={wechat_token}'
     # 请求头
