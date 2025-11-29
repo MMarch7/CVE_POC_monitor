@@ -24428,5 +24428,15 @@
         "title": "OpenAI API Users Exposed in Mixpanel Security Breach",
         "link": "https://securityonline.info/openai-api-users-exposed-in-mixpanel-security-breach/",
         "published": "Fri, 28 Nov 2025 09:56:43 +0000"
+    },
+    {
+        "title": "Critical Alert: Apache Kvrocks ‘RESET’ Command Flaw Grants Admin Privileges",
+        "link": "https://securityonline.info/critical-alert-apache-kvrocks-reset-command-flaw-grants-admin-privileges/",
+        "published": "Sat, 29 Nov 2025 01:57:17 +0000"
+    },
+    {
+        "title": "CISA Flags Actively Exploited OpenPLC Flaw (CVE-2021-26829)",
+        "link": "https://securityonline.info/cisa-flags-actively-exploited-openplc-flaw-cve-2021-26829/",
+        "published": "Sat, 29 Nov 2025 01:40:24 +0000"
     }
 ]
