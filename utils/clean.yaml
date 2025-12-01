@@ -2033,3 +2033,4 @@ clean_list:
 - CVE-2025-64459-Poc
 - CVE-2025-13615
 - CVE-2025-54253
+- CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo
