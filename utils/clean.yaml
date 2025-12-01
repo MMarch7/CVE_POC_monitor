@@ -2032,3 +2032,4 @@ clean_list:
 - Gitea-Forgejo-CVE-2025
 - CVE-2025-64459-Poc
 - CVE-2025-13615
+- CVE-2025-54253
