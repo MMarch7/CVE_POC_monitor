@@ -24448,5 +24448,70 @@
         "title": "Google Assembles Foxconn/Samsung Supply Chain for Q4 2026 AI Glasses Launch",
         "link": "https://securityonline.info/google-assembles-foxconn-samsung-supply-chain-for-q4-2026-ai-glasses-launch/",
         "published": "Sat, 29 Nov 2025 03:36:20 +0000"
+    },
+    {
+        "title": "Windows 11 Bug Makes Lock Screen Password Icon Vanish After Update",
+        "link": "https://securityonline.info/windows-11-bug-makes-lock-screen-password-icon-vanish-after-update/",
+        "published": "Mon, 01 Dec 2025 02:30:15 +0000"
+    },
+    {
+        "title": "Google’s Pixel AI Strategy: Focusing on ‘Tangible Benefits,’ Not Just Hype",
+        "link": "https://securityonline.info/googles-pixel-ai-strategy-focusing-on-tangible-benefits-not-just-hype/",
+        "published": "Mon, 01 Dec 2025 02:19:27 +0000"
+    },
+    {
+        "title": "OpenAI Under Siege: Google’s Gemini 3 Surge Threatens to End ChatGPT’s Early Lead",
+        "link": "https://securityonline.info/openai-under-siege-googles-gemini-3-surge-threatens-to-end-chatgpts-early-lead/",
+        "published": "Mon, 01 Dec 2025 02:15:20 +0000"
+    },
+    {
+        "title": "Android Hotspot Upgrade: New Feature Allows Simultaneous 2.4 GHz + 6 GHz Dual-Band Sharing",
+        "link": "https://securityonline.info/android-hotspot-upgrade-new-feature-allows-simultaneous-2-4-ghz-6-ghz-dual-band-sharing/",
+        "published": "Mon, 01 Dec 2025 02:11:17 +0000"
+    },
+    {
+        "title": "Operation Hanoi Thief: Hackers Use ‘Pseudo-Polyglot’ LNK/Image to Deploy LOTUSHARVEST Stealer via DLL Sideloading",
+        "link": "https://securityonline.info/operation-hanoi-thief-hackers-use-pseudo-polyglot-lnk-image-to-deploy-lotusharvest-stealer-via-dll-sideloading/",
+        "published": "Mon, 01 Dec 2025 00:42:31 +0000"
+    },
+    {
+        "title": "Critical Devolutions Server Flaw (CVE-2025-13757) Allows Authenticated SQL Injection to Steal All Passwords",
+        "link": "https://securityonline.info/critical-devolutions-server-flaw-cve-2025-13757-allows-authenticated-sql-injection-to-steal-all-passwords/",
+        "published": "Mon, 01 Dec 2025 00:37:36 +0000"
+    },
+    {
+        "title": "New TangleCrypt Packer Hides EDR Killer, But Coding Flaws Cause Ransomware to Crash Unexpectedly",
+        "link": "https://securityonline.info/new-tanglecrypt-packer-hides-edr-killer-but-coding-flaws-cause-ransomware-to-crash-unexpectedly/",
+        "published": "Mon, 01 Dec 2025 00:32:07 +0000"
+    },
+    {
+        "title": "Russian Tomiris APT Adopts “Polyglot” Strategy, Hijacking Telegram/Discord as Covert C2 for Diplomatic Spies",
+        "link": "https://securityonline.info/russian-tomiris-apt-adopts-polyglot-strategy-hijacking-telegram-discord-as-covert-c2-for-diplomatic-spies/",
+        "published": "Mon, 01 Dec 2025 00:27:01 +0000"
+    },
+    {
+        "title": "High-Severity GeoServer Flaw (CVE-2025-58360) Allows Unauthenticated XXE for File Theft and SSRF",
+        "link": "https://securityonline.info/high-severity-geoserver-flaw-cve-2025-58360-allows-unauthenticated-xxe-for-file-theft-and-ssrf/",
+        "published": "Mon, 01 Dec 2025 00:22:33 +0000"
+    },
+    {
+        "title": "New MaaS Operator TAG-150 Uses ClickFix Lure and Custom CastleLoader to Compromise 469 US Devices",
+        "link": "https://securityonline.info/new-maas-operator-tag-150-uses-clickfix-lure-and-custom-castleloader-to-compromise-469-us-devices/",
+        "published": "Mon, 01 Dec 2025 00:19:22 +0000"
+    },
+    {
+        "title": "North Korea’s “Contagious Interview” Floods npm with 200 New Packages, Using Fake Crypto Jobs to Deploy OtterCookie Spyware",
+        "link": "https://securityonline.info/north-koreas-contagious-interview-floods-npm-with-200-new-packages-using-fake-crypto-jobs-to-deploy-ottercookie-spyware/",
+        "published": "Mon, 01 Dec 2025 00:13:02 +0000"
+    },
+    {
+        "title": "ShadowV2 Mirai Botnet Launched Coordinated IoT Test Attack During Global AWS Outage",
+        "link": "https://securityonline.info/shadowv2-mirai-botnet-launched-coordinated-iot-test-attack-during-global-aws-outage/",
+        "published": "Mon, 01 Dec 2025 00:05:41 +0000"
+    },
+    {
+        "title": "Bloody Wolf APT Expands to Central Asia, Deploys NetSupport RAT via Custom Java Droppers and Geo-Fencing",
+        "link": "https://securityonline.info/bloody-wolf-apt-expands-to-central-asia-deploys-netsupport-rat-via-custom-java-droppers-and-geo-fencing/",
+        "published": "Mon, 01 Dec 2025 00:00:21 +0000"
     }
 ]
