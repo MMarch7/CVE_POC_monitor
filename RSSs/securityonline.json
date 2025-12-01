@@ -24533,5 +24533,10 @@
         "title": "PoC Exploit Releases for CVE-2025-60718 – Windows Administrator Protection Elevation of Privilege Vulnerability",
         "link": "https://securityonline.info/poc-exploit-releases-for-cve-2025-60718-windows-administrator-protection-elevation-of-privilege-vulnerability/",
         "published": "Mon, 01 Dec 2025 07:45:50 +0000"
+    },
+    {
+        "title": "Boot Process Compromised: Critical Flaw (CVE-2025-47372) Hits Snapdragon 8 Gen 3 & 5G Modems",
+        "link": "https://securityonline.info/boot-process-compromised-critical-flaw-cve-2025-47372-hits-snapdragon-8-gen-3-5g-modems/",
+        "published": "Mon, 01 Dec 2025 09:33:17 +0000"
     }
 ]
