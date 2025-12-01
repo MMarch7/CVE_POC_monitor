@@ -24518,5 +24518,10 @@
         "title": "Apple Eyes Intel Foundry for M-Series Chips on 18A Node by 2027",
         "link": "https://securityonline.info/apple-eyes-intel-foundry-for-m-series-chips-on-18a-node-by-2027/",
         "published": "Mon, 01 Dec 2025 02:53:38 +0000"
+    },
+    {
+        "title": "CVE-2025-59789: Critical Flaw in Apache bRPC Framework Exposes High-Performance Systems to Crash Risks",
+        "link": "https://securityonline.info/cve-2025-59789-critical-flaw-in-apache-brpc-framework-exposes-high-performance-systems-to-crash-risks/",
+        "published": "Mon, 01 Dec 2025 04:25:59 +0000"
     }
 ]
