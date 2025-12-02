@@ -2036,3 +2036,5 @@ clean_list:
 - CVE-2025-4679-SecureOAuth-Demo---Enfoque-educativo
 - CVE-2025-65321
 - Blackash-CVE-2025-48633
+- CNEXT_BufferOverflow_CVE2024-2961
+- CVE-2025-29927-NextJS
