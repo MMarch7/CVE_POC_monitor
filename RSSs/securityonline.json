@@ -24543,5 +24543,40 @@
         "title": "BreachLock Named a Leader in 2025 GigaOm Radar Report for Penetration Testing as a Service (PTaaS) for Third Consecutive Year",
         "link": "https://securityonline.info/breachlock-named-a-leader-in-2025-gigaom-radar-report-for-penetration-testing-as-a-service-ptaas-for-third-consecutive-year/",
         "published": "Mon, 01 Dec 2025 19:27:47 +0000"
+    },
+    {
+        "title": "nopCommerce Flaw (CVE-2025-11699) Allows Admin Takeover by Reusing Session Cookies After Logout",
+        "link": "https://securityonline.info/nopcommerce-flaw-cve-2025-11699-allows-admin-takeover-by-reusing-session-cookies-after-logout/",
+        "published": "Tue, 02 Dec 2025 02:11:32 +0000"
+    },
+    {
+        "title": "Next-Gen Stealer Arkanix Bypasses Chrome App-Bound Encryption Using C++ Process Injection",
+        "link": "https://securityonline.info/next-gen-stealer-arkanix-bypasses-chrome-app-bound-encryption-using-c-process-injection/",
+        "published": "Tue, 02 Dec 2025 02:02:06 +0000"
+    },
+    {
+        "title": "CVE-2025-64775: Apache Struts “File Leak” Vulnerability Threatens Disk Exhaustion",
+        "link": "https://securityonline.info/cve-2025-64775-apache-struts-file-leak-vulnerability-threatens-disk-exhaustion/",
+        "published": "Tue, 02 Dec 2025 01:46:53 +0000"
+    },
+    {
+        "title": "The BOSS Breach: APT36 Pivots to Linux Espionage with “Silent” Shortcuts",
+        "link": "https://securityonline.info/the-boss-breach-apt36-pivots-to-linux-espionage-with-silent-shortcuts/",
+        "published": "Tue, 02 Dec 2025 00:15:45 +0000"
+    },
+    {
+        "title": "Albiriox: The Russian ‘MaaS’ Android Trojan Redefining Mobile Fraud",
+        "link": "https://securityonline.info/albiriox-the-russian-maas-android-trojan-redefining-mobile-fraud/",
+        "published": "Tue, 02 Dec 2025 00:10:58 +0000"
+    },
+    {
+        "title": "Semiconductor Showdown: Apple and NVIDIA Battle for TSMC’s A16 Capacity",
+        "link": "https://securityonline.info/semiconductor-showdown-apple-and-nvidia-battle-for-tsmcs-a16-capacity/",
+        "published": "Tue, 02 Dec 2025 00:03:16 +0000"
+    },
+    {
+        "title": "ChatGPT Ads Spotted: Monetization Push Underway to Offset $115 Billion in OpenAI Losses",
+        "link": "https://securityonline.info/chatgpt-ads-spotted-monetization-push-underway-to-offset-115-billion-in-openai-losses/",
+        "published": "Tue, 02 Dec 2025 00:00:16 +0000"
     }
 ]
