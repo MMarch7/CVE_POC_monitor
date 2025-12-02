@@ -2038,3 +2038,4 @@ clean_list:
 - Blackash-CVE-2025-48633
 - CNEXT_BufferOverflow_CVE2024-2961
 - CVE-2025-29927-NextJS
+- CVE-2025-65806
