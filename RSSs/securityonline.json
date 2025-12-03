@@ -24698,5 +24698,25 @@
         "title": "Critical ACF Extended Flaw (CVE-2025-13486, CVSS 9.8) Allows Unauthenticated RCE on 100K WordPress Sites",
         "link": "https://securityonline.info/critical-acf-extended-flaw-cve-2025-13486-cvss-9-8-allows-unauthenticated-rce-on-100k-wordpress-sites/",
         "published": "Wed, 03 Dec 2025 04:18:10 +0000"
+    },
+    {
+        "title": "Microsoft Update Breaks Dark Mode: File Explorer Now Flashes White on Launch",
+        "link": "https://securityonline.info/microsoft-update-breaks-dark-mode-file-explorer-now-flashes-white-on-launch/",
+        "published": "Wed, 03 Dec 2025 07:31:24 +0000"
+    },
+    {
+        "title": "Security Tightens: Let’s Encrypt Will Cap Certificate Validity at 45 Days by 2028",
+        "link": "https://securityonline.info/security-tightens-lets-encrypt-will-cap-certificate-validity-at-45-days-by-2028/",
+        "published": "Wed, 03 Dec 2025 07:26:45 +0000"
+    },
+    {
+        "title": "Red Alert at OpenAI: Ad Plans Dropped to Focus on ChatGPT Quality Amid Gemini Threat",
+        "link": "https://securityonline.info/red-alert-at-openai-ad-plans-dropped-to-focus-on-chatgpt-quality-amid-gemini-threat/",
+        "published": "Wed, 03 Dec 2025 07:23:22 +0000"
+    },
+    {
+        "title": "India Mandates SIM-Binding: WhatsApp and Telegram Users Must Re-verify Every 6 Hours",
+        "link": "https://securityonline.info/india-mandates-sim-binding-whatsapp-and-telegram-users-must-re-verify-every-6-hours/",
+        "published": "Wed, 03 Dec 2025 07:19:42 +0000"
     }
 ]
