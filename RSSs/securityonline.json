@@ -24688,5 +24688,15 @@
         "title": "Critical Elementor Plugin Flaw (CVE-2025-8489, CVSS 9.8) Under Active Exploitation Allows Unauthenticated Admin Takeover",
         "link": "https://securityonline.info/critical-elementor-plugin-flaw-cve-2025-8489-cvss-9-8-under-active-exploitation-allows-unauthenticated-admin-takeover/",
         "published": "Wed, 03 Dec 2025 02:22:00 +0000"
+    },
+    {
+        "title": "Critical cPanel Flaw (CVSS 9.3) Allows Directory Traversal LPE for Full Server Takeover",
+        "link": "https://securityonline.info/critical-cpanel-flaw-cvss-9-3-allows-directory-traversal-lpe-for-full-server-takeover/",
+        "published": "Wed, 03 Dec 2025 04:29:58 +0000"
+    },
+    {
+        "title": "Critical ACF Extended Flaw (CVE-2025-13486, CVSS 9.8) Allows Unauthenticated RCE on 100K WordPress Sites",
+        "link": "https://securityonline.info/critical-acf-extended-flaw-cve-2025-13486-cvss-9-8-allows-unauthenticated-rce-on-100k-wordpress-sites/",
+        "published": "Wed, 03 Dec 2025 04:18:10 +0000"
     }
 ]
