@@ -24653,5 +24653,40 @@
         "title": "Discontinued Library: High-Severity lz4-java Flaw (CVE‐2025‐12183) Forces Immediate Migration to Community Fork",
         "link": "https://securityonline.info/discontinued-library-high-severity-lz4-java-flaw-cve%e2%80%902025%e2%80%9012183-forces-immediate-migration-to-community-fork/",
         "published": "Wed, 03 Dec 2025 00:01:41 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Longwatch RCE Flaw (CVE-2025-13658, CVSS 9.8) Allows Unauthenticated SYSTEM Takeover of OT Surveillance",
+        "link": "https://securityonline.info/cisa-warns-critical-longwatch-rce-flaw-cve-2025-13658-cvss-9-8-allows-unauthenticated-system-takeover-of-ot-surveillance/",
+        "published": "Wed, 03 Dec 2025 03:17:36 +0000"
+    },
+    {
+        "title": "Malicious Rust Package ‘evm-units’ Exposes Crypto Developers to Stealth Attacks",
+        "link": "https://securityonline.info/malicious-rust-package-evm-units-exposes-crypto-developers-to-stealth-attacks/",
+        "published": "Wed, 03 Dec 2025 03:07:35 +0000"
+    },
+    {
+        "title": "DOJ Seizes Domain of Burma’s Notorious Tai Chang Scam Compound to Disrupt ‘Pig Butchering’ Fraud",
+        "link": "https://securityonline.info/doj-seizes-domain-of-burmas-notorious-tai-chang-scam-compound-to-disrupt-pig-butchering-fraud/",
+        "published": "Wed, 03 Dec 2025 02:52:06 +0000"
+    },
+    {
+        "title": "Chrome 143 Stable Fixes 13 Flaws: High-Severity V8 Type Confusion Earns $11,000 Bounty",
+        "link": "https://securityonline.info/chrome-143-stable-fixes-13-flaws-high-severity-v8-type-confusion-earns-11000-bounty/",
+        "published": "Wed, 03 Dec 2025 02:43:55 +0000"
+    },
+    {
+        "title": "Django Flaw (CVE-2025-13372) Allows SQL Injection in PostgreSQL FilteredRelation",
+        "link": "https://securityonline.info/django-flaw-cve-2025-13372-allows-sql-injection-in-postgresql-filteredrelation/",
+        "published": "Wed, 03 Dec 2025 02:37:32 +0000"
+    },
+    {
+        "title": "CISA Warns: Critical Iskra iHUB Flaw (CVE-2025-13510) Allows Unauthenticated Smart Metering Takeover",
+        "link": "https://securityonline.info/cisa-warns-critical-iskra-ihub-flaw-cve-2025-13510-allows-unauthenticated-smart-metering-takeover/",
+        "published": "Wed, 03 Dec 2025 02:32:00 +0000"
+    },
+    {
+        "title": "Critical Elementor Plugin Flaw (CVE-2025-8489, CVSS 9.8) Under Active Exploitation Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-elementor-plugin-flaw-cve-2025-8489-cvss-9-8-under-active-exploitation-allows-unauthenticated-admin-takeover/",
+        "published": "Wed, 03 Dec 2025 02:22:00 +0000"
     }
 ]
