@@ -2076,3 +2076,5 @@ clean_list:
 - sjtu_CVE-2024-2928
 - Blackash-CVE-2025-55182
 - Next.js-RSC-RCE-Scanner-CVE-2025-66478
+- CVE-2025-55182-docker-lab
+- React2Shell-Scanner
