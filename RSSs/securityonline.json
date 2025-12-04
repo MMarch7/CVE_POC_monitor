@@ -24798,5 +24798,15 @@
         "title": "AWS Unveils Nova 2 AI Model Family with Multimodal Omni & Agentic Nova Act",
         "link": "https://securityonline.info/aws-unveils-nova-2-ai-model-family-with-multimodal-omni-agentic-nova-act/",
         "published": "Thu, 04 Dec 2025 00:00:45 +0000"
+    },
+    {
+        "title": "Maximum Severity Alert: Critical RCE Flaw Hits Next.js (CVE-2025-66478, CVSS 10.0)",
+        "link": "https://securityonline.info/maximum-severity-alert-critical-rce-flaw-hits-next-js-cve-2025-66478-cvss-10-0/",
+        "published": "Thu, 04 Dec 2025 02:42:09 +0000"
+    },
+    {
+        "title": "Critical WordPress Flaw (CVE-2025-6389) Under Active Exploitation Allows Unauthenticated RCE",
+        "link": "https://securityonline.info/critical-wordpress-flaw-cve-2025-6389-under-active-exploitation-allows-unauthenticated-rce/",
+        "published": "Thu, 04 Dec 2025 02:23:57 +0000"
     }
 ]

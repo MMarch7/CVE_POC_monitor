@@ -2050,3 +2050,9 @@ clean_list:
 - CVE-2025-55182-poc
 - rsc_detect_CVE-2025-55182
 - CVE-2025-55182
+- CVE-2025-55182-exp
+- CVE-2025-55182scan
+- next.js-scanner
+- CVE-2025-55182-realistic-poc
+- CVE-2025-55182-scanner
+- java4script
