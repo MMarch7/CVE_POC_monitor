@@ -2062,3 +2062,8 @@ clean_list:
 - CVE-2025-55182POC
 - CVE-2025-55182-exploit
 - react2shell-scanner
+- CVE-2025-55182-by-Realvivek
+- CVE-2025-55182-checker
+- CVE-2025-66478-POC
+- CVE-2025-55182-Tools
+- CVE-2025-13486-POC
