@@ -2071,3 +2071,5 @@ clean_list:
 - cve_2025_55182_test
 - CVE-2025-55182-test
 - React2shell-CVE-2025-55182-checker
+- CVE-2025-48384-main
+- React19-fix-vibecoders
