@@ -2073,3 +2073,6 @@ clean_list:
 - React2shell-CVE-2025-55182-checker
 - CVE-2025-48384-main
 - React19-fix-vibecoders
+- sjtu_CVE-2024-2928
+- Blackash-CVE-2025-55182
+- Next.js-RSC-RCE-Scanner-CVE-2025-66478
