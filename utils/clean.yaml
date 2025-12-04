@@ -2057,3 +2057,5 @@ clean_list:
 - CVE-2025-55182-scanner
 - java4script
 - CVE-2025-55182-TOOLS
+- rust-flight
+- CVE-2025-13486.-CVE-2025-13486
