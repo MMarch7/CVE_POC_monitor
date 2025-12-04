@@ -2044,3 +2044,9 @@ clean_list:
 - CVE-2025-63945
 - CVE-2025-61148
 - Blackash-CVE-2025-13372
+- exploit-CVE-2025-55182-poc
+- CVE-2025-55182-Scanner-Exploit
+- cve-2025-55182-scanner
+- CVE-2025-55182-poc
+- rsc_detect_CVE-2025-55182
+- CVE-2025-55182

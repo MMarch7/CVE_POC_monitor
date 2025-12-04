@@ -24738,5 +24738,65 @@
         "title": "Google Phone App Gets ‘Call Reason’: Mark Calls as Urgent to Ensure a Pick-Up",
         "link": "https://securityonline.info/google-phone-app-gets-call-reason-mark-calls-as-urgent-to-ensure-a-pick-up/",
         "published": "Wed, 03 Dec 2025 07:39:04 +0000"
+    },
+    {
+        "title": "Catastrophic React Flaw (CVE-2025-55182, CVSS 10.0) Allows Unauthenticated RCE on Next.js and Server Components",
+        "link": "https://securityonline.info/catastrophic-react-flaw-cve-2025-55182-cvss-10-0-allows-unauthenticated-rce-on-next-js-and-server-components/",
+        "published": "Thu, 04 Dec 2025 02:14:14 +0000"
+    },
+    {
+        "title": "ShadyPanda Spyware Hacked 4.3 Million Users by Weaponizing Trusted Browser Extensions via Auto-Updates",
+        "link": "https://securityonline.info/shadypanda-spyware-hacked-4-3-million-users-by-weaponizing-trusted-browser-extensions-via-auto-updates/",
+        "published": "Thu, 04 Dec 2025 00:33:15 +0000"
+    },
+    {
+        "title": "Matanbuchus 3.0 Downloader Pivots to Ransomware, Using Protobufs and QuickAssist for Stealth Access",
+        "link": "https://securityonline.info/matanbuchus-3-0-downloader-pivots-to-ransomware-using-protobufs-and-quickassist-for-stealth-access/",
+        "published": "Thu, 04 Dec 2025 00:28:12 +0000"
+    },
+    {
+        "title": "Synology BeeStation Flaw Chain Leads to Root RCE Via Novel “Dirty File Write” SQL Injection, PoC Available",
+        "link": "https://securityonline.info/synology-beestation-flaw-chain-leads-to-root-rce-via-novel-dirty-file-write-sql-injection-poc-available/",
+        "published": "Thu, 04 Dec 2025 00:22:20 +0000"
+    },
+    {
+        "title": "Water Saci Campaign Uses LLMs to Convert Malware to Python, Spreads Banking Trojan Via WhatsApp Worm",
+        "link": "https://securityonline.info/water-saci-campaign-uses-llms-to-convert-malware-to-python-spreads-banking-trojan-via-whatsapp-worm/",
+        "published": "Thu, 04 Dec 2025 00:19:58 +0000"
+    },
+    {
+        "title": "High-Severity Vim for Windows Flaw (CVE-2025-66476) Risks Arbitrary Code Execution from Compromised Folders",
+        "link": "https://securityonline.info/high-severity-vim-for-windows-flaw-cve-2025-66476-risks-arbitrary-code-execution-from-compromised-folders/",
+        "published": "Thu, 04 Dec 2025 00:15:31 +0000"
+    },
+    {
+        "title": "AWS Nova Forge: Open-Training Platform Enables Deep Customization of Nova 2 Models",
+        "link": "https://securityonline.info/aws-nova-forge-open-training-platform-enables-deep-customization-of-nova-2-models/",
+        "published": "Thu, 04 Dec 2025 00:12:20 +0000"
+    },
+    {
+        "title": "Android 16 Update: AI Notification Summaries & Gemini-Powered Accessibility Suite",
+        "link": "https://securityonline.info/android-16-update-ai-notification-summaries-gemini-powered-accessibility-suite/",
+        "published": "Thu, 04 Dec 2025 00:10:23 +0000"
+    },
+    {
+        "title": "Raspberry Pi Price Hike: AI Boom Forces Price Increases on Pi 4 and Pi 5 Models",
+        "link": "https://securityonline.info/raspberry-pi-price-hike-ai-boom-forces-price-increases-on-pi-4-and-pi-5-models/",
+        "published": "Thu, 04 Dec 2025 00:08:32 +0000"
+    },
+    {
+        "title": "AWS S3 Unleashed: Native Vector Storage & 50 TB Max Object Size for AI/Big Data",
+        "link": "https://securityonline.info/aws-s3-unleashed-native-vector-storage-50-tb-max-object-size-for-ai-big-data/",
+        "published": "Thu, 04 Dec 2025 00:06:41 +0000"
+    },
+    {
+        "title": "AWS Frontier Agents: Autonomous AI ‘Team Members’ Take Over Dev, Security, and Ops",
+        "link": "https://securityonline.info/aws-frontier-agents-autonomous-ai-team-members-take-over-dev-security-and-ops/",
+        "published": "Thu, 04 Dec 2025 00:03:58 +0000"
+    },
+    {
+        "title": "AWS Unveils Nova 2 AI Model Family with Multimodal Omni & Agentic Nova Act",
+        "link": "https://securityonline.info/aws-unveils-nova-2-ai-model-family-with-multimodal-omni-agentic-nova-act/",
+        "published": "Thu, 04 Dec 2025 00:00:45 +0000"
     }
 ]
