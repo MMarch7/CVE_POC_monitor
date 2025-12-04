@@ -2067,3 +2067,5 @@ clean_list:
 - CVE-2025-66478-POC
 - CVE-2025-55182-Tools
 - CVE-2025-13486-POC
+- cve-2025-55182
+- cve_2025_55182_test
