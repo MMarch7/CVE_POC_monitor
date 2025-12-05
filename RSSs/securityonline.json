@@ -24833,5 +24833,50 @@
         "title": "SpyCloud Data Shows Corporate Users 3x More Likely to Be Targeted by Phishing Than by Malware",
         "link": "https://securityonline.info/spycloud-data-shows-corporate-users-3x-more-likely-to-be-targeted-by-phishing-than-by-malware/",
         "published": "Thu, 04 Dec 2025 14:00:16 +0000"
+    },
+    {
+        "title": "“React2Shell” Storm: China-Nexus Groups Weaponize Critical React Flaw Hours After Disclosure",
+        "link": "https://securityonline.info/react2shell-storm-china-nexus-groups-weaponize-critical-react-flaw-hours-after-disclosure/",
+        "published": "Fri, 05 Dec 2025 02:09:05 +0000"
+    },
+    {
+        "title": "Operation DUPEHIKE Hits Russian HR: Bonus Lure Delivers DUPERUNNER and Adaptix C2 via Process Injection",
+        "link": "https://securityonline.info/operation-dupehike-hits-russian-hr-bonus-lure-delivers-duperunner-and-adaptix-c2-via-process-injection/",
+        "published": "Fri, 05 Dec 2025 00:35:53 +0000"
+    },
+    {
+        "title": "High-Severity Splunk Flaw Allows Local Privilege Escalation via Incorrect File Permissions on Windows",
+        "link": "https://securityonline.info/high-severity-splunk-flaw-allows-local-privilege-escalation-via-incorrect-file-permissions-on-windows/",
+        "published": "Fri, 05 Dec 2025 00:30:10 +0000"
+    },
+    {
+        "title": "High-Severity Cacti Flaw (CVE-2025-66399) Risks Remote Code Execution via SNMP Community String Injection",
+        "link": "https://securityonline.info/high-severity-cacti-flaw-cve-2025-66399-risks-remote-code-execution-via-snmp-community-string-injection/",
+        "published": "Fri, 05 Dec 2025 00:22:39 +0000"
+    },
+    {
+        "title": "Russian Calisto APT Targets Reporters Without Borders with Custom AiTM Phishing and “Missing File” Lure",
+        "link": "https://securityonline.info/russian-calisto-apt-targets-reporters-without-borders-with-custom-aitm-phishing-and-missing-file-lure/",
+        "published": "Fri, 05 Dec 2025 00:19:51 +0000"
+    },
+    {
+        "title": "NVIDIA Triton Server Patches Two High-Severity DoS Flaws, Risking Critical AI Inference Disruption",
+        "link": "https://securityonline.info/nvidia-triton-server-patches-two-high-severity-dos-flaws-risking-critical-ai-inference-disruption/",
+        "published": "Fri, 05 Dec 2025 00:11:50 +0000"
+    },
+    {
+        "title": "Patchwork APT Deploys StreamSpy Trojan, Hiding C2 Commands in WebSocket Traffic for Stealth Espionage",
+        "link": "https://securityonline.info/patchwork-apt-deploys-streamspy-trojan-hiding-c2-commands-in-websocket-traffic-for-stealth-espionage/",
+        "published": "Fri, 05 Dec 2025 00:06:43 +0000"
+    },
+    {
+        "title": "AI Demand Struggles: Microsoft Slashes Enterprise AI Sales Quotas by Up to 50%",
+        "link": "https://securityonline.info/ai-demand-struggles-microsoft-slashes-enterprise-ai-sales-quotas-by-up-to-50/",
+        "published": "Fri, 05 Dec 2025 00:03:14 +0000"
+    },
+    {
+        "title": "No More SMS: Telegram is Developing Passkey Authentication for Secure Login",
+        "link": "https://securityonline.info/no-more-sms-telegram-is-developing-passkey-authentication-for-secure-login/",
+        "published": "Fri, 05 Dec 2025 00:00:00 +0000"
     }
 ]

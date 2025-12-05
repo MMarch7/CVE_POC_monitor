@@ -2081,3 +2081,10 @@ clean_list:
 - CVE-2025-55182-vite-rsc
 - freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478
 - CVE-2025-55182-research
+- CVE-2025-55182-Exploit-PoC-Scanner
+- Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js
+- cve-2025-55182-getshell
+- CVE_Explorer_2025
+- check-react-rce-cve-2025-55182
+- DFURoulette
+- cve-2025-13486-vuln-setup
