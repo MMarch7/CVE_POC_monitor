@@ -2097,3 +2097,6 @@ clean_list:
 - CVE-2025-55182-CVE-2025-66478-Exploit-GUI
 - CVE-2024-12828-PoC
 - RSC_Detector
+- CVE-2025-55182-RCE-shell
+- CVE-2025-55182-Exploit-scanner
+- CVE-2025-13486
