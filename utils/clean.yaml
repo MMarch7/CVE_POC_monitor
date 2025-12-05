@@ -2107,3 +2107,7 @@ clean_list:
 - CVE-2025-55182-Attack-Analysis
 - CVE-2025-55182-analysis
 - CVE-2025-55182-POC-NEXTJS
+- React2Shell-CVE-2025-55182-Testing-Environment
+- react2shell
+- React-Server-Components-RCE
+- CVE-2025-55182-PoC
