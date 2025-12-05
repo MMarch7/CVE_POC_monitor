@@ -2100,3 +2100,6 @@ clean_list:
 - CVE-2025-55182-RCE-shell
 - CVE-2025-55182-Exploit-scanner
 - CVE-2025-13486
+- CVE-2025-55182-burpscanner
+- React2Shell-CVE-2025-55182-original-poc
+- CVE-2025-55182-Scanner
