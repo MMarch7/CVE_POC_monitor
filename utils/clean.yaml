@@ -2095,3 +2095,5 @@ clean_list:
 - CVE-2024-36401-MASS
 - Nextjs_RCE_Exploit_Tool
 - CVE-2025-55182-CVE-2025-66478-Exploit-GUI
+- CVE-2024-12828-PoC
+- RSC_Detector
