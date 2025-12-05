@@ -2093,3 +2093,5 @@ clean_list:
 - POC-for-CVE-2025-55182
 - CVE-2025-55182-Exploit
 - CVE-2024-36401-MASS
+- Nextjs_RCE_Exploit_Tool
+- CVE-2025-55182-CVE-2025-66478-Exploit-GUI
