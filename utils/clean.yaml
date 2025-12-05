@@ -2088,3 +2088,7 @@ clean_list:
 - check-react-rce-cve-2025-55182
 - DFURoulette
 - cve-2025-13486-vuln-setup
+- react-ssr-vulnerability
+- CVE-2025-55182_scanner
+- POC-for-CVE-2025-55182
+- CVE-2025-55182-Exploit

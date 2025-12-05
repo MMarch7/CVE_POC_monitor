@@ -24878,5 +24878,35 @@
         "title": "No More SMS: Telegram is Developing Passkey Authentication for Secure Login",
         "link": "https://securityonline.info/no-more-sms-telegram-is-developing-passkey-authentication-for-secure-login/",
         "published": "Fri, 05 Dec 2025 00:00:00 +0000"
+    },
+    {
+        "title": "Honesty is the Best Policy: OpenAI Trains AI Models to ‘Confess’ Errors and Hallucinations",
+        "link": "https://securityonline.info/honesty-is-the-best-policy-openai-trains-ai-models-to-confess-errors-and-hallucinations/",
+        "published": "Fri, 05 Dec 2025 03:28:06 +0000"
+    },
+    {
+        "title": "New Android Call Scam Protection Pauses Calls for 30 Seconds During Financial App Use",
+        "link": "https://securityonline.info/new-android-call-scam-protection-pauses-calls-for-30-seconds-during-financial-app-use/",
+        "published": "Fri, 05 Dec 2025 03:23:12 +0000"
+    },
+    {
+        "title": "Russia Imposes Network-Level Blockade on Apple’s End-to-End Encrypted FaceTime",
+        "link": "https://securityonline.info/russia-imposes-network-level-blockade-on-apples-end-to-end-encrypted-facetime/",
+        "published": "Fri, 05 Dec 2025 03:19:39 +0000"
+    },
+    {
+        "title": "Apache HTTP Server 2.4.66 Fixes SSRF Flaw (CVE-2025-59775) Exposing NTLM Hashes on Windows and suexec Bypass",
+        "link": "https://securityonline.info/apache-http-server-2-4-66-fixes-ssrf-flaw-cve-2025-59775-exposing-ntlm-hashes-on-windows-and-suexec-bypass/",
+        "published": "Fri, 05 Dec 2025 03:06:43 +0000"
+    },
+    {
+        "title": "Stealth Cryptominer Uses USB LNK and DLL Side-Loading to Deploy “Smart Mining” Evasion",
+        "link": "https://securityonline.info/stealth-cryptominer-uses-usb-lnk-and-dll-side-loading-to-deploy-smart-mining-evasion/",
+        "published": "Fri, 05 Dec 2025 02:39:33 +0000"
+    },
+    {
+        "title": "The PDF Trap: Critical Vulnerability (CVE-2025-66516, CVSS 10.0) Hits Apache Tika Core",
+        "link": "https://securityonline.info/the-pdf-trap-critical-vulnerability-cve-2025-66516-cvss-10-0-hits-apache-tika-core/",
+        "published": "Fri, 05 Dec 2025 02:21:24 +0000"
     }
 ]
