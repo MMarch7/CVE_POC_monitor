@@ -2111,3 +2111,9 @@ clean_list:
 - react2shell
 - React-Server-Components-RCE
 - CVE-2025-55182-PoC
+- Tor-0day-JavaScript-Exploit
+- React2Shell-CVE-2025-55182
+- CVE-2025-1913-PoC
+- react-cve-2025-55182-lab
+- CVE-2025-55182-React2Shell-RCE-POC
+- POC-CVE-2025-66478
