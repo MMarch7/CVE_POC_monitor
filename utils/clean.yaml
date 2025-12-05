@@ -2117,3 +2117,4 @@ clean_list:
 - react-cve-2025-55182-lab
 - CVE-2025-55182-React2Shell-RCE-POC
 - POC-CVE-2025-66478
+- POC-CVE-2025-55182
