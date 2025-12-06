@@ -2137,3 +2137,9 @@ clean_list:
 - Next.js-RCE-Patcher--CVE-2025-55182-
 - CVE-2025-55182-NSE
 - CVE-2025-55182-Terminal
+- React2Shell
+- CVE-2025-55182-advanced-scanner-
+- vuln-app-CVE-2025-55182
+- React2Shell_Hunter
+- react2shell-test-server
+- nextjs-react2shell-detect
