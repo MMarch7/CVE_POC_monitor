@@ -2127,3 +2127,5 @@ clean_list:
 - evilact
 - CVE-2025-66478-Exploit-Poc
 - CVE-2025-65300
+- CVE-2025-66516
+- poc-cve-2025-55182
