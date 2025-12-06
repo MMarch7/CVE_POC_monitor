@@ -2129,3 +2129,6 @@ clean_list:
 - CVE-2025-65300
 - CVE-2025-66516
 - poc-cve-2025-55182
+- rschunter
+- chain-reaction
+- CrushFTP-AS2-Bypass-Research-CVE-2025-54309
