@@ -2121,3 +2121,4 @@ clean_list:
 - Next.js-RSC-RCE-Scanner-Burp-Suite-Extension
 - react2shell-ultimate
 - Next.js-RCE-Scanner-BurpSuite-Extension-
+- CVE-2025-55182_full_exploit
