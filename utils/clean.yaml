@@ -2120,3 +2120,4 @@ clean_list:
 - POC-CVE-2025-55182
 - Next.js-RSC-RCE-Scanner-Burp-Suite-Extension
 - react2shell-ultimate
+- Next.js-RCE-Scanner-BurpSuite-Extension-
