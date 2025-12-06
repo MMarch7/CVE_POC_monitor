@@ -2122,3 +2122,4 @@ clean_list:
 - react2shell-ultimate
 - Next.js-RCE-Scanner-BurpSuite-Extension-
 - CVE-2025-55182_full_exploit
+- CVE-2025-55182-docker-test
