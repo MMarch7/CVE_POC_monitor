@@ -2133,3 +2133,4 @@ clean_list:
 - chain-reaction
 - CrushFTP-AS2-Bypass-Research-CVE-2025-54309
 - react2shell-cve
+- Rust_CVE-2025-55182
