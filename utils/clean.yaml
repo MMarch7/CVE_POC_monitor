@@ -2123,3 +2123,4 @@ clean_list:
 - Next.js-RCE-Scanner-BurpSuite-Extension-
 - CVE-2025-55182_full_exploit
 - CVE-2025-55182-docker-test
+- cve-2025-55182-test-lab-windows
