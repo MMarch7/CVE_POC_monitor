@@ -2124,3 +2124,6 @@ clean_list:
 - CVE-2025-55182_full_exploit
 - CVE-2025-55182-docker-test
 - cve-2025-55182-test-lab-windows
+- evilact
+- CVE-2025-66478-Exploit-Poc
+- CVE-2025-65300
