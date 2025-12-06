@@ -24918,5 +24918,15 @@
         "title": "Criminal IP to Host Webinar: Beyond CVEs – From Visibility to Action with ASM",
         "link": "https://securityonline.info/criminal-ip-to-host-webinar-beyond-cves-from-visibility-to-action-with-asm/",
         "published": "Fri, 05 Dec 2025 15:00:28 +0000"
+    },
+    {
+        "title": "Critical Step CA Flaw (CVE-2025-44005, CVSS 10.0) Allows Unauthenticated Bypass to Issue Fraudulent Certificates",
+        "link": "https://securityonline.info/critical-step-ca-flaw-cve-2025-44005-cvss-10-0-allows-unauthenticated-bypass-to-issue-fraudulent-certificates/",
+        "published": "Sat, 06 Dec 2025 00:06:18 +0000"
+    },
+    {
+        "title": "China APT UNC5174 Hijacks Discord API as Covert C2 Channel to Evade Detection and Conduct Espionage",
+        "link": "https://securityonline.info/china-apt-unc5174-hijacks-discord-api-as-covert-c2-channel-to-evade-detection-and-conduct-espionage/",
+        "published": "Sat, 06 Dec 2025 00:00:18 +0000"
     }
 ]

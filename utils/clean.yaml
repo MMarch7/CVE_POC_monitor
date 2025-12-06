@@ -2118,3 +2118,5 @@ clean_list:
 - CVE-2025-55182-React2Shell-RCE-POC
 - POC-CVE-2025-66478
 - POC-CVE-2025-55182
+- Next.js-RSC-RCE-Scanner-Burp-Suite-Extension
+- react2shell-ultimate
