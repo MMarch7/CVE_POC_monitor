@@ -2143,3 +2143,6 @@ clean_list:
 - React2Shell_Hunter
 - react2shell-test-server
 - nextjs-react2shell-detect
+- CVE-2025-66478
+- cve-2025-55182-tools
+- CVE-2025-66478-kinda-waf
