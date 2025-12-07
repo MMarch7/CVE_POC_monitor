@@ -2152,3 +2152,4 @@ clean_list:
 - react-cve-2025-55182-demo
 - ore_react2shell_scanner
 - CVE-2025-55182-React2Shell-
+- React2Shell_cve-2025-55182
