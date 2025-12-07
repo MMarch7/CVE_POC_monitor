@@ -2153,3 +2153,4 @@ clean_list:
 - ore_react2shell_scanner
 - CVE-2025-55182-React2Shell-
 - React2Shell_cve-2025-55182
+- React2Shell-CVE-2025-55182-PoC-Reverse-Shell
