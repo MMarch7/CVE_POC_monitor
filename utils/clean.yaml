@@ -2155,3 +2155,7 @@ clean_list:
 - React2Shell_cve-2025-55182
 - React2Shell-CVE-2025-55182-PoC-Reverse-Shell
 - scanner-for-CVE-2025-55182-vulnerability
+- CVE-2025-55182-mass
+- poc-2025-9074
+- CVE-2025-65271
+- CVE-2025-9074-PoC
