@@ -2149,3 +2149,4 @@ clean_list:
 - CVE-2025-66478-github-patcher
 - react2shell-security-toolkit
 - cve-2025-66516
+- react-cve-2025-55182-demo
