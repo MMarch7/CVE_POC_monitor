@@ -2150,3 +2150,4 @@ clean_list:
 - react2shell-security-toolkit
 - cve-2025-66516
 - react-cve-2025-55182-demo
+- ore_react2shell_scanner
