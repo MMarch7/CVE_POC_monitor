@@ -2181,3 +2181,6 @@ clean_list:
 - react-rce
 - react2shell_analyzer
 - React2shell
+- react2shell-security-tool
+- react2shell-audit
+- Blackash-CVE-2025-66516
