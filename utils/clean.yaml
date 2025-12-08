@@ -2163,3 +2163,6 @@ clean_list:
 - R2C-CVE-2025-55182-66478
 - medusa
 - -CVE-2025-55182-poc-tool
+- fix-react2shell-next
+- CVE-2025-8924
+- CVE-2025-55182-Test-Server

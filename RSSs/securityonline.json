@@ -24933,5 +24933,70 @@
         "title": "Coordinated Reconnaissance: 7,000+ IPs Target Palo Alto GlobalProtect and SonicWall API Endpoints",
         "link": "https://securityonline.info/coordinated-reconnaissance-7000-ips-target-palo-alto-globalprotect-and-sonicwall-api-endpoints/",
         "published": "Sat, 06 Dec 2025 08:06:06 +0000"
+    },
+    {
+        "title": "PoC Available: Bluetooth Flaw Risks DoS Crash on Smart Cars and Wear OS",
+        "link": "https://securityonline.info/poc-available-bluetooth-flaw-risks-dos-crash-on-smart-cars-and-wear-os/",
+        "published": "Mon, 08 Dec 2025 00:50:31 +0000"
+    },
+    {
+        "title": "High-Severity Duc Disk Tool Flaw (CVE-2025-13654) Risks DoS and Information Leak via Integer Underflow",
+        "link": "https://securityonline.info/high-severity-duc-disk-tool-flaw-cve-2025-13654-risks-dos-and-information-leak-via-integer-underflow/",
+        "published": "Mon, 08 Dec 2025 00:45:53 +0000"
+    },
+    {
+        "title": "“SeedSnatcher” Android Malware Targets Crypto Users, Using Overlay Phishing and BIP 39 Validation to Steal Seed Phrases",
+        "link": "https://securityonline.info/seedsnatcher-android-malware-targets-crypto-users-using-overlay-phishing-and-bip-39-validation-to-steal-seed-phrases/",
+        "published": "Mon, 08 Dec 2025 00:40:39 +0000"
+    },
+    {
+        "title": "Russian APT UTA0355 Steals Microsoft 365 OAuth Tokens via Fake Security Conference Lures and WhatsApp Support",
+        "link": "https://securityonline.info/russian-apt-uta0355-steals-microsoft-365-oauth-tokens-via-fake-security-conference-lures-and-whatsapp-support/",
+        "published": "Mon, 08 Dec 2025 00:36:25 +0000"
+    },
+    {
+        "title": "Stealth Supply Chain Attack: Malicious Rust Crate Used Unpinned Dependency for Silent Payload Upgrades",
+        "link": "https://securityonline.info/stealth-supply-chain-attack-malicious-rust-crate-used-unpinned-dependency-for-silent-payload-upgrades/",
+        "published": "Mon, 08 Dec 2025 00:33:32 +0000"
+    },
+    {
+        "title": "CISA/NSA Warn of BRICKSTORM Backdoor: China APT Targets VMware and ADFS for Long-Term Espionage",
+        "link": "https://securityonline.info/cisa-nsa-warn-of-brickstorm-backdoor-china-apt-targets-vmware-and-adfs-for-long-term-espionage/",
+        "published": "Mon, 08 Dec 2025 00:30:21 +0000"
+    },
+    {
+        "title": "High-Severity lz4-java Flaw (CVE-2025-66566) Leaks Uninitialized Memory During Decompression",
+        "link": "https://securityonline.info/high-severity-lz4-java-flaw-cve-2025-66566-leaks-uninitialized-memory-during-decompression/",
+        "published": "Mon, 08 Dec 2025 00:26:39 +0000"
+    },
+    {
+        "title": "Critical Cal.com Flaw (CVE-2025-66489, CVSS 9.9) Allows Authentication Bypass by Submitting Fake TOTP Codes",
+        "link": "https://securityonline.info/critical-cal-com-flaw-cve-2025-66489-cvss-9-9-allows-authentication-bypass-by-submitting-fake-totp-codes/",
+        "published": "Mon, 08 Dec 2025 00:22:28 +0000"
+    },
+    {
+        "title": "High-Severity WatchGuard Flaws Risk VPN DoS and RCE via IKEv2 Memory Corruption",
+        "link": "https://securityonline.info/high-severity-watchguard-flaws-risk-vpn-dos-and-rce-via-ikev2-memory-corruption/",
+        "published": "Mon, 08 Dec 2025 00:20:37 +0000"
+    },
+    {
+        "title": "Iran-Linked MuddyWater Deploys UDPGangster Backdoor, Using UDP Protocol for Covert C2",
+        "link": "https://securityonline.info/iran-linked-muddywater-deploys-udpgangster-backdoor-using-udp-protocol-for-covert-c2/",
+        "published": "Mon, 08 Dec 2025 00:18:41 +0000"
+    },
+    {
+        "title": "Spyware Vendor Intellexa Used 15 Zero-Days Since 2021, Deploying Predator via “smack” iOS Exploit Chain",
+        "link": "https://securityonline.info/spyware-vendor-intellexa-used-15-zero-days-since-2021-deploying-predator-via-smack-ios-exploit-chain/",
+        "published": "Mon, 08 Dec 2025 00:12:15 +0000"
+    },
+    {
+        "title": "urllib3 Flaws Risk Client DoS via Unbounded Decompression and Streaming Resource Exhaustion",
+        "link": "https://securityonline.info/urllib3-flaws-risk-client-dos-via-unbounded-decompression-and-streaming-resource-exhaustion/",
+        "published": "Mon, 08 Dec 2025 00:06:12 +0000"
+    },
+    {
+        "title": "ValleyRAT Targets English Job Seekers by Trojanizing Foxit PDF Reader with DLL Sideloading",
+        "link": "https://securityonline.info/valleyrat-targets-english-job-seekers-by-trojanizing-foxit-pdf-reader-with-dll-sideloading/",
+        "published": "Mon, 08 Dec 2025 00:00:17 +0000"
     }
 ]
