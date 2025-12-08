@@ -2178,3 +2178,6 @@ clean_list:
 - React4Shell
 - CVE-2025-55182-Proof-of-Concept
 - CVE-2025-55182-React2Shell-RCE
+- react-rce
+- react2shell_analyzer
+- React2shell
