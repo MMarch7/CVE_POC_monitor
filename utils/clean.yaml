@@ -2168,3 +2168,4 @@ clean_list:
 - CVE-2025-55182-Test-Server
 - CVE-2025-55182-CVE-2025-66478
 - CVE-2025-55182-React2Shell-lab
+- rust-cve-2025-55182
