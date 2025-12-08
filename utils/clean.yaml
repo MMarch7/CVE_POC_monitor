@@ -2191,3 +2191,7 @@ clean_list:
 - CVE-2025-55182-Burp-Passive-Extension
 - CVE-2025-55182-zoomeye
 - JXL_Infotainment_CVE-2025-63895
+- ReactNext2Shell
+- Swagger-HTML-Injection-CVE-2025-8191
+- React2Hell
+- cve-2025-55182-node
