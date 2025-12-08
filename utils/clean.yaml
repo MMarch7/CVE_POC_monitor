@@ -2186,3 +2186,7 @@ clean_list:
 - Blackash-CVE-2025-66516
 - CVE-2025-55182-Lab
 - cve-2025-55182-poc-test
+- react2shell-exploit
+- cve-2025-66478_rce_vulnerable
+- CVE-2025-55182-Burp-Passive-Extension
+- CVE-2025-55182-zoomeye
