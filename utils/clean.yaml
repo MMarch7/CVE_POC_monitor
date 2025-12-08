@@ -2184,3 +2184,5 @@ clean_list:
 - react2shell-security-tool
 - react2shell-audit
 - Blackash-CVE-2025-66516
+- CVE-2025-55182-Lab
+- cve-2025-55182-poc-test
