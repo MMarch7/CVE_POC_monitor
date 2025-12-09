@@ -2196,3 +2196,6 @@ clean_list:
 - React2Hell
 - cve-2025-55182-node
 - CVE-2025-55182-bypass
+- PoC-react2shell-CVE-2025-55182
+- CVE-2025-65018_Exploit_Challenge
+- test-cve-2025-55182

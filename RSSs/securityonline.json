@@ -25103,5 +25103,15 @@
         "title": "Google Antitrust Remedy: Judge Limits Default Search Contracts to One-Year Term",
         "link": "https://securityonline.info/google-antitrust-remedy-judge-limits-default-search-contracts-to-one-year-term/",
         "published": "Tue, 09 Dec 2025 00:00:17 +0000"
+    },
+    {
+        "title": "macOS Privilege Escalation Flaw Bypasses Patch for Root Access, Poc Releases!",
+        "link": "https://securityonline.info/macos-privilege-escalation-flaw-bypasses-patch-for-root-access-poc-releases/",
+        "published": "Tue, 09 Dec 2025 02:59:46 +0000"
+    },
+    {
+        "title": "Critical Authentication Bypass Flaws Discovered in Ruby SAML Library (CVE-2025-66567 & CVE-2025-66568)",
+        "link": "https://securityonline.info/critical-authentication-bypass-flaws-discovered-in-ruby-saml-library-cve-2025-66567-cve-2025-66568/",
+        "published": "Tue, 09 Dec 2025 02:29:23 +0000"
     }
 ]
