@@ -2222,3 +2222,5 @@ clean_list:
 - PoC-RCE-CVE-2025-55182
 - CVE-2025-66478-single-nextjs-yarn-pnp
 - CVE-2025-66478-monorepo-nextjs-npm-nested-versions
+- react2shell-CVE-2025-55182-poc
+- CVE-2025-13342
