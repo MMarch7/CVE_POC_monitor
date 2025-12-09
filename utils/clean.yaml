@@ -2195,3 +2195,4 @@ clean_list:
 - Swagger-HTML-Injection-CVE-2025-8191
 - React2Hell
 - cve-2025-55182-node
+- CVE-2025-55182-bypass

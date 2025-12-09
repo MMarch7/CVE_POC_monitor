@@ -25028,5 +25028,80 @@
         "title": "INE Earns G2 Winter 2026 Badges Across Global Markets",
         "link": "https://securityonline.info/ine-earns-g2-winter-2026-badges-across-global-markets/",
         "published": "Mon, 08 Dec 2025 15:16:39 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: EOL D-Link and Array Networks Command Injection Under Active Attack",
+        "link": "https://securityonline.info/cisa-kev-alert-eol-d-link-and-array-networks-command-injection-under-active-attack/",
+        "published": "Tue, 09 Dec 2025 02:05:06 +0000"
+    },
+    {
+        "title": "Samsung Foundry Hits 60% 4nm Yield, Secures $100M AI Chip Order from Tsavorite",
+        "link": "https://securityonline.info/samsung-foundry-hits-60-4nm-yield-secures-100m-ai-chip-order-from-tsavorite/",
+        "published": "Tue, 09 Dec 2025 01:50:35 +0000"
+    },
+    {
+        "title": "Ad Code Found in ChatGPT Android Build, OpenAI Denies Current Advertising Tests",
+        "link": "https://securityonline.info/ad-code-found-in-chatgpt-android-build-openai-denies-current-advertising-tests/",
+        "published": "Tue, 09 Dec 2025 01:47:52 +0000"
+    },
+    {
+        "title": "AI Uncovers GhostPenguin: Undetectable Linux Backdoor Used RC5-Encrypted UDP for Covert C2",
+        "link": "https://securityonline.info/ai-uncovers-ghostpenguin-undetectable-linux-backdoor-used-rc5-encrypted-udp-for-covert-c2/",
+        "published": "Tue, 09 Dec 2025 00:50:48 +0000"
+    },
+    {
+        "title": "Shanya Crypter Is the New Ransomware Toolkit: Uses Kernel Driver Abuse to Kill EDR",
+        "link": "https://securityonline.info/shanya-crypter-is-the-new-ransomware-toolkit-uses-kernel-driver-abuse-to-kill-edr/",
+        "published": "Tue, 09 Dec 2025 00:40:01 +0000"
+    },
+    {
+        "title": "Undetectable Beima Webshell Sold by College Student for Tuition Hijacks 5,200+ Gov/Edu Websites",
+        "link": "https://securityonline.info/undetectable-beima-webshell-sold-by-college-student-for-tuition-hijacks-5200-gov-edu-websites/",
+        "published": "Tue, 09 Dec 2025 00:36:29 +0000"
+    },
+    {
+        "title": "Silent Supply Chain Attack: Malicious Go Typosquat Siphoned Data to Pastebin for Four Years Undetected",
+        "link": "https://securityonline.info/silent-supply-chain-attack-malicious-go-typosquat-siphoned-data-to-pastebin-for-four-years-undetected/",
+        "published": "Tue, 09 Dec 2025 00:32:24 +0000"
+    },
+    {
+        "title": "Silver Fox APT Uses Cyrillic False Flag in Teams SEO Poisoning to Deploy ValleyRAT",
+        "link": "https://securityonline.info/silver-fox-apt-uses-cyrillic-false-flag-in-teams-seo-poisoning-to-deploy-valleyrat/",
+        "published": "Tue, 09 Dec 2025 00:27:32 +0000"
+    },
+    {
+        "title": "Evolved ClayRat Spyware Gains Self-Defense, Using Accessibility Abuse to Block Uninstallation and Steal Keys",
+        "link": "https://securityonline.info/evolved-clayrat-spyware-gains-self-defense-using-accessibility-abuse-to-block-uninstallation-and-steal-keys/",
+        "published": "Tue, 09 Dec 2025 00:22:44 +0000"
+    },
+    {
+        "title": "New FvncBot Android Trojan Targets mBank Users with HVNC and H.264 Screen Streaming",
+        "link": "https://securityonline.info/new-fvncbot-android-trojan-targets-mbank-users-with-hvnc-and-h-264-screen-streaming/",
+        "published": "Tue, 09 Dec 2025 00:19:40 +0000"
+    },
+    {
+        "title": "JS#SMUGGLER Malware Evades EDR Using “Junk Code” JavaScript and Fileless PowerShell to Deploy NetSupport RAT",
+        "link": "https://securityonline.info/jssmuggler-malware-evades-edr-using-junk-code-javascript-and-fileless-powershell-to-deploy-netsupport-rat/",
+        "published": "Tue, 09 Dec 2025 00:14:50 +0000"
+    },
+    {
+        "title": "Sophisticated CastleRAT Backdoor Uses Steam Community Pages as Covert C2 Resolver for Espionage",
+        "link": "https://securityonline.info/sophisticated-castlerat-backdoor-uses-steam-community-pages-as-covert-c2-resolver-for-espionage/",
+        "published": "Tue, 09 Dec 2025 00:10:46 +0000"
+    },
+    {
+        "title": "LockBit 5.0 Resurfaces Stronger: New Variant Blinds Defenders by Disabling Windows ETW for Stealth Encryption",
+        "link": "https://securityonline.info/lockbit-5-0-resurfaces-stronger-new-variant-blinds-defenders-by-disabling-windows-etw-for-stealth-encryption/",
+        "published": "Tue, 09 Dec 2025 00:06:57 +0000"
+    },
+    {
+        "title": "AI Clutter Solved? Windows 11 Adds Setting to Disable AI Actions in File Explorer Menu",
+        "link": "https://securityonline.info/ai-clutter-solved-windows-11-adds-setting-to-disable-ai-actions-in-file-explorer-menu/",
+        "published": "Tue, 09 Dec 2025 00:03:54 +0000"
+    },
+    {
+        "title": "Google Antitrust Remedy: Judge Limits Default Search Contracts to One-Year Term",
+        "link": "https://securityonline.info/google-antitrust-remedy-judge-limits-default-search-contracts-to-one-year-term/",
+        "published": "Tue, 09 Dec 2025 00:00:17 +0000"
     }
 ]
