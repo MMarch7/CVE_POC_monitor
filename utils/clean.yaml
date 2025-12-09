@@ -2229,3 +2229,4 @@ clean_list:
 - CVE-2025-55182-Exploiter
 - CVE-2025-9074-Docker-Desktop-Container-Escape
 - Blackash-CVE-2025-66644
+- vulnerable-next-js-poc
