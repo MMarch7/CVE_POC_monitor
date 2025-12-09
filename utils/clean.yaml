@@ -2228,3 +2228,4 @@ clean_list:
 - React2Shell-CVE-2025-55182-Advanced-Scanner
 - CVE-2025-55182-Exploiter
 - CVE-2025-9074-Docker-Desktop-Container-Escape
+- Blackash-CVE-2025-66644
