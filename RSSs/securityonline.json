@@ -25118,5 +25118,10 @@
         "title": "Final Patch of 2025: Critical SAP Solution Manager Flaw (CVE-2025-42880, CVSS 9.9) Risks Full System Compromise",
         "link": "https://securityonline.info/final-patch-of-2025-critical-sap-solution-manager-flaw-cve-2025-42880-cvss-9-9-risks-full-system-compromise/",
         "published": "Tue, 09 Dec 2025 07:31:50 +0000"
+    },
+    {
+        "title": "Critical Emby Server Flaw (CVE-2025-64113) Allows Unauthenticated Admin Takeover",
+        "link": "https://securityonline.info/critical-emby-server-flaw-cve-2025-64113-allows-unauthenticated-admin-takeover/",
+        "published": "Tue, 09 Dec 2025 09:30:42 +0000"
     }
 ]

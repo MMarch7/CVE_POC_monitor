@@ -2213,3 +2213,12 @@ clean_list:
 - CVE-2025-66478-monorepo-nextjs-npm-workspaces
 - CVE-2025-66478-single-nextjs-npm-canary-15x
 - CVE-2025-66478-single-nextjs-npm-caret
+- CVE-2025-66478-single-nextjs-npm-rsc-webpack
+- CVE-2025-66478-single-nextjs-npm-shrinkwrap
+- CVE-2025-66478-single-nextjs-npm-range
+- CVE-2025-66478-single-nextjs-npm-lockfile-mismatch
+- CVE-2025-66478-single-nextjs-yarn-zero-installs
+- CVE-2025-66478-single-nextjs-npm-alias
+- PoC-RCE-CVE-2025-55182
+- CVE-2025-66478-single-nextjs-yarn-pnp
+- CVE-2025-66478-monorepo-nextjs-npm-nested-versions
