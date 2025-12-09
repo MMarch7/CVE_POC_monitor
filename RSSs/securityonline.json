@@ -25113,5 +25113,10 @@
         "title": "Critical Authentication Bypass Flaws Discovered in Ruby SAML Library (CVE-2025-66567 & CVE-2025-66568)",
         "link": "https://securityonline.info/critical-authentication-bypass-flaws-discovered-in-ruby-saml-library-cve-2025-66567-cve-2025-66568/",
         "published": "Tue, 09 Dec 2025 02:29:23 +0000"
+    },
+    {
+        "title": "Final Patch of 2025: Critical SAP Solution Manager Flaw (CVE-2025-42880, CVSS 9.9) Risks Full System Compromise",
+        "link": "https://securityonline.info/final-patch-of-2025-critical-sap-solution-manager-flaw-cve-2025-42880-cvss-9-9-risks-full-system-compromise/",
+        "published": "Tue, 09 Dec 2025 07:31:50 +0000"
     }
 ]

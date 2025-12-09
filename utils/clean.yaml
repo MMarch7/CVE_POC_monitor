@@ -2205,3 +2205,11 @@ clean_list:
 - CVE-2025-55182-Advanced-Auto-Exploit-Toolkit
 - CVE-2025-60719-AFD.SYS
 - CVE-2025-55182-Auto-Exploit-Toolkit
+- CVE-2025-66478-single-nextjs-bun
+- CVE-2025-66478-single-nextjs-npm-transitive
+- CVE-2025-66478-single-nextjs-npm-devdeps
+- CVE-2025-55182-React2Shell
+- CVE-2025-66478-monorepo-nextjs-pnpm
+- CVE-2025-66478-monorepo-nextjs-npm-workspaces
+- CVE-2025-66478-single-nextjs-npm-canary-15x
+- CVE-2025-66478-single-nextjs-npm-caret
