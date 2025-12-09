@@ -2201,3 +2201,4 @@ clean_list:
 - test-cve-2025-55182
 - CVE-2025-66478-single-nextjs-npm
 - react2shell-scanner-rust
+- http-react2shell
