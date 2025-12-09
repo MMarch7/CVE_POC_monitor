@@ -2224,3 +2224,6 @@ clean_list:
 - CVE-2025-66478-monorepo-nextjs-npm-nested-versions
 - react2shell-CVE-2025-55182-poc
 - CVE-2025-13342
+- CVE-2025-65964-poc
+- React2Shell-CVE-2025-55182-Advanced-Scanner
+- CVE-2025-55182-Exploiter
