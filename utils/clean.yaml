@@ -2203,3 +2203,5 @@ clean_list:
 - react2shell-scanner-rust
 - http-react2shell
 - CVE-2025-55182-Advanced-Auto-Exploit-Toolkit
+- CVE-2025-60719-AFD.SYS
+- CVE-2025-55182-Auto-Exploit-Toolkit
