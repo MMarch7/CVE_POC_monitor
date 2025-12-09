@@ -2199,3 +2199,5 @@ clean_list:
 - PoC-react2shell-CVE-2025-55182
 - CVE-2025-65018_Exploit_Challenge
 - test-cve-2025-55182
+- CVE-2025-66478-single-nextjs-npm
+- react2shell-scanner-rust
