@@ -25128,5 +25128,65 @@
         "title": "The 25% Cut: Trump Allows NVIDIA H200 Export to China Under Strict Fee",
         "link": "https://securityonline.info/the-25-cut-trump-allows-nvidia-h200-export-to-china-under-strict-fee/",
         "published": "Tue, 09 Dec 2025 09:45:11 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: WinRAR Zero-Day Used for Malware Injection and Windows UAF RCE Under Active Attack",
+        "link": "https://securityonline.info/cisa-kev-alert-winrar-zero-day-used-for-malware-injection-and-windows-uaf-rce-under-active-attack/",
+        "published": "Wed, 10 Dec 2025 02:14:17 +0000"
+    },
+    {
+        "title": "Critical Fortinet Flaw Risks Unauthenticated Admin Bypass via FortiCloud SSO SAML Forgery",
+        "link": "https://securityonline.info/critical-fortinet-flaw-risks-unauthenticated-admin-bypass-via-forticloud-sso-saml-forgery/",
+        "published": "Wed, 10 Dec 2025 02:01:25 +0000"
+    },
+    {
+        "title": "Microsoft Patches Three Zero-Days Including Active Cloud Files UAF to SYSTEM and Copilot RCE",
+        "link": "https://securityonline.info/microsoft-patches-three-zero-days-including-active-cloud-files-uaf-to-system-and-copilot-rce/",
+        "published": "Wed, 10 Dec 2025 01:51:45 +0000"
+    },
+    {
+        "title": "Critical Ivanti EPM Flaw (CVE-2025-10573) Risks Admin Session Hijack and Unauthenticated RCE",
+        "link": "https://securityonline.info/critical-ivanti-epm-flaw-cve-2025-10573-risks-admin-session-hijack-and-unauthenticated-rce/",
+        "published": "Wed, 10 Dec 2025 01:42:11 +0000"
+    },
+    {
+        "title": "OpenAI ‘Code Red’: Sam Altman Halts Projects to Battle Google and Fix a Sycophancy Crisis",
+        "link": "https://securityonline.info/openai-code-red-sam-altman-halts-projects-to-battle-google-and-fix-a-sycophancy-crisis/",
+        "published": "Wed, 10 Dec 2025 00:35:46 +0000"
+    },
+    {
+        "title": "IBM Spends $11 Billion on Confluent to Build Its AI ‘Intelligent Data Platform’",
+        "link": "https://securityonline.info/ibm-spends-11-billion-on-confluent-to-build-its-ai-intelligent-data-platform/",
+        "published": "Wed, 10 Dec 2025 00:30:10 +0000"
+    },
+    {
+        "title": "GrayBravo MaaS Deploys CastleRAT Backdoor, Hiding C2 with Steam Profile Dead Drop Resolvers",
+        "link": "https://securityonline.info/graybravo-maas-deploys-castlerat-backdoor-hiding-c2-with-steam-profile-dead-drop-resolvers/",
+        "published": "Wed, 10 Dec 2025 00:27:12 +0000"
+    },
+    {
+        "title": "High-Severity Rockwell Flaws Risk Industrial SQLi Data Tampering and Safety Device DoS Requiring Manual Fix",
+        "link": "https://securityonline.info/high-severity-rockwell-flaws-risk-industrial-sqli-data-tampering-and-safety-device-dos-requiring-manual-fix/",
+        "published": "Wed, 10 Dec 2025 00:21:26 +0000"
+    },
+    {
+        "title": "Itch.io Targeted: Lumma Stealer Deployed Via Fake Updates and Reflective Node.js Loader",
+        "link": "https://securityonline.info/itch-io-targeted-lumma-stealer-deployed-via-fake-updates-and-reflective-node-js-loader/",
+        "published": "Wed, 10 Dec 2025 00:16:55 +0000"
+    },
+    {
+        "title": "Critical n8n RCE Flaw (CVE-2025-65964) Allows Remote Code Execution via Git Node Configuration Manipulation",
+        "link": "https://securityonline.info/critical-n8n-rce-flaw-cve-2025-65964-allows-remote-code-execution-via-git-node-configuration-manipulation/",
+        "published": "Wed, 10 Dec 2025 00:11:36 +0000"
+    },
+    {
+        "title": "FrostBeacon Hits Russian B2B: Cobalt Strike Deployed via LNK and Chained Legacy Exploits",
+        "link": "https://securityonline.info/frostbeacon-hits-russian-b2b-cobalt-strike-deployed-via-lnk-and-chained-legacy-exploits/",
+        "published": "Wed, 10 Dec 2025 00:05:59 +0000"
+    },
+    {
+        "title": "Critical ZITADEL Flaws (CVE-2025-67494, CVSS 9.3) Risk SSRF Internal Breach and Account Hijack via XSS",
+        "link": "https://securityonline.info/critical-zitadel-flaws-cve-2025-67494-cvss-9-3-risk-ssrf-internal-breach-and-account-hijack-via-xss/",
+        "published": "Wed, 10 Dec 2025 00:00:32 +0000"
     }
 ]

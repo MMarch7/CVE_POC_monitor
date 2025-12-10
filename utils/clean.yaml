@@ -2245,3 +2245,7 @@ clean_list:
 - CVE-2025-66478-single-nextjs-pnpm-overrides
 - CVE-2025-66478-realworld-supabase-pnpm-monorepo
 - CVE-2025-66478-single-nextjs-yarn-resolutions
+- n8n-CVE-2025-65964
+- CVE-2025-49666-Sigma-Rule
+- CVE-2025-65964-Exploit
+- cve-2025-55182-poc
