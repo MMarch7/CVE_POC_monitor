@@ -2271,3 +2271,7 @@ clean_list:
 - cve-2025-55182-checker
 - Blackash-CVE-2025-65964
 - CVE-2025-67494
+- CVE-2025-61229
+- -CVE-2025-55182
+- CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA
+- Blackash-CVE-2025-64113
