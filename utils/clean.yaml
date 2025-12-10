@@ -2260,3 +2260,5 @@ clean_list:
 - CVE-2025-53772-standalone
 - CVE-2025-55182-PoC-exploit
 - CVE-2025-55182_PoC-Test-Server
+- CVE-2025-1974-PoC-exploit
+- react-cve-2025-55182
