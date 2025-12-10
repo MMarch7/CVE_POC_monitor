@@ -2251,3 +2251,6 @@ clean_list:
 - cve-2025-55182-poc
 - CVE-2024-44902-env
 - poc_react2shell
+- CVE-2025-9074-PoC-Bash
+- reactguard
+- CVE-2025-55449
