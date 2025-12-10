@@ -2254,3 +2254,6 @@ clean_list:
 - CVE-2025-9074-PoC-Bash
 - reactguard
 - CVE-2025-55449
+- CVE-2024-55182
+- cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services
+- POC2-CVE-2025-55182
