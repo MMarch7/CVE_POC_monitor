@@ -2262,3 +2262,6 @@ clean_list:
 - CVE-2025-55182_PoC-Test-Server
 - CVE-2025-1974-PoC-exploit
 - react-cve-2025-55182
+- CVE-2025-24813-PoC-exploit
+- CVE-2025-8061-Exploit
+- Rscscan
