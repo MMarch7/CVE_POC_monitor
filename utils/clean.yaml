@@ -2249,3 +2249,5 @@ clean_list:
 - CVE-2025-49666-Sigma-Rule
 - CVE-2025-65964-Exploit
 - cve-2025-55182-poc
+- CVE-2024-44902-env
+- poc_react2shell

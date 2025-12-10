@@ -25188,5 +25188,25 @@
         "title": "Critical ZITADEL Flaws (CVE-2025-67494, CVSS 9.3) Risk SSRF Internal Breach and Account Hijack via XSS",
         "link": "https://securityonline.info/critical-zitadel-flaws-cve-2025-67494-cvss-9-3-risk-ssrf-internal-breach-and-account-hijack-via-xss/",
         "published": "Wed, 10 Dec 2025 00:00:32 +0000"
+    },
+    {
+        "title": "OpenAI, Anthropic, Google Unite: Launch Agentic AI Foundation Under Linux",
+        "link": "https://securityonline.info/openai-anthropic-google-unite-launch-agentic-ai-foundation-under-linux/",
+        "published": "Wed, 10 Dec 2025 03:24:37 +0000"
+    },
+    {
+        "title": "The “Surprise Metric”: Google’s New AI Architecture Outperforms GPT-4 in Memory",
+        "link": "https://securityonline.info/the-surprise-metric-googles-new-ai-architecture-outperforms-gpt-4-in-memory/",
+        "published": "Wed, 10 Dec 2025 03:16:05 +0000"
+    },
+    {
+        "title": "Seamless Sign-In: Microsoft WebView2 Gets Entra ID for Enterprise Auth",
+        "link": "https://securityonline.info/seamless-sign-in-microsoft-webview2-gets-entra-id-for-enterprise-auth/",
+        "published": "Wed, 10 Dec 2025 03:08:03 +0000"
+    },
+    {
+        "title": "Apple’s Walls Fall: iOS and Android Interoperability is Finally Here",
+        "link": "https://securityonline.info/apples-walls-fall-ios-and-android-interoperability-is-finally-here/",
+        "published": "Wed, 10 Dec 2025 02:38:33 +0000"
     }
 ]
