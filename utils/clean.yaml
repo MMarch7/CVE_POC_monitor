@@ -2265,3 +2265,8 @@ clean_list:
 - CVE-2025-24813-PoC-exploit
 - CVE-2025-8061-Exploit
 - Rscscan
+- CVE-2025-55182-GodzillaMemoryShell
+- CVE-2025-65754
+- CVE-2025-53772
+- cve-2025-55182-checker
+- Blackash-CVE-2025-65964
