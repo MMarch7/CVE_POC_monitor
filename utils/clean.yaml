@@ -2257,3 +2257,4 @@ clean_list:
 - CVE-2024-55182
 - cve-2025-49173-macos-mavericks-10.9-local-root-privesc-auth-services
 - POC2-CVE-2025-55182
+- CVE-2025-53772-standalone
