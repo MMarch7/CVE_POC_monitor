@@ -208,5 +208,10 @@
         "title": "Stop Putting Your Passwords Into Random Websites (Yes, Seriously, You Are The Problem)",
         "link": "https://labs.watchtowr.com/stop-putting-your-passwords-into-random-websites-yes-seriously-you-are-the-problem/",
         "published": "Tue, 25 Nov 2025 11:01:15 GMT"
+    },
+    {
+        "title": "SOAPwn: Pwning .NET Framework Applications Through HTTP Client Proxies And WSDL",
+        "link": "https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/",
+        "published": "Wed, 10 Dec 2025 17:00:56 GMT"
     }
 ]
