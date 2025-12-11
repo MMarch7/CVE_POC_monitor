@@ -2295,3 +2295,5 @@ clean_list:
 - Blackash-CVE-2025-59718
 - CVE-2025-8110
 - CVE-2025-55182-Waf
+- CVE-2025-64459-Exploit-PoC
+- CVE-2025-64459-Exploit-Fix
