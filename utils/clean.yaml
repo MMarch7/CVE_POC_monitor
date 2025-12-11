@@ -2292,3 +2292,4 @@ clean_list:
 - exploit-react-CVE-2025-55182
 - POC_CVE-2025-53558
 - CVE-2025-64516-POC
+- Blackash-CVE-2025-59718
