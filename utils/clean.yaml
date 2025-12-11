@@ -2281,3 +2281,5 @@ clean_list:
 - My-Sigma-Rule-Collection
 - CVE-2025-34299-lab
 - CVE-2025-12758
+- CVE-2025-55182-NextJS-Scanner-React2Shell-PoC
+- PunchingBag-for-React2Shell
