@@ -2277,3 +2277,5 @@ clean_list:
 - Blackash-CVE-2025-64113
 - Golang-CVE-2025-55182-POC
 - nextjs-cve-version-confusion
+- CVE-2025-EXPLOIT-STREET
+- My-Sigma-Rule-Collection

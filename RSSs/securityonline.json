@@ -25218,5 +25218,65 @@
         "title": "EtherRAT Malware Hijacks Ethereum Blockchain for Covert C2 After React2Shell Exploit",
         "link": "https://securityonline.info/etherrat-malware-hijacks-ethereum-blockchain-for-covert-c2-after-react2shell-exploit/",
         "published": "Wed, 10 Dec 2025 09:10:41 +0000"
+    },
+    {
+        "title": "Gogs Zero-Day (CVE-2025-8110) Risks RCE for 700+ Servers via Symlink Path Traversal Bypass",
+        "link": "https://securityonline.info/gogs-zero-day-cve-2025-8110-risks-rce-for-700-servers-via-symlink-path-traversal-bypass/",
+        "published": "Thu, 11 Dec 2025 02:16:08 +0000"
+    },
+    {
+        "title": "High-Severity GitLab XSS Flaw (CVE-2025-12716) Risks Session Hijack via Malicious Wiki Pages",
+        "link": "https://securityonline.info/high-severity-gitlab-xss-flaw-cve-2025-12716-risks-session-hijack-via-malicious-wiki-pages/",
+        "published": "Thu, 11 Dec 2025 01:46:20 +0000"
+    },
+    {
+        "title": "Facebook Gets New Look, But Instagram Secretly Uses AI for SEO Bait",
+        "link": "https://securityonline.info/facebook-gets-new-look-but-instagram-secretly-uses-ai-for-seo-bait/",
+        "published": "Thu, 11 Dec 2025 00:44:42 +0000"
+    },
+    {
+        "title": "SpaceX IPO: Targeting a $1.5 Trillion Valuation to Fund Space Data Centers",
+        "link": "https://securityonline.info/spacex-ipo-targeting-a-1-5-trillion-valuation-to-fund-space-data-centers/",
+        "published": "Thu, 11 Dec 2025 00:40:25 +0000"
+    },
+    {
+        "title": "China’s WARP PANDA APT Deploys BRICKSTORM Backdoor to Hijack VMware vCenter/ESXi and Azure Cloud",
+        "link": "https://securityonline.info/chinas-warp-panda-apt-deploys-brickstorm-backdoor-to-hijack-vmware-vcenter-esxi-and-azure-cloud/",
+        "published": "Thu, 11 Dec 2025 00:36:42 +0000"
+    },
+    {
+        "title": "Unpatched TOTOLINK AX1800 Router Flaw Allows Unauthenticated Telnet & Root RCE",
+        "link": "https://securityonline.info/unpatched-totolink-ax1800-router-flaw-allows-unauthenticated-telnet-root-rce/",
+        "published": "Thu, 11 Dec 2025 00:31:47 +0000"
+    },
+    {
+        "title": "FBI/CISA Warn: Pro-Russia Hacktivists Target Critical Infrastructure Via Unsecured VNC HMIs",
+        "link": "https://securityonline.info/fbi-cisa-warn-pro-russia-hacktivists-target-critical-infrastructure-via-unsecured-vnc-hmis/",
+        "published": "Thu, 11 Dec 2025 00:27:44 +0000"
+    },
+    {
+        "title": "Critical CCTV Flaw (CVE-2025-13607) Risks Video Feed Hijack & Credential Theft via Missing Authentication",
+        "link": "https://securityonline.info/critical-cctv-flaw-cve-2025-13607-risks-video-feed-hijack-credential-theft-via-missing-authentication/",
+        "published": "Thu, 11 Dec 2025 00:22:43 +0000"
+    },
+    {
+        "title": "“React2Shell” Crisis: Critical Vulnerability Triggers Global Cyberattacks by State-Sponsored Groups",
+        "link": "https://securityonline.info/react2shell-crisis-critical-vulnerability-triggers-global-cyberattacks-by-state-sponsored-groups/",
+        "published": "Thu, 11 Dec 2025 00:19:19 +0000"
+    },
+    {
+        "title": "Makop Ransomware Evolves: GuLoader and BYOVD EDR Killers Used to Attack RDP-Exposed Networks",
+        "link": "https://securityonline.info/makop-ransomware-evolves-guloader-and-byovd-edr-killers-used-to-attack-rdp-exposed-networks/",
+        "published": "Thu, 11 Dec 2025 00:14:06 +0000"
+    },
+    {
+        "title": "DeadLock Ransomware Deploys BYOVD EDR Killer by Exploiting Baidu Driver for Kernel-Level Defense Bypass",
+        "link": "https://securityonline.info/deadlock-ransomware-deploys-byovd-edr-killer-by-exploiting-baidu-driver-for-kernel-level-defense-bypass/",
+        "published": "Thu, 11 Dec 2025 00:06:01 +0000"
+    },
+    {
+        "title": "Critical PCIe 6.0 Flaws Risk Secure Data Integrity via Stale Data Injection in IDE Mechanism",
+        "link": "https://securityonline.info/critical-pcie-6-0-flaws-risk-secure-data-integrity-via-stale-data-injection-in-ide-mechanism/",
+        "published": "Thu, 11 Dec 2025 00:00:45 +0000"
     }
 ]
