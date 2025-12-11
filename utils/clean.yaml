@@ -2284,3 +2284,4 @@ clean_list:
 - CVE-2025-55182-NextJS-Scanner-React2Shell-PoC
 - PunchingBag-for-React2Shell
 - CVE-2025-62221-Exploit
+- CVE-2025-66628
