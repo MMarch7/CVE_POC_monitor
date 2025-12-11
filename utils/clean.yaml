@@ -2297,3 +2297,7 @@ clean_list:
 - CVE-2025-55182-Waf
 - CVE-2025-64459-Exploit-PoC
 - CVE-2025-64459-Exploit-Fix
+- react2shell-scan
+- CVE-2025-55816
+- CVE-2025-66470
+- CVE-2025-13401-XSS-Stored
