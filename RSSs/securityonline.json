@@ -25278,5 +25278,50 @@
         "title": "Critical PCIe 6.0 Flaws Risk Secure Data Integrity via Stale Data Injection in IDE Mechanism",
         "link": "https://securityonline.info/critical-pcie-6-0-flaws-risk-secure-data-integrity-via-stale-data-injection-in-ide-mechanism/",
         "published": "Thu, 11 Dec 2025 00:00:45 +0000"
+    },
+    {
+        "title": "Urgent Patch: Notepad++ WinGUp Flaw Allowed Malware to Hijack Updates",
+        "link": "https://securityonline.info/urgent-patch-notepad-wingup-flaw-allowed-malware-to-hijack-updates/",
+        "published": "Thu, 11 Dec 2025 03:53:22 +0000"
+    },
+    {
+        "title": "16-Year Battle Ends: Intel Loses Appeal, Must Pay €237 Million EU Fine",
+        "link": "https://securityonline.info/16-year-battle-ends-intel-loses-appeal-must-pay-e237-million-eu-fine/",
+        "published": "Thu, 11 Dec 2025 03:38:21 +0000"
+    },
+    {
+        "title": "Qualcomm Buys Ventana to Double Down on RISC-V and Custom Oryon CPU",
+        "link": "https://securityonline.info/qualcomm-buys-ventana-to-double-down-on-risc-v-and-custom-oryon-cpu/",
+        "published": "Thu, 11 Dec 2025 03:34:37 +0000"
+    },
+    {
+        "title": "You’re In Control: Instagram Launches “Your Algorithm” Feature for Reels",
+        "link": "https://securityonline.info/youre-in-control-instagram-launches-your-algorithm-feature-for-reels/",
+        "published": "Thu, 11 Dec 2025 03:31:50 +0000"
+    },
+    {
+        "title": "EU’s Green Mandate: Parliament Pledges 90% Emissions Cut by 2040",
+        "link": "https://securityonline.info/eus-green-mandate-parliament-pledges-90-emissions-cut-by-2040/",
+        "published": "Thu, 11 Dec 2025 03:27:22 +0000"
+    },
+    {
+        "title": "Apache Struts 2 DoS Flaw (CVE-2025-66675) Risks Server Crash via File Leak in Multipart Request Processing",
+        "link": "https://securityonline.info/apache-struts-2-dos-flaw-cve-2025-66775-risks-server-crash-via-file-leak-in-multipart-request-processing/",
+        "published": "Thu, 11 Dec 2025 03:17:28 +0000"
+    },
+    {
+        "title": "High-Severity Zoom Rooms Flaw Risks Privilege Escalation via Downgrade Protection Bypass",
+        "link": "https://securityonline.info/high-severity-zoom-rooms-flaw-risks-privilege-escalation-via-downgrade-protection-bypass/",
+        "published": "Thu, 11 Dec 2025 03:12:18 +0000"
+    },
+    {
+        "title": "Emergency Chrome Update: Google Patches New Zero-Day Under Active Attack",
+        "link": "https://securityonline.info/emergency-chrome-update-google-patches-new-zero-day-under-active-attack/",
+        "published": "Thu, 11 Dec 2025 02:58:45 +0000"
+    },
+    {
+        "title": "High-Severity Jenkins Flaws Risk Unauthenticated DoS via HTTP CLI and XSS Via Coverage Reports",
+        "link": "https://securityonline.info/high-severity-jenkins-flaws-risk-unauthenticated-dos-via-http-cli-and-xss-via-coverage-reports/",
+        "published": "Thu, 11 Dec 2025 02:38:47 +0000"
     }
 ]

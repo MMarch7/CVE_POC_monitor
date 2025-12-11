@@ -2279,3 +2279,5 @@ clean_list:
 - nextjs-cve-version-confusion
 - CVE-2025-EXPLOIT-STREET
 - My-Sigma-Rule-Collection
+- CVE-2025-34299-lab
+- CVE-2025-12758
