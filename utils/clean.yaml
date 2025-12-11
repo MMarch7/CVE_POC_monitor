@@ -2286,3 +2286,6 @@ clean_list:
 - CVE-2025-62221-Exploit
 - CVE-2025-66628
 - CVE-2025-55182-EXP
+- CVE-2025-23061
+- Next.js-Exploit-Tool
+- CVE-2025-53558
