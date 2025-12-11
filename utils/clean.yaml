@@ -2289,3 +2289,6 @@ clean_list:
 - CVE-2025-23061
 - Next.js-Exploit-Tool
 - CVE-2025-53558
+- exploit-react-CVE-2025-55182
+- POC_CVE-2025-53558
+- CVE-2025-64516-POC
