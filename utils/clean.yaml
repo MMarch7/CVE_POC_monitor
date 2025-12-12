@@ -2320,3 +2320,5 @@ clean_list:
 - CVE-2025-24367
 - react2shell-scanner-rce-react-next-CVE-2025-55182-CVE-2025-66478
 - NextRce
+- PoC_CVE-2025-55182
+- Scan_CVE-2025-55182
