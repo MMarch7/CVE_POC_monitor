@@ -2306,3 +2306,4 @@ clean_list:
 - pgadmin4-9.10-CVE-2025-13780
 - CVE-2025-55184-poc
 - CVE-2025-55184
+- R2SAE

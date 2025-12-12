@@ -25343,5 +25343,45 @@
         "title": "GOLD BLADE APT Hits Canadian Firms with BYOVD EDR Killer and Ransomware Delivered Via Fake Resumes",
         "link": "https://securityonline.info/gold-blade-apt-hits-canadian-firms-with-byovd-edr-killer-and-ransomware-delivered-via-fake-resumes/",
         "published": "Fri, 12 Dec 2025 01:52:16 +0000"
+    },
+    {
+        "title": "Farewell, Tabs: Google’s Experimental Disco Browser Generates Web Apps with AI",
+        "link": "https://securityonline.info/farewell-tabs-googles-experimental-disco-browser-generates-web-apps-with-ai/",
+        "published": "Fri, 12 Dec 2025 03:50:22 +0000"
+    },
+    {
+        "title": "React Patches Two New Flaws Risking Server-Crashing DoS and Source Code Disclosure",
+        "link": "https://securityonline.info/react-patches-two-new-flaws-risking-server-crashing-dos-and-source-code-disclosure/",
+        "published": "Fri, 12 Dec 2025 03:38:57 +0000"
+    },
+    {
+        "title": "Core Banking System Flaw: Apache Fineract IDOR Risks Authorization Bypass & Customer Data Access",
+        "link": "https://securityonline.info/core-banking-system-flaw-apache-fineract-idor-risks-authorization-bypass-customer-data-access/",
+        "published": "Fri, 12 Dec 2025 03:28:14 +0000"
+    },
+    {
+        "title": "New 01flip Ransomware Hits APAC Critical Infra: Cross-Platform Rust Weapon Uses Sliver C2",
+        "link": "https://securityonline.info/new-01flip-ransomware-hits-apac-critical-infra-cross-platform-rust-weapon-uses-sliver-c2/",
+        "published": "Fri, 12 Dec 2025 03:10:55 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: GeoServer XXE Flaw Under Active Attack Risks Data Theft & Internal Network Scanning",
+        "link": "https://securityonline.info/cisa-kev-alert-geoserver-xxe-flaw-under-active-attack-risks-data-theft-internal-network-scanning/",
+        "published": "Fri, 12 Dec 2025 03:00:51 +0000"
+    },
+    {
+        "title": "Military-Grade ValleyRAT Goes Rogue: Kernel Rootkit Builder Leak Triggers Massive Global Surge",
+        "link": "https://securityonline.info/military-grade-valleyrat-goes-rogue-kernel-rootkit-builder-leak-triggers-massive-global-surge/",
+        "published": "Fri, 12 Dec 2025 02:57:10 +0000"
+    },
+    {
+        "title": "Sophisticated Okta SSO Phishing Bypasses Defenses to Steal Session Tokens With Salary Review Lures",
+        "link": "https://securityonline.info/sophisticated-okta-sso-phishing-bypasses-defenses-to-steal-session-tokens-with-salary-review-lures/",
+        "published": "Fri, 12 Dec 2025 02:32:27 +0000"
+    },
+    {
+        "title": "CVE-2025-64188 (CVSS 9.8): Critical “Soledad” Theme Flaw Lets Subscribers Take Over WordPress Sites",
+        "link": "https://securityonline.info/cve-2025-64188-cvss-9-8-critical-soledad-theme-flaw-lets-subscribers-take-over-wordpress-sites/",
+        "published": "Fri, 12 Dec 2025 02:22:26 +0000"
     }
 ]
