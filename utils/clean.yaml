@@ -2309,3 +2309,5 @@ clean_list:
 - R2SAE
 - CVE-2025-66516-Writeup-POC
 - nextjs-security-update
+- React2Shell-CTF
+- tot-react-rce-CVE-2025-55182
