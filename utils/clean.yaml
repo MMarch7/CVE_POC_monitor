@@ -2316,3 +2316,6 @@ clean_list:
 - COMPLETE-CVE-2025-55182
 - CVE-2025-55183_POC
 - rs_CVE-2025-55182_React2Shell
+- RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-
+- CVE-2025-24367
+- react2shell-scanner-rce-react-next-CVE-2025-55182-CVE-2025-66478
