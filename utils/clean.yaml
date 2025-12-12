@@ -2311,3 +2311,8 @@ clean_list:
 - nextjs-security-update
 - React2Shell-CTF
 - tot-react-rce-CVE-2025-55182
+- CVE-2025-64512-Polyglot-PoC
+- PoC-CVE-2025-13780
+- COMPLETE-CVE-2025-55182
+- CVE-2025-55183_POC
+- rs_CVE-2025-55182_React2Shell
