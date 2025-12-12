@@ -2322,3 +2322,6 @@ clean_list:
 - NextRce
 - PoC_CVE-2025-55182
 - Scan_CVE-2025-55182
+- poc-cve-next
+- react2shellexploitvisualized
+- CVE-2025-43400
