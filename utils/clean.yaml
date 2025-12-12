@@ -2307,3 +2307,5 @@ clean_list:
 - CVE-2025-55184-poc
 - CVE-2025-55184
 - R2SAE
+- CVE-2025-66516-Writeup-POC
+- nextjs-security-update
