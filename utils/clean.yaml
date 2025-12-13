@@ -2327,3 +2327,4 @@ clean_list:
 - CVE-2025-43400
 - react-server-cve-lab
 - ReactOOPS-WriteUp
+- CVE-2025-66947
