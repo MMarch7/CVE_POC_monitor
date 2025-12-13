@@ -25428,5 +25428,10 @@
         "title": "Linux Kernel io_uring UAF Flaw Used to Cheat BPF Verifier and Achieve Container Escape, PoC Releases",
         "link": "https://securityonline.info/linux-kernel-io_uring-uaf-flaw-used-to-cheat-bpf-verifier-and-achieve-container-escape-poc-releases/",
         "published": "Sat, 13 Dec 2025 03:04:19 +0000"
+    },
+    {
+        "title": "React2Shell: Max-Score RCE (CVSS 10.0) Triggers Widespread Exploitation by Espionage Groups & Miners",
+        "link": "https://securityonline.info/react2shell-max-score-rce-cvss-10-0-triggers-widespread-exploitation-by-espionage-groups-miners/",
+        "published": "Sat, 13 Dec 2025 08:49:12 +0000"
     }
 ]
