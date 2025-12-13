@@ -2328,3 +2328,7 @@ clean_list:
 - react-server-cve-lab
 - ReactOOPS-WriteUp
 - CVE-2025-66947
+- CVE-2025-54100
+- MasterOfTheIndestry
+- CVE-2025-65964
+- CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read
