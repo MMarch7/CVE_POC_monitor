@@ -25423,5 +25423,10 @@
         "title": "Urgent: Apple Patches Two Critical WebKit Zero-Days Under Active Exploitation Against High-Risk Targets",
         "link": "https://securityonline.info/urgent-apple-patches-two-critical-webkit-zero-days-under-active-exploitation-against-high-risk-targets/",
         "published": "Sat, 13 Dec 2025 01:52:12 +0000"
+    },
+    {
+        "title": "Linux Kernel io_uring UAF Flaw Used to Cheat BPF Verifier and Achieve Container Escape, PoC Releases",
+        "link": "https://securityonline.info/linux-kernel-io_uring-uaf-flaw-used-to-cheat-bpf-verifier-and-achieve-container-escape-poc-releases/",
+        "published": "Sat, 13 Dec 2025 03:04:19 +0000"
     }
 ]
