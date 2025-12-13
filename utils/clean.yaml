@@ -2334,3 +2334,5 @@ clean_list:
 - CVE-2025-2539---File-Away-WordPress-Plugin-Arbitrary-File-Read
 - React2Shell-Toolbox
 - React2Shell-Analysis
+- rsc-security-auditor
+- CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.
