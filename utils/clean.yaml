@@ -2336,3 +2336,5 @@ clean_list:
 - React2Shell-Analysis
 - rsc-security-auditor
 - CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.
+- CVE-2025-14221
+- CVE-2025-55182-golang-PoC
