@@ -2338,3 +2338,5 @@ clean_list:
 - CTF-CVE-2025-55182-React-Server-Components-Prototype-Pollution-to-RCE.
 - CVE-2025-14221
 - CVE-2025-55182-golang-PoC
+- CTF_CVE_2025_55182
+- next88
