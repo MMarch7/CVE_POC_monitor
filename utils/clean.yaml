@@ -2325,3 +2325,4 @@ clean_list:
 - poc-cve-next
 - react2shellexploitvisualized
 - CVE-2025-43400
+- react-server-cve-lab
