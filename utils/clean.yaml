@@ -2346,3 +2346,4 @@ clean_list:
 - CVE-2025-14174-Bypass-
 - POC-CVE-2024-12227
 - CVE-2025-55182-Advanced-Scanner
+- React2shell-ultimate-scanner
