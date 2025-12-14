@@ -2340,3 +2340,4 @@ clean_list:
 - CVE-2025-55182-golang-PoC
 - CTF_CVE_2025_55182
 - next88
+- CVE-2024-38077-MadLicense-exploit
