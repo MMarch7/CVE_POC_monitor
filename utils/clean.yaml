@@ -2356,3 +2356,5 @@ clean_list:
 - cve_2025_32434
 - yasa-cve-2024-43400
 - CVE-2025-24367-PoC-Cacti
+- Blackash-CVE-2025-13780
+- yasa-cve-2024-43400-main1
