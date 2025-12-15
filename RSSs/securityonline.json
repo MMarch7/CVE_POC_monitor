@@ -25433,5 +25433,60 @@
         "title": "React2Shell: Max-Score RCE (CVSS 10.0) Triggers Widespread Exploitation by Espionage Groups & Miners",
         "link": "https://securityonline.info/react2shell-max-score-rce-cvss-10-0-triggers-widespread-exploitation-by-espionage-groups-miners/",
         "published": "Sat, 13 Dec 2025 08:49:12 +0000"
+    },
+    {
+        "title": "Unpatched Windows RasMan Flaw Allows Unprivileged Crash, Enabling Local System Privilege Escalation Exploit",
+        "link": "https://securityonline.info/unpatched-windows-rasman-flaw-allows-unprivileged-crash-enabling-local-system-privilege-escalation-exploit/",
+        "published": "Mon, 15 Dec 2025 01:49:08 +0000"
+    },
+    {
+        "title": "Critical pgAdmin RCE (CVE-2025-13780) Flaw Bypasses Fix, Allowing Server Takeover Via Malicious Database Restore",
+        "link": "https://securityonline.info/critical-pgadmin-rce-cve-2025-13780-flaw-bypasses-fix-allowing-server-takeover-via-malicious-database-restore/",
+        "published": "Mon, 15 Dec 2025 00:45:15 +0000"
+    },
+    {
+        "title": "New NANOREMOTE Backdoor Uses Google Drive API for Covert C2 and Links to FINALDRAFT Espionage Group",
+        "link": "https://securityonline.info/new-nanoremote-backdoor-uses-google-drive-api-for-covert-c2-and-links-to-finaldraft-espionage-group/",
+        "published": "Mon, 15 Dec 2025 00:42:47 +0000"
+    },
+    {
+        "title": "SHADOW-VOID-042 Impersonates Trend Micro in Phishing Campaign to Breach Critical Infrastructure",
+        "link": "https://securityonline.info/shadow-void-042-impersonates-trend-micro-in-phishing-campaign-to-breach-critical-infrastructure/",
+        "published": "Mon, 15 Dec 2025 00:38:38 +0000"
+    },
+    {
+        "title": "Critical Plesk Flaw (CVE-2025-66430) Risks Full Server Takeover via LPE and Apache Config Injection",
+        "link": "https://securityonline.info/critical-plesk-flaw-cve-2025-66430-risks-full-server-takeover-via-lpe-and-apache-config-injection/",
+        "published": "Mon, 15 Dec 2025 00:32:15 +0000"
+    },
+    {
+        "title": "Hamas-Affiliated APT Ashen Lepus Unveils AshTag Malware Suite for Wider Cyber-Espionage",
+        "link": "https://securityonline.info/hamas-affiliated-apt-ashen-lepus-unveils-ashtag-malware-suite-for-wider-cyber-espionage/",
+        "published": "Mon, 15 Dec 2025 00:26:52 +0000"
+    },
+    {
+        "title": "GOLD SALEM Abuses Velociraptor DFIR Tool as Ransomware Precursor Following SharePoint ToolShell Exploitation",
+        "link": "https://securityonline.info/gold-salem-abuses-velociraptor-dfir-tool-as-ransomware-precursor-following-sharepoint-toolshell-exploitation/",
+        "published": "Mon, 15 Dec 2025 00:20:38 +0000"
+    },
+    {
+        "title": "Apache StreamPark Flaw Risks Data Decryption & Token Forgery via Hard-Coded Key and AES ECB Mode",
+        "link": "https://securityonline.info/apache-streampark-flaw-risks-data-decryption-token-forgery-via-hard-coded-key-and-aes-ecb-mode/",
+        "published": "Mon, 15 Dec 2025 00:16:58 +0000"
+    },
+    {
+        "title": "Storm-0249 Abuses EDR Process via DLL Sideloading to Cloak Ransomware Access",
+        "link": "https://securityonline.info/storm-0249-abuses-edr-process-via-dll-sideloading-to-cloak-ransomware-access/",
+        "published": "Mon, 15 Dec 2025 00:11:49 +0000"
+    },
+    {
+        "title": "ImageMagick Flaw Risks Arbitrary Memory Disclosure via PSX TIM File Integer Overflow on 32-bit Systems",
+        "link": "https://securityonline.info/imagemagick-flaw-risks-arbitrary-memory-disclosure-via-psx-tim-file-integer-overflow-on-32-bit-systems/",
+        "published": "Mon, 15 Dec 2025 00:05:51 +0000"
+    },
+    {
+        "title": "VS Code Supply Chain Attack: 19 Extensions Used Typosquatting & Steganography to Deploy Rust Trojan",
+        "link": "https://securityonline.info/vs-code-supply-chain-attack-19-extensions-used-typosquatting-steganography-to-deploy-rust-trojan/",
+        "published": "Mon, 15 Dec 2025 00:00:31 +0000"
     }
 ]
