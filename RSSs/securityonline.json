@@ -25488,5 +25488,15 @@
         "title": "VS Code Supply Chain Attack: 19 Extensions Used Typosquatting & Steganography to Deploy Rust Trojan",
         "link": "https://securityonline.info/vs-code-supply-chain-attack-19-extensions-used-typosquatting-steganography-to-deploy-rust-trojan/",
         "published": "Mon, 15 Dec 2025 00:00:31 +0000"
+    },
+    {
+        "title": "The End of an Era? Samsung Rumored to Discontinue All SATA SSD Production",
+        "link": "https://securityonline.info/the-end-of-an-era-samsung-rumored-to-discontinue-all-sata-ssd-production/",
+        "published": "Mon, 15 Dec 2025 04:06:39 +0000"
+    },
+    {
+        "title": "NVIDIA Merlin Flaws Risk AI Pipeline RCE via Unsafe Deserialization in NVTabular & Transformers4Rec",
+        "link": "https://securityonline.info/nvidia-merlin-flaws-risk-ai-pipeline-rce-via-unsafe-deserialization-in-nvtabular-transformers4rec/",
+        "published": "Mon, 15 Dec 2025 02:46:14 +0000"
     }
 ]
