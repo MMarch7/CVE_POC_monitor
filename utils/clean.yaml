@@ -2349,3 +2349,4 @@ clean_list:
 - React2shell-ultimate-scanner
 - CVE-2025-9074_DAEMON_KILLER
 - CVE-2025-66478-Exploit-PoC
+- -cve-2025-55182
