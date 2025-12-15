@@ -2351,3 +2351,6 @@ clean_list:
 - CVE-2025-66478-Exploit-PoC
 - -cve-2025-55182
 - CVE-2025-6218-WinRAR-RCE-POC
+- CVE-2025-14696
+- sigma-rules
+- cve_2025_32434
