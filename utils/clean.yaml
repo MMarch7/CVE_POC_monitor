@@ -2370,3 +2370,5 @@ clean_list:
 - cve-2025-25257
 - CVE-2024-43400
 - MARMALADE-2-CVE-2025-67780-Exploit
+- React2-PowerShell-CVE-Checker
+- nextjs-CVE-2025-55182
