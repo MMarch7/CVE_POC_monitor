@@ -2363,3 +2363,5 @@ clean_list:
 - CVE-2025-65427
 - CVE-2025-65270
 - study-CVE-2025-55182
+- XML-RPC-Pingback-Vulnerability
+- FreePBX-Multiple-CVEs-2025
