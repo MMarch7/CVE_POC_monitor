@@ -25573,5 +25573,25 @@
         "title": "Intel Nears SambaNova Acquisition at $1.6B Fire-Sale Price, Down from $5B Valuation",
         "link": "https://securityonline.info/intel-nears-sambanova-acquisition-at-1-6b-fire-sale-price-down-from-5b-valuation/",
         "published": "Tue, 16 Dec 2025 00:00:46 +0000"
+    },
+    {
+        "title": "Critical OpenShift GitOps Flaw Risks Cluster Takeover (CVE-2025-13888) via Privilege Escalation to Root",
+        "link": "https://securityonline.info/critical-openshift-gitops-flaw-risks-cluster-takeover-cve-2025-13888-via-privilege-escalation-to-root/",
+        "published": "Tue, 16 Dec 2025 03:16:35 +0000"
+    },
+    {
+        "title": "Critical ScreenConnect Flaw (CVE-2025-14265) Risks Config Exposure & Untrusted Extension Installation",
+        "link": "https://securityonline.info/critical-screenconnect-flaw-cvss-9-1-risks-config-exposure-untrusted-extension-installation/",
+        "published": "Tue, 16 Dec 2025 03:06:18 +0000"
+    },
+    {
+        "title": "Enterprise Alert: Windows 10 Update KB5071546 Breaks MSMQ Service with Insufficient Permissions",
+        "link": "https://securityonline.info/enterprise-alert-windows-10-update-kb5071546-breaks-msmq-service-with-insufficient-permissions/",
+        "published": "Tue, 16 Dec 2025 02:29:45 +0000"
+    },
+    {
+        "title": "EU Compliance: iOS 26.3 Adds Notification Forwarding to Third-Party Wearables, Bypassing Apple Watch",
+        "link": "https://securityonline.info/eu-compliance-ios-26-3-adds-notification-forwarding-to-third-party-wearables-bypassing-apple-watch/",
+        "published": "Tue, 16 Dec 2025 02:24:35 +0000"
     }
 ]
