@@ -2367,3 +2367,6 @@ clean_list:
 - FreePBX-Multiple-CVEs-2025
 - CVE-2025-65855
 - FiberBreak
+- cve-2025-25257
+- CVE-2024-43400
+- MARMALADE-2-CVE-2025-67780-Exploit
