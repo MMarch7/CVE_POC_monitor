@@ -25518,5 +25518,60 @@
         "title": "Human-Like AI: Google Translate Gets Gemini Upgrade for Slang & Tone Preservation",
         "link": "https://securityonline.info/human-like-ai-google-translate-gets-gemini-upgrade-for-slang-tone-preservation/",
         "published": "Mon, 15 Dec 2025 04:10:54 +0000"
+    },
+    {
+        "title": "Critical FortiGate SSO Flaw Under Active Exploitation: Attackers Bypass Auth and Exfiltrate Configs",
+        "link": "https://securityonline.info/critical-fortigate-sso-flaw-under-active-exploitation-attackers-bypass-auth-and-exfiltrate-configs/",
+        "published": "Tue, 16 Dec 2025 01:58:32 +0000"
+    },
+    {
+        "title": "5-Year Threat: Malicious NuGet Package Used Homoglyphs and Typosquatting to Steal Crypto Wallets",
+        "link": "https://securityonline.info/5-year-threat-malicious-nuget-package-used-homoglyphs-and-typosquatting-to-steal-crypto-wallets/",
+        "published": "Tue, 16 Dec 2025 01:45:36 +0000"
+    },
+    {
+        "title": "macOS LPE Flaw Resurfaces: .localized Directory Exploited to Hijack Installers and Gain Root Access",
+        "link": "https://securityonline.info/macos-lpe-flaw-resurfaces-localized-directory-exploited-to-hijack-installers-and-gain-root-access/",
+        "published": "Tue, 16 Dec 2025 00:40:04 +0000"
+    },
+    {
+        "title": "Frogblight Android Banking Trojan Targets Turkey via Fake E-Gov Smishing and WebView",
+        "link": "https://securityonline.info/frogblight-android-banking-trojan-targets-turkey-via-fake-e-gov-smishing-and-webview/",
+        "published": "Tue, 16 Dec 2025 00:32:19 +0000"
+    },
+    {
+        "title": "Phantom Stealer Targets Russian Finance with ISO Phishing, Deploying Keyloggers and Crypto-Wallet Theft",
+        "link": "https://securityonline.info/phantom-stealer-targets-russian-finance-with-iso-phishing-deploying-keyloggers-and-crypto-wallet-theft/",
+        "published": "Tue, 16 Dec 2025 00:27:19 +0000"
+    },
+    {
+        "title": "PyStoreRAT Uncovered: Fileless RAT Hides in Fake GitHub Repos to Launch Invisible Attacks on Developers",
+        "link": "https://securityonline.info/pystorerat-uncovered-fileless-rat-hides-in-fake-github-repos-to-launch-invisible-attacks-on-developers/",
+        "published": "Tue, 16 Dec 2025 00:22:06 +0000"
+    },
+    {
+        "title": "BlackForce PhaaS Weaponizes React and Stateful Sessions to Bypass MFA & Steal Credentials",
+        "link": "https://securityonline.info/blackforce-phaas-weaponizes-react-and-stateful-sessions-to-bypass-mfa-steal-credentials/",
+        "published": "Tue, 16 Dec 2025 00:15:07 +0000"
+    },
+    {
+        "title": "From Cisco Student Rivalry to Global Hackers: Salt Typhoon Breaches 80+ Telecos for Intelligence",
+        "link": "https://securityonline.info/from-cisco-student-rivalry-to-global-hackers-salt-typhoon-breaches-80-telecos-for-intelligence/",
+        "published": "Tue, 16 Dec 2025 00:10:24 +0000"
+    },
+    {
+        "title": "SpaceX IPO: Company Prepares for 2026 Listing After Valuation Soars to $800 Billion",
+        "link": "https://securityonline.info/spacex-ipo-company-prepares-for-2026-listing-after-valuation-soars-to-800-billion/",
+        "published": "Tue, 16 Dec 2025 00:06:29 +0000"
+    },
+    {
+        "title": "Data Disaster: Claude AI Executes rm -rf ~/ and Wipes Developer’s Mac Home Directory",
+        "link": "https://securityonline.info/data-disaster-claude-ai-executes-rm-rf-and-wipes-developers-mac-home-directory/",
+        "published": "Tue, 16 Dec 2025 00:03:41 +0000"
+    },
+    {
+        "title": "Intel Nears SambaNova Acquisition at $1.6B Fire-Sale Price, Down from $5B Valuation",
+        "link": "https://securityonline.info/intel-nears-sambanova-acquisition-at-1-6b-fire-sale-price-down-from-5b-valuation/",
+        "published": "Tue, 16 Dec 2025 00:00:46 +0000"
     }
 ]
