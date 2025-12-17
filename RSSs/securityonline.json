@@ -25688,5 +25688,10 @@
         "title": "Dropbear SSH Flaw Risks Root Access on Embedded Linux via Unix Stream Forwarding",
         "link": "https://securityonline.info/dropbear-ssh-flaw-risks-root-access-on-embedded-linux-via-unix-stream-forwarding/",
         "published": "Wed, 17 Dec 2025 02:56:59 +0000"
+    },
+    {
+        "title": "“Too Many Pointless Things”: Torvalds Rejects TSEM Module, Sparking a Linux Security Civil War",
+        "link": "https://securityonline.info/too-many-pointless-things-torvalds-rejects-tsem-module-sparking-a-linux-security-civil-war/",
+        "published": "Wed, 17 Dec 2025 04:45:30 +0000"
     }
 ]
