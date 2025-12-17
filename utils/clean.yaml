@@ -2373,3 +2373,5 @@ clean_list:
 - React2-PowerShell-CVE-Checker
 - nextjs-CVE-2025-55182
 - CVE-2025-65518
+- PoC-CVE-2025-66224
+- CVE-2025-13780
