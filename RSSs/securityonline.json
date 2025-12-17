@@ -25603,5 +25603,80 @@
         "title": "Link11 Identifies Five Cybersecurity Trends Set to Shape European Defense Strategies in 2026",
         "link": "https://securityonline.info/link11-identifies-five-cybersecurity-trends-set-to-shape-european-defense-strategies-in-2026/",
         "published": "Tue, 16 Dec 2025 13:00:32 +0000"
+    },
+    {
+        "title": "Sandworm’s Tactical Pivot: Russian GRU Abandons Zero-Days to Weaponize Misconfigured Edge Devices",
+        "link": "https://securityonline.info/sandworms-tactical-pivot-russian-gru-abandons-zero-days-to-weaponize-misconfigured-edge-devices/",
+        "published": "Wed, 17 Dec 2025 01:57:59 +0000"
+    },
+    {
+        "title": "Google Chrome Emergency Update: High-Severity Memory Corruption Flaws Fixed in WebGPU and V8",
+        "link": "https://securityonline.info/google-chrome-emergency-update-high-severity-memory-corruption-flaws-fixed-in-webgpu-and-v8/",
+        "published": "Wed, 17 Dec 2025 01:47:28 +0000"
+    },
+    {
+        "title": "Fintech Endgame: PayPal Applies for Industrial Bank Charter to Fund SMEs and Support Crypto",
+        "link": "https://securityonline.info/fintech-endgame-paypal-applies-for-industrial-bank-charter-to-fund-smes-and-support-crypto/",
+        "published": "Wed, 17 Dec 2025 00:46:59 +0000"
+    },
+    {
+        "title": "Security Shift: Google Retires Dark Web Report Service, Citing Inability to Offer Concrete Remedies",
+        "link": "https://securityonline.info/security-shift-google-retires-dark-web-report-service-citing-inability-to-offer-concrete-remedies/",
+        "published": "Wed, 17 Dec 2025 00:42:30 +0000"
+    },
+    {
+        "title": "Critical FreePBX Flaw (CVE-2025-66039) Risks PBX Takeover via Authentication Bypass in ‘webserver’ Auth Mode",
+        "link": "https://securityonline.info/critical-freepbx-flaw-cve-2025-66039-risks-pbx-takeover-via-authentication-bypass-in-webserver-auth-mode/",
+        "published": "Wed, 17 Dec 2025 00:40:00 +0000"
+    },
+    {
+        "title": "SantaStealer Unwrapped: New MaaS Info-Stealer Rebrands Blueline to Steal Crypto and Credentials",
+        "link": "https://securityonline.info/santastealer-unwrapped-new-maas-info-stealer-rebrands-blueline-to-steal-crypto-and-credentials/",
+        "published": "Wed, 17 Dec 2025 00:37:43 +0000"
+    },
+    {
+        "title": "Windows Admin Center Flaw (CVE-2025-64669): How a Simple Folder Permission Opened the Door to SYSTEM Access",
+        "link": "https://securityonline.info/windows-admin-center-flaw-cve-2025-64669-how-a-simple-folder-permission-opened-the-door-to-system-access/",
+        "published": "Wed, 17 Dec 2025 00:31:01 +0000"
+    },
+    {
+        "title": "GhostPairing: New Attack Hijacks WhatsApp via Linked Devices, Tricking Users with Fake Facebook QR Code",
+        "link": "https://securityonline.info/ghostpairing-new-attack-hijacks-whatsapp-via-linked-devices-tricking-users-with-fake-facebook-qr-code/",
+        "published": "Wed, 17 Dec 2025 00:22:09 +0000"
+    },
+    {
+        "title": "Emerging Gentlemen Ransomware Hits 17 Countries with Double Extortion & BYOVD Evasion Tactics",
+        "link": "https://securityonline.info/emerging-gentlemen-ransomware-hits-17-countries-with-double-extortion-byovd-evasion-tactics/",
+        "published": "Wed, 17 Dec 2025 00:19:29 +0000"
+    },
+    {
+        "title": "NexusRoute Uncovered: Android RAT Impersonates Indian E-Challan via GitHub for UPI Fraud & Surveillance",
+        "link": "https://securityonline.info/nexusroute-uncovered-android-rat-impersonates-indian-e-challan-via-github-for-upi-fraud-surveillance/",
+        "published": "Wed, 17 Dec 2025 00:13:59 +0000"
+    },
+    {
+        "title": "Hacker Honeypot? BreachForums Reopens via Emails Sent from French Ministry of the Interior Domain",
+        "link": "https://securityonline.info/hacker-honeypot-breachforums-reopens-via-emails-sent-from-french-ministry-of-the-interior-domain/",
+        "published": "Wed, 17 Dec 2025 00:10:28 +0000"
+    },
+    {
+        "title": "Switching Teams: iOS 26.3 Beta Adds Official “Transfer to Android” Data Migration Option",
+        "link": "https://securityonline.info/switching-teams-ios-26-3-beta-adds-official-transfer-to-android-data-migration-option/",
+        "published": "Wed, 17 Dec 2025 00:08:53 +0000"
+    },
+    {
+        "title": "Tech Force: US Government Recruits 1,000 Elite AI Engineers with Apple, Microsoft, and NVIDIA Partnership",
+        "link": "https://securityonline.info/tech-force-us-government-recruits-1000-elite-ai-engineers-with-apple-microsoft-and-nvidia-partnership/",
+        "published": "Wed, 17 Dec 2025 00:06:02 +0000"
+    },
+    {
+        "title": "Ecosystem Moat: NVIDIA Acquires SchedMD (Slurm) and Unveils Nemotron 3 Hybrid AI Model",
+        "link": "https://securityonline.info/ecosystem-moat-nvidia-acquires-schedmd-slurm-and-unveils-nemotron-3-hybrid-ai-model/",
+        "published": "Wed, 17 Dec 2025 00:03:22 +0000"
+    },
+    {
+        "title": "Profit Over Safety: Meta Earns $3B from Chinese Scam Ads, Executives Tolerated Fraud for Revenue Growth",
+        "link": "https://securityonline.info/profit-over-safety-meta-earns-3b-from-chinese-scam-ads-executives-tolerated-fraud-for-revenue-growth/",
+        "published": "Wed, 17 Dec 2025 00:00:03 +0000"
     }
 ]
