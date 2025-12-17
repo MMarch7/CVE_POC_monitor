@@ -25678,5 +25678,15 @@
         "title": "Profit Over Safety: Meta Earns $3B from Chinese Scam Ads, Executives Tolerated Fraud for Revenue Growth",
         "link": "https://securityonline.info/profit-over-safety-meta-earns-3b-from-chinese-scam-ads-executives-tolerated-fraud-for-revenue-growth/",
         "published": "Wed, 17 Dec 2025 00:00:03 +0000"
+    },
+    {
+        "title": "NVIDIA Critical AI Patch: Isaac Lab and NeMo Framework Flaws Risk Full Code Execution",
+        "link": "https://securityonline.info/nvidia-critical-ai-patch-isaac-lab-and-nemo-framework-flaws-risk-full-code-execution/",
+        "published": "Wed, 17 Dec 2025 03:13:45 +0000"
+    },
+    {
+        "title": "Dropbear SSH Flaw Risks Root Access on Embedded Linux via Unix Stream Forwarding",
+        "link": "https://securityonline.info/dropbear-ssh-flaw-risks-root-access-on-embedded-linux-via-unix-stream-forwarding/",
+        "published": "Wed, 17 Dec 2025 02:56:59 +0000"
     }
 ]
