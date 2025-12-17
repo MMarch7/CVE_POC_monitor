@@ -2382,3 +2382,4 @@ clean_list:
 - nextjs-cve-2025-66478-ctf
 - CVE-2025-59718-PoC
 - CVE-2024-34361-Pi-Hole-SSRF-to-RCE
+- chatwoot-cve-2025-21628
