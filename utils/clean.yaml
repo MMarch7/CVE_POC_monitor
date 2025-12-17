@@ -2378,3 +2378,4 @@ clean_list:
 - CVE-2024-30804
 - CVE-2025-55182-React2Shell-Exploit
 - CVE-2025-66516-POC
+- -CVE-2025-XXXX-Firebase-Misconfiguration---Unauthenticated-RCE-
