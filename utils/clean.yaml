@@ -2403,3 +2403,5 @@ clean_list:
 - POC_CVE-2025-14700
 - CVE-2025-67294
 - CVE-2025-14174-Poc
+- cisco-sa-sma-attack-N9bf4
+- CVE-2025-37164
