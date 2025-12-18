@@ -2387,3 +2387,8 @@ clean_list:
 - react2shell-lab
 - react2shell-bypasswaf
 - CVE-2025-20393-POC
+- CVE-2025-68434-OSPOS-CSRF
+- CVE-2025-40602
+- CVE-2025-62470
+- CVE-2025-55184_Testing
+- CVE-2025-62454
