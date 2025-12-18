@@ -2392,3 +2392,10 @@ clean_list:
 - CVE-2025-62470
 - CVE-2025-55184_Testing
 - CVE-2025-62454
+- POC_react2shell_CVE-2025-55182
+- React2Shell-CVE-2025-55182-The-Deserialization-Bug-That-Broke-the-Web
+- CVE-2025-65857
+- CVE-2025-33053-POC
+- CVE-2025-67888
+- CVE-2025-67886
+- CVE-2025-67887
