@@ -25788,5 +25788,20 @@
         "title": "The 45-Day Era Begins: Let’s Encrypt Unveils Generation Y Hierarchy and IP-Based TLS",
         "link": "https://securityonline.info/the-45-day-era-begins-lets-encrypt-unveils-generation-y-hierarchy-and-ip-based-tls/",
         "published": "Thu, 18 Dec 2025 00:00:49 +0000"
+    },
+    {
+        "title": "The Developer Win: GitHub Postpones Self-Hosted Runner Fee After Massive Community Outcry",
+        "link": "https://securityonline.info/the-developer-win-github-postpones-self-hosted-runner-fee-after-massive-community-outcry/",
+        "published": "Thu, 18 Dec 2025 03:19:25 +0000"
+    },
+    {
+        "title": "CVE-2025-37164 (CVSS 10.0): Unauthenticated HPE OneView RCE Grants Total Control Over Data Centers",
+        "link": "https://securityonline.info/cve-2025-37164-cvss-10-0-unauthenticated-hpe-oneview-rce-grants-total-control-over-data-centers/",
+        "published": "Thu, 18 Dec 2025 02:59:59 +0000"
+    },
+    {
+        "title": "CISA Alert: Chinese Hackers Weaponize CVSS 10 Cisco Zero-Day & SonicWall Exploit Chains",
+        "link": "https://securityonline.info/cisa-alert-chinese-hackers-weaponize-cvss-10-cisco-zero-day-sonicwall-exploit-chains/",
+        "published": "Thu, 18 Dec 2025 02:41:23 +0000"
     }
 ]

@@ -2385,3 +2385,4 @@ clean_list:
 - chatwoot-cve-2025-21628
 - safe-check-CVE-2025-23419
 - react2shell-lab
+- react2shell-bypasswaf
