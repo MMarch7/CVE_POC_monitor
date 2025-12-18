@@ -2384,3 +2384,4 @@ clean_list:
 - CVE-2024-34361-Pi-Hole-SSRF-to-RCE
 - chatwoot-cve-2025-21628
 - safe-check-CVE-2025-23419
+- react2shell-lab

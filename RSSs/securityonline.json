@@ -25713,5 +25713,80 @@
         "title": "Hardware Inflation: Dell Hikes Business PC Prices by up to 30% as Memory Costs Skyrocket",
         "link": "https://securityonline.info/hardware-inflation-dell-hikes-business-pc-prices-by-up-to-30-as-memory-costs-skyrocket/",
         "published": "Wed, 17 Dec 2025 07:40:38 +0000"
+    },
+    {
+        "title": "Cisco Zero-Day Siege: Chinese Group UAT-9686 Deploys ‘Aqua’ Malware via CVSS 10 Root Exploit",
+        "link": "https://securityonline.info/cisco-zero-day-siege-chinese-group-uat-9686-deploys-aqua-malware-via-cvss-10-root-exploit/",
+        "published": "Thu, 18 Dec 2025 01:52:34 +0000"
+    },
+    {
+        "title": "Zero-Day Warning: Hackers Chain SonicWall SMA1000 Flaws for Unauthenticated Root RCE",
+        "link": "https://securityonline.info/zero-day-warning-hackers-chain-sonicwall-sma1000-flaws-for-unauthenticated-root-rce/",
+        "published": "Thu, 18 Dec 2025 01:43:11 +0000"
+    },
+    {
+        "title": "Academic Ambush: How the Forum Troll APT Hijacks Scholars’ Systems via Fake Plagiarism Reports",
+        "link": "https://securityonline.info/academic-ambush-how-the-forum-troll-apt-hijacks-scholars-systems-via-fake-plagiarism-reports/",
+        "published": "Thu, 18 Dec 2025 00:44:58 +0000"
+    },
+    {
+        "title": "Locked Out of the Cloud: Hackers Use AWS Termination Protection to Hijack ECS for Unstoppable Crypto Mining",
+        "link": "https://securityonline.info/locked-out-of-the-cloud-hackers-use-aws-termination-protection-to-hijack-ecs-for-unstoppable-crypto-mining/",
+        "published": "Thu, 18 Dec 2025 00:42:31 +0000"
+    },
+    {
+        "title": "Blurred Deception: Russian APT Targets Transnistria and NATO with High-Pressure Phishing Lures",
+        "link": "https://securityonline.info/blurred-deception-russian-apt-targets-transnistria-and-nato-with-high-pressure-phishing-lures/",
+        "published": "Thu, 18 Dec 2025 00:37:04 +0000"
+    },
+    {
+        "title": "“Better Auth” Framework Alert: The Double-Slash Trick That Bypasses Security Controls",
+        "link": "https://securityonline.info/better-auth-framework-alert-the-double-slash-trick-that-bypasses-security-controls/",
+        "published": "Thu, 18 Dec 2025 00:33:26 +0000"
+    },
+    {
+        "title": "Ink Dragon’s Global Mesh: How Chinese Spies Turn Compromised Government Servers into C2 Relay Nodes",
+        "link": "https://securityonline.info/ink-dragons-global-mesh-how-chinese-spies-turn-compromised-government-servers-into-c2-relay-nodes/",
+        "published": "Thu, 18 Dec 2025 00:27:49 +0000"
+    },
+    {
+        "title": "CVE-2025-46295 (CVSS 9.8): Critical Apache Commons Text Flaw Risks Total Server Takeover",
+        "link": "https://securityonline.info/cve-2025-46295-cvss-9-8-critical-apache-commons-text-flaw-risks-total-server-takeover/",
+        "published": "Thu, 18 Dec 2025 00:22:55 +0000"
+    },
+    {
+        "title": "RTO Challan Scam: How a Fake Traffic Ticket and a Malicious VPN Can Drain Your Bank Account",
+        "link": "https://securityonline.info/rto-challan-scam-how-a-fake-traffic-ticket-and-a-malicious-vpn-can-drain-your-bank-account/",
+        "published": "Thu, 18 Dec 2025 00:17:28 +0000"
+    },
+    {
+        "title": "Node.js Alert: systeminformation Flaw Risks Windows RCE for 16M+ Monthly Users",
+        "link": "https://securityonline.info/node-js-alert-systeminformation-flaw-risks-windows-rce-for-16m-monthly-users/",
+        "published": "Thu, 18 Dec 2025 00:12:11 +0000"
+    },
+    {
+        "title": "The $10B Pivot: OpenAI in Talks for Massive Amazon Funding—But There’s a Silicon Catch",
+        "link": "https://securityonline.info/the-10b-pivot-openai-in-talks-for-massive-amazon-funding-but-theres-a-silicon-catch/",
+        "published": "Thu, 18 Dec 2025 00:10:52 +0000"
+    },
+    {
+        "title": "The Internet Rewired: Cloudflare 2025 Review Unveils the AI Bot War and a 19% Traffic Surge",
+        "link": "https://securityonline.info/the-internet-rewired-cloudflare-2025-review-unveils-the-ai-bot-war-and-a-19-traffic-surge/",
+        "published": "Thu, 18 Dec 2025 00:08:11 +0000"
+    },
+    {
+        "title": "Self-Hosting No Longer Free: GitHub Introduces New $0.002/Min Platform Fee for Actions",
+        "link": "https://securityonline.info/self-hosting-no-longer-free-github-introduces-new-0-002-min-platform-fee-for-actions/",
+        "published": "Thu, 18 Dec 2025 00:06:45 +0000"
+    },
+    {
+        "title": "Mozilla’s New Chapter: CEO Anthony Enzor-DeMeo to Transform Firefox into an AI-Powered Powerhouse",
+        "link": "https://securityonline.info/mozillas-new-chapter-ceo-anthony-enzor-demeo-to-transform-firefox-into-an-ai-powered-powerhouse/",
+        "published": "Thu, 18 Dec 2025 00:02:14 +0000"
+    },
+    {
+        "title": "The 45-Day Era Begins: Let’s Encrypt Unveils Generation Y Hierarchy and IP-Based TLS",
+        "link": "https://securityonline.info/the-45-day-era-begins-lets-encrypt-unveils-generation-y-hierarchy-and-ip-based-tls/",
+        "published": "Thu, 18 Dec 2025 00:00:49 +0000"
     }
 ]
