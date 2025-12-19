@@ -25873,5 +25873,15 @@
         "title": "Flash Forward: Google’s New Gemini 3 Flash Shatters Efficiency Records and Rival Flagships",
         "link": "https://securityonline.info/flash-forward-googles-new-gemini-3-flash-shatters-efficiency-records-and-rival-flagships/",
         "published": "Fri, 19 Dec 2025 00:00:48 +0000"
+    },
+    {
+        "title": "Rust’s First Breach: CVE-2025-68260 Marks the First Rust Vulnerability in the Linux Kernel",
+        "link": "https://securityonline.info/rusts-first-breach-cve-2025-68260-marks-the-first-rust-vulnerability-in-the-linux-kernel/",
+        "published": "Fri, 19 Dec 2025 03:08:18 +0000"
+    },
+    {
+        "title": "Visualizations Weaponized: New Kibana Flaw Allows XSS Attacks via Vega Charts",
+        "link": "https://securityonline.info/visualizations-weaponized-new-kibana-flaw-allows-xss-attacks-via-vega-charts/",
+        "published": "Fri, 19 Dec 2025 02:30:39 +0000"
     }
 ]
