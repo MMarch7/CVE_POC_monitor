@@ -2409,3 +2409,6 @@ clean_list:
 - Tika-CVE-2025-66516-Lab
 - react2shell-CVE-2025-55182-full-rce-script
 - CVE-2025-68055-poc
+- CVE-2025-13486-exploit
+- CVE-2025-68461
+- Blackash-CVE-2025-14733
