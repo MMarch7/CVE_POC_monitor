@@ -2407,3 +2407,5 @@ clean_list:
 - CVE-2025-37164
 - ninja-forms-cve-2025
 - Tika-CVE-2025-66516-Lab
+- react2shell-CVE-2025-55182-full-rce-script
+- CVE-2025-68055-poc
