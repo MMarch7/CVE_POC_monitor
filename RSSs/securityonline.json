@@ -25808,5 +25808,70 @@
         "title": "INE Security Expands Across Middle East and Asia to Accelerate Cybersecurity Upskilling",
         "link": "https://securityonline.info/ine-security-expands-across-middle-east-and-asia-to-accelerate-cybersecurity-upskilling/",
         "published": "Thu, 18 Dec 2025 20:34:46 +0000"
+    },
+    {
+        "title": "Log4j’s Security Blind Spot: New TLS Flaw Lets Attackers Intercept Sensitive Logs Despite Encryption",
+        "link": "https://securityonline.info/log4js-security-blind-spot-new-tls-flaw-lets-attackers-intercept-sensitive-logs-despite-encryption/",
+        "published": "Fri, 19 Dec 2025 01:50:57 +0000"
+    },
+    {
+        "title": "WatchGuard Under Siege: Critical CVSS 9.3 Zero-Day Exploited in the Wild to Hijack Corporate Firewalls",
+        "link": "https://securityonline.info/watchguard-under-siege-critical-cvss-9-3-zero-day-exploited-in-the-wild-to-hijack-corporate-firewalls/",
+        "published": "Fri, 19 Dec 2025 01:38:16 +0000"
+    },
+    {
+        "title": "Kubernetes Alert: Headlamp Flaw (CVE-2025-14269) Lets Unauthenticated Users Hijack Helm Clusters",
+        "link": "https://securityonline.info/kubernetes-alert-headlamp-flaw-cve-2025-14269-lets-unauthenticated-users-hijack-helm-clusters/",
+        "published": "Fri, 19 Dec 2025 00:50:55 +0000"
+    },
+    {
+        "title": "FreeBSD Network Alert: Malicious IPv6 Packets Can Trigger Remote Code Execution via resolvconf (CVE-2025-14558)",
+        "link": "https://securityonline.info/freebsd-network-alert-malicious-ipv6-packets-can-trigger-remote-code-execution-via-resolvconf-cve-2025-14558/",
+        "published": "Fri, 19 Dec 2025 00:42:10 +0000"
+    },
+    {
+        "title": "Roundcube Alert: High-Severity SVG XSS and CSS Sanitizer Flaws Threaten Webmail Privacy",
+        "link": "https://securityonline.info/roundcube-alert-high-severity-svg-xss-and-css-sanitizer-flaws-threaten-webmail-privacy/",
+        "published": "Fri, 19 Dec 2025 00:38:32 +0000"
+    },
+    {
+        "title": "YouTube Ghost Network: The New GachiLoader Malware Hiding in Your Favorite Video Links",
+        "link": "https://securityonline.info/youtube-ghost-network-the-new-gachiloader-malware-hiding-in-your-favorite-video-links/",
+        "published": "Fri, 19 Dec 2025 00:33:10 +0000"
+    },
+    {
+        "title": "Poisoned Dependencies: How Nethereum.All and 10M+ Fake Downloads Looted .NET Crypto Developers",
+        "link": "https://securityonline.info/poisoned-dependencies-how-nethereum-all-and-10m-fake-downloads-looted-net-crypto-developers/",
+        "published": "Fri, 19 Dec 2025 00:26:49 +0000"
+    },
+    {
+        "title": "Early-Boot Attack: UEFI Flaw in ASRock, ASUS, & MSI Boards Lets Hackers Bypass OS Security via PCIe",
+        "link": "https://securityonline.info/early-boot-attack-uefi-flaw-in-asrock-asus-msi-boards-lets-hackers-bypass-os-security-via-pcie/",
+        "published": "Fri, 19 Dec 2025 00:22:00 +0000"
+    },
+    {
+        "title": "Mario’s Deadly Upgrade: RansomHouse Unveils Dual-Key Encryption to Defeat Backups and Recovery",
+        "link": "https://securityonline.info/marios-deadly-upgrade-ransomhouse-unveils-dual-key-encryption-to-defeat-backups-and-recovery/",
+        "published": "Fri, 19 Dec 2025 00:17:00 +0000"
+    },
+    {
+        "title": "Phantom v3.5 Alert: New Info-Stealer Disguised as Adobe Update Uses SMTP to Loot Digital Lives",
+        "link": "https://securityonline.info/phantom-v3-5-alert-new-info-stealer-disguised-as-adobe-update-uses-smtp-to-loot-digital-lives/",
+        "published": "Fri, 19 Dec 2025 00:11:31 +0000"
+    },
+    {
+        "title": "The Final Cut: Why the Oscars are Leaving ABC for a YouTube-Only Future in 2029",
+        "link": "https://securityonline.info/the-final-cut-why-the-oscars-are-leaving-abc-for-a-youtube-only-future-in-2029/",
+        "published": "Fri, 19 Dec 2025 00:08:15 +0000"
+    },
+    {
+        "title": "VPN Betrayal: Popular “Free” Extensions Caught Siphoning 8 Million Users’ Private AI Chats",
+        "link": "https://securityonline.info/vpn-betrayal-popular-free-extensions-caught-siphoning-8-million-users-private-ai-chats/",
+        "published": "Fri, 19 Dec 2025 00:05:33 +0000"
+    },
+    {
+        "title": "Flash Forward: Google’s New Gemini 3 Flash Shatters Efficiency Records and Rival Flagships",
+        "link": "https://securityonline.info/flash-forward-googles-new-gemini-3-flash-shatters-efficiency-records-and-rival-flagships/",
+        "published": "Fri, 19 Dec 2025 00:00:48 +0000"
     }
 ]
