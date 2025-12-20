@@ -2416,3 +2416,5 @@ clean_list:
 - Blackash-CVE-2025-20393
 - secure-by-default-rce-demo
 - OpsGuard-simulation
+- Cerberus-React2Shell-Scanner-Exploit
+- react2shell-poc-CVE-2025-55182
