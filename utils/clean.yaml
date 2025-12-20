@@ -2420,3 +2420,4 @@ clean_list:
 - react2shell-poc-CVE-2025-55182
 - CVE-2025-65856
 - CVE-2025-55182-React2Shell-Nextjs-RSC-Analysis
+- React2Shell-CVE-Lab
