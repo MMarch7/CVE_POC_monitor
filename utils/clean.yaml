@@ -2418,3 +2418,4 @@ clean_list:
 - OpsGuard-simulation
 - Cerberus-React2Shell-Scanner-Exploit
 - react2shell-poc-CVE-2025-55182
+- CVE-2025-65856
