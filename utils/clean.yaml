@@ -2423,3 +2423,4 @@ clean_list:
 - React2Shell-CVE-Lab
 - CVE-2025-14558
 - Fsociety-CVE-2024-0670-CheckMK-LPE
+- CVE-2024-48990-POC
