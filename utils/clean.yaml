@@ -2425,3 +2425,4 @@ clean_list:
 - Fsociety-CVE-2024-0670-CheckMK-LPE
 - CVE-2024-48990-POC
 - CVE-2024-31317-Deployer
+- CVE-2025-12139-WordPress-Integrate-Google-Drive-Exploit
