@@ -2435,3 +2435,5 @@ clean_list:
 - PostGallery-CVE-Report
 - poc-CVE-2025-38352
 - CVE-2025-68613
+- CVE-2025-67435
+- CVE-2024-23111
