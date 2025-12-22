@@ -25938,5 +25938,70 @@
         "title": "PoC Available: Unauthenticated HPE OneView RCE (CVSS 10.0) Exploits Hidden ID Pools API",
         "link": "https://securityonline.info/poc-available-unauthenticated-hpe-oneview-rce-cvss-10-0-exploits-hidden-id-pools-api/",
         "published": "Sat, 20 Dec 2025 10:14:04 +0000"
+    },
+    {
+        "title": "n8n Under Fire: Critical CVSS 10.0 RCE Vulnerability Grants Total Server Access",
+        "link": "https://securityonline.info/n8n-under-fire-critical-cvss-10-0-rce-vulnerability-grants-total-server-access/",
+        "published": "Mon, 22 Dec 2025 00:55:12 +0000"
+    },
+    {
+        "title": "Hackers Abuse “Device Codes” to Bypass Security and Seize Microsoft 365 Accounts",
+        "link": "https://securityonline.info/hackers-abuse-device-codes-to-bypass-security-and-seize-microsoft-365-accounts/",
+        "published": "Mon, 22 Dec 2025 00:50:41 +0000"
+    },
+    {
+        "title": "The Silent Hijacker: New Cellik Android RAT Turns Legitimate Google Play Apps into Surveillance Tools",
+        "link": "https://securityonline.info/the-silent-hijacker-new-cellik-android-rat-turns-legitimate-google-play-apps-into-surveillance-tools/",
+        "published": "Mon, 22 Dec 2025 00:50:24 +0000"
+    },
+    {
+        "title": "Exim’s Poisoned Record: How a Failed Patch and SQL Injection Lead to Critical Heap Overflows",
+        "link": "https://securityonline.info/exims-poisoned-record-how-a-failed-patch-and-sql-injection-lead-to-critical-heap-overflows/",
+        "published": "Mon, 22 Dec 2025 00:43:21 +0000"
+    },
+    {
+        "title": "“ClickFix” Trap: Fake Human Verification Leads to Qilin Ransomware Infection",
+        "link": "https://securityonline.info/clickfix-trap-fake-human-verification-leads-to-qilin-ransomware-infection/",
+        "published": "Mon, 22 Dec 2025 00:40:50 +0000"
+    },
+    {
+        "title": "TikTok’s “Scam-Yourself” Trap: How AuraStealer Malware Tricks Users into Hacking Their Own PCs",
+        "link": "https://securityonline.info/tiktoks-scam-yourself-trap-how-aurastealer-malware-tricks-users-into-hacking-their-own-pcs/",
+        "published": "Mon, 22 Dec 2025 00:37:11 +0000"
+    },
+    {
+        "title": "The KGB’s All-Seeing Eye: How ResidentBat Spyware Turns Seized Phones into Total Surveillance Tools",
+        "link": "https://securityonline.info/the-kgbs-all-seeing-eye-how-residentbat-spyware-turns-seized-phones-into-total-surveillance-tools/",
+        "published": "Mon, 22 Dec 2025 00:33:47 +0000"
+    },
+    {
+        "title": "Shadows of the North: Unmasking the Sprawling Cyber Infrastructure of the DPRK",
+        "link": "https://securityonline.info/shadows-of-the-north-unmasking-the-sprawling-cyber-infrastructure-of-the-dprk/",
+        "published": "Mon, 22 Dec 2025 00:27:21 +0000"
+    },
+    {
+        "title": "Apache NiFi’s Data Leak: How a High-Severity Deserialization Flaw Puts Your Asana Workflows at Risk",
+        "link": "https://securityonline.info/apache-nifis-data-leak-how-a-high-severity-deserialization-flaw-puts-your-asana-workflows-at-risk/",
+        "published": "Mon, 22 Dec 2025 00:22:00 +0000"
+    },
+    {
+        "title": "North Korea’s Kimsuky Upgrades DOCSWAP Malware to Hijack Smartphones via QR Codes",
+        "link": "https://securityonline.info/north-koreas-kimsuky-upgrades-docswap-malware-to-hijack-smartphones-via-qr-codes/",
+        "published": "Mon, 22 Dec 2025 00:18:02 +0000"
+    },
+    {
+        "title": "“Caminho” to Compromise: BlindEagle Hackers Hijack Government Emails in Colombia",
+        "link": "https://securityonline.info/caminho-to-compromise-blindeagle-hackers-hijack-government-emails-in-colombia/",
+        "published": "Mon, 22 Dec 2025 00:11:57 +0000"
+    },
+    {
+        "title": "The GRU’s Silent Shift: How BlueDelta Hijacks Ukrainian Webmail Using ngrok and Mocky",
+        "link": "https://securityonline.info/the-grus-silent-shift-how-bluedelta-hijacks-ukrainian-webmail-using-ngrok-and-mocky/",
+        "published": "Mon, 22 Dec 2025 00:06:34 +0000"
+    },
+    {
+        "title": "AI’s Exposed Side Door: Dify Flaw (CVE-2025-63387) Leaks System Configs to Anonymous Users",
+        "link": "https://securityonline.info/ais-exposed-side-door-dify-flaw-cve-2025-63387-leaks-system-configs-to-anonymous-users/",
+        "published": "Mon, 22 Dec 2025 00:01:55 +0000"
     }
 ]
