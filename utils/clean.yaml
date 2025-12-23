@@ -2448,3 +2448,4 @@ clean_list:
 - CVE-2025-68613-poc-via-copilot
 - CVE-2025-62215
 - CVE-2025-65964-POC
+- n8n-CVE-2025-68613-exploit
