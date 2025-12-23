@@ -2449,3 +2449,7 @@ clean_list:
 - CVE-2025-62215
 - CVE-2025-65964-POC
 - n8n-CVE-2025-68613-exploit
+- React2Shell-PoC
+- exploit_CVE-2024-39205
+- React2Shell-CVE-2025-55182-Detector
+- Blackash-CVE-2025-14558
