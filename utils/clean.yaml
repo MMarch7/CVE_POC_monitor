@@ -2445,3 +2445,4 @@ clean_list:
 - coolify-cve-2025-66209-66213
 - CVE-2024-57521-SQL-Injection-PoC
 - test-vuln
+- CVE-2025-68613-poc-via-copilot
