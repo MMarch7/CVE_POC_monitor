@@ -2443,3 +2443,4 @@ clean_list:
 - CVE-2025-14733
 - Blackash-CVE-2025-68613
 - coolify-cve-2025-66209-66213
+- CVE-2024-57521-SQL-Injection-PoC
