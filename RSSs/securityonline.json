@@ -26038,5 +26038,70 @@
         "title": "The End of “Robotic” AI: OpenAI Unlocks Sliders to Control ChatGPT’s Warmth and Tone",
         "link": "https://securityonline.info/the-end-of-robotic-ai-openai-unlocks-sliders-to-control-chatgpts-warmth-and-tone/",
         "published": "Mon, 22 Dec 2025 02:45:15 +0000"
+    },
+    {
+        "title": "Windows DWM Flaw Lets Local Users Paint Their Way to SYSTEM Privileges, PoC Publishes",
+        "link": "https://securityonline.info/windows-dwm-flaw-lets-local-users-paint-their-way-to-system-privileges-poc-publishes/",
+        "published": "Tue, 23 Dec 2025 02:07:46 +0000"
+    },
+    {
+        "title": "Anna’s Archive Claims 300TB Spotify Mirror, Forcing an Investigation Into a Massive Music Data Leak",
+        "link": "https://securityonline.info/annas-archive-claims-300tb-spotify-mirror-forcing-an-investigation-into-a-massive-music-data-leak/",
+        "published": "Tue, 23 Dec 2025 01:53:52 +0000"
+    },
+    {
+        "title": "Critical Unauthenticated MongoDB Flaw Leaks Sensitive Data via zlib Compression",
+        "link": "https://securityonline.info/critical-unauthenticated-mongodb-flaw-leaks-sensitive-data-via-zlib-compression/",
+        "published": "Tue, 23 Dec 2025 00:50:15 +0000"
+    },
+    {
+        "title": "The 3-Million Email Siege: Inside Scripted Sparrow’s Global Industrialized BEC Machine",
+        "link": "https://securityonline.info/the-3-million-email-siege-inside-scripted-sparrows-global-industrialized-bec-machine/",
+        "published": "Tue, 23 Dec 2025 00:46:56 +0000"
+    },
+    {
+        "title": "A Desperate Cartel: Inside the Unlikely Alliance of Qilin, DragonForce, and a Fading LockBit",
+        "link": "https://securityonline.info/a-desperate-cartel-inside-the-unlikely-alliance-of-qilin-dragonforce-and-a-fading-lockbit/",
+        "published": "Tue, 23 Dec 2025 00:43:35 +0000"
+    },
+    {
+        "title": "Iranian “Prince of Persia” APT Resurfaces with Telegram-Controlled Stealth Malware",
+        "link": "https://securityonline.info/iranian-prince-of-persia-apt-resurfaces-with-telegram-controlled-stealth-malware/",
+        "published": "Tue, 23 Dec 2025 00:38:30 +0000"
+    },
+    {
+        "title": "“Purchase Order” Deception: Sophisticated Loader Targets Manufacturing Giants in Italy, Finland, and Saudi Arabia",
+        "link": "https://securityonline.info/purchase-order-deception-sophisticated-loader-targets-manufacturing-giants-in-italy-finland-and-saudi-arabia/",
+        "published": "Tue, 23 Dec 2025 00:32:10 +0000"
+    },
+    {
+        "title": "Identity Theft in M-Files: High-Severity Flaw Lets Insiders Hijack User Accounts and Access Sensitive Data",
+        "link": "https://securityonline.info/identity-theft-in-m-files-high-severity-flaw-lets-insiders-hijack-user-accounts-and-access-sensitive-data/",
+        "published": "Tue, 23 Dec 2025 00:26:20 +0000"
+    },
+    {
+        "title": "“React2Shell” Exploited: New EtherRAT Malware Hunts for Crypto via Node.js",
+        "link": "https://securityonline.info/react2shell-exploited-new-etherrat-malware-hunts-for-crypto-via-node-js/",
+        "published": "Tue, 23 Dec 2025 00:21:31 +0000"
+    },
+    {
+        "title": "AI-Generated Decoys & XLL Stealth: Inside the New “EchoGather” Cyber Espionage Campaign",
+        "link": "https://securityonline.info/ai-generated-decoys-xll-stealth-inside-the-new-echogather-cyber-espionage-campaign/",
+        "published": "Tue, 23 Dec 2025 00:18:37 +0000"
+    },
+    {
+        "title": "Wonderland Unleashed: New Android “Dropper” Malware Hijacks Telegram to Drain Bank Accounts",
+        "link": "https://securityonline.info/wonderland-unleashed-new-android-dropper-malware-hijacks-telegram-to-drain-bank-accounts/",
+        "published": "Tue, 23 Dec 2025 00:11:27 +0000"
+    },
+    {
+        "title": "Zero-Day Alert: Linksys Auth Bypass Lets Hackers Hijack Routers Without Passwords",
+        "link": "https://securityonline.info/zero-day-alert-linksys-auth-bypass-lets-hackers-hijack-routers-without-passwords/",
+        "published": "Tue, 23 Dec 2025 00:06:21 +0000"
+    },
+    {
+        "title": "The Payroll Trap: New Quishing Campaign Uses Fake CAPTCHAs to Hijack Employee Paychecks",
+        "link": "https://securityonline.info/the-payroll-trap-new-quishing-campaign-uses-fake-captchas-to-hijack-employee-paychecks/",
+        "published": "Tue, 23 Dec 2025 00:01:30 +0000"
     }
 ]
