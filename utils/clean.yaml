@@ -2455,3 +2455,4 @@ clean_list:
 - Blackash-CVE-2025-14558
 - Exploit-CVE-2025-68613
 - goga-cve-2025-8110
+- CVE2024-24048_Likeshop_Fix

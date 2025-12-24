@@ -26188,5 +26188,15 @@
         "title": "The PowerShell Pivot: MAS Roadmap Reveals End of Batch Scripting Era",
         "link": "https://securityonline.info/the-powershell-pivot-mas-roadmap-reveals-end-of-batch-scripting-era/",
         "published": "Wed, 24 Dec 2025 00:00:14 +0000"
+    },
+    {
+        "title": "Linux Kernel 6.19 Slashes Latency & Boosts Legacy AMD GPUs by 30%",
+        "link": "https://securityonline.info/linux-kernel-6-19-slashes-latency-boosts-legacy-amd-gpus-by-30/",
+        "published": "Wed, 24 Dec 2025 03:11:16 +0000"
+    },
+    {
+        "title": "Racing the Zombie: PoC Released for Linux Kernel POSIX Timer Vulnerability (CVE-2025-38352)",
+        "link": "https://securityonline.info/racing-the-zombie-poc-released-for-linux-kernel-posix-timer-vulnerability-cve-2025-38352/",
+        "published": "Wed, 24 Dec 2025 02:52:30 +0000"
     }
 ]
