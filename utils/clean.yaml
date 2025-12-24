@@ -2456,3 +2456,4 @@ clean_list:
 - Exploit-CVE-2025-68613
 - goga-cve-2025-8110
 - CVE2024-24048_Likeshop_Fix
+- cve-2024-34351-tester
