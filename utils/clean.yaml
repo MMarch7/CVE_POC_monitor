@@ -2464,3 +2464,4 @@ clean_list:
 - redis-cve_2025_49844
 - CVE-2025-14765-and-CVE-2025-14766
 - n8n-RCE
+- Blackash-CVE-2025-68645
