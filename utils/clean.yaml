@@ -2463,3 +2463,4 @@ clean_list:
 - cve-2025-32433_rce_exploit
 - redis-cve_2025_49844
 - CVE-2025-14765-and-CVE-2025-14766
+- n8n-RCE
