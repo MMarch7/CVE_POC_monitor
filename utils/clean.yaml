@@ -2459,3 +2459,4 @@ clean_list:
 - cve-2024-34351-tester
 - CVE-2025-68613-n8n-lab
 - CVE-2025-34462
+- cve-2025-59532-poc
