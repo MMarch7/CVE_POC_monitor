@@ -2460,3 +2460,4 @@ clean_list:
 - CVE-2025-68613-n8n-lab
 - CVE-2025-34462
 - cve-2025-59532-poc
+- cve-2025-32433_rce_exploit
