@@ -2461,3 +2461,5 @@ clean_list:
 - CVE-2025-34462
 - cve-2025-59532-poc
 - cve-2025-32433_rce_exploit
+- redis-cve_2025_49844
+- CVE-2025-14765-and-CVE-2025-14766
