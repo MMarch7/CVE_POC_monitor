@@ -26198,5 +26198,65 @@
         "title": "Racing the Zombie: PoC Released for Linux Kernel POSIX Timer Vulnerability (CVE-2025-38352)",
         "link": "https://securityonline.info/racing-the-zombie-poc-released-for-linux-kernel-posix-timer-vulnerability-cve-2025-38352/",
         "published": "Wed, 24 Dec 2025 02:52:30 +0000"
+    },
+    {
+        "title": "Intel’s 14A/18A Super Chip: The AI “System Foundry” That Challenges TSMC",
+        "link": "https://securityonline.info/intels-14a-18a-super-chip-the-ai-system-foundry-that-challenges-tsmc/",
+        "published": "Thu, 25 Dec 2025 02:19:24 +0000"
+    },
+    {
+        "title": "The End of AirPods’ Monopoly: Apple to Unlock Proximity Pairing and Smartwatch Replies",
+        "link": "https://securityonline.info/the-end-of-airpods-monopoly-apple-to-unlock-proximity-pairing-and-smartwatch-replies/",
+        "published": "Thu, 25 Dec 2025 02:01:03 +0000"
+    },
+    {
+        "title": "Hackers Revive 2020 FortiGate Flaw to Bypass 2FA",
+        "link": "https://securityonline.info/hackers-revive-2020-fortigate-flaw-to-bypass-2fa/",
+        "published": "Thu, 25 Dec 2025 01:53:12 +0000"
+    },
+    {
+        "title": "“LotusBail” Trap: 56,000 Developers Downloaded a Fake WhatsApp API That Works perfectly—While Stealing Everything",
+        "link": "https://securityonline.info/lotusbail-trap-56000-developers-downloaded-a-fake-whatsapp-api-that-works-perfectly-while-stealing-everything/",
+        "published": "Thu, 25 Dec 2025 00:41:07 +0000"
+    },
+    {
+        "title": "Evasive Panda APT Hijacks Dictionary.com and App Updates in Two-Year Spree",
+        "link": "https://securityonline.info/evasive-panda-apt-hijacks-dictionary-com-and-app-updates-in-two-year-spree/",
+        "published": "Thu, 25 Dec 2025 00:37:13 +0000"
+    },
+    {
+        "title": "High-Severity Flaws in TeamViewer DEX Allow Attackers to Hijack Nomad Services",
+        "link": "https://securityonline.info/high-severity-flaws-in-teamviewer-dex-allow-attackers-to-hijack-nomad-services/",
+        "published": "Thu, 25 Dec 2025 00:33:09 +0000"
+    },
+    {
+        "title": "ChatGPT Atlas Under Guard: OpenAI Fortifies Browser Agent Against “Prompt Injection” Attacks",
+        "link": "https://securityonline.info/chatgpt-atlas-under-guard-openai-fortifies-browser-agent-against-prompt-injection-attacks/",
+        "published": "Thu, 25 Dec 2025 00:27:15 +0000"
+    },
+    {
+        "title": "The “lc” Leak: Critical 9.3 Severity LangChain Flaw Turns Prompt Injections into Secret Theft",
+        "link": "https://securityonline.info/the-lc-leak-critical-9-3-severity-langchain-flaw-turns-prompt-injections-into-secret-theft/",
+        "published": "Thu, 25 Dec 2025 00:22:06 +0000"
+    },
+    {
+        "title": "Hackers Weaponize npm to Hunt Critical Infrastructure Sales Teams",
+        "link": "https://securityonline.info/hackers-weaponize-npm-to-hunt-critical-infrastructure-sales-teams/",
+        "published": "Thu, 25 Dec 2025 00:19:34 +0000"
+    },
+    {
+        "title": "Zimbra Under Siege: High-Severity LFI Vulnerability Exposes Internal Files to Unauthenticated Attackers",
+        "link": "https://securityonline.info/zimbra-under-siege-high-severity-lfi-vulnerability-exposes-internal-files-to-unauthenticated-attackers/",
+        "published": "Thu, 25 Dec 2025 00:11:18 +0000"
+    },
+    {
+        "title": "“Contagious Interview” Goes macOS: North Korean Hackers Deploy Stealthy “DriverFixer” Stealer",
+        "link": "https://securityonline.info/contagious-interview-goes-macos-north-korean-hackers-deploy-stealthy-driverfixer-stealer/",
+        "published": "Thu, 25 Dec 2025 00:06:47 +0000"
+    },
+    {
+        "title": "The Ghost in the Market: Unmasking “Fly,” the Secret Architect of the Infamous Russian Market",
+        "link": "https://securityonline.info/the-ghost-in-the-market-unmasking-fly-the-secret-architect-of-the-infamous-russian-market/",
+        "published": "Thu, 25 Dec 2025 00:00:11 +0000"
     }
 ]
