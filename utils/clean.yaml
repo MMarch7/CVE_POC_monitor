@@ -2473,3 +2473,4 @@ clean_list:
 - gud425.github.io
 - -CVE-2025-9074-Docker-Exploit
 - homelab-CVE-2025-68613
+- CVE-2025-57460
