@@ -2474,3 +2474,5 @@ clean_list:
 - -CVE-2025-9074-Docker-Exploit
 - homelab-CVE-2025-68613
 - CVE-2025-57460
+- CVE-2025-57462
+- CVE-2025-505050
