@@ -2477,3 +2477,4 @@ clean_list:
 - CVE-2025-57462
 - CVE-2025-505050
 - Bot-exploit-CVE-2025-55182
+- CVE-2024-3553
