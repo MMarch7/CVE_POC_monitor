@@ -2469,3 +2469,4 @@ clean_list:
 - CVE-2025-55182-shellinteractive
 - Analysis-n8n-CVE-2025-68613
 - 2025-Top-5-CVE-POCs
+- CVE-2025-14847
