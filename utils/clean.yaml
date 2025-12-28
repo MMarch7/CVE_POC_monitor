@@ -2486,3 +2486,4 @@ clean_list:
 - CVE-2025-14847_Expolit
 - CVE-2025-55182-React2Shell-RCE-Shell
 - mysticalhearts.github.io
+- FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790
