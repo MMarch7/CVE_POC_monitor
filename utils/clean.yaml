@@ -2484,3 +2484,5 @@ clean_list:
 - CVE-2025-68664-LangGrinch-PoC
 - 1Panel-CVE-2025-54424-
 - CVE-2025-14847_Expolit
+- CVE-2025-55182-React2Shell-RCE-Shell
+- mysticalhearts.github.io
