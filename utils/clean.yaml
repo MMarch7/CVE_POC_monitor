@@ -2488,3 +2488,4 @@ clean_list:
 - mysticalhearts.github.io
 - FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790
 - CVE-2025-65442-DOM-based-Cross-Site-Scripting-XSS-Vulnerability-in-novel-V3.5.0-CWE-79-
+- mongobleed-scanner
