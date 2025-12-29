@@ -2496,3 +2496,4 @@ clean_list:
 - cve-2024-52005-poc
 - CVE-2025-60458
 - cve-2025-14847
+- react2shell-CVE-2025-55182-
