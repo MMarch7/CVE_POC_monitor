@@ -2500,3 +2500,5 @@ clean_list:
 - react2shell-burp
 - CVE-2025-14847-PoC
 - mongobleed-exploit-CVE-2025-14847
+- CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026
+- n8n-CVE-2025-68613
