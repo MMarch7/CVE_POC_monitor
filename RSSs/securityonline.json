@@ -26343,5 +26343,65 @@
         "title": "DIY or Pay Up: Framework’s New Price Hike and the “Bring Your Own RAM” Era",
         "link": "https://securityonline.info/diy-or-pay-up-frameworks-new-price-hike-and-the-bring-your-own-ram-era/",
         "published": "Sun, 28 Dec 2025 05:44:05 +0000"
+    },
+    {
+        "title": "The iOS 26.2 Trap: New WebKit Integer Overflow Discovered with PoC—Is Your iPhone at Risk?",
+        "link": "https://securityonline.info/the-ios-26-2-trap-new-webkit-integer-overflow-discovered-with-poc-is-your-iphone-at-risk/",
+        "published": "Mon, 29 Dec 2025 01:53:21 +0000"
+    },
+    {
+        "title": "PoC Released: MongoBleed Exploit Allows Unauthenticated Attackers to Drain MongoDB Memory",
+        "link": "https://securityonline.info/poc-released-mongobleed-exploit-allows-unauthenticated-attackers-to-drain-mongodb-memory/",
+        "published": "Mon, 29 Dec 2025 00:40:34 +0000"
+    },
+    {
+        "title": "Holiday ColdFusion Attacks Reveal Massive 2.5 Million Request Onslaught",
+        "link": "https://securityonline.info/holiday-coldfusion-attacks-reveal-massive-2-5-million-request-onslaught/",
+        "published": "Mon, 29 Dec 2025 00:35:07 +0000"
+    },
+    {
+        "title": "“Headphone Jacking”: Critical Flaws in Popular Earbuds Let Hackers Hijack Your Phone",
+        "link": "https://securityonline.info/headphone-jacking-critical-flaws-in-popular-earbuds-let-hackers-hijack-your-phone/",
+        "published": "Mon, 29 Dec 2025 00:29:34 +0000"
+    },
+    {
+        "title": "CVE-2025-54322 (CVSS 10): AI Agents Uncover Critical Zero-Day in Global Networking Gear",
+        "link": "https://securityonline.info/cve-2025-54322-cvss-10-ai-agents-uncover-critical-zero-day-in-global-networking-gear/",
+        "published": "Mon, 29 Dec 2025 00:22:02 +0000"
+    },
+    {
+        "title": "EmEditor Compromised: “WALSHAM” Imposter Poisons Official Installer with Spyware",
+        "link": "https://securityonline.info/emeditor-compromised-walsham-imposter-poisons-official-installer-with-spyware/",
+        "published": "Mon, 29 Dec 2025 00:16:52 +0000"
+    },
+    {
+        "title": "The Performance Propeller: Google Proposes Upstreaming Its High-Octane Optimizer to LLVM",
+        "link": "https://securityonline.info/the-performance-propeller-google-proposes-upstreaming-its-high-octane-optimizer-to-llvm/",
+        "published": "Mon, 29 Dec 2025 00:16:48 +0000"
+    },
+    {
+        "title": "The Christmas Drain: How a Backdoor in Trust Wallet v2.68 Stole $7M",
+        "link": "https://securityonline.info/the-christmas-drain-how-a-backdoor-in-trust-wallet-v2-68-stole-7m/",
+        "published": "Mon, 29 Dec 2025 00:15:53 +0000"
+    },
+    {
+        "title": "The Stalled Update: Why Your Samsung’s Google Play Patch is Stuck in 2025",
+        "link": "https://securityonline.info/the-stalled-update-why-your-samsungs-google-play-patch-is-stuck-in-2025/",
+        "published": "Mon, 29 Dec 2025 00:13:28 +0000"
+    },
+    {
+        "title": "“Prefix Swap” Panic: Sophisticated “Jackson” Imposter Infiltrates Maven Central",
+        "link": "https://securityonline.info/prefix-swap-panic-sophisticated-jackson-imposter-infiltrates-maven-central/",
+        "published": "Mon, 29 Dec 2025 00:06:49 +0000"
+    },
+    {
+        "title": "Fixing the “RAM Tax”: Microsoft’s New Plan to Make File Explorer Search 2X Faster",
+        "link": "https://securityonline.info/fixing-the-ram-tax-microsofts-new-plan-to-make-file-explorer-search-2x-faster/",
+        "published": "Mon, 29 Dec 2025 00:00:48 +0000"
+    },
+    {
+        "title": "The $70 Chip War: Why Google is Firing Execs and Apple is Bracing for a 230% Price Surge",
+        "link": "https://securityonline.info/the-70-chip-war-why-google-is-firing-execs-and-apple-is-bracing-for-a-230-price-surge/",
+        "published": "Mon, 29 Dec 2025 00:00:37 +0000"
     }
 ]

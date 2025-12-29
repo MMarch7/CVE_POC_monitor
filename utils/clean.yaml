@@ -2491,3 +2491,4 @@ clean_list:
 - mongobleed-scanner
 - CVE-2025-68615
 - CVE-2025-46295-fix-fms
+- cve-2025-66723
