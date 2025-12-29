@@ -2497,3 +2497,6 @@ clean_list:
 - CVE-2025-60458
 - cve-2025-14847
 - react2shell-CVE-2025-55182-
+- react2shell-burp
+- CVE-2025-14847-PoC
+- mongobleed-exploit-CVE-2025-14847
