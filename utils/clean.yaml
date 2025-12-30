@@ -2513,3 +2513,4 @@ clean_list:
 - CVE-2025-65037
 - Ashwesker-CVE-2025-52691
 - CVE-2025-47962-POC
+- mongobleedburp
