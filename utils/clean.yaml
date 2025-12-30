@@ -2508,3 +2508,5 @@ clean_list:
 - vick333-peniel.github.io
 - cve-2025-49131-poc
 - POC-CVE-2025-27515
+- cve-2025-54236
+- CVE-2025-52691
