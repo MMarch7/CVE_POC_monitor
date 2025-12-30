@@ -2506,3 +2506,5 @@ clean_list:
 - CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit
 - ReactExploitGUI
 - vick333-peniel.github.io
+- cve-2025-49131-poc
+- POC-CVE-2025-27515
