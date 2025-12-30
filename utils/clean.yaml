@@ -2514,3 +2514,5 @@ clean_list:
 - Ashwesker-CVE-2025-52691
 - CVE-2025-47962-POC
 - mongobleedburp
+- react2shell-rce-autobot
+- CVE-2025-14847-MongoDB
