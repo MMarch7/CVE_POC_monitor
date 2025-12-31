@@ -2521,3 +2521,5 @@ clean_list:
 - ThrottleStopPPL
 - zeroheight-account-verification-bypass-CVE-2025-65925
 - CVE-2024-55374
+- CVE-2025-14847-MongoBleed-Exploit
+- High-Risk-Web-CVEs-Sep-Nov-2025
