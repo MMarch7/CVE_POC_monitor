@@ -2520,3 +2520,4 @@ clean_list:
 - qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX
 - ThrottleStopPPL
 - zeroheight-account-verification-bypass-CVE-2025-65925
+- CVE-2024-55374
