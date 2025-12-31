@@ -2523,3 +2523,4 @@ clean_list:
 - CVE-2024-55374
 - CVE-2025-14847-MongoBleed-Exploit
 - High-Risk-Web-CVEs-Sep-Nov-2025
+- CVE-2025-55182-React2Shell-Lab
