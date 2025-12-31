@@ -2516,3 +2516,5 @@ clean_list:
 - mongobleedburp
 - react2shell-rce-autobot
 - CVE-2025-14847-MongoDB
+- Bypass-CVE-2025-58360
+- qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX

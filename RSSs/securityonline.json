@@ -26478,5 +26478,15 @@
         "title": "The Mole in the Machine: New Arrests in Coinbase’s $400M Insider Data Scandal",
         "link": "https://securityonline.info/the-mole-in-the-machine-new-arrests-in-coinbases-400m-insider-data-scandal/",
         "published": "Wed, 31 Dec 2025 01:54:30 +0000"
+    },
+    {
+        "title": "CVE-2025-47411: Critical Apache StreamPipes Flaw Allows Standard Users to Seize Admin Control",
+        "link": "https://securityonline.info/cve-2025-47411-critical-apache-streampipes-flaw-allows-standard-users-to-seize-admin-control/",
+        "published": "Wed, 31 Dec 2025 03:06:14 +0000"
+    },
+    {
+        "title": "“RondoDoX” Strikes Back: Exposed Logs Reveal Massive 9-Month Campaign Targeting Next.js and IoT",
+        "link": "https://securityonline.info/rondodox-strikes-back-exposed-logs-reveal-massive-9-month-campaign-targeting-next-js-and-iot/",
+        "published": "Wed, 31 Dec 2025 02:33:19 +0000"
     }
 ]
