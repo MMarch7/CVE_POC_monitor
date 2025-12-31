@@ -2518,3 +2518,5 @@ clean_list:
 - CVE-2025-14847-MongoDB
 - Bypass-CVE-2025-58360
 - qualtrics-xm-file-upload-validation-bypass-CVE-2025-XXXX
+- ThrottleStopPPL
+- zeroheight-account-verification-bypass-CVE-2025-65925
