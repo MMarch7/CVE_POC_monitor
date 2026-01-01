@@ -2528,3 +2528,7 @@ clean_list:
 - CVE-2024-41997
 - thorndrop
 - THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-
+- CVE-2025-67159
+- zimbramail-CVE-2025-68645-poc
+- CVE-2025-67160
+- CVE-2025-67158
