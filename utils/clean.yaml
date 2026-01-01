@@ -2526,3 +2526,5 @@ clean_list:
 - CVE-2025-55182-React2Shell-Lab
 - CVE-2025-67730
 - CVE-2024-41997
+- thorndrop
+- THM---CVE-2024-21413-Moniker-Link-Microsoft-Outlook-
