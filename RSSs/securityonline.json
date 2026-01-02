@@ -26528,5 +26528,35 @@
         "title": "Apache NuttX RTOS Patches Two Filesystem Flaws",
         "link": "https://securityonline.info/apache-nuttx-rtos-patches-two-filesystem-flaws/",
         "published": "Thu, 01 Jan 2026 05:51:17 +0000"
+    },
+    {
+        "title": "The End of Throttling? Samsung’s Radical “Side-by-Side” Plan to Save Exynos",
+        "link": "https://securityonline.info/the-end-of-throttling-samsungs-radical-side-by-side-plan-to-save-exynos/",
+        "published": "Fri, 02 Jan 2026 02:02:24 +0000"
+    },
+    {
+        "title": "The Vision Stalls: Why Apple is Quietly Pulling the Plug on Vision Pro Production",
+        "link": "https://securityonline.info/the-vision-stalls-why-apple-is-quietly-pulling-the-plug-on-vision-pro-production/",
+        "published": "Fri, 02 Jan 2026 01:57:49 +0000"
+    },
+    {
+        "title": "The $3 Trillion Tidal Wave: SpaceX, OpenAI, and Anthropic Gear Up for 2026 IPOs",
+        "link": "https://securityonline.info/the-3-trillion-tidal-wave-spacex-openai-and-anthropic-gear-up-for-2026-ipos/",
+        "published": "Fri, 02 Jan 2026 01:50:22 +0000"
+    },
+    {
+        "title": "Critical Wget2 Flaws Expose Users to Arbitrary File Overwrites and Memory Crashes",
+        "link": "https://securityonline.info/critical-wget2-flaws-expose-users-to-arbitrary-file-overwrites-and-memory-crashes/",
+        "published": "Fri, 02 Jan 2026 01:35:21 +0000"
+    },
+    {
+        "title": "CVE-2025-68926: Critical Hardcoded Credential Flaw Exposes RustFS Storage Clusters",
+        "link": "https://securityonline.info/cve-2025-68926-critical-hardcoded-credential-flaw-exposes-rustfs-storage-clusters/",
+        "published": "Fri, 02 Jan 2026 00:05:10 +0000"
+    },
+    {
+        "title": "New “Eternl Desktop” Phishing Lure Drops LogMeIn to Hijack Cardano Wallets",
+        "link": "https://securityonline.info/new-eternl-desktop-phishing-lure-drops-logmein-to-hijack-cardano-wallets/",
+        "published": "Fri, 02 Jan 2026 00:00:36 +0000"
     }
 ]
