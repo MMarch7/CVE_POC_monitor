@@ -2539,3 +2539,5 @@ clean_list:
 - CVE-2025-14174-analysis
 - CVE-2025-65741
 - kvzinncpx7.github.io
+- mongobleed
+- react2shell-CVE-2025-55182
