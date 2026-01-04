@@ -2542,3 +2542,4 @@ clean_list:
 - mongobleed
 - react2shell-CVE-2025-55182
 - CVE-2025-55182-GUI
+- FreePBX-Vulns-December-25
