@@ -2545,3 +2545,4 @@ clean_list:
 - FreePBX-Vulns-December-25
 - EXPLOIT-CVE-2025-27515
 - EXPLOIT-CVE-2025-55182
+- POC-for-CVE-2025-9074
