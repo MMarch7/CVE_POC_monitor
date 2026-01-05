@@ -2548,3 +2548,4 @@ clean_list:
 - POC-for-CVE-2025-9074
 - TryHack3M-Bricks-Heist
 - CVE-2024-36985
+- MongoBleed-exploit
