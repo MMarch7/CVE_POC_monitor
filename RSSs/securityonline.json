@@ -26648,5 +26648,10 @@
         "title": "Fragged Files: Critical Zero-Day Hits Quake III Arena Engines via Directory Traversal",
         "link": "https://securityonline.info/fragged-files-critical-zero-day-hits-quake-iii-arena-engines-via-directory-traversal/",
         "published": "Mon, 05 Jan 2026 09:18:34 +0000"
+    },
+    {
+        "title": "Riot Games Login Outage Traced to Expired SSL Certificate",
+        "link": "https://securityonline.info/riot-games-login-outage-traced-to-expired-ssl-certificate/",
+        "published": "Mon, 05 Jan 2026 09:58:33 +0000"
     }
 ]
