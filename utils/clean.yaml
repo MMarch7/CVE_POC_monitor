@@ -2553,3 +2553,4 @@ clean_list:
 - CVE-2025-55182-Next.js-RCE
 - yasa-cve-2024-43202
 - CVE-2025-12163
+- smartermail-cve-scanner
