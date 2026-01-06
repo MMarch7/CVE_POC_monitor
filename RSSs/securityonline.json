@@ -26653,5 +26653,50 @@
         "title": "Riot Games Login Outage Traced to Expired SSL Certificate",
         "link": "https://securityonline.info/riot-games-login-outage-traced-to-expired-ssl-certificate/",
         "published": "Mon, 05 Jan 2026 09:58:33 +0000"
+    },
+    {
+        "title": "Aiohttp Patches Seven Vulnerabilities Including High-Severity DoS Risks",
+        "link": "https://securityonline.info/aiohttp-patches-seven-vulnerabilities-including-high-severity-dos-risks/",
+        "published": "Tue, 06 Jan 2026 02:23:48 +0000"
+    },
+    {
+        "title": "Apache SIS Patch Blocks XML Attack That Leaks Server Files",
+        "link": "https://securityonline.info/apache-sis-patch-blocks-xml-attack-that-leaks-server-files/",
+        "published": "Tue, 06 Jan 2026 02:07:54 +0000"
+    },
+    {
+        "title": "CVE-2025-66518: High-Severity Flaw in Apache Kyuubi Exposes Local Server Files",
+        "link": "https://securityonline.info/cve-2025-66518-high-severity-flaw-in-apache-kyuubi-exposes-local-server-files/",
+        "published": "Tue, 06 Jan 2026 00:33:11 +0000"
+    },
+    {
+        "title": "Attacking from Within: How Adobe ColdFusion Admins Can Weaponize Remote Shares",
+        "link": "https://securityonline.info/attacking-from-within-how-adobe-coldfusion-admins-can-weaponize-remote-shares/",
+        "published": "Tue, 06 Jan 2026 00:28:17 +0000"
+    },
+    {
+        "title": "MediaTek Kicks Off 2026 with Major Security Overhaul for Mobile Chipsets",
+        "link": "https://securityonline.info/mediatek-kicks-off-2026-with-major-security-overhaul-for-mobile-chipsets/",
+        "published": "Tue, 06 Jan 2026 00:22:57 +0000"
+    },
+    {
+        "title": "macOS Developers in the Crosshairs: GlassWorm’s Wave 4 Exploits VS Code to Trojanize Hardware Wallets",
+        "link": "https://securityonline.info/macos-developers-in-the-crosshairs-glassworms-wave-4-exploits-vs-code-to-trojanize-hardware-wallets/",
+        "published": "Tue, 06 Jan 2026 00:17:01 +0000"
+    },
+    {
+        "title": "Researcher Details Stack Buffer Overflow Flaw in Net-SNMP snmptrapd with PoC",
+        "link": "https://securityonline.info/researcher-details-stack-buffer-overflow-flaw-in-net-snmp-snmptrapd-with-poc/",
+        "published": "Tue, 06 Jan 2026 00:12:38 +0000"
+    },
+    {
+        "title": "New TCC Bypass (CVE-2025-43530) Exposes macOS to Unchecked Automation",
+        "link": "https://securityonline.info/new-tcc-bypass-cve-2025-43530-exposes-macos-to-unchecked-automation/",
+        "published": "Tue, 06 Jan 2026 00:06:22 +0000"
+    },
+    {
+        "title": "The Chromebook Killer Fails: Microsoft to Kill Windows 11 SE in 2026",
+        "link": "https://securityonline.info/the-chromebook-killer-fails-microsoft-to-kill-windows-11-se-in-2026/",
+        "published": "Tue, 06 Jan 2026 00:01:36 +0000"
     }
 ]
