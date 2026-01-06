@@ -26698,5 +26698,15 @@
         "title": "The Chromebook Killer Fails: Microsoft to Kill Windows 11 SE in 2026",
         "link": "https://securityonline.info/the-chromebook-killer-fails-microsoft-to-kill-windows-11-se-in-2026/",
         "published": "Tue, 06 Jan 2026 00:01:36 +0000"
+    },
+    {
+        "title": "The Open Door: Critical 9.8 Severity Flaw in Harvester Lets Hackers Hijack New Servers",
+        "link": "https://securityonline.info/the-open-door-critical-9-8-severity-flaw-in-harvester-lets-hackers-hijack-new-servers/",
+        "published": "Tue, 06 Jan 2026 03:43:10 +0000"
+    },
+    {
+        "title": "CVE-2025-68428: Critical Flaw in jsPDF Library Allows Server-Side File Theft",
+        "link": "https://securityonline.info/cve-2025-68428-critical-flaw-in-jspdf-library-allows-server-side-file-theft/",
+        "published": "Tue, 06 Jan 2026 03:18:14 +0000"
     }
 ]
