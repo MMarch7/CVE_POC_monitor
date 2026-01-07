@@ -2558,3 +2558,4 @@ clean_list:
 - MongoBleed-CVE-2025-14847-Fully-Automated-scanner
 - Mass-CVE-2025-29306
 - CVE-2025-3243
+- CVE-2025-66838
