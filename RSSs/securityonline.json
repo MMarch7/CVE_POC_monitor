@@ -26738,5 +26738,45 @@
         "title": "n8n Sandbox Escape: How CVE-2025-68668 Turns Workflows into Weapons",
         "link": "https://securityonline.info/n8n-sandbox-escape-how-cve-2025-68668-turns-workflows-into-weapons/",
         "published": "Tue, 06 Jan 2026 09:44:11 +0000"
+    },
+    {
+        "title": "Veeam Patches Critical RCE Flaws in Latest Backup & Replication Release",
+        "link": "https://securityonline.info/veeam-patches-critical-rce-flaws-in-latest-backup-replication-release/",
+        "published": "Wed, 07 Jan 2026 02:10:32 +0000"
+    },
+    {
+        "title": "Microsoft Warns of Surge in Internal Domain Spoofing",
+        "link": "https://securityonline.info/microsoft-warns-of-surge-in-internal-domain-spoofing/",
+        "published": "Wed, 07 Jan 2026 02:01:10 +0000"
+    },
+    {
+        "title": "CVE-2025-14026: Forcepoint DLP Flaw Lets Attackers Unchain Restricted Python",
+        "link": "https://securityonline.info/cve-2025-14026-forcepoint-dlp-flaw-lets-attackers-unchain-restricted-python/",
+        "published": "Wed, 07 Jan 2026 01:53:23 +0000"
+    },
+    {
+        "title": "Google Patches High-Severity “WebView” Flaw in Chrome 143",
+        "link": "https://securityonline.info/google-patches-high-severity-webview-flaw-in-chrome-143/",
+        "published": "Wed, 07 Jan 2026 01:44:28 +0000"
+    },
+    {
+        "title": "Zero-Day Chronomaly Exploit Grants Root Access to Vulnerable Linux Kernels",
+        "link": "https://securityonline.info/zero-day-chronomaly-exploit-grants-root-access-to-vulnerable-linux-kernels/",
+        "published": "Wed, 07 Jan 2026 00:22:34 +0000"
+    },
+    {
+        "title": "The ClickFix Trap: PHALT#BLYX Targets Hotels with Fake Blue Screens and DCRat",
+        "link": "https://securityonline.info/the-clickfix-trap-phaltblyx-targets-hotels-with-fake-blue-screens-and-dcrat/",
+        "published": "Wed, 07 Jan 2026 00:18:45 +0000"
+    },
+    {
+        "title": "Popular Chinese Utility Hijacked to Deploy Browser Malware",
+        "link": "https://securityonline.info/popular-chinese-utility-hijacked-to-deploy-browser-malware/",
+        "published": "Wed, 07 Jan 2026 00:06:51 +0000"
+    },
+    {
+        "title": "CVE-2025-67732: Dify Patch Fixes High-Severity Plaintext API Key Exposure",
+        "link": "https://securityonline.info/cve-2025-67732-dify-patch-fixes-high-severity-plaintext-api-key-exposure/",
+        "published": "Wed, 07 Jan 2026 00:01:07 +0000"
     }
 ]
