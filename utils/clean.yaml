@@ -2555,3 +2555,4 @@ clean_list:
 - CVE-2025-12163
 - smartermail-cve-scanner
 - React2Shell-Kingdom
+- MongoBleed-CVE-2025-14847-Fully-Automated-scanner

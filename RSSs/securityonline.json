@@ -26778,5 +26778,50 @@
         "title": "CVE-2025-67732: Dify Patch Fixes High-Severity Plaintext API Key Exposure",
         "link": "https://securityonline.info/cve-2025-67732-dify-patch-fixes-high-severity-plaintext-api-key-exposure/",
         "published": "Wed, 07 Jan 2026 00:01:07 +0000"
+    },
+    {
+        "title": "The Central Brain: Qualcomm Unveils Agentic AI and Dual-Elite Platforms at CES 2026",
+        "link": "https://securityonline.info/the-central-brain-qualcomm-unveils-agentic-ai-and-dual-elite-platforms-at-ces-2026/",
+        "published": "Wed, 07 Jan 2026 03:52:44 +0000"
+    },
+    {
+        "title": "Brain Meets Brawn: Boston Dynamics and Google DeepMind Unite for the New Atlas",
+        "link": "https://securityonline.info/brain-meets-brawn-boston-dynamics-and-google-deepmind-unite-for-the-new-atlas/",
+        "published": "Wed, 07 Jan 2026 03:47:46 +0000"
+    },
+    {
+        "title": "The Ten-Year Car: Qualcomm and Google Unveil the Future of AI-Powered Mobility",
+        "link": "https://securityonline.info/the-ten-year-car-qualcomm-and-google-unveil-the-future-of-ai-powered-mobility/",
+        "published": "Wed, 07 Jan 2026 03:44:52 +0000"
+    },
+    {
+        "title": "Reliability Over Speed: MediaTek Debuts Filogic 8000 to Power the Wi-Fi 8 Revolution",
+        "link": "https://securityonline.info/reliability-over-speed-mediatek-debuts-filogic-8000-to-power-the-wi-fi-8-revolution/",
+        "published": "Wed, 07 Jan 2026 03:42:14 +0000"
+    },
+    {
+        "title": "The 1000Hz Illusion: NVIDIA Unveils G-SYNC Pulsar and DLSS 4.5 at CES 2026",
+        "link": "https://securityonline.info/the-1000hz-illusion-nvidia-unveils-g-sync-pulsar-and-dlss-4-5-at-ces-2026/",
+        "published": "Wed, 07 Jan 2026 03:38:17 +0000"
+    },
+    {
+        "title": "wolfSSH Alert: Critical Logic Flaw Exposes Client Passwords in Clear Text",
+        "link": "https://securityonline.info/wolfssh-alert-critical-logic-flaw-exposes-client-passwords-in-clear-text/",
+        "published": "Wed, 07 Jan 2026 03:21:10 +0000"
+    },
+    {
+        "title": "CVSS 10.0 Alert: Critical n8n Flaw CVE-2026-21877 Grants Total Control",
+        "link": "https://securityonline.info/cvss-10-0-alert-critical-n8n-flaw-cve-2026-21877-grants-total-control/",
+        "published": "Wed, 07 Jan 2026 03:08:55 +0000"
+    },
+    {
+        "title": "CVE-2025-65606: TOTOLINK EX200 Error Opens Root Telnet Door",
+        "link": "https://securityonline.info/cve-2025-65606-totolink-ex200-error-opens-root-telnet-door/",
+        "published": "Wed, 07 Jan 2026 02:39:02 +0000"
+    },
+    {
+        "title": "CVE-2026-0625: Critical Actively Exploited RCE Hits Unpatchable D-Link Routers",
+        "link": "https://securityonline.info/cve-2026-0625-critical-actively-exploited-rce-hits-unpatchable-d-link-routers/",
+        "published": "Wed, 07 Jan 2026 02:32:31 +0000"
     }
 ]
