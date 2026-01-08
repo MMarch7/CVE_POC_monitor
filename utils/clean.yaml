@@ -2562,3 +2562,4 @@ clean_list:
 - CVE-2025-49071
 - CVE-2024-45427-Exploit
 - nikopmpm.github.io
+- CVE-2025-54068-livewire

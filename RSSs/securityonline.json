@@ -26878,5 +26878,35 @@
         "title": "Taiwan Faces 2.6 Million Cyberattacks Daily from China",
         "link": "https://securityonline.info/taiwan-faces-2-6-million-cyberattacks-daily-from-china/",
         "published": "Thu, 08 Jan 2026 00:01:43 +0000"
+    },
+    {
+        "title": "Agentic Evolution: Lenovo Unveils “Qira” and AI Cloud Gigafactories at CES 2026",
+        "link": "https://securityonline.info/agentic-evolution-lenovo-unveils-qira-and-ai-cloud-gigafactories-at-ces-2026/",
+        "published": "Thu, 08 Jan 2026 04:06:27 +0000"
+    },
+    {
+        "title": "CISA KEV Alert: HPE’s Maximum CVSS Score Flaw and a Zombie PowerPoint Bug",
+        "link": "https://securityonline.info/cisa-kev-alert-hpes-maximum-cvss-score-flaw-and-a-zombie-powerpoint-bug/",
+        "published": "Thu, 08 Jan 2026 03:55:40 +0000"
+    },
+    {
+        "title": "Public Exploit Released: Critical n8n Flaw CVE-2026-21858 Exposes 100k Servers",
+        "link": "https://securityonline.info/public-exploit-released-critical-n8n-flaw-cve-2026-21858-exposes-100k-servers/",
+        "published": "Thu, 08 Jan 2026 03:44:33 +0000"
+    },
+    {
+        "title": "“VM Isolation is Not Absolute”: Researchers Unmask Sophisticated ESXi “Maestro” Exploit",
+        "link": "https://securityonline.info/vm-isolation-is-not-absolute-researchers-unmask-sophisticated-esxi-maestro-exploit/",
+        "published": "Thu, 08 Jan 2026 03:03:02 +0000"
+    },
+    {
+        "title": "GoBruteforcer Returns: How AI Code Snippets Fueled a 50,000-Server Botnet",
+        "link": "https://securityonline.info/gobruteforcer-returns-how-ai-code-snippets-fueled-a-50000-server-botnet/",
+        "published": "Thu, 08 Jan 2026 02:45:28 +0000"
+    },
+    {
+        "title": "CVE-2025-67859: Critical Auth Bypass Discovered in Popular Linux Battery Utility",
+        "link": "https://securityonline.info/cve-2025-67859-critical-auth-bypass-discovered-in-popular-linux-battery-utility/",
+        "published": "Thu, 08 Jan 2026 02:28:26 +0000"
     }
 ]
