@@ -2567,3 +2567,4 @@ clean_list:
 - CVE-2025-67303-dnslog
 - CVE-2025-65731
 - TheMisfits-CVE-2024-8465-SQLi
+- CVE-2024-0368
