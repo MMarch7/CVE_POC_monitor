@@ -213,5 +213,10 @@
         "title": "SOAPwn: Pwning .NET Framework Applications Through HTTP Client Proxies And WSDL",
         "link": "https://labs.watchtowr.com/soapwn-pwning-net-framework-applications-through-http-client-proxies-and-wsdl/",
         "published": "Wed, 10 Dec 2025 17:00:56 GMT"
+    },
+    {
+        "title": "Do Smart People Ever Say They’re Smart? (SmarterTools SmarterMail Pre-Auth RCE CVE-2025-52691)",
+        "link": "https://labs.watchtowr.com/do-smart-people-ever-say-theyre-smart-smartertools-smartermail-pre-auth-rce-cve-2025-52691/",
+        "published": "Thu, 08 Jan 2026 18:28:47 GMT"
     }
 ]
