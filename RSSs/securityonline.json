@@ -26838,5 +26838,45 @@
         "title": "The Logitech Blackout: How an Expired Certificate Bricked Your Mac Mouse Settings",
         "link": "https://securityonline.info/the-logitech-blackout-how-an-expired-certificate-bricked-your-mac-mouse-settings/",
         "published": "Wed, 07 Jan 2026 07:58:12 +0000"
+    },
+    {
+        "title": "CrazyHunter: The “Ruthless” Ransomware Stalking Healthcare",
+        "link": "https://securityonline.info/crazyhunter-the-ruthless-ransomware-stalking-healthcare/",
+        "published": "Thu, 08 Jan 2026 02:17:34 +0000"
+    },
+    {
+        "title": "GitLab Patch: High-Severity XSS & AI Flaws Expose User Data",
+        "link": "https://securityonline.info/gitlab-patch-high-severity-xss-ai-flaws-expose-user-data/",
+        "published": "Thu, 08 Jan 2026 02:08:26 +0000"
+    },
+    {
+        "title": "Spy Games or Glitch? The Truth Behind Venezuela’s BGP Leak",
+        "link": "https://securityonline.info/spy-games-or-glitch-the-truth-behind-venezuelas-bgp-leak/",
+        "published": "Thu, 08 Jan 2026 00:25:48 +0000"
+    },
+    {
+        "title": "“Sophisticated” Zero-Day Demystified: Public Exploit Drop Blows Cover on Critical Apple WebKit Flaw",
+        "link": "https://securityonline.info/sophisticated-zero-day-demystified-public-exploit-drop-blows-cover-on-critical-apple-webkit-flaw/",
+        "published": "Thu, 08 Jan 2026 00:22:16 +0000"
+    },
+    {
+        "title": "One Request to Rule Them All: Critical Trendnet Flaw (CVE-2025-15471) Allows Total Takeover",
+        "link": "https://securityonline.info/one-request-to-rule-them-all-critical-trendnet-flaw-cve-2025-15471-allows-total-takeover/",
+        "published": "Thu, 08 Jan 2026 00:17:16 +0000"
+    },
+    {
+        "title": "“Ghost Tap” Rising: New Wave of Android Malware Turns Phones into Digital Pickpockets",
+        "link": "https://securityonline.info/ghost-tap-rising-new-wave-of-android-malware-turns-phones-into-digital-pickpockets/",
+        "published": "Thu, 08 Jan 2026 00:11:17 +0000"
+    },
+    {
+        "title": "CVE-2025-60262: Critical Misconfiguration in H3C Wireless Gear Hands Control to Hackers",
+        "link": "https://securityonline.info/cve-2025-60262-critical-misconfiguration-in-h3c-wireless-gear-hands-control-to-hackers/",
+        "published": "Thu, 08 Jan 2026 00:06:07 +0000"
+    },
+    {
+        "title": "Taiwan Faces 2.6 Million Cyberattacks Daily from China",
+        "link": "https://securityonline.info/taiwan-faces-2-6-million-cyberattacks-daily-from-china/",
+        "published": "Thu, 08 Jan 2026 00:01:43 +0000"
     }
 ]
