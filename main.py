@@ -252,11 +252,11 @@ def getCVE_PoCs():
         utils.load.flash_clean_list(clean_add)
 
 def check_yesterday_hot_repos():
-    """检查昨天创建的热门项目（star数>=5）"""
+    """检查最近3天创建的热门项目（star数>=5），包括今天、昨天、前天"""
     import pytz
     shanghai_tz = pytz.timezone('Asia/Shanghai')
     today_date = datetime.datetime.now(shanghai_tz).date()
-    yesterday_date = today_date - datetime.timedelta(days=1)
+    three_days_ago = today_date - datetime.timedelta(days=2)  # 前天
     
     # 热门项目记录文件
     hot_repos_file = "./utils/hot_repos.txt"
@@ -268,13 +268,13 @@ def check_yesterday_hot_repos():
     else:
         pushed_repos = set()
     
-    logging.info(f"检查昨天（{yesterday_date}）创建的热门项目")
+    logging.info(f"检查最近3天（{three_days_ago} 至 {today_date}）创建的热门项目")
     
     new_hot_repos = []
     for keyword in keywords:
         try:
-            # 搜索昨天创建的项目，按star数排序
-            query = f"{keyword}+created:{yesterday_date}"
+            # 搜索最近3天创建的项目（前天、昨天、今天），按star数排序
+            query = f"{keyword}+created:{three_days_ago}..{today_date}"
             api = f"https://api.github.com/search/repositories?q={query}&sort=stars"
             json_str = requests.get(api, headers=github_headers, timeout=10).json()
             
