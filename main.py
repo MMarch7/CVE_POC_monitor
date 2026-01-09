@@ -305,7 +305,6 @@ def check_yesterday_hot_repos():
         with open(hot_repos_file, 'a') as f:
             for url in new_hot_repos:
                 f.write(f"{url}\n")
-            continue
     if clean_add:
         utils.load.flash_clean_list(clean_add)
 
