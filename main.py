@@ -202,25 +202,28 @@ def getKeywordNews(keyword):
     cleanKeywords=set(CleanKeywords)
     today_keyword_info_tmp=[]
     try:
-        # 抓取本年的
-        #keyword = quote(keyword)
-        logging.info(keyword)
-        api = "https://api.github.com/search/repositories?q={}&sort=created".format(keyword)
-        json_str = requests.get(api, headers=github_headers, timeout=10).json()
         # 使用上海时区获取今天的日期
         import pytz
         shanghai_tz = pytz.timezone('Asia/Shanghai')
         today_date = datetime.datetime.now(shanghai_tz).date()
-        n=20 if len(json_str['items'])>20 else len(json_str['items'])
+        
+        # 在查询中指定创建日期，按更新时间排序
+        query = f"{keyword}+created:{today_date}"
+        api = f"https://api.github.com/search/repositories?q={query}&sort=updated"
+        logging.info(f"搜索: {keyword}, 日期: {today_date}")
+        
+        json_str = requests.get(api, headers=github_headers, timeout=10).json()
+        n=20 if len(json_str.get('items', []))>20 else len(json_str.get('items', []))
+        
         for i in range(0, n):
             keyword_url = json_str['items'][i]['html_url']
             try:
                 keyword_name = json_str['items'][i]['name']
                 description = json_str['items'][i]['description']
-                # 使用 created_at 而不是 pushed_at，因为我们按创建时间排序
                 created_at_tmp = json_str['items'][i]['created_at']
                 created_at = re.findall(r'\d{4}-\d{2}-\d{2}', created_at_tmp)[0]
-                if created_at == str(today_date) and keyword_name not in cleanKeywords:
+                
+                if keyword_name not in cleanKeywords:
                     msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
                     if "CVE" in keyword:
                         raw_links = get_github_raw_links(keyword_url)
@@ -229,7 +232,7 @@ def getKeywordNews(keyword):
 
                     logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n创建时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,created_at,description))
                 else:
-                    logging.info("[-] keyword: {} ,{}的创建时间为{}, 不属于今天".format(keyword, keyword_name, created_at))
+                    logging.info("[-] keyword: {} ,{}已经收录，跳过".format(keyword, keyword_name))
             except Exception as e:
                 pass
     except Exception as e:
