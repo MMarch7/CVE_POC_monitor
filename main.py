@@ -289,7 +289,7 @@ def check_yesterday_hot_repos():
                     
                     # 检查是否已推送过
                     if url not in pushed_repos:
-                        msg = f"{url}\n该poc单日热度较高，单日star数为「{stars}」"
+                        msg = f"{url}\n该poc单日热度较高，近期star数为「{stars}」"
                         logging.info(f"发现热门项目: {name}, stars: {stars}")
                         msg_push.wechat_push(msg)
                         new_hot_repos.append(url)
@@ -305,8 +305,6 @@ def check_yesterday_hot_repos():
         with open(hot_repos_file, 'a') as f:
             for url in new_hot_repos:
                 f.write(f"{url}\n")
-    if clean_add:
-        utils.load.flash_clean_list(clean_add)
 
 def getCISANews():
     with open('./utils/CISA.txt', 'r') as file:
