@@ -13,6 +13,7 @@ keyword_list:
  #- 华天动力+OR+万户+OR+慧点+OR+通达+OR+九思+漏洞
  - CVE-2025-
  - CVE-2024-
+ - CVE-2026-
 
 user_list:
  - watchtowrlabs
