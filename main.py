@@ -114,7 +114,7 @@ def parse_rss_feed(feed_url,file):
     feed = feedparser.parse(feed_content)
     if feed.bozo == 1:
         logging.info(file)
-        logging.info("解析RSS feed时发生错误:", feed.bozo_exception)
+        logging.info(f"解析RSS feed时发生错误: {feed.bozo_exception}")
         return
     all_entries = utils.load.json_data_load(f"./RSSs/{file}")
     existing_titles = {entry['link'] for entry in all_entries}
@@ -205,9 +205,12 @@ def getKeywordNews(keyword):
         # 抓取本年的
         #keyword = quote(keyword)
         logging.info(keyword)
-        api = "https://api.github.com/search/repositories?q={}&sort=updated".format(keyword)
+        api = "https://api.github.com/search/repositories?q={}&sort=created".format(keyword)
         json_str = requests.get(api, headers=github_headers, timeout=10).json()
-        today_date = datetime.date.today()
+        # 使用上海时区获取今天的日期
+        import pytz
+        shanghai_tz = pytz.timezone('Asia/Shanghai')
+        today_date = datetime.datetime.now(shanghai_tz).date()
         n=20 if len(json_str['items'])>20 else len(json_str['items'])
         for i in range(0, n):
             keyword_url = json_str['items'][i]['html_url']
@@ -215,7 +218,7 @@ def getKeywordNews(keyword):
                 keyword_name = json_str['items'][i]['name']
                 description = json_str['items'][i]['description']
                 pushed_at_tmp = json_str['items'][i]['pushed_at']
-                pushed_at = re.findall('\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
+                pushed_at = re.findall(r'\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
                 if pushed_at == str(today_date) and keyword_name not in cleanKeywords:
                     msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
                     if "CVE" in keyword:
