@@ -273,5 +273,10 @@
         "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
         "link": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
         "published": "Fri, 09 Jan 2026 20:58:00 +0530"
+    },
+    {
+        "title": "China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines",
+        "link": "https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html",
+        "published": "Fri, 09 Jan 2026 23:13:00 +0530"
     }
 ]
