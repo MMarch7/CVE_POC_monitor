@@ -68,6 +68,33 @@ def getRSSNews():
         if url and file_name:
             parse_rss_feed(url,file_name)
 
+def extract_cve_ids(text):
+    """从文本中提取所有CVE编号"""
+    cve_pattern = r'CVE-\d{4}-\d{4,7}'
+    return re.findall(cve_pattern, text, re.IGNORECASE)
+
+def check_cve_in_poc_history(cve_id):
+    """检查CVE是否在历史PoC记录中，返回PoC链接列表"""
+    try:
+        table_content = msg_push.get_google_sheet("CVE")
+        if not table_content or len(table_content) < 2:
+            return []
+        # 表头：时间、关键词、项目名称、项目地址、项目描述
+        headers = table_content[0]
+        keyword_idx = headers.index("关键词") if "关键词" in headers else 1
+        url_idx = headers.index("项目地址") if "项目地址" in headers else 3
+        
+        poc_links = []
+        for row in table_content[1:]:
+            if len(row) > max(keyword_idx, url_idx):
+                keyword = row[keyword_idx].upper() if row[keyword_idx] else ""
+                if cve_id.upper() in keyword:
+                    poc_links.append(row[url_idx])
+        return poc_links
+    except Exception as e:
+        logging.error(f"查询CVE历史PoC失败: {e}")
+        return []
+
 def parse_rss_feed(feed_url,file):
     # 解析RSS feed
     try:
@@ -125,7 +152,17 @@ def parse_rss_feed(feed_url,file):
                 })
             # 将新增条目添加到新条目列表
             if all_content_have_cve:
-                msg = f"标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
+                # 检查是否存在历史PoC
+                poc_prefix = ""
+                cve_ids = extract_cve_ids(entry.title)
+                for cve_id in cve_ids:
+                    poc_links = check_cve_in_poc_history(cve_id)
+                    if poc_links:
+                        poc_prefix = f"该漏洞疑似存在poc批量：「{poc_links[0]}」\r\r"
+                        logging.info(f"发现历史PoC: {cve_id} -> {poc_links[0]}")
+                        break  # 找到一个就够了
+                
+                msg = f"{poc_prefix}标题：{entry.title}\r链接：{entry.link}\r发布时间：{entry.published}"
                 logging.info(f"推送到google sheet：{entry.title}  "+entry.link)
                 msg_push.wechat_push(msg)
                 msg_push.send_google_sheet_githubVul("Emergency Vulnerability","RSS",entry.title,"",entry.link,"")
