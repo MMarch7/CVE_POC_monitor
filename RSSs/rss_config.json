@@ -35,5 +35,9 @@
 	"gbhackers":{
         "url": "https://gbhackers.com/feed/",
         "file": "gbhackers.json"
+    },
+    "picus":{
+        "url": "https://www.picussecurity.com/resource/rss.xml",
+        "file": "picus.json"
     }
 }

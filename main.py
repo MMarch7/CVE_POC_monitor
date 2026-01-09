@@ -131,7 +131,7 @@ def parse_rss_feed(feed_url,file):
                 if 'cve' not in str(entry.content).lower():
                     all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
                     break 
-            if file == "vulncheck.json" or file == "securityonline.json":
+            if file == "vulncheck.json" or file == "securityonline.json" or file == "picus.json":
                 if "cve" not in entry.title.lower():
                     all_content_have_cve = False  # 如果发现某个 content 没有 "CVE"，标记为 False
             if file == "paloalto.json":
