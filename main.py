@@ -251,6 +251,64 @@ def getCVE_PoCs():
     if clean_add:
         utils.load.flash_clean_list(clean_add)
 
+def check_yesterday_hot_repos():
+    """检查昨天创建的热门项目（star数>=5）"""
+    import pytz
+    shanghai_tz = pytz.timezone('Asia/Shanghai')
+    today_date = datetime.datetime.now(shanghai_tz).date()
+    yesterday_date = today_date - datetime.timedelta(days=1)
+    
+    # 热门项目记录文件
+    hot_repos_file = "./utils/hot_repos.txt"
+    
+    # 加载已推送的项目列表
+    if os.path.exists(hot_repos_file):
+        with open(hot_repos_file, 'r') as f:
+            pushed_repos = set(line.strip() for line in f if line.strip())
+    else:
+        pushed_repos = set()
+    
+    logging.info(f"检查昨天（{yesterday_date}）创建的热门项目")
+    
+    new_hot_repos = []
+    for keyword in keywords:
+        try:
+            # 搜索昨天创建的项目，按star数排序
+            query = f"{keyword}+created:{yesterday_date}"
+            api = f"https://api.github.com/search/repositories?q={query}&sort=stars"
+            json_str = requests.get(api, headers=github_headers, timeout=10).json()
+            
+            if 'items' not in json_str:
+                continue
+                
+            for item in json_str['items']:
+                stars = item.get('stargazers_count', 0)
+                if stars >= 5:
+                    name = item['name']
+                    url = item['html_url']
+                    
+                    # 检查是否已推送过
+                    if url not in pushed_repos:
+                        msg = f"{url}\n该poc单日热度较高，单日star数为「{stars}」"
+                        logging.info(f"发现热门项目: {name}, stars: {stars}")
+                        msg_push.wechat_push(msg)
+                        new_hot_repos.append(url)
+                    else:
+                        logging.info(f"项目 {name} 已推送过，跳过")
+                    
+        except Exception as e:
+            logging.error(f"检查昨天热门项目失败: {keyword}, 错误: {e}")
+            continue
+    
+    # 保存新推送的项目
+    if new_hot_repos:
+        with open(hot_repos_file, 'a') as f:
+            for url in new_hot_repos:
+                f.write(f"{url}\n")
+            continue
+    if clean_add:
+        utils.load.flash_clean_list(clean_add)
+
 def getCISANews():
     with open('./utils/CISA.txt', 'r') as file:
         txt_content = file.read().splitlines()
@@ -483,6 +541,11 @@ def main():
     logging.info("-------------------Github CVE公开POC获取-------------------")
     logging.info("----------------------------------------------------------")
     getCVE_PoCs()
+    #检查昨天热门项目
+    logging.info("----------------------------------------------------------")
+    logging.info("-------------------检查昨天创建的热门项目-------------------")
+    logging.info("----------------------------------------------------------")
+    check_yesterday_hot_repos()
     #重点项目监控
     logging.info("----------------------------------------------------------")
     logging.info("---------------------Github 重点项目监控--------------------")
