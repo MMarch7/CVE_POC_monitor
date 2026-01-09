@@ -1,0 +1,252 @@
+[
+    {
+        "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
+        "link": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
+        "published": "Thu, 08 Jan 2026 22:40:00 +0530"
+    },
+    {
+        "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
+        "link": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
+        "published": "Thu, 08 Jan 2026 20:24:00 +0530"
+    },
+    {
+        "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
+        "published": "Thu, 08 Jan 2026 18:19:00 +0530"
+    },
+    {
+        "title": "The State of Trusted Open Source",
+        "link": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+        "published": "Thu, 08 Jan 2026 17:20:00 +0530"
+    },
+    {
+        "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+        "link": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+        "published": "Thu, 08 Jan 2026 16:14:00 +0530"
+    },
+    {
+        "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+        "link": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+        "published": "Thu, 08 Jan 2026 16:01:00 +0530"
+    },
+    {
+        "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+        "link": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+        "published": "Thu, 08 Jan 2026 15:23:00 +0530"
+    },
+    {
+        "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+        "link": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+        "published": "Thu, 08 Jan 2026 12:27:00 +0530"
+    },
+    {
+        "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+        "link": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
+        "published": "Thu, 08 Jan 2026 10:22:00 +0530"
+    },
+    {
+        "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+        "link": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+        "published": "Wed, 07 Jan 2026 22:49:00 +0530"
+    },
+    {
+        "title": "Black Cat Behind SEO Poisoning Malware Campaign Targeting Popular Software Searches",
+        "link": "https://thehackernews.com/2026/01/black-cat-behind-seo-poisoning-malware.html",
+        "published": "Wed, 07 Jan 2026 22:39:00 +0530"
+    },
+    {
+        "title": "Critical n8n Vulnerability (CVSS 10.0) Allows Unauthenticated Attackers to Take Full Control",
+        "link": "https://thehackernews.com/2026/01/critical-n8n-vulnerability-cvss-100.html",
+        "published": "Wed, 07 Jan 2026 19:18:00 +0530"
+    },
+    {
+        "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+        "link": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+        "published": "Wed, 07 Jan 2026 16:56:00 +0530"
+    },
+    {
+        "title": "The Future of Cybersecurity Includes Non-Human Employees",
+        "link": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+        "published": "Wed, 07 Jan 2026 16:30:00 +0530"
+    },
+    {
+        "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+        "link": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+        "published": "Wed, 07 Jan 2026 16:11:00 +0530"
+    },
+    {
+        "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
+        "link": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+        "published": "Wed, 07 Jan 2026 15:12:00 +0530"
+    },
+    {
+        "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+        "link": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+        "published": "Wed, 07 Jan 2026 10:01:00 +0530"
+    },
+    {
+        "title": "Two Chrome Extensions Caught Stealing ChatGPT and DeepSeek Chats from 900,000 Users",
+        "link": "https://thehackernews.com/2026/01/two-chrome-extensions-caught-stealing.html",
+        "published": "Tue, 06 Jan 2026 22:51:00 +0530"
+    },
+    {
+        "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
+        "link": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
+        "published": "Tue, 06 Jan 2026 21:17:00 +0530"
+    },
+    {
+        "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
+        "link": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
+        "published": "Tue, 06 Jan 2026 17:43:00 +0530"
+    },
+    {
+        "title": "What is Identity Dark Matter?",
+        "link": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+        "published": "Tue, 06 Jan 2026 17:00:00 +0530"
+    },
+    {
+        "title": "VS Code Forks Recommend Missing Extensions, Creating Supply Chain Risk in Open VSX",
+        "link": "https://thehackernews.com/2026/01/vs-code-forks-recommend-missing.html",
+        "published": "Tue, 06 Jan 2026 16:55:00 +0530"
+    },
+    {
+        "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+        "link": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+        "published": "Tue, 06 Jan 2026 10:38:00 +0530"
+    },
+    {
+        "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+        "link": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+        "published": "Tue, 06 Jan 2026 09:00:00 +0530"
+    },
+    {
+        "title": "Russia-Aligned Hackers Abuse Viber to Target Ukrainian Military and Government",
+        "link": "https://thehackernews.com/2026/01/russia-aligned-hackers-abuse-viber-to.html",
+        "published": "Mon, 05 Jan 2026 23:26:00 +0530"
+    },
+    {
+        "title": "Kimwolf Android Botnet Infects Over 2 Million Devices via Exposed ADB and Proxy Networks",
+        "link": "https://thehackernews.com/2026/01/kimwolf-android-botnet-infects-over-2.html",
+        "published": "Mon, 05 Jan 2026 22:11:00 +0530"
+    },
+    {
+        "title": "⚡ Weekly Recap: IoT Exploits, Wallet Breaches, Rogue Extensions, AI Abuse & More",
+        "link": "https://thehackernews.com/2026/01/weekly-recap-iot-exploits-wallet.html",
+        "published": "Mon, 05 Jan 2026 18:23:00 +0530"
+    },
+    {
+        "title": "The State of Cybersecurity in 2025: Key Segments, Insights, and Innovations",
+        "link": "https://thehackernews.com/2026/01/the-state-of-cybersecurity-in-2025key.html",
+        "published": "Mon, 05 Jan 2026 17:25:00 +0530"
+    },
+    {
+        "title": "Bitfinex Hack Convict Ilya Lichtenstein Released Early Under U.S. First Step Act",
+        "link": "https://thehackernews.com/2026/01/bitfinex-hack-convict-ilya-lichtenstein.html",
+        "published": "Mon, 05 Jan 2026 15:12:00 +0530"
+    },
+    {
+        "title": "New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code",
+        "link": "https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html",
+        "published": "Mon, 05 Jan 2026 13:18:00 +0530"
+    },
+    {
+        "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+        "link": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+        "published": "Fri, 02 Jan 2026 19:22:00 +0530"
+    },
+    {
+        "title": "The ROI Problem in Attack Surface Management",
+        "link": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
+        "published": "Fri, 02 Jan 2026 17:00:00 +0530"
+    },
+    {
+        "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+        "link": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+        "published": "Fri, 02 Jan 2026 14:44:00 +0530"
+    },
+    {
+        "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
+        "link": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
+        "published": "Thu, 01 Jan 2026 21:22:00 +0530"
+    },
+    {
+        "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
+        "link": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
+        "published": "Thu, 01 Jan 2026 14:49:00 +0530"
+    },
+    {
+        "title": "How To Browse Faster and Get More Done Using Adapt Browser",
+        "link": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
+        "published": "Thu, 01 Jan 2026 11:17:00 +0530"
+    },
+    {
+        "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+        "link": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+        "published": "Wed, 31 Dec 2025 21:59:00 +0530"
+    },
+    {
+        "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+        "link": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+        "published": "Wed, 31 Dec 2025 21:44:00 +0530"
+    },
+    {
+        "title": "Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System",
+        "link": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+        "published": "Wed, 31 Dec 2025 19:07:00 +0530"
+    },
+    {
+        "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+        "link": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+        "published": "Wed, 31 Dec 2025 18:59:00 +0530"
+    },
+    {
+        "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
+        "link": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
+        "published": "Wed, 31 Dec 2025 10:47:00 +0530"
+    },
+    {
+        "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+        "link": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+        "published": "Tue, 30 Dec 2025 21:58:00 +0530"
+    },
+    {
+        "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+        "link": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+        "published": "Tue, 30 Dec 2025 16:16:00 +0530"
+    },
+    {
+        "title": "How to Integrate AI into Modern SOC Workflows",
+        "link": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+        "published": "Tue, 30 Dec 2025 15:00:00 +0530"
+    },
+    {
+        "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+        "link": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
+        "published": "Tue, 30 Dec 2025 14:05:00 +0530"
+    },
+    {
+        "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+        "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+        "published": "Mon, 29 Dec 2025 19:08:00 +0530"
+    },
+    {
+        "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+        "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+        "published": "Mon, 29 Dec 2025 15:16:00 +0530"
+    },
+    {
+        "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+        "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+        "published": "Mon, 29 Dec 2025 15:14:00 +0530"
+    },
+    {
+        "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+        "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+        "published": "Mon, 29 Dec 2025 12:04:00 +0530"
+    },
+    {
+        "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+        "link": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+        "published": "Sat, 27 Dec 2025 13:22:00 +0530"
+    }
+]

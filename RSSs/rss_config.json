@@ -39,5 +39,13 @@
     "picus":{
         "url": "https://www.picussecurity.com/resource/rss.xml",
         "file": "picus.json"
+    },
+    "rapid7":{
+        "url": "https://www.rapid7.com/rss.xml",
+        "file": "rapid7.json"
+    },
+    "thehackersnews":{
+        "url": "https://feeds.feedburner.com/TheHackersNews",
+        "file": "thehackersnews.json"
     }
 }

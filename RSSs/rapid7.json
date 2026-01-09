@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Ni8mare and N8scape flaws among multiple critical vulnerabilities affecting n8n",
+        "link": "https://www.rapid7.com/blog/post/etr-ni8mare-n8scape-flaws-multiple-critical-vulnerabilities-affecting-n8n",
+        "published": "Thu, 08 Jan 2026 21:25:27 GMT"
+    },
+    {
+        "title": "Key Takeaways and Top Cybersecurity Predictions for 2026",
+        "link": "https://www.rapid7.com/blog/post/it-key-takeaways-top-cybersecurity-predictions-2026",
+        "published": "Wed, 07 Jan 2026 14:24:39 GMT"
+    },
+    {
+        "title": "Metasploit 2025 Annual Wrap-Up",
+        "link": "https://www.rapid7.com/blog/post/pt-metasploit-2025-annual-wrap-up",
+        "published": "Mon, 05 Jan 2026 20:31:31 GMT"
+    },
+    {
+        "title": "What’s New in Rapid7 Products & Services: H2 2025 in Review",
+        "link": "https://www.rapid7.com/blog/post/pt-whats-new-rapid7-products-services-h2-2025-review-mdr-siem-eap",
+        "published": "Mon, 29 Dec 2025 14:57:48 GMT"
+    },
+    {
+        "title": "MongoBleed CVE-2025-14847: Critical Memory Leak in MongoDB Allowing Attackers to Extract Sensitive Data",
+        "link": "https://www.rapid7.com/blog/post/etr-mongobleed-cve-2025-1484-critical-memory-leak-in-mongodb-allowing-attackers-to-extract-sensitive-data",
+        "published": "Mon, 29 Dec 2025 14:16:48 GMT"
+    },
+    {
+        "title": "Metasploit Wrap-Up 12/19/2025",
+        "link": "https://www.rapid7.com/blog/post/metasploit-wrap-up-12-19-2025",
+        "published": "Fri, 19 Dec 2025 21:02:00 GMT"
+    },
+    {
+        "title": "CVE-2025-37164: Critical unauthenticated RCE affecting Hewlett Packard Enterprise OneView",
+        "link": "https://www.rapid7.com/blog/post/etr-cve-2025-37164-critical-unauthenticated-rce-affecting-hewlett-packard-enterprise-oneview",
+        "published": "Thu, 18 Dec 2025 17:45:47 GMT"
+    },
+    {
+        "title": "Critical vulnerabilities in Fortinet CVE-2025-59718, CVE-2025-59719 exploited in the wild",
+        "link": "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-fortinet-cve-2025-59718-cve-2025-59719-exploited-in-the-wild",
+        "published": "Wed, 17 Dec 2025 21:00:00 GMT"
+    },
+    {
+        "title": "Test for React2Shell with Application Security using New Functionality",
+        "link": "https://www.rapid7.com/blog/post/pt-react2shell-testing-new-application-security-functionality-appsec-dast",
+        "published": "Wed, 17 Dec 2025 19:06:44 GMT"
+    },
+    {
+        "title": "Dynamic EASM Discovery: Continuous Discovery for a Changing Attack Surface",
+        "link": "https://www.rapid7.com/blog/post/pt-dynamic-easm-discovery-continuous-discovery-for-a-changing-attack-surface",
+        "published": "Wed, 17 Dec 2025 14:06:15 GMT"
+    },
+    {
+        "title": "SantaStealer is Coming to Town: A New, Ambitious Infostealer Advertised on Underground Forums",
+        "link": "https://www.rapid7.com/blog/post/tr-santastealer-is-coming-to-town-a-new-ambitious-infostealer-advertised-on-underground-forums",
+        "published": "Mon, 15 Dec 2025 10:02:50 GMT"
+    },
+    {
+        "title": "Metasploit Wrap-Up 12/12/2025",
+        "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-12-12-2025",
+        "published": "Fri, 12 Dec 2025 20:38:50 GMT"
+    },
+    {
+        "title": "New Research: Multifunction Printer (MFP) Security Concerns within the Enterprise Business Environment",
+        "link": "https://www.rapid7.com/blog/post/ve-new-research-multifunction-printer-mfp-security-concerns-within-the-enterprise-business-environment",
+        "published": "Thu, 11 Dec 2025 10:57:28 GMT"
+    },
+    {
+        "title": "Geopolitics and Cyber Risk: How Global Tensions Shape the Attack Surface",
+        "link": "https://www.rapid7.com/blog/post/it-geopolitics-and-cyber-risk-how-global-tensions-shape-the-attack-surface",
+        "published": "Thu, 11 Dec 2025 10:01:00 GMT"
+    },
+    {
+        "title": "Patch Tuesday - December 2025",
+        "link": "https://www.rapid7.com/blog/post/em-patch-tuesday-december-2025",
+        "published": "Wed, 10 Dec 2025 07:50:42 GMT"
+    },
+    {
+        "title": "CVE-2025-10573: Ivanti EPM Unauthenticated Stored Cross-Site Scripting (Fixed)",
+        "link": "https://www.rapid7.com/blog/post/cve-2025-10573-ivanti-epm-unauthenticated-stored-cross-site-scripting-fixed",
+        "published": "Tue, 09 Dec 2025 15:31:59 GMT"
+    },
+    {
+        "title": "Metasploit Wrap-Up 12/05/2025",
+        "link": "https://www.rapid7.com/blog/post/pt-metasploit-wrap-up-12-05-2025",
+        "published": "Fri, 05 Dec 2025 20:58:04 GMT"
+    },
+    {
+        "title": "Voices of the Experts: What to Expect from Our Predictions Webinar",
+        "link": "https://www.rapid7.com/blog/post/it-experts-voices-2026-predictions-webinar-teaser",
+        "published": "Fri, 05 Dec 2025 14:02:10 GMT"
+    },
+    {
+        "title": "React2Shell (CVE-2025-55182) - Critical unauthenticated RCE affecting React Server Components",
+        "link": "https://www.rapid7.com/blog/post/etr-react2shell-cve-2025-55182-critical-unauthenticated-rce-affecting-react-server-components",
+        "published": "Thu, 04 Dec 2025 16:05:50 GMT"
+    },
+    {
+        "title": "From Policy to Practice: Why Cyber Resilience Needs a Reboot",
+        "link": "https://www.rapid7.com/blog/post/it-policy-to-practice-cyber-resilience-needs-reboot-experts",
+        "published": "Thu, 04 Dec 2025 14:00:00 GMT"
+    }
+]
