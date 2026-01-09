@@ -113,8 +113,7 @@ def parse_rss_feed(feed_url,file):
     # 解析RSS feed内容
     feed = feedparser.parse(feed_content)
     if feed.bozo == 1:
-        logging.info(file)
-        logging.info(f"解析RSS feed时发生错误: {feed.bozo_exception}")
+        logging.warning(f"{file} 解析RSS feed时发生错误: {feed.bozo_exception}")
         return
     all_entries = utils.load.json_data_load(f"./RSSs/{file}")
     existing_titles = {entry['link'] for entry in all_entries}
