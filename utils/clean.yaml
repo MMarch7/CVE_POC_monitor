@@ -2571,3 +2571,5 @@ clean_list:
 - List-CVE-2025
 - CVE-2026-21858
 - CVE---2026
+- CVE-2025-4802-Proof-of-Concept
+- CVE-2025-45955
