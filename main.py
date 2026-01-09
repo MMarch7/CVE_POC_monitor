@@ -217,18 +217,19 @@ def getKeywordNews(keyword):
             try:
                 keyword_name = json_str['items'][i]['name']
                 description = json_str['items'][i]['description']
-                pushed_at_tmp = json_str['items'][i]['pushed_at']
-                pushed_at = re.findall(r'\d{4}-\d{2}-\d{2}', pushed_at_tmp)[0]
-                if pushed_at == str(today_date) and keyword_name not in cleanKeywords:
+                # 使用 created_at 而不是 pushed_at，因为我们按创建时间排序
+                created_at_tmp = json_str['items'][i]['created_at']
+                created_at = re.findall(r'\d{4}-\d{2}-\d{2}', created_at_tmp)[0]
+                if created_at == str(today_date) and keyword_name not in cleanKeywords:
                     msg_push.send_google_sheet("CVE",keyword,keyword_name,keyword_url,description)
                     if "CVE" in keyword:
                         raw_links = get_github_raw_links(keyword_url)
                         msg_push.send_google_raw("raw",keyword_url,raw_links)
-                    today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": pushed_at,"description":description})
+                    today_keyword_info_tmp.append({"keyword_name": keyword_name, "keyword_url": keyword_url, "pushed_at": created_at,"description":description})
 
-                    logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n推送时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,pushed_at,description))
+                    logging.info("[+] keyword: {} \n 项目名称：{} \n项目地址：{}\n创建时间：{}\n描述：{}".format(keyword, keyword_name,keyword_url,created_at,description))
                 else:
-                    logging.info("[-] keyword: {} ,{}的更新时间为{}, 不属于今天".format(keyword, keyword_name, pushed_at))
+                    logging.info("[-] keyword: {} ,{}的创建时间为{}, 不属于今天".format(keyword, keyword_name, created_at))
             except Exception as e:
                 pass
     except Exception as e:
