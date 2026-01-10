@@ -2578,3 +2578,4 @@ clean_list:
 - repo
 - CVE-2025-14436
 - CVE-2025-55462
+- Chrome-Forensic_CVE-2024-0044
