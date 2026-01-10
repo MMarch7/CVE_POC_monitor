@@ -2580,3 +2580,4 @@ clean_list:
 - CVE-2025-55462
 - Chrome-Forensic_CVE-2024-0044
 - CVE-2025-67303-dnslog1235
+- CVE-2025-63314
