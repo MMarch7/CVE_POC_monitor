@@ -2583,3 +2583,5 @@ clean_list:
 - CVE-2025-63314
 - CVE-2025-66683
 - RAR-Anomaly-Inspector
+- CVE-2024-28397-exploit
+- CVE-2025-68120
