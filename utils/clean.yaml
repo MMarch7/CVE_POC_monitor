@@ -2585,3 +2585,4 @@ clean_list:
 - RAR-Anomaly-Inspector
 - CVE-2024-28397-exploit
 - CVE-2025-68120
+- CVE_2025_55182_testing
