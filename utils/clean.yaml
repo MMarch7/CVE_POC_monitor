@@ -2586,3 +2586,4 @@ clean_list:
 - CVE-2024-28397-exploit
 - CVE-2025-68120
 - CVE_2025_55182_testing
+- CVE-2025-59194
